@@ -138,6 +138,13 @@
         <mark key="^" line="83" column="27" />
         <mark key="." line="83" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/view.jsx" timestamp="1499432785909">
+        <mark key="'" line="6" column="7" />
+        <mark key="[" line="53" column="2" />
+        <mark key="]" line="55" column="19" />
+        <mark key="^" line="55" column="19" />
+        <mark key="." line="55" column="19" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/server/main.js" timestamp="1499411528061">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -273,10 +280,11 @@
         <mark key="]" line="5" column="59" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499432261531">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499433099941">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/src/unit.js" timestamp="1498634241386">
         <mark key="[" line="46" column="32" />
@@ -369,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
       <jump line="191" column="37" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
       <jump line="80" column="38" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
       <jump line="108" column="24" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
@@ -469,13 +476,14 @@
       <jump line="21" column="42" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
       <jump line="55" column="12" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
       <jump line="149" column="54" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/routers/DashBoardRouters.js" />
+      <jump line="6" column="7" filename="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/view.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCl7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGlvbnMgPSB7CiAgICAgICAgICAgIENIQU5HRV9DT0xVTU5TOiAoY29sdW1ucyk9PnsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -484,31 +492,31 @@
         <text>PureComponent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCl7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGlvbnMgPSB7CiAgICAgICAgICAgIENIQU5HRV9DT0xVTU5TOiAoY29sdW1ucyk9PnsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVkdXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ugo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0hBTkdFX1BBR0U6ICAgICAgICBTeW1ib2woJ2NoYW5nZS1wYWdlJyksCiAgICAgICAgICAgIENIQU5HRV9QQUdFX1NJWkU6ICAgU3ltYm9sKCdjaGFuZ2UtcGFnZS1zaXplJyksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0hBTkdFX1BBR0VfCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ul9DTwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkK</text>
       </register>
     </registers>
     <search>
