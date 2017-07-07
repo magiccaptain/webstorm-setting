@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="buildAndroid" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="ionic" />
+      <option name="PARAMETERS" value="build android" />
+      <option name="WORKING_DIRECTORY" value="G:/projects/carPoolMobile" />
+    </exec>
+  </tool>
+  <tool name="build" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="npm" />
+      <option name="PARAMETERS" value="run build" />
+      <option name="WORKING_DIRECTORY" value="G:/projects/FootballPachong" />
+    </exec>
+  </tool>
+</toolSet>
