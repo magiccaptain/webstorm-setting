@@ -280,11 +280,10 @@
         <mark key="]" line="5" column="59" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499433099941">
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="14" column="15" />
+      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499433537071">
+        <mark key="[" line="24" column="10" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/src/unit.js" timestamp="1498634241386">
         <mark key="[" line="46" column="32" />
@@ -480,43 +479,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGlvbnMgPSB7CiAgICAgICAgICAgIENIQU5HRV9DT0xVTU5TOiAoY29sdW1ucyk9PnsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
       </register>
-      <register name="0" type="4">
-        <text>PureComponent</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ0hBTkdFX0NPTFVNTlM6IFN5bWJvbCgnY2hhbmdlLWNvbHVtbnMnKSwKICAgICAgICAgICAgQ0hBTkdFX0RBVEE6IFN5bWJvbCgnY2hhbmdlLWRhdGEnKSwKICAgICAgICAgICAgQ0hBTkdFX1BBR0VTOiBTeW1ib2woJ2NoYW5nZS1wYWdlcycpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGlvbnMgPSB7CiAgICAgICAgICAgIENIQU5HRV9DT0xVTU5TOiAoY29sdW1ucyk9PnsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlZHVjZXIgPSBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ0hBTkdFX1BBR0U6ICAgICAgICBTeW1ib2woJ2NoYW5nZS1wYWdlJyksCiAgICAgICAgICAgIENIQU5HRV9QQUdFX1NJWkU6ICAgU3ltYm9sKCdjaGFuZ2UtcGFnZS1zaXplJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0hBTkdFX0NPTFVNTlM6IChjb2x1bW5zKT0+IHsKICAgICAgICAgICAgICAgIHJldHVybiB7dHlwZTogdGhpcy5hY3Rpb25UeXBlcy5DSEFOR0VfQ09MVU1OUywgY29sdW1uc30KICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0hBTkdFX0NPTFVNTlM6IFN5bWJvbCgnY2hhbmdlLWNvbHVtbnMnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ0hBTkdFX1BBR0VfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHJldHVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmFjdGlvbnMgPSB7CiAgICAgICAgICAgIENIQU5HRV9DT0xVTU5TOiAoY29sdW1ucyk9PnsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ0hBTkdFX1BBR0U6ICAgICAgICBTeW1ib2woJ2NoYW5nZS1wYWdlJyksCiAgICAgICAgICAgIENIQU5HRV9QQUdFX1NJWkU6ICAgU3ltYm9sKCdjaGFuZ2UtcGFnZS1zaXplJyksCg==</text>
       </register>
     </registers>
     <search>
