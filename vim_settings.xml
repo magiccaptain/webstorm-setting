@@ -10,14 +10,23 @@
         <mark key="." line="151" column="21" />
         <mark key="^" line="163" column="15" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/reducers/Viewport.js" timestamp="1499071662834" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/node_modules/react-amap/lib/index.js" timestamp="1499345942546" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/utils/withWIdth.jsx" timestamp="1499047062607" />
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/App.jsx" timestamp="1499052488156">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="24" column="18" />
+      </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/src/test/unitTest.js" timestamp="1499408591534">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="15" column="34" />
         <mark key="^" line="15" column="34" />
         <mark key="." line="15" column="34" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/wrappers/MuiThemeWrapper.js" timestamp="1499050689354">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="4" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/wrappers/ResizeWrapper.jsx" timestamp="1499051393099">
         <mark key="[" line="6" column="33" />
@@ -32,12 +41,24 @@
         <mark key="^" line="60" column="29" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="G:/projects/github/material-ui/.eslintrc.js" timestamp="1498635024717" />
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/api/meter-data.js" timestamp="1499323159351">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="52" column="25" />
+        <mark key="^" line="52" column="25" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/VisToolBar.jsx" timestamp="1498810755194">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="27" column="0" />
         <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/providers/ResizeProvider.js" timestamp="1499049620327">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/reducers/AddDevice.js" timestamp="1499315486738">
         <mark key="'" line="71" column="31" />
@@ -46,14 +67,18 @@
         <mark key="^" line="52" column="70" />
         <mark key="." line="52" column="70" />
       </file>
-      <file name="G:/projects/github/material-ui/src/styles/MuiThemeProvider.js" timestamp="1498641774726" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/store.js" timestamp="1499315597115">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="10" />
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
-      <file name="G:/projects/github/react-packages/packages/react-meteor-data/react-meteor-data.jsx" timestamp="1498732799785" />
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/routers/AppRouters.js" timestamp="1499051017288">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="36" column="73" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/src/test/MeterSimulator.js" timestamp="1498730880619">
         <mark key="'" line="8" column="9" />
         <mark key="[" line="203" column="39" />
@@ -61,7 +86,19 @@
         <mark key="." line="203" column="39" />
         <mark key="^" line="203" column="39" />
       </file>
-      <file name="G:/projects/github/material-ui/src/internal/TouchRipple.js" timestamp="1498631957282" />
+      <file name="G:/projects/IntellMeter/MeterDataGather/src/test/test_meters.js" timestamp="1499408601355">
+        <mark key="[" line="44" column="20" />
+        <mark key="]" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+        <mark key="^" line="44" column="20" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" timestamp="1499344115195">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="52" />
+        <mark key="." line="179" column="56" />
+        <mark key="^" line="179" column="56" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/client/main.jsx" timestamp="1499416021015">
         <mark key="[" line="18" column="27" />
         <mark key="]" line="18" column="27" />
@@ -81,14 +118,19 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/EFlowMeterDataTable.jsx" timestamp="1499416531622">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="72" column="19" />
+        <mark key="]" line="72" column="24" />
+        <mark key="." line="72" column="24" />
+        <mark key="^" line="72" column="24" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Actions.js" timestamp="1499411463508">
         <mark key="[" line="90" column="21" />
         <mark key="]" line="90" column="21" />
         <mark key="^" line="96" column="19" />
         <mark key="." line="90" column="21" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/AccountsUIWrapper.jsx" timestamp="1499050946240" />
-      <file name="G:/projects/github/react-packages/packages/react-meteor-data/package.js" timestamp="1498732736258" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/maps/PosPick.js" timestamp="1499347642270">
         <mark key="'" line="64" column="13" />
         <mark key="[" line="83" column="16" />
@@ -102,8 +144,13 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="G:/projects/github/material-ui/.gitignore" timestamp="1498635103533" />
-      <file name="G:/projects/github/material-ui/src/List/ListItem.js" timestamp="1498641574632" />
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/Dashboard.jsx" timestamp="1499070557396">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="143" column="24" />
+        <mark key="]" line="143" column="47" />
+        <mark key="^" line="211" column="52" />
+        <mark key="." line="211" column="0" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/api/devices.js" timestamp="1499406586983">
         <mark key="'" line="53" column="11" />
         <mark key="^" line="68" column="40" />
@@ -114,160 +161,6 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/description/electrical_flowmeter.js" timestamp="1498702015711">
-        <mark key="'" line="98" column="5" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="4" column="5" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DevicesList.jsx" timestamp="1499409453642" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceData.jsx" timestamp="1498653269936">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="33" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" timestamp="1499318092182">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="22" column="7" />
-        <mark key="." line="22" column="7" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/wrappers/ResizeWrapper.jsx" timestamp="1499050658934">
-        <mark key="'" line="12" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="50" />
-        <mark key="." line="1" column="50" />
-        <mark key="^" line="1" column="50" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/adapters/ele_flowmeter_table.js" timestamp="1498703613026">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/text/TextFieldWithValidation.jsx" timestamp="1499236244158">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" timestamp="1499416243090">
-        <mark key="'" line="26" column="27" />
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="19" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="51" column="42" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DashBoard.js" timestamp="1499053667855">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/DashBoard.js" timestamp="1499158683058">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/utils/TimeHelper.js" timestamp="1498795583835">
-        <mark key="[" line="59" column="15" />
-        <mark key="]" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-        <mark key="^" line="59" column="22" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/client/main.css" timestamp="1499393180653">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/node_modules/prop-types/index.js" timestamp="1499417931445" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/Login.jsx" timestamp="1499048631636">
-        <mark key="[" line="39" column="53" />
-        <mark key="]" line="39" column="64" />
-        <mark key="^" line="39" column="64" />
-        <mark key="." line="39" column="64" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/MuiReactTable.jsx" timestamp="1499392319816">
-        <mark key="[" line="27" column="46" />
-        <mark key="]" line="27" column="45" />
-        <mark key="^" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/adapters/EFlowMeterTable.js" timestamp="1499318686847">
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="76" />
-        <mark key="." line="94" column="59" />
-        <mark key="^" line="94" column="59" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/App.jsx" timestamp="1499052488156">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="24" column="18" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/wrappers/MuiThemeWrapper.js" timestamp="1499050689354">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/api/meter-data.js" timestamp="1499323159351">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="52" column="25" />
-        <mark key="^" line="52" column="25" />
-      </file>
-      <file name="G:/projects/github/material-ui/src/internal/EnhancedButton.js" timestamp="1498631831856" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/providers/ResizeProvider.js" timestamp="1499049620327">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/reducers/viewport.js" timestamp="1499062820722" />
-      <file name="G:/projects/github/react-packages/packages/react-meteor-data/createContainer.jsx" timestamp="1498733299206" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/node_modules/react-amap/flow/common.js" timestamp="1499251293420" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/routers/AppRouters.js" timestamp="1499051017288">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="36" column="73" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="G:/projects/IntellMeter/MeterDataGather/src/test/test_meters.js" timestamp="1499408601355">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="20" />
-        <mark key="." line="44" column="20" />
-        <mark key="^" line="44" column="20" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" timestamp="1499344115195">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="52" />
-        <mark key="." line="179" column="56" />
-        <mark key="^" line="179" column="56" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/EFlowMeterDataTable.jsx" timestamp="1499416531622">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="72" column="19" />
-        <mark key="]" line="72" column="24" />
-        <mark key="." line="72" column="24" />
-        <mark key="^" line="72" column="24" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/client/react-table.css" timestamp="1499391663600" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/Dashboard.jsx" timestamp="1499070557396">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="143" column="24" />
-        <mark key="]" line="143" column="47" />
-        <mark key="^" line="211" column="52" />
-        <mark key="." line="211" column="0" />
-      </file>
-      <file name="G:/projects/github/react-packages/packages/react-meteor-data/ReactMeteorData.jsx" timestamp="1499061878335" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/.meteor/local/build/programs/web.browser/app/app.js" timestamp="1499415916141" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/routers/DashBoardRouters.js" timestamp="1499411844244">
         <mark key="'" line="149" column="54" />
         <mark key="[" line="68" column="30" />
@@ -275,13 +168,25 @@
         <mark key="." line="68" column="34" />
         <mark key="^" line="68" column="34" />
       </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/description/electrical_flowmeter.js" timestamp="1498702015711">
+        <mark key="'" line="98" column="5" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="4" column="5" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceData.jsx" timestamp="1498653269936">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="34" column="33" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/actions/AddDevice.js" timestamp="1499246253607">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="17" />
       </file>
-      <file name="G:/projects/github/material-ui/package.json" timestamp="1498634993046" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/ActionTypes.js" timestamp="1499413406889">
         <mark key="'" line="49" column="54" />
         <mark key="[" line="51" column="0" />
@@ -307,6 +212,13 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" timestamp="1499318092182">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" timestamp="1499417864707">
         <mark key="'" line="210" column="0" />
         <mark key="[" line="5" column="15" />
@@ -314,25 +226,59 @@
         <mark key="." line="277" column="29" />
         <mark key="^" line="277" column="29" />
       </file>
-      <file name="G:/projects/github/material-ui/src/styles/index.js" timestamp="1498631910363" />
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/wrappers/ResizeWrapper.jsx" timestamp="1499050658934">
+        <mark key="'" line="12" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="50" />
+        <mark key="^" line="1" column="50" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/adapters/ele_flowmeter_table.js" timestamp="1498703613026">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/text/TextFieldWithValidation.jsx" timestamp="1499236244158">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="32" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/valisations/device.js" timestamp="1499237022393">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="5" column="29" />
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/node_modules/react-amap/lib/_utils/utils.js" timestamp="1499346850034" />
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" timestamp="1499416243090">
+        <mark key="'" line="26" column="27" />
+        <mark key="[" line="50" column="8" />
+        <mark key="]" line="50" column="19" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="51" column="42" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/redux/reducers/viewport.js" timestamp="1499047795994">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DashBoard.js" timestamp="1499053667855">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/Router.jsx" timestamp="1499063052370">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="59" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/.meteor/local/build/programs/web.browser/head.html" timestamp="1499416002226" />
+      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499432021532">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/src/unit.js" timestamp="1498634241386">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="46" column="32" />
@@ -347,11 +293,23 @@
         <mark key="." line="225" column="28" />
         <mark key="^" line="225" column="28" />
       </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/DashBoard.js" timestamp="1499158683058">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="35" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/reducers/DashBoard.js" timestamp="1499158599907">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/utils/TimeHelper.js" timestamp="1498795583835">
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="59" column="22" />
+        <mark key="." line="59" column="22" />
+        <mark key="^" line="59" column="22" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/DeviceStatus.jsx" timestamp="1499342859874">
         <mark key="'" line="158" column="0" />
@@ -360,8 +318,12 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/description/electrical_flowmeter.js" timestamp="1498705106741" />
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/adapters/EFlowMeter.js" timestamp="1498703685870" />
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/client/main.css" timestamp="1499393180653">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+      </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/src/parser.js" timestamp="1498724931358">
         <mark key="'" line="120" column="53" />
         <mark key="[" line="117" column="28" />
@@ -375,7 +337,18 @@
         <mark key="^" line="1" column="12" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="G:/projects/github/material-ui/src/index.js" timestamp="1498641771764" />
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/Login.jsx" timestamp="1499048631636">
+        <mark key="[" line="39" column="53" />
+        <mark key="]" line="39" column="64" />
+        <mark key="^" line="39" column="64" />
+        <mark key="." line="39" column="64" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/MuiReactTable.jsx" timestamp="1499392319816">
+        <mark key="[" line="27" column="46" />
+        <mark key="]" line="27" column="45" />
+        <mark key="^" line="27" column="45" />
+        <mark key="." line="27" column="45" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/const/DeviceType.js" timestamp="1499393206516">
         <mark key="'" line="51" column="3" />
         <mark key="[" line="54" column="53" />
@@ -388,6 +361,12 @@
         <mark key="]" line="15" column="17" />
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
+      </file>
+      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/adapters/EFlowMeterTable.js" timestamp="1499318686847">
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="44" column="76" />
+        <mark key="." line="94" column="59" />
+        <mark key="^" line="94" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -494,7 +473,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ugo=</text>
       </register>
       <register name="-" type="4">
         <text>React.</text>
@@ -506,31 +485,31 @@
         <text>PureComponent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ugo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ul9DTwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Ul9DTwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>React.</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ul9DTwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ul9jbwo=</text>
+      <register name="9" type="4">
+        <text>React.</text>
       </register>
     </registers>
     <search>
