@@ -125,6 +125,11 @@
         <mark key="." line="72" column="24" />
         <mark key="^" line="72" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" timestamp="1499437827501">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Actions.js" timestamp="1499411463508">
         <mark key="[" line="90" column="21" />
         <mark key="]" line="90" column="21" />
@@ -285,10 +290,11 @@
         <mark key="]" line="5" column="59" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499436488581">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499437108532">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="48" column="3" />
+        <mark key="." line="48" column="3" />
+        <mark key="^" line="48" column="3" />
       </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/src/unit.js" timestamp="1498634241386">
         <mark key="[" line="46" column="32" />
@@ -484,10 +490,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlUG9zTWFwKHN0YXRlKSB7CiAgICAKICAgIAp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -496,32 +502,31 @@
         <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlUG9zTWFwKHN0YXRlKSB7CiAgICAKICAgIAp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbXBvbmVudCA9IFZpZXc7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFZpZXcgZnJvbSAnLi92aWV3JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoc3RhdGUuQWRkRGV2aWNlKSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzdGF0ZU1hcFRvUHJvcHMgPSAoc3RhdGUpPT4gewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgLi4uc3RhdGUKICAgICAgICAgICAgfQogICAgICAgIH07CgogICAgICAgIHRoaXMucmVkdXhWaWV3ID0gY29ubmVjdCgpCgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlZHVjZXIubmFtZSA9IHJlZHVjZXJOYW1lOwo=</text>
+        <text encoding="base64">ICAgIGNvbm5lY3RUbwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-                reducerName = 'ServerSideReactTable'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
