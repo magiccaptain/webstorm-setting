@@ -273,11 +273,10 @@
         <mark key="]" line="5" column="59" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499432021532">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499432261531">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/src/unit.js" timestamp="1498634241386">
         <mark key="[" line="46" column="32" />
@@ -473,10 +472,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ugo=</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCl7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>React.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
@@ -485,31 +484,31 @@
         <text>PureComponent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ugo=</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCl7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cmVkdXgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ugo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ul9DTwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ul9DTwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>React.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ul9DTwo=</text>
       </register>
     </registers>
     <search>
