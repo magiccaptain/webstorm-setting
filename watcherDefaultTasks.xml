@@ -38,8 +38,8 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="G:/projects/IntellMeter/MeterDataGather/node_modules/.bin/babel.cmd" />
-      <option name="scopeName" value="Source" />
+      <option name="program" value="$USER_HOME$/projects/IntellMeter/MeterDataGather/node_modules/.bin/babel" />
+      <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$ProjectFileDir$" />
       <envs />
