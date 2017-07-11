@@ -123,9 +123,9 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/parser.js" timestamp="1499785817191">
-        <mark key="[" line="121" column="29" />
-        <mark key="]" line="121" column="98" />
+      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/parser.js" timestamp="1499787591217">
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="27" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/EFlowMeterDataTable.jsx" timestamp="1499416531622">
         <mark key="'" line="55" column="0" />
@@ -504,7 +504,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PRESS:\\d{2}\\.\\d{3}(${Units.UNIT_PRESS_KPA}|${Units.UNIT_PRESS_MPA})</text>
+        <text>\d{8}</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -513,7 +513,7 @@
         <text>table</text>
       </register>
       <register name="0" type="4">
-        <text>PRESS:\\d{2}\\.\\d{3}(${Units.UNIT_PRESS_KPA}|${Units.UNIT_PRESS_MPA})</text>
+        <text>\d{8}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRiCg==</text>
