@@ -123,6 +123,10 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/parser.js" timestamp="1499783886640">
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="57" column="96" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/EFlowMeterDataTable.jsx" timestamp="1499416531622">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="72" column="19" />
@@ -167,6 +171,10 @@
         <mark key="]" line="143" column="47" />
         <mark key="^" line="211" column="52" />
         <mark key="." line="211" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/unit.js" timestamp="1499783916962">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="33" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/redux/store.js" timestamp="1499047055465">
         <mark key="[" line="12" column="0" />
@@ -495,8 +503,8 @@
       <jump line="85" column="0" filename="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiCg==</text>
+      <register name="&quot;" type="4">
+        <text>UNIT_FLOW_L = 'LTR/s'</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -504,8 +512,8 @@
       <register name="/" type="4">
         <text>table</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
+      <register name="0" type="4">
+        <text>UNIT_FLOW_L = 'LTR/s'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRiCg==</text>
