@@ -104,6 +104,9 @@
         <mark key="." line="179" column="56" />
         <mark key="^" line="179" column="56" />
       </file>
+      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/dist/test/MeterSimulator.js" timestamp="1500374024104">
+        <mark key="'" line="12" column="34" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/client/main.jsx" timestamp="1499416021015">
         <mark key="[" line="18" column="27" />
         <mark key="]" line="18" column="27" />
@@ -172,11 +175,11 @@
         <mark key="^" line="211" column="52" />
         <mark key="." line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/test/MeterSimulator.js" timestamp="1499788869002">
-        <mark key="[" line="262" column="24" />
-        <mark key="]" line="262" column="31" />
-        <mark key="^" line="262" column="31" />
-        <mark key="." line="262" column="31" />
+      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/test/MeterSimulator.js" timestamp="1500374018107">
+        <mark key="[" line="268" column="44" />
+        <mark key="]" line="269" column="32" />
+        <mark key="." line="269" column="32" />
+        <mark key="^" line="269" column="32" />
       </file>
       <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/unit.js" timestamp="1499783916962">
         <mark key="[" line="9" column="13" />
@@ -202,6 +205,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/test/test_meters.js" timestamp="1500374052244" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceData.jsx" timestamp="1498653269936">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -407,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="38" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
       <jump line="108" column="24" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
       <jump line="100" column="37" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
       <jump line="9" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
@@ -507,58 +510,58 @@
       <jump line="149" column="54" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/routers/DashBoardRouters.js" />
       <jump line="6" column="7" filename="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/view.jsx" />
       <jump line="85" column="0" filename="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
+      <jump line="12" column="34" filename="$USER_HOME$/projects/IntellMeter/MeterDataGather/dist/test/MeterSimulator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>destroyed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJoYWhhIikK</text>
       </register>
       <register name="-" type="4">
         <text>destroyed</text>
       </register>
       <register name="/" type="4">
-        <text>table</text>
+        <text>haha</text>
       </register>
       <register name="0" type="4">
         <text>\d{8}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zb2NrZXQgPSBuZXcgbmV0LlNvY2tldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJoYWhhIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJoYWhhIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zb2NrZXQuZGVzdHJveSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJoYWhhIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRyeSB7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgY29uc29sZS5sb2coJ+aVsOaNrui/nuaOpeWksei0pScpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZGIgPSBhd2FpdCBDb25uZWN0TW9uZ29EQigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zb2NrZXQgPSBuZXcgbmV0LlNvY2tldCgpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zb2NrZXQuZGVzdHJveSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBkYiA9IGF3YWl0IENvbm5lY3RNb25nb0RCKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>table</last-search>
+      <last-search>haha</last-search>
       <last-offset />
-      <last-pattern>table</last-pattern>
+      <last-pattern>haha</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mUi</entry>
         <entry>muiTH</entry>
         <entry>mui</entry>
         <entry>drap</entry>
@@ -578,6 +581,7 @@
         <entry>timeType</entry>
         <entry>timePeriod</entry>
         <entry>table</entry>
+        <entry>haha</entry>
       </history-search>
       <history-cmd />
       <history-expr />
