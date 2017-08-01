@@ -148,6 +148,12 @@
         <mark key="^" line="96" column="19" />
         <mark key="." line="90" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/IntellMeter/react-bmap/src/components/map.js" timestamp="1501572465742">
+        <mark key="[" line="156" column="17" />
+        <mark key="]" line="156" column="16" />
+        <mark key="." line="156" column="16" />
+        <mark key="^" line="156" column="16" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/maps/PosPick.js" timestamp="1499347642270">
         <mark key="'" line="64" column="13" />
         <mark key="[" line="83" column="16" />
@@ -314,6 +320,7 @@
         <mark key="]" line="5" column="59" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/IntellMeter/react-bmap/src/components/marker.js" timestamp="1501571888141" />
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499437108532">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="48" column="3" />
@@ -325,14 +332,6 @@
         <mark key="]" line="46" column="32" />
         <mark key="^" line="46" column="32" />
         <mark key="." line="46" column="32" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" timestamp="1499412294703">
-        <mark key="'" line="55" column="12" />
-        <mark key="[" line="225" column="12" />
-        <mark key="m" line="121" column="40" />
-        <mark key="]" line="225" column="28" />
-        <mark key="." line="225" column="28" />
-        <mark key="^" line="225" column="28" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/DashBoard.js" timestamp="1499158683058">
         <mark key="[" line="6" column="0" />
@@ -408,6 +407,7 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/IntellMeter/react-bmap/src/components/component.js" timestamp="1501572422888" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/adapters/EFlowMeterTable.js" timestamp="1499318686847">
         <mark key="[" line="44" column="36" />
         <mark key="]" line="44" column="76" />
@@ -518,11 +518,11 @@
       <jump line="12" column="34" filename="$USER_HOME$/projects/IntellMeter/MeterDataGather/dist/test/MeterSimulator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJoYWhhIikK</text>
+      <register name="&quot;" type="4">
+        <text>style={{height:</text>
       </register>
       <register name="-" type="4">
-        <text>destroyed</text>
+        <text>style={{height:</text>
       </register>
       <register name="/" type="4">
         <text>haha</text>
