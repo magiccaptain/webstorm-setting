@@ -33,23 +33,23 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="returnAsyncPromise" value="return new Promise(async(resolve, reject)=&gt; {&#10;    try {&#10;        $END$&#10;    } catch (err) {&#10;        reject(err);       &#10;    }&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="returnAsyncPromise" value="return new Promise(async(resolve, reject)=&gt; {&#10;    try {&#10;        $END$&#10;    } catch (err) {&#10;        reject(err);       &#10;    }&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="cLog" value="console.log($END$);" toReformat="false" toShortenFQNames="true">
+  <template name="cLog" value="console.log($END$);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="itTestAsync" value="it('$NAME$', async()=&gt;{&#10;    $END$&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="itTestAsync" value="it('$NAME$', async()=&gt;{&#10;    $END$&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="export_async_func" value="export async function $NAME$(){&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="export_async_func" value="export async function $NAME$(){&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />

@@ -72,6 +72,12 @@
         <mark key="^" line="52" column="70" />
         <mark key="." line="52" column="70" />
       </file>
+      <file name="$USER_HOME$/projects/smart_meter_fullstack/client/src/index.tsx" timestamp="1502161149978">
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="47" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/store.js" timestamp="1499315597115">
         <mark key="[" line="16" column="10" />
         <mark key="]" line="16" column="10" />
@@ -96,6 +102,11 @@
         <mark key="]" line="44" column="20" />
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/smart_meter_fullstack/client/src/auth/helper.ts" timestamp="1502160703257">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" timestamp="1499344115195">
         <mark key="'" line="115" column="0" />
@@ -141,6 +152,11 @@
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smart_meter_fullstack/app.ts" timestamp="1502161186546">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Actions.js" timestamp="1499411463508">
         <mark key="[" line="90" column="21" />
@@ -320,7 +336,12 @@
         <mark key="]" line="5" column="59" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/IntellMeter/react-bmap/src/components/marker.js" timestamp="1501571888141" />
+      <file name="$USER_HOME$/projects/smart_meter_fullstack/client/src/auth/api.ts" timestamp="1502160765094">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="11" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499437108532">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="48" column="3" />
@@ -407,7 +428,6 @@
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/IntellMeter/react-bmap/src/components/component.js" timestamp="1501572422888" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/adapters/EFlowMeterTable.js" timestamp="1499318686847">
         <mark key="[" line="44" column="36" />
         <mark key="]" line="44" column="76" />
@@ -518,44 +538,44 @@
       <jump line="12" column="34" filename="$USER_HOME$/projects/IntellMeter/MeterDataGather/dist/test/MeterSimulator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>style={{height:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>style={{height:</text>
+        <text>http://cn.bing.com/</text>
       </register>
       <register name="/" type="4">
         <text>haha</text>
       </register>
-      <register name="0" type="4">
-        <text>\d{8}</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgQ29va2llcyBmcm9tICdqcy1jb29raWUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJoYWhhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZldGNoKCIiKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJoYWhhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJoYWhhIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCJoYWhhIikK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKCJ3d3cuYmFpZHUuY29tIikKICAgIGNvbnNvbGUubG9nKHJlcy5ib2R5KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIGF1dGhDbGllbnQoKXsKICAgIAogICAgcmV0dXJuIG5ldyBQcm9taXNlPD4KCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zb2NrZXQgPSBuZXcgbmV0LlNvY2tldCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
