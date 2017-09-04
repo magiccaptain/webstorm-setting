@@ -97,12 +97,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1504497693593">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="25" />
-        <mark key="." line="53" column="25" />
-        <mark key="^" line="53" column="25" />
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1504503915067">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+        <mark key="^" line="35" column="20" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/app.ts" timestamp="1502153374866">
         <mark key="[" line="56" column="0" />
@@ -270,6 +270,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.js" timestamp="1504503897447" />
       <file name="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.js" timestamp="1504063876942">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -394,11 +395,11 @@
       <jump line="29" column="24" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>const</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -407,31 +408,31 @@
         <text>login-form-button</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5LmdldCgidXNlcm5hbWUiKSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5LmdldCgidXNlcm5hbWUiKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKHVybCwgb3B0aW9ucyk7CiAgLy8gYXdhaXQgY2hlY2tTdGF0dXMocmVzcG9uc2UpOwogIGNvbnNvbGUubG9nKHJlc3BvbnNlKQogIHJldHVybiBhd2FpdCByZXNwb25zZS5qc29uKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZXNwb25zZSA9IGF3YWl0IGZldGNoKHVybCwgb3B0aW9ucyk7CiAgLy8gYXdhaXQgY2hlY2tTdGF0dXMocmVzcG9uc2UpOwogIGNvbnNvbGUubG9nKHJlc3BvbnNlKQogIHJldHVybiBhd2FpdCByZXNwb25zZS5qc29uKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdG9rZW4gPSBhd2FpdCBvYXV0aFRva2VuKHZhbHVlc1sndXNlcm5hbWUnXSwgdmFsdWVzWydwYXNzd29yZCddKQoKICAgICAgICBjb25zb2xlLmxvZyh0b2tlbikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
