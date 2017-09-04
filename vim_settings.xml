@@ -109,11 +109,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/routes/Login.tsx" timestamp="1504253772961">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
+      <file name="G:/projects/smart_meter_dva/src/routes/Login.tsx" timestamp="1504492538189">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+        <mark key="^" line="12" column="1" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/webpack.config.js" timestamp="1503973559932">
         <mark key="[" line="43" column="39" />
@@ -201,11 +201,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.css" timestamp="1504256617865">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="17" />
+      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.css" timestamp="1504492940020">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
         <mark key="^" line="9" column="13" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/IndexPage.js" timestamp="1504064465351">
         <mark key="[" line="17" column="0" />
@@ -228,6 +228,12 @@
         <mark key="]" line="6" column="31" />
         <mark key="^" line="0" column="13" />
         <mark key="." line="6" column="31" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/routes/Login.css" timestamp="1504492988062">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.js" timestamp="1504073225448">
         <mark key="[" line="3" column="61" />
@@ -285,11 +291,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1504487824763">
-        <mark key="[" line="55" column="70" />
-        <mark key="]" line="55" column="87" />
-        <mark key="." line="55" column="70" />
-        <mark key="^" line="55" column="69" />
+      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1504493055867">
+        <mark key="[" line="53" column="22" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+        <mark key="^" line="53" column="27" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/router.ts" timestamp="1503927604793">
         <mark key="[" line="22" column="34" />
@@ -386,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>login-form-button</text>
+        <text>记住我</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;login-form-button&quot;</text>
+        <text>记住我</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -398,28 +404,28 @@
         <text>login-form-button</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIE9yIDxhIGhyZWY9IiI+cmVnaXN0ZXIgbm93ITwvYT4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHlsZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzTmFtZT0ibG9naW4tZm9ybS1mb3Jnb3QiIGhyZWY9IiI+Rm9yZ290IHBhc3N3b3JkPC9hPgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdHlsZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE9yIDxhIGhyZWY9IiI+cmVnaXN0ZXIgbm93ITwvYT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIGNsYXNzTmFtZT0ibG9naW4tZm9ybS1mb3Jnb3QiIGhyZWY9IiI+Rm9yZ290IHBhc3N3b3JkPC9hPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGljb24tdXJsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
