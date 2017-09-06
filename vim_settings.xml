@@ -21,6 +21,9 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
+      <file name="G:/projects/smart_meter_dva/node_modules/@types/js-cookie/index.d.ts" timestamp="1504668797220">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="G:/projects/smart_meter_fullstack/routes/index.ts" timestamp="1502093059883">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="36" />
@@ -334,7 +337,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1504251726371">
+      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1504669131834">
         <mark key="[" line="12" column="38" />
         <mark key="]" line="12" column="42" />
         <mark key="." line="12" column="42" />
@@ -345,12 +348,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504583275938">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="53" column="13" />
-        <mark key="^" line="53" column="13" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504669088222">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="49" column="50" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -406,13 +409,14 @@
       <jump line="51" column="0" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
       <jump line="50" column="0" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
       <jump line="63" column="5" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
+      <jump line="3" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/js-cookie/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getTokenByPassword</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getTokenByPassword</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -427,25 +431,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmKGxvYWRpbmcpCg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2pzLWNvJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvYWRpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm0gY2xhc3NOYW1lPXtzdHlsZXNbJ2xvZ2luLWZvcm0nXX0gb25TdWJtaXQ9e3RoaXMuaGFuZGxlU3VibWl0fT4KICAgICAgICB7CiAgICAgICAgICB0aGlzLnJlbmRlckVycm9yKCkKICAgICAgICB9CgogICAgICAgIDxGb3JtSXRlbT4KICAgICAgICAgIHsKICAgICAgICAgICAgZ2V0RmllbGREZWNvcmF0b3IoInVzZXJuYW1lIiwgewogICAgICAgICAgICAgIHJ1bGVzOiBbewogICAgICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUsCiAgICAgICAgICAgICAgICBtZXNzYWdlOiAi08O7p8P7srvE3M6qv9UiCiAgICAgICAgICAgICAgfV0KICAgICAgICAgICAgfSkoCiAgICAgICAgICAgICAgPElucHV0IHByZWZpeD17PEljb24gdHlwZT0idXNlciIgc3R5bGU9e3sgZm9udFNpemU6IDEzIH19Lz59IHBsYWNlaG9sZGVyPSLTw7unw/sv08rP5C/K1rv6Ii8+CiAgICAgICAgICAgICkKICAgICAgICAgIH0KICAgICAgICA8L0Zvcm1JdGVtPgoKICAgICAgICA8Rm9ybUl0ZW0+CiAgICAgICAgICB7CiAgICAgICAgICAgIGdldEZpZWxkRGVjb3JhdG9yKCJwYXNzd29yZCIsIHsKICAgICAgICAgICAgICBydWxlczogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICByZXF1aXJlZDogdHJ1ZSwKICAgICAgICAgICAgICAgICAgbWVzc2FnZTogIsPcwuuyu8Tczqq/1SIKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIG1pbjogNiwKICAgICAgICAgICAgICAgICAgbWF4OiAyMCwKICAgICAgICAgICAgICAgICAgbWVzc2FnZTogIsPcwuuzpLbIsdjQ686qNi0yMCIKICAgICAgICAgICAgICAgIH1dCiAgICAgICAgICAgIH0pKAogICAgICAgICAgICAgIDxJbnB1dCBwcmVmaXg9ezxJY29uIHR5cGU9ImxvY2siIHN0eWxlPXt7IGZvbnRTaXplOiAxMyB9fS8+fSB0eXBlPSJwYXNzd29yZCIgcGxhY2Vob2xkZXI9ItPDu6fD3MLrIi8+CiAgICAgICAgICAgICkKICAgICAgICAgIH0KICAgICAgICA8L0Zvcm1JdGVtPgoKICAgICAgICA8Rm9ybUl0ZW0+CiAgICAgICAgICB7Z2V0RmllbGREZWNvcmF0b3IoJ3JlbWVtYmVyJywgewogICAgICAgICAgICB2YWx1ZVByb3BOYW1lOiAnY2hlY2tlZCcsCiAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogdHJ1ZSwKICAgICAgICAgIH0pKAogICAgICAgICAgICA8Q2hlY2tib3g+wb3W3MTavMfXoc7SPC9DaGVja2JveD4KICAgICAgICAgICl9CiAgICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiIGh0bWxUeXBlPSJzdWJtaXQiIGNsYXNzTmFtZT17c3R5bGVzWydsb2dpbi1mb3JtLWJ1dHRvbiddfT4KICAgICAgICAgICAgtcfCvQogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9Gb3JtSXRlbT4KCiAgICAgIDwvRm9ybT4K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvc2FibGU9e3RydWV9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmKGxvYWRpbmcpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8QWxlcnQKICAgICAgICAgIHR5cGU9ImVycm9yIgogICAgICAgICAgbWVzc2FnZT17bG9naW5fZXJyb3J9CiAgICAgICAgICBzaG93SWNvbj17dHJ1ZX0KICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvYWRpbmcpCg==</text>
       </register>
     </registers>
     <search>
