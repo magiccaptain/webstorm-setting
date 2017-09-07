@@ -177,7 +177,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/users.ts" timestamp="1504756238383">
+      <file name="G:/projects/smart_meter_dva/src/models/users.ts" timestamp="1504768228323">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -296,12 +296,12 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504766680506">
-        <mark key="'" line="66" column="8" />
-        <mark key="[" line="98" column="25" />
-        <mark key="]" line="98" column="35" />
-        <mark key="." line="98" column="35" />
-        <mark key="^" line="98" column="35" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504768347000">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="1" />
+        <mark key="." line="16" column="1" />
+        <mark key="^" line="16" column="1" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -367,25 +367,50 @@
       <jump line="12" column="0" filename="G:/projects/smart_meter_dva/src/utils/aes-helper.ts" />
       <jump line="51" column="8" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="69" column="40" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="79" column="0" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJlZm9yZVNhdmVUb2tlbih0b2tlbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+    access_token: &quot;&quot;,
+    refresh_token: &quot;&quot;,
+    token_type: &quot;&quot;,
+    scope: [],
+    remember_me: false,
+    login_error: &quot;&quot;,
+    user_name: &quot;&quot;,
+    aud: [],
+    exp: -1,
+    authorities: [],
+    loading_cookies: false,
+  }</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoewogICAgICAgICAgdHlwZTogJ3NhdmUnLAogICAgICAgICAgcGF5bG9hZDogdG9rZW4KICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGFjY2Vzc190b2tlbjogIiIsCiAgICByZWZyZXNoX3Rva2VuOiAiIiwKICAgIHRva2VuX3R5cGU6ICIiLAogICAgc2NvcGU6IFtdLAogICAgcmVtZW1iZXJfbWU6IGZhbHNlLAogICAgbG9naW5fZXJyb3I6ICIiLAogICAgdXNlcl9uYW1lOiAiIiwKICAgIGF1ZDogW10sCiAgICBleHA6IC0xLAogICAgYXV0aG9yaXRpZXM6IFtdLAogICAgbG9hZGluZ19jb29raWVzOiBmYWxzZSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJlZm9yZVNhdmVUb2tlbih0b2tlbik7Cg==</text>
+      <register name="1" type="4">
+        <text>{
+    access_token: &quot;&quot;,
+    refresh_token: &quot;&quot;,
+    token_type: &quot;&quot;,
+    scope: [],
+    remember_me: false,
+    login_error: &quot;&quot;,
+    user_name: &quot;&quot;,
+    aud: [],
+    exp: -1,
+    authorities: [],
+    loading_cookies: false,
+  }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVmb3JlU2F2ZVRva2VuKHRva2VuKTsKICAgICAgICAgICAgeWllbGQgcHV0KHsKICAgICAgICAgICAgICB0eXBlOiAnc2F2ZScsCiAgICAgICAgICAgICAgcGF5bG9hZDogdG9rZW4KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -394,19 +419,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlblsnc2NvcGUnXSA9IHRva2VuLnNjb3BlLnNwbGl0KCcgJyk7CiAgICAgICAgdG9rZW5bJ3JlbWVtYmVyX21lJ10gPSByZW1lbWJlcl9tZTsKCiAgICAgICAgLy+8xsvjtb3G2sqxvOS0wQogICAgICAgIGxldCBub3cgPSBuZXcgRGF0ZSgpLmdldFRpbWUoKSAvIDEwMDA7CiAgICAgICAgdG9rZW5bJ2V4cCddID0gTWF0aC5mbG9vcihub3cgKyB0b2tlblsnZXhwaXJlc19pbiddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhdXRob3JpdGllcy5yZW1yCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0b2tlbltdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHlpZWxkIAo=</text>
       </register>
     </registers>
     <search>
