@@ -185,11 +185,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1504518565810">
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="42" />
-        <mark key="^" line="21" column="42" />
+      <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1504749986887">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/models/users.ts" timestamp="1504516852720">
         <mark key="[" line="39" column="0" />
@@ -287,7 +287,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/router.jsx" timestamp="1504251672943">
+      <file name="G:/projects/smart_meter_dva/src/router.jsx" timestamp="1504749958549">
         <mark key="[" line="4" column="34" />
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
@@ -442,11 +442,12 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvbkVycm9yOiAoZXJyb3IsIGRpc3BhdGNoKSA9PiB7CiAgICBjb25zb2xlLmxvZyhlcnJvcikKCiAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -455,7 +456,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -464,7 +465,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGNvbnN0cnVjdG9yCg==</text>
       </register>
     </registers>
     <search>
