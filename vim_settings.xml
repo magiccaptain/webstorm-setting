@@ -15,11 +15,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1504789460584">
-        <mark key="[" line="65" column="31" />
-        <mark key="]" line="67" column="33" />
-        <mark key="." line="67" column="33" />
-        <mark key="^" line="67" column="33" />
+      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1504790252458">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="23" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/server/routes/auth.ts" timestamp="1502176196636">
         <mark key="[" line="11" column="13" />
@@ -89,7 +89,7 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="G:/projects/smart_meter_dva/node_modules/dva-loading/src/index.js" timestamp="1504783112893" />
+      <file name="G:/projects/smart_meter_dva/node_modules/dva-loading/src/index.js" timestamp="1504790373923" />
       <file name="G:/projects/smart_meter_dva/node_modules/dva/index.d.ts" timestamp="1504780672391">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="38" />
@@ -300,11 +300,11 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504789302504">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="39" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504790334640">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -324,7 +324,7 @@
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1504783903627">
+      <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1504790186016">
         <mark key="[" line="31" column="41" />
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
@@ -377,11 +377,11 @@
       <jump line="153" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc3RhdGVWYWxpZCA9IHRydWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>!stateValid</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
