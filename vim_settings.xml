@@ -15,11 +15,11 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1504785255925">
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-        <mark key="^" line="22" column="36" />
+      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1504789460584">
+        <mark key="[" line="65" column="31" />
+        <mark key="]" line="67" column="33" />
+        <mark key="." line="67" column="33" />
+        <mark key="^" line="67" column="33" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/server/routes/auth.ts" timestamp="1502176196636">
         <mark key="[" line="11" column="13" />
@@ -288,10 +288,11 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1504783177297">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1504786471539">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="30" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1504676364628">
         <mark key="[" line="12" column="38" />
@@ -299,11 +300,11 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504783887361">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="116" column="56" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504789302504">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="39" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="15" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -376,44 +377,47 @@
       <jump line="153" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'q61xbt'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgc3RhdGVWYWxpZCA9IHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'q61xbt'</text>
+        <text>!stateValid</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="4">
-        <text>store.getstate()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmICh0b2tlblsnZXhwJ10gLSBub3cgPCA2MCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc3RhdGVWYWxpZCA9IHRydWU7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXh0QWN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0KGFjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhdGVWYWxpZCkgewogICAgICAgICAgbmV4dChhY3Rpb24pCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIG5leHQobG9naW5BY3Rpb24oYWN0aW9uLnBheWxvYWQua2V5KSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lID0gIi9sb2dpbiIKICAgICAgICAgIC8vIGFjdGlvbi5wYXlsb2FkLnF1ZXJ5ID0ge30KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBzdGF0ZVZhbGlkID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>else {
+            
+           
+          }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5leHQoYWN0aW9uMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFjdGlvbikK</text>
+        <text encoding="base64">aW1wb3J0IHtyb3V0ZXJSZWR1eH0gZnJvbSAiZHZhL3JvdXRlciI7CmltcG9ydCB7ZmluZEFsbEluUmVuZGVyZWRUcmVlfSBmcm9tInJlYWN0LWRvbS90ZXN0LXV0aWxzIjsK</text>
       </register>
     </registers>
     <search>
