@@ -15,6 +15,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1504785255925">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+      </file>
       <file name="G:/projects/smart_meter_fullstack/server/routes/auth.ts" timestamp="1502176196636">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="17" />
@@ -83,6 +89,7 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="G:/projects/smart_meter_dva/node_modules/dva-loading/src/index.js" timestamp="1504783112893" />
       <file name="G:/projects/smart_meter_dva/node_modules/dva/index.d.ts" timestamp="1504780672391">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="38" />
@@ -101,7 +108,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1504753521902">
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1504783621593">
         <mark key="'" line="74" column="40" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -281,11 +288,10 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1504780794015">
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="24" column="12" />
-        <mark key="." line="24" column="12" />
-        <mark key="^" line="24" column="12" />
+      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1504783177297">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1504676364628">
         <mark key="[" line="12" column="38" />
@@ -293,12 +299,11 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504780799646">
-        <mark key="'" line="153" column="13" />
-        <mark key="[" line="153" column="15" />
-        <mark key="]" line="153" column="15" />
-        <mark key="." line="153" column="15" />
-        <mark key="^" line="153" column="15" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504783887361">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="116" column="56" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -318,7 +323,7 @@
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1504763095297">
+      <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1504783903627">
         <mark key="[" line="31" column="41" />
         <mark key="]" line="32" column="28" />
         <mark key="." line="32" column="28" />
@@ -371,11 +376,11 @@
       <jump line="153" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogvOyy6bWxx7DXtMys1tC1xHRva2Vuyse38brPt6gK</text>
+      <register name="&quot;" type="4">
+        <text>'q61xbt'</text>
       </register>
       <register name="-" type="4">
-        <text>checkTokenValid</text>
+        <text>'q61xbt'</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
@@ -384,31 +389,31 @@
         <text>store.getstate()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogvOyy6bWxx7DXtMys1tC1xHRva2Vuyse38brPt6gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBuZXh0KGFjdGlvbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lID0gIi9sb2dpbiIKICAgICAgICAgIC8vIGFjdGlvbi5wYXlsb2FkLnF1ZXJ5ID0ge30KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHAuX3N0b3JlLmdldFN0YXRlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHAuX3N0b3JlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGFjdGlvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tUb2tlblZhbGlkCg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5leHQoYWN0aW9uMSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tUT2tlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFjdGlvbikK</text>
       </register>
     </registers>
     <search>
