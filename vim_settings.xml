@@ -229,7 +229,6 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="G:/projects/smart_meter_dva/node_modules/@types/crypto-js/index.d.ts" timestamp="1504676898514" />
       <file name="G:/projects/smart_meter_dva/package.json" timestamp="1504753838336">
         <mark key="[" line="6" column="47" />
         <mark key="]" line="6" column="47" />
@@ -247,12 +246,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
-      </file>
-      <file name="G:/projects/smart_meter_dva/src/router.jsx" timestamp="1504750848041">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="2" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="2" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1504590537604">
         <mark key="'" line="74" column="5" />
@@ -303,12 +296,11 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504756420305">
-        <mark key="'" line="70" column="8" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="29" column="7" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504756935025">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -340,11 +332,11 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="G:/projects/smart_meter_dva/doc/oauth-api.md" timestamp="1504754716414">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="10" />
+      <file name="G:/projects/smart_meter_dva/doc/oauth-api.md" timestamp="1504756700674">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="48" column="1" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -377,40 +369,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IENvb2tpZXMgZnJvbSAnanMtY29va2llJwppbXBvcnQge0Flc0VuY3J5cHRPYmp9IGZyb20gIi4uL3V0aWxzL2Flcy1oZWxwZXIiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>save</text>
+        <text>权限</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="4">
-        <text>save_authorities</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCAgcHV0KHsKICAgICAgICAgIHR5cGU6ICdzYXZlX2F1dGhvcml0aWVzJywKICAgICAgICAgIHBheWxvYWQ6IGF1dGhvcml0aWVzCiAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IENvb2tpZXMgZnJvbSAnanMtY29va2llJwppbXBvcnQge0Flc0VuY3J5cHRPYmp9IGZyb20gIi4uL3V0aWxzL2Flcy1oZWxwZXIiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vvOyy6XRva2VuLCCyorvxyKHIqM/e0MXPogogICAgKiBjaGVja1Rva2VuKHsgcGF5bG9hZDogeyB0b2tlbiB9IH0sIHsgY2FsbCwgcHV0IH0pIHsKICAgICAgdHJ5IHsKICAgICAgICBjb25zdCBhdXRob3JpdGllcyA9IHlpZWxkIGNhbGwob2F1dGhTZXJ2aWNlLmNoZWNrVG9rZW4sIHRva2VuKTsKCiAgICAgICAgeWllbGQgIHB1dCh7CiAgICAgICAgICB0eXBlOiAnc2F2ZV9hdXRob3JpdGllcycsCiAgICAgICAgICBwYXlsb2FkOiBhdXRob3JpdGllcwogICAgICAgIH0pCgogICAgICB9IGNhdGNoIChlKSB7CiAgICAgICAgaGFuZGxlQ2hlY2tUb2tlbkVycm9yKGUpOwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoe30pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyB5aWVsZCBwdXQoewogICAgICAgIC8vICAgdHlwZTogJ2NoZWNrVG9rZW4nLAogICAgICAgIC8vICAgcGF5bG9hZDogeyB0b2tlbjogdG9rZW5bJ2FjY2Vzc190b2tlbiddIH0KICAgICAgICAvLyB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoewogICAgICAgICAgdHlwZTogJ3NhdmUnLAogICAgICAgICAgcGF5bG9hZDogdG9rZW4KICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ewogICAgImVycm9yIjogImludmFsaWRfdG9rZW4iLAogICAgImVycm9yX2Rlc2NyaXB0aW9uIjogIlRva2VuIHdhcyBub3QgcmVjb2duaXNlZCIKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvb2tpZXMgZnJvbSAnanMtY29va2llJwppbXBvcnQge0Flc0VuY3J5cHRPYmp9IGZyb20gIi4uL3V0aWxzL2Flcy1oZWxwZXIiOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
