@@ -104,12 +104,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1504752226191">
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1504753521902">
         <mark key="'" line="74" column="40" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="70" column="20" />
-        <mark key="^" line="70" column="20" />
-        <mark key="." line="70" column="20" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="92" column="2" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Login.tsx" timestamp="1504492538189">
         <mark key="[" line="11" column="30" />
@@ -177,7 +177,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/users.ts" timestamp="1504751202106">
+      <file name="G:/projects/smart_meter_dva/src/models/users.ts" timestamp="1504756238383">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -230,7 +230,7 @@
         <mark key="." line="5" column="17" />
       </file>
       <file name="G:/projects/smart_meter_dva/node_modules/@types/crypto-js/index.d.ts" timestamp="1504676898514" />
-      <file name="G:/projects/smart_meter_dva/package.json" timestamp="1504062629284">
+      <file name="G:/projects/smart_meter_dva/package.json" timestamp="1504753838336">
         <mark key="[" line="6" column="47" />
         <mark key="]" line="6" column="47" />
         <mark key="." line="6" column="47" />
@@ -303,12 +303,12 @@
         <mark key="." line="12" column="42" />
         <mark key="^" line="12" column="42" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504752099278">
-        <mark key="'" line="51" column="8" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1504756395179">
+        <mark key="'" line="70" column="8" />
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="50" column="49" />
-        <mark key="." line="50" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="29" column="7" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -328,17 +328,23 @@
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1504582838313">
-        <mark key="[" line="26" column="16" />
-        <mark key="]" line="26" column="16" />
-        <mark key="." line="26" column="16" />
-        <mark key="^" line="26" column="16" />
+      <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1504755573721">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="45" />
+        <mark key="." line="38" column="45" />
+        <mark key="^" line="38" column="45" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1504251622617">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="22" column="46" />
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/doc/oauth-api.md" timestamp="1504754716414">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -371,19 +377,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqCiAqILTTCiAqIEByZXR1cm5zIHthbnl9CiAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IENvb2tpZXMgZnJvbSAnanMtY29va2llJwppbXBvcnQge0Flc0VuY3J5cHRPYmp9IGZyb20gIi4uL3V0aWxzL2Flcy1oZWxwZXIiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>AesEncryptObj(token)</text>
+        <text>save</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IENvb2tpZXMgZnJvbSAnanMtY29va2llJwo=</text>
+      <register name="0" type="4">
+        <text>save_authorities</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqCiAqILTTCiAqIEByZXR1cm5zIHthbnl9CiAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IENvb2tpZXMgZnJvbSAnanMtY29va2llJwppbXBvcnQge0Flc0VuY3J5cHRPYmp9IGZyb20gIi4uL3V0aWxzL2Flcy1oZWxwZXIiOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -392,22 +398,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcHRpb25zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyB0cnkgewogIC8vIH0gY2F0Y2ggKGUpIHsKICAvLyAgIGNvbnNvbGUubG9nKGUpCiAgLy8gICBsZXQgcmVzcG9uc2UgPSBlLnJlc3BvbnNlOwogIC8vICAgY29uc29sZS5sb2cocmVzcG9uc2UpCiAgLy8gICBpZiAocmVzcG9uc2UpIHsKICAvLyAgICAgaWYgKHJlc3BvbnNlLmVycm9yID09ICJVbmF1dGhvcml6ZWQiKSB7CiAgLy8gICAgICAgcmV0dXJuIHsgZXJyb3I6ICLOtMrayKi/zbuntssiIH0KICAvLyAgICAgfQogIC8vCiAgLy8gICAgIGlmIChyZXNwb25zZS5lcnJvciA9PSAiaW52YWxpZF9ncmFudCIpIHsKICAvLyAgICAgICByZXR1cm4geyBlcnJvcjogItPDu6fD+8Pcwuu07c7zIiB9CiAgLy8gICAgIH0KICAvLyAgIH0KICAvLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
