@@ -15,12 +15,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1505108467506">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="32" column="30" />
-        <mark key="." line="32" column="30" />
-        <mark key="^" line="32" column="30" />
+      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1505110106344">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="5" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/server/routes/auth.ts" timestamp="1502176196636">
         <mark key="[" line="11" column="13" />
@@ -313,6 +313,7 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="90" column="32" />
       </file>
+      <file name="G:/projects/smart_meter_dva/test/index.html" timestamp="1505109657714" />
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="14" column="1" />
@@ -389,8 +390,8 @@
       <jump line="21" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/glob/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>G</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>G</text>
@@ -402,28 +403,28 @@
         <text encoding="base64">ICAgICAgLy8gaWYgKGFjdGlvbi50eXBlID09ICdAQHJvdXRlci9MT0NBVElPTl9DSEFOR0UnKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9ucy5leGNsdWRlUm91dGVycwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgR2xvYlN5bmMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgR2xvYiBmcm9tICdnbG9iJwppbXBvcnQge0dsb2JTeW5jfSBmcm9tICJnbG9iIjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGF0aG5hbWUK</text>
+        <text encoding="base64">ICAgICAgcGF0aG5hbWUudG8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGF0aG5hbWUgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
