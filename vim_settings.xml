@@ -56,7 +56,7 @@
         <mark key="." line="71" column="0" />
         <mark key="^" line="64" column="44" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/routes/Login.tsx" timestamp="1505195072556">
+      <file name="G:/projects/smart_meter_dva/src/routes/Login.tsx" timestamp="1505195681264">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="26" column="5" />
         <mark key="." line="26" column="5" />
@@ -128,11 +128,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505195095970">
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="^" line="90" column="14" />
-        <mark key="." line="169" column="0" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505195869250">
+        <mark key="[" line="100" column="46" />
+        <mark key="]" line="100" column="46" />
+        <mark key="^" line="100" column="46" />
+        <mark key="." line="100" column="46" />
       </file>
       <file name="G:/projects/smart_meter_dva/test/index.html" timestamp="1505109657714" />
       <file name="G:/projects/react-bmap/webpack.config.js" timestamp="1505120294339">
@@ -185,7 +185,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogcmVmcmVzaFRva2VuKHsgcGF5bG9hZDogeyByZWZyZXNoX3Rva2VuIH0gfSwgeyBjYWxsLCBwdXQgfSkgewogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>authRouter</text>
@@ -197,31 +197,31 @@
         <text>authRouter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogcmVmcmVzaFRva2VuKHsgcGF5bG9hZDogeyByZWZyZXNoX3Rva2VuIH0gfSwgeyBjYWxsLCBwdXQgfSkgewogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleGNsdWRlQWN0aW9uczogWyJhdXRob3JpdGllcy86YWN0aW9uIiwgIkBARFZBX0xPQURJTkcvOmFjdGlvbiJdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvL87e0OjR6daktcRhY3Rpb25zCiAgZXhjbHVkZUFjdGlvbnM6IHN0cmluZ1tdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5lZWRMb2dpbiA9IHRydWU7CiAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vvOyy6WFjdGlvbnMKICAgIGVsc2UgewogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhjbHVkZSA9IF8uZmluZEluZGV4KG9wdGlvbnMuZXhjbHVkZUFjdGlvbnMsIChhY3Rpb25fdHlwZSkgPT4gewogICAgICAgIGxldCByZSA9IHBhdGhUb1JlZ2V4cChhY3Rpb25fdHlwZSk7CiAgICAgICAgbGV0IHJldCA9IHJlLmV4ZWModHlwZSk7CiAgICAgICAgcmV0dXJuIHJldCAhPSBudWxsOwogICAgICB9KTsKCiAgICAgIHJldHVybiBleGNsdWRlID09PSAtMQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL9PDu6fOtLXHwryjrNaxvdPM+Neqtb21x8K9vefD5go=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogcmVmcmVzaFRva2VuKHsgcGF5bG9hZDogeyByZWZyZXNoX3Rva2VuIH0gfSwgeyBjYWxsLCBwdXQgfSkgewogICAgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYoYWN0aW8pCg==</text>
+        <text encoding="base64">ICBleGNsdWRlQWN0aW9uczogWyJhdXRob3JpdGllcy86YWN0aW9uIiwgIkBARFZBX0xPQURJTkcvOmFjdGlvbiJdCg==</text>
       </register>
     </registers>
     <search>
