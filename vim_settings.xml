@@ -3,15 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1505129408669">
+      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1505188685740">
         <mark key="'" line="14" column="0" />
-        <mark key="^" line="147" column="4" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/test_test.js" timestamp="1505120713619">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="2" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="0" column="14" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/utils/aes-helper.ts" timestamp="1504676945174">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="54" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Users/Users.js" timestamp="1505187233223">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="67" column="37" />
       </file>
       <file name="G:/projects/smart_meter_dva/node_modules/dva/router.d.ts" timestamp="1504771332447">
         <mark key="[" line="24" column="12" />
@@ -29,12 +45,22 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/node_modules/dva-loading/src/index.js" timestamp="1505128755679" />
+      <file name="G:/projects/smart_meter_dva/node_modules/dva-loading/src/index.js" timestamp="1505188606565">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="26" />
+      </file>
       <file name="G:/projects/smart_meter_dva/node_modules/dva/index.d.ts" timestamp="1504780672391">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1505187268238">
+        <mark key="'" line="79" column="40" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="64" column="44" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Login.tsx" timestamp="1505101362323">
         <mark key="[" line="26" column="5" />
@@ -50,11 +76,11 @@
         <mark key="." line="8" column="17" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/type_test.js" timestamp="1505116823590" />
-      <file name="G:/projects/smart_meter_dva/src/tests/test.ts" timestamp="1505126582863">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="33" />
-        <mark key="." line="30" column="33" />
-        <mark key="^" line="30" column="33" />
+      <file name="G:/projects/smart_meter_dva/src/tests/test.ts" timestamp="1505186193827">
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="24" />
+        <mark key="." line="43" column="24" />
+        <mark key="^" line="43" column="24" />
       </file>
       <file name="G:/projects/smart_meter_dva/node_modules/.bin/webpack" timestamp="1505121281589" />
       <file name="G:/projects/smart_meter_dva/.eslintrc" timestamp="1505180609754" />
@@ -91,6 +117,13 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1504772077292">
+        <mark key="'" line="27" column="22" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="39" column="15" />
+        <mark key="." line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+      </file>
       <file name="G:/projects/smart_meter_dva/node_modules/path-to-regexp/index.d.ts" timestamp="1505122735317" />
       <file name="G:/projects/smart_meter_dva/.roadhogrc" timestamp="1505111526210">
         <mark key="[" line="1" column="26" />
@@ -103,28 +136,27 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1505126990384">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
+      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1505188615430">
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="63" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505183198556">
-        <mark key="[" line="103" column="24" />
-        <mark key="]" line="103" column="31" />
-        <mark key="." line="103" column="31" />
-        <mark key="^" line="103" column="31" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505188022214">
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="^" line="164" column="30" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/test/index.html" timestamp="1505109657714" />
       <file name="G:/projects/react-bmap/webpack.config.js" timestamp="1505120294339">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="49" column="16" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1505128486572">
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="32" column="28" />
-        <mark key="." line="32" column="28" />
-        <mark key="^" line="32" column="28" />
+      <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1505187158454">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -166,41 +198,41 @@
       <jump line="21" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/glob/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>检查token是否合法</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuZXh0KGFjdGlvbik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>检查token是否合法</text>
+        <text>@@DVA_LA</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="4">
-        <text>authorities</text>
+        <text>@@DVA_LOADING</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcmVjb21taXQiOiAibnBtIHJ1biBsaW50IiwK</text>
+        <text encoding="base64">ICAgICAgICBuZXh0KGFjdGlvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwcmVjb21taXQiOiAibnBtIHJ1biBsaW50IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJsaW50IjogImVzbGludCAtLWV4dCAuanMgc3JjIHRlc3QiLAo=</text>
+        <text encoding="base64">ICAgICAgbmV4dChhY3Rpb24pOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgLy8gLy/F0LbPYWN0aW9uyse38dDo0qrJ7bfdyM/WpAogICAgICAvLyBpZiAoYWN0aW9uLnR5cGUgPT0gJ0BAcm91dGVyL0xPQ0FUSU9OX0NIQU5HRScpIHsKICAgICAgLy8gICBjb25zdCBwYXRobmFtZSA9IGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lOwogICAgICAvLyAgIGlmIChhdXRoUm91dGVycy5pbmRleE9mKHBhdGhuYW1lKSAhPSAtMSkgewogICAgICAvLyAgICAgbmVlZExvZ2luID0gdHJ1ZTsKICAgICAgLy8gICB9IGVsc2UgewogICAgICAvLyAgICAgbmV4dChhY3Rpb24pCiAgICAgIC8vICAgfQogICAgICAvLyB9IGVsc2UgewogICAgICAvLyAgIGlmIChhdXRoQWN0aW9ucy5pbmRleE9mKGFjdGlvbi50eXBlKSAhPSAtMSkgewogICAgICAvLyAgICAgbmVlZExvZ2luID0gdHJ1ZQogICAgICAvLyAgIH0gZWxzZSB7CiAgICAgIC8vICAgICBuZXh0KGFjdGlvbikKICAgICAgLy8gICB9CiAgICAgIC8vIH0KCiAgICAgIC8v0OjSqrXHwr0KICAgICAgLy8gaWYgKG5lZWRMb2dpbikgewogICAgICAvLwogICAgICAvLyAgIC8vvOyy6bWxx7C1x8K917TMrAogICAgICAvLyAgIGNvbnN0IHsgYXV0aG9yaXRpZXMgfSA9IGdldFN0YXRlKCk7CiAgICAgIC8vICAgbGV0IG5leHRBY3Rpb24gPSBhY3Rpb247CiAgICAgIC8vCiAgICAgIC8vICAgZG8gewogICAgICAvLyAgICAgZm9yIChsZXQga2V5IG9mIE9iamVjdC5rZXlzKGF1dGhvcml0aWVzKSkgewogICAgICAvLyAgICAgICBpZiAoYXV0aG9yaXRpZXNba2V5XSA9PSBudWxsKSB7CiAgICAgIC8vICAgICAgICAgbmV4dEFjdGlvbiA9IGxvZ2luQWN0aW9uKGFjdGlvbi5wYXlsb2FkLmtleSk7CiAgICAgIC8vICAgICAgICAgYnJlYWs7CiAgICAgIC8vICAgICAgIH0KICAgICAgLy8gICAgIH0KICAgICAgLy8KICAgICAgLy8gICAgIGlmIChuZXh0QWN0aW9uICE9IGFjdGlvbikgewogICAgICAvLyAgICAgICBicmVhazsKICAgICAgLy8gICAgIH0KICAgICAgLy8KICAgICAgLy8gICAgIC8vvOyy6bXHwr3Kx7fxuf3G2gogICAgICAvLyAgICAgY29uc3QgeyBleHAgfSA9IGF1dGhvcml0aWVzOwogICAgICAvLyAgICAgbGV0IG5vdyA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpIC8gMTAwMDsKICAgICAgLy8gICAgIGlmIChleHAgLSBub3cgPCA2MCkgewogICAgICAvLyAgICAgICAvL7Slt6IgcmVmcmVzaF90b2tlbiBhY3Rpb24KICAgICAgLy8gICAgICAgZGlzcGF0Y2gocmVmcmVzaEFjdGlvbihhdXRob3JpdGllc1sncmVmcmVzaF90b2tlbiddKSk7CiAgICAgIC8vICAgICAgIGJyZWFrOwogICAgICAvLyAgICAgfQogICAgICAvLwogICAgICAvLyAgIH0gd2hpbGUgKGZhbHNlKTsKICAgICAgLy8KICAgICAgLy8gICBpZiAobmV4dEFjdGlvbikgewogICAgICAvLyAgICAgbmV4dChuZXh0QWN0aW9uKTsKICAgICAgLy8gICB9CiAgICAgIC8vIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBhY2Nlc3NfdG9rZW4gfSA9IGF1dGhvcml0aWVzOwoKICAgICAgLy/Tw7unzrS1x8K8o6zWsb3TzPjXqrW9tcfCvb3nw+YKICAgICAgaWYgKGFjY2Vzc190b2tlbiA9PSBudWxsKSB7CiAgICAgICAgcmV0dXJuCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBhY2Nlc3NfdG9rZW4gfSA9IGF1dGhvcml0aWVzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdXQocm91dGVyUmVkdXgucmVwbGFjZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
