@@ -109,11 +109,11 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505180759470">
-        <mark key="[" line="101" column="9" />
-        <mark key="]" line="99" column="26" />
-        <mark key="." line="99" column="26" />
-        <mark key="^" line="99" column="26" />
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505181875908">
+        <mark key="[" line="103" column="24" />
+        <mark key="]" line="103" column="31" />
+        <mark key="." line="103" column="31" />
+        <mark key="^" line="103" column="31" />
       </file>
       <file name="G:/projects/smart_meter_dva/test/index.html" timestamp="1505109657714" />
       <file name="G:/projects/react-bmap/webpack.config.js" timestamp="1505120294339">
@@ -166,11 +166,11 @@
       <jump line="21" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/glob/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwcmVjb21taXQiOiAibnBtIHJ1biBsaW50IiwK</text>
+      <register name="&quot;" type="4">
+        <text>检查token是否合法</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>检查token是否合法</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
