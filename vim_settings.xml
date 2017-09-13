@@ -179,11 +179,11 @@
         <mark key="^" line="3" column="20" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/type_test.js" timestamp="1505116823590" />
-      <file name="G:/projects/smart_meter_dva/src/tests/test.ts" timestamp="1505186193827">
-        <mark key="[" line="43" column="24" />
-        <mark key="]" line="43" column="24" />
-        <mark key="." line="43" column="24" />
-        <mark key="^" line="43" column="24" />
+      <file name="G:/projects/smart_meter_dva/src/tests/test.ts" timestamp="1505281947440">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/global.d.ts" timestamp="1504065359861">
         <mark key="[" line="0" column="0" />
@@ -245,6 +245,9 @@
         <mark key="]" line="14" column="21" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="1" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/node_modules/@types/log4js/index.d.ts" timestamp="1505281599088">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/client/src/index.tsx" timestamp="1503971015563">
         <mark key="[" line="24" column="19" />
@@ -424,43 +427,48 @@
       <jump line="51" column="25" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="791" column="14" filename="G:/projects/smart_meter_dva/node_modules/@types/react/index.d.ts" />
       <jump line="793" column="145" filename="G:/projects/smart_meter_dva/node_modules/@types/react/index.d.ts" />
+      <jump line="54" column="0" filename="G:/projects/smart_meter_dva/src/tests/test.ts" />
+      <jump line="161" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/log4js/index.d.ts" />
+      <jump line="0" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/log4js/index.d.ts" />
+      <jump line="2" column="17" filename="G:/projects/smart_meter_dva/src/tests/test.ts" />
+      <jump line="55" column="0" filename="G:/projects/smart_meter_dva/src/tests/test.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9uRWZmZWN0Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgTG9nNEpzIGZyb20gJ2xvZzRqcycKaW1wb3J0IHtsb2d9IGZyb20gInV0aWwiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>: onEffect</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
         <text>alignItems</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaW4gZnJvbSAiYW50ZC9saWIvc3BpbiI7Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJpbmZvIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9uRWZmZWN0Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgTG9nNEpzIGZyb20gJ2xvZzRqcycKaW1wb3J0IHtsb2d9IGZyb20gInV0aWwiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdCgibG9nZ2VyIFRlc3QiLCBmdW5jdGlvbiAoKSB7CgogICAgbGV0IGxvZ2dlciA9IExvZzRKcy5nZXRMb2dnZXIoIrLiytQiKTsKCiAgICBsb2dnZXIuaW5mbygiaW5mbyIpOwogICAgbG9nZ2VyLmVycm9yKCJlcnJvciIpOwogICAgbG9nZ2VyLndhcm4oIndhcm4iKTsKCiAgfSkKCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBpZiAoZ2xvYmFsX2xvYWRpbmcpIHsKICAvLyAgIHJldHVybiAoCiAgLy8gICAgIDxkaXYgc3R5bGU9e3sKICAvLyAgICAgICB3aWR0aDogJzEwMCUnLAogIC8vICAgICAgIGhlaWdodDogJzEwMCUnLAogIC8vICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAvLyAgICAgICBqdXN0aWZ5Q29udGVudDogImNlbnRlciIsCiAgLy8gICAgICAgYWxpZ25JdGVtczogImNlbnRlciIKICAvLyAgICAgfX0+CiAgLy8gICAgICAgPFNwaW4gc2l6ZT0ibGFyZ2UiIHNwaW5uaW5nPXt0cnVlfSB0aXA9ItTYyOvW0C4uLiIvPgogIC8vICAgICA8L2Rpdj4KICAvLyAgICk7CiAgLy8gfSBlbHNlIHsKICAvLyAgIHJldHVybiAoCiAgLy8gICAgIDxSb3V0ZXIgaGlzdG9yeT17aGlzdG9yeX0+CiAgLy8gICAgICAgPFJvdXRlIHBhdGg9Ii8iIGNvbXBvbmVudD17SW5kZXhQYWdlfS8+CiAgLy8gICAgICAgPFJvdXRlIHBhdGg9Ii91c2VycyIgY29tcG9uZW50PXtVc2Vyc30vPgogIC8vICAgICAgIDxSb3V0ZSBwYXRoPSIvbG9naW4iIGNvbXBvbmVudD17TG9naW59Lz4KICAvLyAgICAgPC9Sb3V0ZXI+CiAgLy8gICApOwogIC8vIH0K</text>
+        <text encoding="base64">ICAgIGxvZykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwppbXBvcnQgU3BpbiBmcm9tICJhbnRkL2xpYi9zcGluIjsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5ub3JtYWx9PgogICAgICA8SGVhZGVyIGxvY2F0aW9uPXtsb2NhdGlvbn0vPgogICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLmNvbnRlbnR9PgogICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMubWFpbn0+CiAgICAgICAgICB7Y2hpbGRyZW59CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKQo=</text>
+        <text encoding="base64">ICAgIG9uRWZmZWN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwppbXBvcnQgU3BpbiBmcm9tICJhbnRkL2xpYi9zcGluIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAvLyBpZiAoZ2xvYmFsX2xvYWRpbmcpIHsKICAvLyAgIHJldHVybiAoCiAgLy8gICAgIDxkaXYgc3R5bGU9e3sKICAvLyAgICAgICB3aWR0aDogJzEwMCUnLAogIC8vICAgICAgIGhlaWdodDogJzEwMCUnLAogIC8vICAgICAgIGRpc3BsYXk6ICdmbGV4JywKICAvLyAgICAgICBqdXN0aWZ5Q29udGVudDogImNlbnRlciIsCiAgLy8gICAgICAgYWxpZ25JdGVtczogImNlbnRlciIKICAvLyAgICAgfX0+CiAgLy8gICAgICAgPFNwaW4gc2l6ZT0ibGFyZ2UiIHNwaW5uaW5nPXt0cnVlfSB0aXA9ItTYyOvW0C4uLiIvPgogIC8vICAgICA8L2Rpdj4KICAvLyAgICk7CiAgLy8gfSBlbHNlIHsKICAvLyAgIHJldHVybiAoCiAgLy8gICAgIDxSb3V0ZXIgaGlzdG9yeT17aGlzdG9yeX0+CiAgLy8gICAgICAgPFJvdXRlIHBhdGg9Ii8iIGNvbXBvbmVudD17SW5kZXhQYWdlfS8+CiAgLy8gICAgICAgPFJvdXRlIHBhdGg9Ii91c2VycyIgY29tcG9uZW50PXtVc2Vyc30vPgogIC8vICAgICAgIDxSb3V0ZSBwYXRoPSIvbG9naW4iIGNvbXBvbmVudD17TG9naW59Lz4KICAvLyAgICAgPC9Sb3V0ZXI+CiAgLy8gICApOwogIC8vIH0K</text>
