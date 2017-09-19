@@ -74,7 +74,7 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="G:/projects/smart_meter_dva/node_modules/dva/router.d.ts" timestamp="1505732589037">
+      <file name="G:/projects/smart_meter_dva/node_modules/dva/router.d.ts" timestamp="1505788543542">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
         <mark key="." line="24" column="12" />
@@ -130,12 +130,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1505784779679">
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1505790061745">
         <mark key="'" line="117" column="25" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="31" column="38" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="23" column="26" />
       </file>
       <file name="G:/projects/smart_meter_dva/node_modules/@types/glob/index.d.ts" timestamp="1505108314872">
         <mark key="'" line="21" column="0" />
@@ -349,24 +349,24 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1505734557238">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="33" column="11" />
-        <mark key="." line="33" column="11" />
-        <mark key="^" line="33" column="11" />
+      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1505790050832">
+        <mark key="[" line="40" column="9" />
+        <mark key="]" line="40" column="18" />
+        <mark key="." line="40" column="18" />
+        <mark key="^" line="40" column="18" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1505786758140">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="7" column="0" />
+      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1505789888327">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="^" line="12" column="20" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505787045531">
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505789861225">
         <mark key="'" line="132" column="33" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="106" column="73" />
-        <mark key="." line="110" column="0" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="165" column="31" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -486,43 +486,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRob3JpdGllcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>['_store'].getState()</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
       </register>
       <register name="0" type="4">
-        <text>routerRedux.replace(others)</text>
+        <text>app['_store'].getState()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRob3JpdGllcyk7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>else {
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHBbJ19zdG9yZSddKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHsgYWN0aW9uLCAuLi5vdGhlcnMgfSA9IG5leHRfYWN0aW9uLnBheWxvYWQ7CiAgICAgICAgICB5aWVsZCBwdXQocm91dGVyUmVkdXgucmVwbGFjZShvdGhlcnMpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>routerRedux.replace({
-        pathname: '/'
-      }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlZGlyZWN0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHlpZWxkIHB1dChyb3V0ZXJSZWR1eC5yZXBsYWNlKHsKICAgICAgICAgICAgcGF0aG5hbWU6ICcvJwogICAgICAgICAgfSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG5leHRfYWN0aW9uKSB7CiAgICAgICAgY29uc3QgeyBhY3Rpb24sIC4uLm90aGVycyB9ID0gbmV4dF9hY3Rpb24ucGF5bG9hZDsKICAgICAgICB5aWVsZCBwdXQocm91dGVyUmVkdXgucmVwbGFjZShvdGhlcnMpKQogICAgICB9IGVsc2UgewogICAgICAgIHlpZWxkIHB1dChyb3V0ZXJSZWR1eC5yZXBsYWNlKHsKICAgICAgICAgIHBhdGhuYW1lOiAnLycKICAgICAgICB9KSkKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXh0X2xvY2F0aW9uKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
