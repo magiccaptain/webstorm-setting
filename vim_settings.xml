@@ -130,7 +130,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1505790061745">
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1505793402029">
         <mark key="'" line="117" column="25" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -355,18 +355,18 @@
         <mark key="." line="40" column="18" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1505789888327">
+      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1505792100119">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505789861225">
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1505793384439">
         <mark key="'" line="132" column="33" />
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="^" line="165" column="31" />
-        <mark key="." line="164" column="0" />
+        <mark key="[" line="106" column="42" />
+        <mark key="]" line="106" column="94" />
+        <mark key="^" line="106" column="94" />
+        <mark key="." line="106" column="94" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -485,11 +485,11 @@
       <jump line="52" column="15" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRob3JpdGllcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>next_location</text>
       </register>
       <register name="-" type="4">
-        <text>['_store'].getState()</text>
+        <text>next_location</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
@@ -498,31 +498,31 @@
         <text>app['_store'].getState()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRob3JpdGllcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5leHRfbG9jYXRpb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobmV4dF9sb2NhdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHBbJ19zdG9yZSddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dF9sb2NhdGlvblsnc3RhdGUnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dF9sb2NhdGlvblsnc3RhdGUnXSA9IG51bGw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5leHRfbG9jYXRpb25bJ3N0YXRlJ10gPSBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlZGlyZWN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG5leHRfbG9jYXRpb25bJ3N0YXRlJ10gPSBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRob3JpdGllcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXh0X2xvY2F0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHBbJ19zdG9yZSddKTsK</text>
       </register>
     </registers>
     <search>
