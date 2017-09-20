@@ -9,11 +9,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/devices.ts" timestamp="1505896889095">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="14" />
+      <file name="G:/projects/smart_meter_dva/src/models/devices.ts" timestamp="1505897663570">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.tsx" timestamp="1503987968489">
         <mark key="[" line="16" column="0" />
@@ -513,8 +513,8 @@
       <jump line="8" column="15" filename="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRvdGFsOiBudWxsLAogICAgcGFnZTogbnVsbAo=</text>
       </register>
       <register name="-" type="4">
         <text>[],</text>
@@ -526,16 +526,16 @@
         <text encoding="base64">ICAgICAgLy/H5b/VtcfCvbywyKjP3tDFz6IKICAgICAgeWllbGQgcHV0KHsKICAgICAgICB0eXBlOiAnY2xlYXJfdG9rZW4nCiAgICAgIH0pOwoKICAgICAgLy/H5b/VY29va2llcwogICAgICBjbGVhclRva2VuQ29va2llcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvdGFsOiBudWxsLAogICAgcGFnZTogbnVsbAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICAgIAogICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHlpZWxkIHB1dCh7CiAgICAgICAgICAgIAogICAgICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -544,10 +544,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoewogICAgICAgICAgdHlwZTogImxvZ2luX3BhZ2VfbG9hZGluZyIsCiAgICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICAgIGxvYWRpbmc6IGZhbHNlCiAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoewogICAgICAgICAgdHlwZTogImxvZ2luX3BhZ2VfbG9hZGluZyIsCiAgICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICAgIGxvYWRpbmc6IGZhbHNlCiAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
