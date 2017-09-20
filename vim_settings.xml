@@ -9,11 +9,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="31" column="27" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/devices.ts" timestamp="1505875211138">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
+      <file name="G:/projects/smart_meter_dva/src/models/devices.ts" timestamp="1505896889095">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.tsx" timestamp="1503987968489">
         <mark key="[" line="16" column="0" />
@@ -513,11 +513,11 @@
       <jump line="8" column="15" filename="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[],</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>[],</text>
       </register>
       <register name="/" type="4">
         <text>select</text>
