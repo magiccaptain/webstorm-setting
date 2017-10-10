@@ -8,11 +8,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/devices.ts" timestamp="1507603651594">
-        <mark key="[" line="18" column="28" />
-        <mark key="]" line="18" column="38" />
-        <mark key="." line="18" column="38" />
-        <mark key="^" line="18" column="38" />
+      <file name="G:/projects/smart_meter_dva/src/models/devices.ts" timestamp="1507605293318">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.tsx" timestamp="1503987968489">
         <mark key="[" line="16" column="0" />
@@ -303,11 +303,10 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/components/Devices/DevicesList.tsx" timestamp="1507604439917">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="51" />
-        <mark key="." line="24" column="51" />
-        <mark key="^" line="24" column="51" />
+      <file name="G:/projects/smart_meter_dva/src/components/Devices/DevicesList.tsx" timestamp="1507608040268">
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/HomePage.tsx" timestamp="1503973609699">
         <mark key="[" line="3" column="45" />
@@ -338,7 +337,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1507604358991">
+      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1507606253410">
         <mark key="'" line="52" column="15" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="27" />
@@ -427,11 +426,11 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/components/Devices/Devices.tsx" timestamp="1507603469571">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="12" column="0" />
+      <file name="G:/projects/smart_meter_dva/src/components/Devices/Devices.tsx" timestamp="1507607862188">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
       </file>
       <file name="G:/projects/smart_meter_dva/doc/oauth-api.md" timestamp="1504756700674">
         <mark key="[" line="45" column="0" />
@@ -527,10 +526,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwoKaW50ZXJmYWNlICROQU1FJFByb3BzIHsKCn0KCmludGVyZmFjZSAkTkFNRSRTdGF0ZSB7Cgp9CgpjbGFzcyAkTkFNRSQgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQ8JE5BTUUkUHJvcHMsICROQU1FJFN0YXRlPiB7CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXY+JE5BTUU8L2Rpdj4KICAgICkKICB9Cn0KCmZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSkgewogIHJldHVybiB7fQp9CgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KG1hcFN0YXRlVG9Qcm9wcykoJE5BTUUkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNob3dJY29uPXt0cnVlfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>哈哈</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
@@ -539,28 +538,28 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwoKaW50ZXJmYWNlICROQU1FJFByb3BzIHsKCn0KCmludGVyZmFjZSAkTkFNRSRTdGF0ZSB7Cgp9CgpjbGFzcyAkTkFNRSQgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQ8JE5BTUUkUHJvcHMsICROQU1FJFN0YXRlPiB7CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXY+JE5BTUU8L2Rpdj4KICAgICkKICB9Cn0KCmZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSkgewogIHJldHVybiB7fQp9CgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KG1hcFN0YXRlVG9Qcm9wcykoJE5BTUUkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNob3dJY29uPXt0cnVlfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIDxUcmVlCiAgICAgICAgc2hvd0xpbmUKICAgICAgPgogICAgICAgIHt0aGlzLnJlbmRlckdyb3Vwcyhncm91cHMpfQogICAgICA8L1RyZWU+CiAgICApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgPFRyZWUKICAgICAgICBzaG93TGluZQogICAgICA+CiAgICAgICAge3RoaXMucmVuZGVyR3JvdXBzKGdyb3Vwcyl9CiAgICAgIDwvVHJlZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAge3Byb3RlY3RlZFJvdXRlKCIvZGV2aWNlcyIsIERldmljZXMpfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAge3Byb3RlY3RlZFJvdXRlKCIvZGV2aWNlcyIsIERldmljZXMpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gYXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
