@@ -8,11 +8,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/devices.ts" timestamp="1507601889783">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="11" column="4" />
-        <mark key="^" line="11" column="4" />
-        <mark key="." line="11" column="4" />
+      <file name="G:/projects/smart_meter_dva/src/models/devices.ts" timestamp="1507603651594">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.tsx" timestamp="1503987968489">
         <mark key="[" line="16" column="0" />
@@ -220,7 +220,7 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1505808344496">
+      <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -303,6 +303,12 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Devices/DevicesList.tsx" timestamp="1507604402913">
+        <mark key="[" line="24" column="45" />
+        <mark key="]" line="24" column="45" />
+        <mark key="^" line="24" column="45" />
+        <mark key="." line="24" column="45" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/routes/HomePage.tsx" timestamp="1503973609699">
         <mark key="[" line="3" column="45" />
         <mark key="]" line="5" column="17" />
@@ -327,15 +333,15 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/router.jsx" timestamp="1505207533489">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="30" column="13" />
-        <mark key="." line="26" column="0" />
+      <file name="G:/projects/smart_meter_dva/src/router.jsx" timestamp="1507603881460">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1507599392271">
+      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1507604358991">
         <mark key="'" line="52" column="15" />
-        <mark key="[" line="138" column="35" />
-        <mark key="]" line="138" column="45" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="27" />
         <mark key="." line="138" column="45" />
         <mark key="^" line="138" column="45" />
       </file>
@@ -374,22 +380,20 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1505808354320">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="15" column="34" />
+      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1507604095376">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1507601093996">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
-        <mark key="^" line="19" column="24" />
+      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1507603959640">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1507601567623">
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1507603538963">
         <mark key="'" line="71" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="48" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="171" column="4" />
         <mark key="^" line="100" column="19" />
         <mark key="." line="152" column="0" />
       </file>
@@ -422,6 +426,12 @@
         <mark key="]" line="22" column="46" />
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Devices/Devices.tsx" timestamp="1507603469571">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/doc/oauth-api.md" timestamp="1504756700674">
         <mark key="[" line="45" column="0" />
@@ -512,40 +522,42 @@
       <jump line="8" column="15" filename="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.css" />
       <jump line="44" column="0" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
       <jump line="71" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="14" column="14" filename="G:/projects/smart_meter_dva/src/router.tsx" />
+      <jump line="51" column="24" filename="G:/projects/smart_meter_dva/src/router.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>哈哈</text>
       </register>
       <register name="/" type="4">
-        <text>header</text>
+        <text>device</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgb2F1dGhTZXJ2aWNlIGZyb20gJy4uL3NlcnZpY2VzL29hdXRoJwo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">YXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3Byb3RlY3RlZFJvdXRlKCIvZGV2aWNlcyIsIERldmljZXMpfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3Byb3RlY3RlZFJvdXRlKCIvZGV2aWNlcyIsIERldmljZXMpfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdyb3Vwcyk7Cg==</text>
+        <text encoding="base64">Ly8gYXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -555,9 +567,9 @@
       </register>
     </registers>
     <search>
-      <last-search>header</last-search>
+      <last-search>device</last-search>
       <last-offset />
-      <last-pattern>header</last-pattern>
+      <last-pattern>device</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -575,6 +587,7 @@
         <entry>state</entry>
         <entry>select</entry>
         <entry>header</entry>
+        <entry>device</entry>
       </history-search>
       <history-cmd />
       <history-expr />
