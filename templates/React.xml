@@ -1,5 +1,5 @@
 <templateSet group="React">
-  <template name="DvaReactComponent" value="import React from 'react';&#10;import {connect} from 'dva';&#10;&#10;interface $NAME$Props {&#10;&#10;}&#10;&#10;interface $NAME$State {&#10;&#10;}&#10;&#10;class $NAME$ extends React.Component&lt;$NAME$Props, $NAME$State&gt; {&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$NAME&lt;/div&gt;&#10;    )&#10;  }&#10;}&#10;&#10;function mapStateToProps(state) {&#10;  return {}&#10;}&#10;&#10;export default connect(mapStateToProps)($NAME$)" toReformat="true" toShortenFQNames="true">
+  <template name="DvaReactComponent" value="import React from 'react';&#10;import {connect} from 'dva';&#10;&#10;interface $NAME$Props {&#10;&#10;}&#10;&#10;interface $NAME$State {&#10;&#10;}&#10;&#10;class $NAME$ extends React.Component&lt;$NAME$Props, $NAME$State&gt; {&#10;&#10;  render() {&#10;    return (&#10;      &lt;div&gt;$NAME$&lt;/div&gt;&#10;    )&#10;  }&#10;}&#10;&#10;function mapStateToProps(state) {&#10;  return {}&#10;}&#10;&#10;export default connect(mapStateToProps)($NAME$)" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="TypeScript" value="true" />
