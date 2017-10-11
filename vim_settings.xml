@@ -20,7 +20,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/node_modules/antd/lib/tree/style/index.less" timestamp="1507625386955">
+      <file name="G:/projects/smart_meter_dva/node_modules/antd/lib/tree/style/index.less" timestamp="1507693315859">
         <mark key="'" line="168" column="39" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.css" timestamp="1505806221767">
@@ -269,12 +269,11 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/components/Devices/DevicesList.tsx" timestamp="1507691898214">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="48" column="22" />
-        <mark key="]" line="49" column="35" />
-        <mark key="." line="49" column="35" />
-        <mark key="^" line="49" column="35" />
+      <file name="G:/projects/smart_meter_dva/src/components/Devices/DevicesList.tsx" timestamp="1507692923310">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/HomePage.tsx" timestamp="1503973609699">
         <mark key="[" line="3" column="45" />
@@ -371,7 +370,7 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="G:/projects/smart_meter_dva/node_modules/antd/lib/tree/style/index.css" timestamp="1507625765328">
+      <file name="G:/projects/smart_meter_dva/node_modules/antd/lib/tree/style/index.css" timestamp="1507693062221">
         <mark key="[" line="467" column="0" />
         <mark key="]" line="467" column="18" />
       </file>
@@ -525,25 +524,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBkZXZpY2VOb2RlcyA9IF8ubWFwKHJvb3QuZGV2aWNlcywgKGRldmljZSkgPT4gewogICAgICByZXR1cm4gKDxzcGFuIGtleT17ZGV2aWNlWydkZXZpY2Vfbm8nXX0+e2RldmljZVsnbmFtZSddfTwvc3Bhbj4pCiAgICB9KTsK</text>
+        <text encoding="base64">aW1wb3J0ICQgZnJvbSAnanF1ZXJ5JzsKaW1wb3J0ICogYXMgUmVhY3RET00gZnJvbSAicmVhY3QtZG9tIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CgogICAgbGV0IGRvbSA9IFJlYWN0RE9NLmZpbmRET01Ob2RlKHRoaXMucmVmcy5kZXZpY2VfdHJlZSk7CgogICAgJChkb20pLm9uKCJET01Ob2RlSW5zZXJ0ZWQiLCAoKSA9PiB7CgogICAgICBsZXQgc3BhbnMgPSAkKGRvbSkuZmluZCgic3Bhbi5hbnQtdHJlZS1zd2l0Y2hlci1ub29wIik7CgogICAgICBfLmZvckVhY2goc3BhbnMsIChzcGFuKSA9PiB7CiAgICAgIH0pCgogICAgfSkKCgogIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBkZXZpY2VOb2RlcyA9IF8ubWFwKHJvb3QuZGV2aWNlcywgKGRldmljZSkgPT4gewogICAgICByZXR1cm4gKDxzcGFuIGtleT17ZGV2aWNlWydkZXZpY2Vfbm8nXX0+e2RldmljZVsnbmFtZSddfTwvc3Bhbj4pCiAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkKHNwYW4pLnRleHQoIlxcRTY2NCIpCg==</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CgogICAgbGV0IGRvbSA9IFJlYWN0RE9NLmZpbmRET01Ob2RlKHRoaXMucmVmcy5kZXZpY2VfdHJlZSk7CgogICAgJChkb20pLm9uKCJET01Ob2RlSW5zZXJ0ZWQiLCAoKSA9PiB7CgogICAgICBsZXQgc3BhbnMgPSAkKGRvbSkuZmluZCgic3Bhbi5hbnQtdHJlZS1zd2l0Y2hlci1ub29wIik7CgogICAgICBfLmZvckVhY2goc3BhbnMsIChzcGFuKSA9PiB7CiAgICAgIH0pCgogICAgfSkKCgogIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKHNwYW4pLnRleHQoIlxcRTY2NCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
