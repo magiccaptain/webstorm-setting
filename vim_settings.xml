@@ -3,472 +3,591 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/App.jsx" timestamp="1499052488156">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="24" column="18" />
-      </file>
-      <file name="G:/projects/IntellMeter/MeterDataGather/src/test/unitTest.js" timestamp="1499408591534">
-        <mark key="[" line="14" column="42" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/wrappers/MuiThemeWrapper.js" timestamp="1499050689354">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/server.js" timestamp="1499518468488">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/wrappers/ResizeWrapper.jsx" timestamp="1499051393099">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/VisToolBar.jsx" timestamp="1498810755194">
-        <mark key="[" line="8" column="16" />
+      <file name="G:/projects/smart_meter_dva/src/utils/request.ts" timestamp="1507599336157">
+        <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
-        <mark key="^" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/providers/ResizeProvider.js" timestamp="1499049620327">
+      <file name="G:/projects/smart_meter_dva/src/models/devices.ts" timestamp="1507603651594">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/index.tsx" timestamp="1503987968489">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1505733781000">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="57" column="15" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.css" timestamp="1505806221767">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="5" />
+        <mark key="^" line="15" column="5" />
+        <mark key="." line="15" column="5" />
+      </file>
+      <file name="G:/projects/smart_meter_fullstack/server/routes/auth.ts" timestamp="1502176196636">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/routes/AuthRouter.ts" timestamp="1505732157941">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/tests/test_test.js" timestamp="1505120713619">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="G:/projects/smart_meter_fullstack/routes/index.ts" timestamp="1502093059883">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="36" />
+        <mark key="^" line="4" column="36" />
+      </file>
+      <file name="G:/projects/smart_meter_fullstack/client/dev_server/webpack.config.js" timestamp="1502154965266">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/routes/HomePage.css" timestamp="1503971963866">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/utils/aes-helper.ts" timestamp="1504676945174">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="20" column="54" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Users/Users.js" timestamp="1505187233223">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="67" column="37" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/routes/Login.ts" timestamp="1504251571582">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/node_modules/dva/router.d.ts" timestamp="1505788543542">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="12" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/utils/url.ts" timestamp="1504236785545">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="23" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/.babelrc" timestamp="1505121597060">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
+      </file>
+      <file name="G:/projects/smart_meter_fullstack/client/dev_server/index.html" timestamp="1502154812597">
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="13" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/server/server.ts" timestamp="1502163706739">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
-        <mark key="^" line="36" column="20" />
+      <file name="G:/projects/smart_meter_dva/karma.conf.js" timestamp="1505124232772">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/client/src/index.tsx" timestamp="1502162984464">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="G:/projects/smart_meter_dva/src/utils/oatuh.ts" timestamp="1503986825762">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/store.js" timestamp="1499315597115">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="10" />
-        <mark key="^" line="16" column="10" />
-        <mark key="." line="16" column="10" />
+      <file name="G:/projects/smart_meter_dva/node_modules/dva/index.d.ts" timestamp="1505266118248">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="38" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/routers/AppRouters.js" timestamp="1499051017288">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="36" column="73" />
-        <mark key="." line="9" column="0" />
+      <file name="G:/projects/smart_meter_fullstack/client/src/const/config.ts" timestamp="1502174696344">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/IntellMeter/MeterDataGather/src/test/test_meters.js" timestamp="1499408601355">
-        <mark key="[" line="44" column="20" />
-        <mark key="]" line="44" column="20" />
-        <mark key="." line="44" column="20" />
-        <mark key="^" line="44" column="20" />
+      <file name="G:/projects/smart_meter_fullstack/client/src/const/server_config.ts" timestamp="1502174798069">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/client/src/auth/helper.ts" timestamp="1502160703257">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1507601411191">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="." line="217" column="0" />
+        <mark key="^" line="218" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/webpack.config.js" timestamp="1502163470262">
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="54" />
-        <mark key="." line="12" column="54" />
-        <mark key="^" line="12" column="54" />
+      <file name="G:/projects/smart_meter_dva/src/models/app.ts" timestamp="1505812382239">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="53" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/client/main.jsx" timestamp="1499416021015">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AMap.js" timestamp="1499138933848">
-        <mark key="[" line="5" column="57" />
-        <mark key="]" line="5" column="56" />
-        <mark key="^" line="5" column="56" />
-        <mark key="." line="5" column="56" />
-      </file>
-      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" timestamp="1499437827501">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/app.ts" timestamp="1502161186546">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Actions.js" timestamp="1499411463508">
-        <mark key="[" line="90" column="21" />
-        <mark key="]" line="90" column="21" />
-        <mark key="^" line="96" column="19" />
-        <mark key="." line="90" column="21" />
-      </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/bin/server.ts" timestamp="1502161937834">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/IntellMeter/react-bmap/src/components/map.js" timestamp="1501572465742">
-        <mark key="[" line="156" column="17" />
-        <mark key="]" line="156" column="16" />
-        <mark key="." line="156" column="16" />
-        <mark key="^" line="156" column="16" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/server/main.js" timestamp="1499411528061">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="26" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/test/MeterSimulator.js" timestamp="1500560474488">
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="276" column="0" />
-        <mark key="." line="276" column="0" />
-        <mark key="^" line="10" column="32" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/redux/store.js" timestamp="1499047055465">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-        <mark key="^" line="14" column="10" />
-      </file>
-      <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/test/test_meters.js" timestamp="1500560456063">
-        <mark key="[" line="42" column="24" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/bin/www" timestamp="1502161876728">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="31" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceData.jsx" timestamp="1498653269936">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="34" column="33" />
-        <mark key="." line="34" column="0" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/actions/AddDevice.js" timestamp="1499246253607">
+      <file name="G:/projects/smart_meter_dva/src/routes/Login.tsx" timestamp="1505875128981">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="17" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/routers/AppRouters.js" timestamp="1499409833302">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="G:/projects/smart_meter_fullstack/webpack.config.js" timestamp="1503973559932">
+        <mark key="[" line="43" column="39" />
+        <mark key="]" line="43" column="45" />
+        <mark key="^" line="43" column="45" />
+        <mark key="." line="43" column="45" />
       </file>
-      <file name="G:/projects/IntellMeter/MeterDataGather/package.json" timestamp="1498722675942">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="9" column="18" />
+      <file name="G:/projects/smart_meter_fullstack/client/webpack.config.js" timestamp="1503987426993">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/adapters/ele_flowmeter_table.js" timestamp="1498703613026">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="G:/projects/smart_meter_dva/public/index.html" timestamp="1504255477214">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+        <mark key="." line="5" column="43" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/text/TextFieldWithValidation.jsx" timestamp="1499236244158">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="32" />
-        <mark key="^" line="31" column="32" />
+      <file name="G:/projects/smart_meter_dva/src/constants.ts" timestamp="1504060509708">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/valisations/device.js" timestamp="1499237022393">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="5" column="29" />
-        <mark key="^" line="5" column="29" />
-        <mark key="." line="5" column="29" />
+      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.tsx" timestamp="1505957699108">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="35" column="26" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/redux/reducers/viewport.js" timestamp="1499047795994">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="G:/projects/smart_meter_dva/tsconfig.json" timestamp="1505120965832">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DashBoard.js" timestamp="1499053667855">
+      <file name="G:/projects/smart_meter_dva/src/routes/Users.css" timestamp="1504072477104">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/global.d.ts" timestamp="1504065359861">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/services/users.js" timestamp="1504515162863">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="60" />
+        <mark key="." line="4" column="60" />
+        <mark key="^" line="4" column="60" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/utils/ace-helper.ts" timestamp="1504676685454">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/models/users.ts" timestamp="1507531870530">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.tsx" timestamp="1505806916872">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="22" column="50" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/config.ts" timestamp="1504676496422">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="6" column="58" />
+        <mark key="." line="6" column="58" />
+        <mark key="^" line="6" column="58" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/tests/tsconfig.json" timestamp="1505116630498">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.css" timestamp="1504582674963">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/routes/IndexPage.js" timestamp="1504064465351">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="15" column="35" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/services/devices.ts" timestamp="1507601630272">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+        <mark key="^" line="5" column="16" />
       </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/Router.jsx" timestamp="1499063052370">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="13" column="0" />
+      <file name="G:/projects/smart_meter_dva/src/routes/IndexPage.tsx" timestamp="1504751328853">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/client/src/auth/api.ts" timestamp="1502160765094">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="11" column="7" />
+      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.css" timestamp="1505805500528">
+        <mark key="'" line="8" column="15" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499437108532">
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="48" column="3" />
-        <mark key="." line="48" column="3" />
-        <mark key="^" line="48" column="3" />
+      <file name="G:/projects/smart_meter_fullstack/app.js" timestamp="1502089822854">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="6" column="31" />
       </file>
-      <file name="G:/projects/IntellMeter/MeterDataGather/src/unit.js" timestamp="1498634241386">
-        <mark key="[" line="46" column="32" />
-        <mark key="]" line="46" column="32" />
-        <mark key="^" line="46" column="32" />
-        <mark key="." line="46" column="32" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/DashBoard.js" timestamp="1499158683058">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="35" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="14" column="17" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/reducers/DashBoard.js" timestamp="1499158599907">
-        <mark key="[" line="5" column="45" />
-        <mark key="]" line="5" column="45" />
-        <mark key="." line="5" column="45" />
-        <mark key="^" line="5" column="45" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/utils/TimeHelper.js" timestamp="1498795583835">
-        <mark key="[" line="59" column="15" />
-        <mark key="]" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-        <mark key="^" line="59" column="22" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/client/main.css" timestamp="1499393180653">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-      </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/package.json" timestamp="1502162294895">
-        <mark key="[" line="7" column="115" />
-        <mark key="]" line="7" column="115" />
-        <mark key="^" line="7" column="115" />
-        <mark key="." line="7" column="115" />
-      </file>
-      <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" timestamp="1499441823049">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/adapters/ele_flowmeter_table.js" timestamp="1498703660016">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/Login.jsx" timestamp="1499048631636">
-        <mark key="[" line="39" column="53" />
-        <mark key="]" line="39" column="64" />
-        <mark key="^" line="39" column="64" />
-        <mark key="." line="39" column="64" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/MuiReactTable.jsx" timestamp="1499392319816">
-        <mark key="[" line="27" column="46" />
-        <mark key="]" line="27" column="45" />
-        <mark key="^" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-      </file>
-      <file name="G:/projects/IntellMeter/MeterDataGather/dist/parser.js" timestamp="1498722196405">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="17" />
-      </file>
-      <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/adapters/EFlowMeterTable.js" timestamp="1499318686847">
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="76" />
-        <mark key="." line="94" column="59" />
-        <mark key="^" line="94" column="59" />
-      </file>
-      <file name="$USER_HOME$/projects/smart_meter_fullstack/tsconfig.json" timestamp="1502162368622">
+      <file name="G:/projects/smart_meter_dva/src/routes/Login.css" timestamp="1505207003637">
         <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="13" column="1" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/routes/AuthRouter.tsx" timestamp="1505733412859">
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="22" column="20" />
+        <mark key="." line="22" column="20" />
+        <mark key="^" line="22" column="20" />
+      </file>
+      <file name="G:/projects/smart_meter_fullstack/client/src/index.tsx" timestamp="1503971015563">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Devices/DevicesList.tsx" timestamp="1507604439917">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/routes/HomePage.tsx" timestamp="1503973609699">
+        <mark key="[" line="3" column="45" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/package.json" timestamp="1505957689658">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="24" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/global.d.ts" timestamp="1503927349019">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/test/aouth-test.ts" timestamp="1503985055430">
+        <mark key="[" line="9" column="3" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/router.jsx" timestamp="1507603881460">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1507604358991">
+        <mark key="'" line="52" column="15" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="138" column="45" />
+        <mark key="^" line="138" column="45" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/router.ts" timestamp="1503927604793">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="27" column="1" />
+        <mark key="^" line="27" column="1" />
+        <mark key="." line="27" column="1" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Users/Users.css" timestamp="1503990435294">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
+      <file name="G:/projects/smart_meter_fullstack/auth/mongoModel.ts" timestamp="1502115821065">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/.roadhogrc" timestamp="1505111526210">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+        <mark key="^" line="8" column="3" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/tests/type_test.ts" timestamp="1505116818681">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_fullstack/package.json" timestamp="1503987863460">
+        <mark key="[" line="6" column="62" />
+        <mark key="]" line="6" column="88" />
+        <mark key="^" line="6" column="107" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1507604095376">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1507603959640">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/models/authorities.ts" timestamp="1507603538963">
+        <mark key="'" line="71" column="13" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="171" column="4" />
+        <mark key="^" line="100" column="19" />
+        <mark key="." line="152" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_fullstack/client/src/helper/fetch_helper.ts" timestamp="1503908752035">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="32" column="8" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/services/users.ts" timestamp="1503925095530">
+        <mark key="[" line="4" column="47" />
+        <mark key="]" line="4" column="52" />
+        <mark key="^" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1505282806545">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="30" column="14" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1504251622617">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="22" column="46" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/Devices/Devices.tsx" timestamp="1507603469571">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="14" column="12" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/doc/oauth-api.md" timestamp="1504756700674">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="48" column="1" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/constants.js" timestamp="1505784313380">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="64" />
+        <mark key="." line="1" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="24" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
-      <jump line="100" column="37" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
-      <jump line="9" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
-      <jump line="86" column="42" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
-      <jump line="154" column="29" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
-      <jump line="27" column="20" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" />
-      <jump line="44" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
-      <jump line="69" column="41" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
-      <jump line="52" column="33" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/reducers/AddDevice.js" />
-      <jump line="35" column="36" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
-      <jump line="106" column="51" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
-      <jump line="118" column="48" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/maps/PosPick.js" />
-      <jump line="179" column="20" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
-      <jump line="71" column="31" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/reducers/AddDevice.js" />
-      <jump line="63" column="34" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" />
-      <jump line="19" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" />
-      <jump line="23" column="30" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="0" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/DevicesTable.jsx" />
-      <jump line="265" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/DevicesTable.jsx" />
-      <jump line="36" column="1" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="6" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/DevicesTable.jsx" />
-      <jump line="8" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="45" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="10" column="15" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="32" column="11" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="47" column="28" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/routers/DashBoardRouters.js" />
-      <jump line="268" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/DevicesTable.jsx" />
-      <jump line="50" column="45" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="17" column="37" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/EFlowMeterDataTable.jsx" />
-      <jump line="19" column="19" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="21" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="30" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/api/devices.js" />
-      <jump line="61" column="21" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="53" column="16" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="64" column="36" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="51" column="16" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="31" column="30" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="11" column="16" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="26" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
-      <jump line="3" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
-      <jump line="16" column="28" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
-      <jump line="18" column="44" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
-      <jump line="11" column="22" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="12" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="34" column="8" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="41" column="8" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="115" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/AddDevice.jsx" />
-      <jump line="94" column="24" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
-      <jump line="57" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AddDevice.js" />
-      <jump line="60" column="45" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="58" column="67" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="64" column="13" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/maps/PosPick.js" />
-      <jump line="152" column="29" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/DevicesTable.jsx" />
-      <jump line="111" column="15" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="6" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/DevicesTable.js" />
-      <jump line="151" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/DevicesTable.jsx" />
-      <jump line="119" column="32" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="118" column="71" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="130" column="60" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="128" column="29" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="74" column="35" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="42" column="32" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Actions.js" />
-      <jump line="145" column="23" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="198" column="13" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="72" column="19" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Actions.js" />
-      <jump line="10" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Actions.js" />
-      <jump line="119" column="12" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="206" column="13" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="26" column="27" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="73" column="4" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Actions.js" />
-      <jump line="45" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/ActionTypes.js" />
-      <jump line="55" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/EFlowMeterDataTable.jsx" />
-      <jump line="107" column="9" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="68" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="120" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="207" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="40" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="97" column="39" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="150" column="16" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="59" column="19" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="113" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="58" column="11" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/api/devices.js" />
-      <jump line="209" column="39" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="88" column="55" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="7" column="7" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="123" column="24" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="110" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="211" column="0" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" />
-      <jump line="49" column="54" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/ActionTypes.js" />
-      <jump line="108" column="48" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="111" column="53" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Reducers.js" />
-      <jump line="222" column="3" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="48" column="3" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="111" column="36" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="21" column="42" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="55" column="12" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/DeviceDataAnalyse.jsx" />
-      <jump line="149" column="54" filename="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/routers/DashBoardRouters.js" />
-      <jump line="6" column="7" filename="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/view.jsx" />
-      <jump line="85" column="0" filename="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Connect.js" />
-      <jump line="12" column="34" filename="$USER_HOME$/projects/IntellMeter/MeterDataGather/dist/test/MeterSimulator.js" />
+      <jump line="23" column="15" filename="G:/projects/smart_meter_fullstack/app.ts" />
+      <jump line="1111" column="4" filename="G:/projects/smart_meter_fullstack/node_modules/@types/express-serve-static-core/index.d.ts" />
+      <jump line="8" column="0" filename="G:/projects/smart_meter_fullstack/app.ts" />
+      <jump line="56" column="2" filename="G:/projects/smart_meter_fullstack/auth/mongo_model.ts" />
+      <jump line="55" column="0" filename="G:/projects/smart_meter_fullstack/server/app.ts" />
+      <jump line="12" column="58" filename="G:/projects/smart_meter_dva/.roadhogrc" />
+      <jump line="63" column="0" filename="G:/projects/smart_meter_dva/node_modules/dva/fetch.d.ts" />
+      <jump line="21" column="2" filename="G:/projects/smart_meter_dva/node_modules/dva/fetch.d.ts" />
+      <jump line="24" column="2" filename="G:/projects/smart_meter_dva/node_modules/dva/fetch.d.ts" />
+      <jump line="80" column="36" filename="G:/projects/smart_meter_dva/node_modules/@types/node/index.d.ts" />
+      <jump line="54" column="22" filename="G:/projects/smart_meter_dva/src/components/Users/Users.js" />
+      <jump line="26" column="20" filename="G:/projects/smart_meter_dva/src/components/Users/Users.js" />
+      <jump line="48" column="0" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="107" column="25" filename="G:/projects/smart_meter_dva/node_modules/antd/lib/form/Form.d.ts" />
+      <jump line="29" column="24" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
+      <jump line="16" column="32" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="64" column="6" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
+      <jump line="21" column="0" filename="G:/projects/smart_meter_dva/src/components/Users/Users.js" />
+      <jump line="32" column="0" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="51" column="0" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
+      <jump line="50" column="0" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
+      <jump line="63" column="5" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
+      <jump line="3" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/js-cookie/index.d.ts" />
+      <jump line="12" column="0" filename="G:/projects/smart_meter_dva/src/utils/aes-helper.ts" />
+      <jump line="69" column="40" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="79" column="0" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="116" column="8" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="27" column="22" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
+      <jump line="152" column="0" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="153" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="67" column="0" filename="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" />
+      <jump line="5" column="0" filename="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" />
+      <jump line="14" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/glob/index.d.ts" />
+      <jump line="17" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/glob/index.d.ts" />
+      <jump line="21" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/glob/index.d.ts" />
+      <jump line="42" column="2" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="50" column="39" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="51" column="25" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="791" column="14" filename="G:/projects/smart_meter_dva/node_modules/@types/react/index.d.ts" />
+      <jump line="793" column="145" filename="G:/projects/smart_meter_dva/node_modules/@types/react/index.d.ts" />
+      <jump line="54" column="0" filename="G:/projects/smart_meter_dva/src/tests/test.ts" />
+      <jump line="161" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/log4js/index.d.ts" />
+      <jump line="0" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/log4js/index.d.ts" />
+      <jump line="2" column="17" filename="G:/projects/smart_meter_dva/src/tests/test.ts" />
+      <jump line="55" column="0" filename="G:/projects/smart_meter_dva/src/tests/test.ts" />
+      <jump line="78" column="0" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="74" column="23" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="62" column="2" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="66" column="43" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="70" column="37" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="71" column="39" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="80" column="13" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="81" column="19" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="86" column="0" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="85" column="47" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="88" column="26" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="93" column="23" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="94" column="2" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="95" column="19" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="102" column="13" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="106" column="6" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="108" column="6" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="109" column="25" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="132" column="33" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="52" column="15" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
+      <jump line="52" column="6" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="176" column="41" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="164" column="71" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="97" column="73" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="105" column="32" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="136" column="50" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="37" column="0" filename="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.tsx" />
+      <jump line="41" column="0" filename="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.tsx" />
+      <jump line="8" column="15" filename="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.css" />
+      <jump line="44" column="0" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
+      <jump line="71" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
+      <jump line="14" column="14" filename="G:/projects/smart_meter_dva/src/router.tsx" />
+      <jump line="51" column="24" filename="G:/projects/smart_meter_dva/src/router.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwoKaW50ZXJmYWNlICROQU1FJFByb3BzIHsKCn0KCmludGVyZmFjZSAkTkFNRSRTdGF0ZSB7Cgp9CgpjbGFzcyAkTkFNRSQgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQ8JE5BTUUkUHJvcHMsICROQU1FJFN0YXRlPiB7CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXY+JE5BTUU8L2Rpdj4KICAgICkKICB9Cn0KCmZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSkgewogIHJldHVybiB7fQp9CgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KG1hcFN0YXRlVG9Qcm9wcykoJE5BTUUkKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>哈哈</text>
       </register>
       <register name="/" type="4">
-        <text>haha</text>
+        <text>device</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBhZGRyID0gc2VydmVyLmFkZHJlc3MoKTsK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwoKaW50ZXJmYWNlICROQU1FJFByb3BzIHsKCn0KCmludGVyZmFjZSAkTkFNRSRTdGF0ZSB7Cgp9CgpjbGFzcyAkTkFNRSQgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQ8JE5BTUUkUHJvcHMsICROQU1FJFN0YXRlPiB7CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXY+JE5BTUU8L2Rpdj4KICAgICkKICB9Cn0KCmZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSkgewogIHJldHVybiB7fQp9CgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KG1hcFN0YXRlVG9Qcm9wcykoJE5BTUUkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoIkxpc3RlbmluZyBvbiAiICsgYWRkci5wb3J0KTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3Byb3RlY3RlZFJvdXRlKCIvZGV2aWNlcyIsIERldmljZXMpfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge3Byb3RlY3RlZFJvdXRlKCIvZGV2aWNlcyIsIERldmljZXMpfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIi4vanMvQHR5cGVzIiwK</text>
+        <text encoding="base64">Ly8gYXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>haha</last-search>
+      <last-search>device</last-search>
       <last-offset />
-      <last-pattern>haha</last-pattern>
+      <last-pattern>device</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>muiTH</entry>
-        <entry>mui</entry>
-        <entry>drap</entry>
-        <entry>drop</entry>
-        <entry>toolBar</entry>
-        <entry>tool</entry>
-        <entry>stact</entry>
-        <entry>static</entry>
-        <entry encoding="base64">XDxkZWZhdWx0UGFnZVNpemVkZWZhdWx0cGFnZVNpemVcPg==</entry>
-        <entry>media</entry>
-        <entry>Stepper</entry>
-        <entry>defaultValue</entry>
-        <entry>getMui</entry>
-        <entry>window</entry>
-        <entry>$</entry>
-        <entry>typeType</entry>
-        <entry>timeType</entry>
-        <entry>timePeriod</entry>
-        <entry>table</entry>
-        <entry>haha</entry>
+        <entry encoding="base64">XDxleHBvcnRcPg==</entry>
+        <entry>json</entry>
+        <entry>requi</entry>
+        <entry>create</entry>
+        <entry>auth</entry>
+        <entry>align</entry>
+        <entry>alignItems</entry>
+        <entry>saveToken</entry>
+        <entry>token</entry>
+        <entry>state</entry>
+        <entry>select</entry>
+        <entry>header</entry>
+        <entry>device</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -476,7 +595,7 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
@@ -484,56 +603,17 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>

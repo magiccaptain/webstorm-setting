@@ -1,8 +1,0 @@
-<templateSet group="MeterReact">
-  <template name="mrcomponent" value="import React, {Component, PropTypes} from 'react';&#10;import {createContainer} from 'meteor/react-meteor-data';&#10;&#10;class $NAME$ extends Component {&#10;&#10;    constructor(props) {&#10;        super(props);&#10;        this.state = {};&#10;    }&#10;&#10;    render() {&#10;        return (&#10;            &lt;div&gt;&lt;/div&gt;&#10;        )&#10;    }&#10;}&#10;&#10;$NAME$.propTypes = {};&#10;&#10;export default createContainer(()=&gt; {&#10;    return {};&#10;}, $NAME$)&#10;" description="新建一个 Meter React Class" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-</templateSet>
