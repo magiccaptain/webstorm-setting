@@ -14,11 +14,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="26" column="78" />
       </file>
-      <file name="G:/projects/smart_meter_dva/node_modules/antd/lib/tree/style/index.less" timestamp="1507694053841">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="191" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1507794684034">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,6 +54,13 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="37" />
       </file>
+      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.tsx" timestamp="1508229453992">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="35" column="26" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="35" column="26" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -68,6 +70,13 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.tsx" timestamp="1508229591602">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Devices.tsx" timestamp="1508202698074">
         <mark key="[" line="21" column="0" />
@@ -269,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>devices</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>devices</text>
       </register>
       <register name="/" type="4">
         <text>e645</text>
@@ -281,31 +290,31 @@
         <text encoding="base64">ICAgIGNvbnN0IG9uRWRpdENsaWNrID0gKGUpID0+IHsKICAgICAgbGV0IGtleSA9ICQoZS50YXJnZXQpLmZpbmQoInNwYW4uaGlkZS1kZXZpY2Uta2V5IikudGV4dCgpOwogICAgICBjb25zb2xlLmxvZyhgseC8rSR7a2V5fWApOwogICAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS50YXJnZXQuaW5uZXJIVE1MKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc3QgTWVudUl0ZW1Hcm91cCA9IE1lbnUuSXRlbUdyb3VwOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS50YXJnZXQuaW5uZXJIVE1MKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmRldmljZS1ub2RlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iamF2YXNjcmlwdDsiIHN0eWxlPXt7IGNvbG9yOiAicmVkIiB9fT7JvrP9PC9hPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmRldmljZS1ub2RlIC5vcGVyYXRvci1lZGl0IHsKfQoKLmRldmljZS1ub2RlIC5vcGVyYXRvci1kZWxldGUgewogIGNvbG9yOiByZWQ7Cn0K</text>
+        <text encoding="base64">LmRldmljZS1ub2RlIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgyb6z/Qo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgaHJlZj0iamF2YXNjcmlwdDsiIHN0eWxlPXt7IGNvbG9yOiAicmVkIiB9fT7JvrP9PC9hPgo=</text>
       </register>
     </registers>
     <search>
