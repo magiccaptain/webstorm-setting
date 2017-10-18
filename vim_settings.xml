@@ -144,8 +144,10 @@
         <mark key="^" line="138" column="45" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/components/Devices/DeviceTree.css" timestamp="1507697676719" />
-      <file name="/Dummy.txt" timestamp="1508230280004">
+      <file name="/Dummy.txt" timestamp="1508316584893">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/.roadhogrc" timestamp="1507697801529">
         <mark key="[" line="1" column="26" />
@@ -301,11 +303,11 @@
       <jump line="27" column="2" filename="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRfaXRlbTogbnVsbCwK</text>
+      <register name="&quot;" type="4">
+        <text>设备树状列表基本完成</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>设备树状列表基本完成</text>
       </register>
       <register name="/" type="4">
         <text>e645</text>
