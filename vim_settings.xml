@@ -80,12 +80,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.tsx" timestamp="1508296655406">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="4" column="22" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
+      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.tsx" timestamp="1508298218297">
+        <mark key="'" line="67" column="2" />
+        <mark key="[" line="40" column="50" />
+        <mark key="]" line="40" column="49" />
+        <mark key="." line="40" column="49" />
+        <mark key="^" line="40" column="49" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Devices.tsx" timestamp="1508202698074">
         <mark key="[" line="21" column="0" />
@@ -290,44 +290,47 @@
       <jump line="27" column="2" filename="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDEycHg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>icon-danganguanli</text>
       </register>
       <register name="-" type="4">
-        <text>.ant-menu-item .iconfont</text>
+        <text>icon-danganguanli</text>
       </register>
       <register name="/" type="4">
         <text>e645</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6IDEycHg7Cg==</text>
+        <text encoding="base64">ICB7CiAgICB0aXRsZTogIrW1sLi53MDtIiwKICAgIGljb246IDxpIGNsYXNzTmFtZT0iaWNvbmZvbnQgaWNvbi1kYW5nYW5ndWFubGkiLz4sCiAgICBjaGlsZHJlbjogW10sCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgeyB0aXRsZTogIsq1yrHJ6LG4IiwgbGluazogIi9kZXZpY2VzL3JlYWwtdGltZS1kZXZpY2VzIiB9LAogICAgICB7IHRpdGxlOiAiyeixuLXYzbwiLCBsaW5rOiAiL2RldmljZXMvZGV2aWNlcy1tYXAiIH0sCiAgICAgIHsgdGl0bGU6ICLJ6LG4udzA7SIsIGxpbms6ICIvZGV2aWNlcy9kZXZpY2VzLW1hbmdlciIgfSwKICAgICAgeyB0aXRsZTogIr6vsai0psDtIiwgbGluazogIi9kZXZpY2VzL2FsZXJ0cy1oYW5kbGUiIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgeyB0aXRsZTogIsq1yrHJ6LG4IiwgbGluazogIi9kZXZpY2VzL3JlYWwtdGltZS1kZXZpY2VzIiB9LAogICAgICB7IHRpdGxlOiAiyeixuLXYzbwiLCBsaW5rOiAiL2RldmljZXMvZGV2aWNlcy1tYXAiIH0sCiAgICAgIHsgdGl0bGU6ICLJ6LG4udzA7SIsIGxpbms6ICIvZGV2aWNlcy9kZXZpY2VzLW1hbmdlciIgfSwKICAgICAgeyB0aXRsZTogIr6vsai0psDtIiwgbGluazogIi9kZXZpY2VzL2FsZXJ0cy1oYW5kbGUiIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgeyB0aXRsZTogIsq1yrHJ6LG4IiwgbGluazogIi9kZXZpY2VzL3JlYWwtdGltZS1kZXZpY2VzIiB9LAogICAgICB7IHRpdGxlOiAiyeixuLXYzbwiLCBsaW5rOiAiL2RldmljZXMvZGV2aWNlcy1tYXAiIH0sCiAgICAgIHsgdGl0bGU6ICLJ6LG4udzA7SIsIGxpbms6ICIvZGV2aWNlcy9kZXZpY2VzLW1hbmdlciIgfSwKICAgICAgeyB0aXRsZTogIr6vsai0psDtIiwgbGluazogIi9kZXZpY2VzL2FsZXJ0cy1oYW5kbGUiIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB7CiAgICB0aXRsZTogIsq1yrG84L/YIiwKICAgIGljb246IDxpIGNsYXNzTmFtZT0iaWNvbmZvbnQgaWNvbi1kZXZpY2UiLz4sCiAgICBjaGlsZHJlbjogWwogICAgICB7IHRpdGxlOiAiyrXKscnosbgiLCBsaW5rOiAiL2RldmljZXMvcmVhbC10aW1lLWRldmljZXMiIH0sCiAgICAgIHsgdGl0bGU6ICLJ6LG4tdjNvCIsIGxpbms6ICIvZGV2aWNlcy9kZXZpY2VzLW1hcCIgfSwKICAgICAgeyB0aXRsZTogIsnosbi53MDtIiwgbGluazogIi9kZXZpY2VzL2RldmljZXMtbWFuZ2VyIiB9LAogICAgICB7IHRpdGxlOiAivq+xqLSmwO0iLCBsaW5rOiAiL2RldmljZXMvYWxlcnRzLWhhbmRsZSIgfSwKICAgIF0sCiAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobWVudSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>{
+            
+
+          }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1lbnVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxNZW51Lkl0ZW0ga2V5PSIiPjwvTWVudS5JdGVtPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtyZW5kZXJNZW51cygpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
