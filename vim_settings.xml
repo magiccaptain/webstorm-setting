@@ -233,9 +233,9 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.tsx" timestamp="1508392765713">
-        <mark key="[" line="63" column="35" />
-        <mark key="]" line="63" column="45" />
+      <file name="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.tsx" timestamp="1508398212390">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="58" column="0" />
         <mark key="." line="63" column="45" />
         <mark key="^" line="63" column="45" />
       </file>
@@ -574,7 +574,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>items</text>
+        <text>[
+  {
+    key: &quot;real_time_monitoring&quot;,
+    title: &quot;实时监控&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+  {
+    key: &quot;device_maintain&quot;,
+    title: &quot;设备维护&quot;,
+    default_tab: null,
+    tabs: [
+      // { title: &quot;实时设备&quot;, link: &quot;/devices/real-time-devices&quot; },
+      // { title: &quot;设备地图&quot;, link: &quot;/devices/devices-map&quot; },
+      // { title: &quot;设备管理&quot;, link: &quot;/devices/devices-manger&quot; },
+      // { title: &quot;警报处理&quot;, link: &quot;/devices/alerts-handle&quot; },
+    ],
+  },
+  {
+    key: &quot;analysis&quot;,
+    title: &quot;统计分析&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+  {
+    key: &quot;history&quot;,
+    title: &quot;历史查询&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+  {
+    key: &quot;archives&quot;,
+    title: &quot;档案管理&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+  {
+    key: &quot;system_setting&quot;,
+    title: &quot;系统设置&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+]</text>
       </register>
       <register name="-" type="4">
         <text>items</text>
@@ -582,8 +624,50 @@
       <register name="/" type="4">
         <text>e645</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB0aXRsZTogc3RyaW5nLAogIGtleTogc3RyaW5nLAogIGNvbnRlbnQ6IG9iamVjdCwK</text>
+      <register name="0" type="4">
+        <text>[
+  {
+    key: &quot;real_time_monitoring&quot;,
+    title: &quot;实时监控&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+  {
+    key: &quot;device_maintain&quot;,
+    title: &quot;设备维护&quot;,
+    default_tab: null,
+    tabs: [
+      // { title: &quot;实时设备&quot;, link: &quot;/devices/real-time-devices&quot; },
+      // { title: &quot;设备地图&quot;, link: &quot;/devices/devices-map&quot; },
+      // { title: &quot;设备管理&quot;, link: &quot;/devices/devices-manger&quot; },
+      // { title: &quot;警报处理&quot;, link: &quot;/devices/alerts-handle&quot; },
+    ],
+  },
+  {
+    key: &quot;analysis&quot;,
+    title: &quot;统计分析&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+  {
+    key: &quot;history&quot;,
+    title: &quot;历史查询&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+  {
+    key: &quot;archives&quot;,
+    title: &quot;档案管理&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+  {
+    key: &quot;system_setting&quot;,
+    title: &quot;系统设置&quot;,
+    default_tab: null,
+    tabs: [],
+  },
+]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjdQo=</text>
