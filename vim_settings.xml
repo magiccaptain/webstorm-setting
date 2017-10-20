@@ -122,6 +122,12 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/smart-meter-dva/src/components/MainLayout/Test.tsx.ts" timestamp="1508506770878">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/webpack.config.js" timestamp="1502163470262">
         <mark key="[" line="12" column="54" />
         <mark key="]" line="12" column="54" />
@@ -360,6 +366,11 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/smart-meter-dva/src/components/MainLayout/Const.tsx" timestamp="1508506830342">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/adapters/EFlowMeterTable.js" timestamp="1499318686847">
         <mark key="[" line="44" column="36" />
         <mark key="]" line="44" column="76" />
@@ -376,6 +387,11 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/smart-meter-dva/src/components/MainLayout/Define.ts" timestamp="1508506811600">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1505733781000">
         <mark key="'" line="12" column="0" />
@@ -501,6 +517,12 @@
         <mark key="]" line="35" column="26" />
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/smart-meter-dva/src/components/MainLayout/Headers.tsx" timestamp="1508506990434">
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="24" />
+        <mark key="." line="64" column="24" />
+        <mark key="^" line="64" column="24" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/bin/server.ts" timestamp="1502161937834">
         <mark key="[" line="14" column="20" />
@@ -822,10 +844,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>tabs_groups</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>tabs_groups</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
@@ -834,31 +856,31 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwoKaW50ZXJmYWNlICROQU1FJFByb3BzIHsKCn0KCmludGVyZmFjZSAkTkFNRSRTdGF0ZSB7Cgp9CgpjbGFzcyAkTkFNRSQgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQ8JE5BTUUkUHJvcHMsICROQU1FJFN0YXRlPiB7CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoCiAgICAgIDxkaXY+JE5BTUU8L2Rpdj4KICAgICkKICB9Cn0KCmZ1bmN0aW9uIG1hcFN0YXRlVG9Qcm9wcyhzdGF0ZSkgewogIHJldHVybiB7fQp9CgpleHBvcnQgZGVmYXVsdCBjb25uZWN0KG1hcFN0YXRlVG9Qcm9wcykoJE5BTUUkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZW5kZXIgbWVudXMiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaWNvbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgPGNvbnNvbGUgY2xhc3NOYW1lPSJsbyI+PC9jb25zb2xlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFRFU1Q9IHsKICAKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAge3Byb3RlY3RlZFJvdXRlKCIvZGV2aWNlcyIsIERldmljZXMpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAge3Byb3RlY3RlZFJvdXRlKCIvZGV2aWNlcyIsIERldmljZXMpfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gYXBwLm1vZGVsKHJlcXVpcmUoIi4vbW9kZWxzL2RldmljZXMiKSk7Cg==</text>
+        <text encoding="base64">d29yawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
