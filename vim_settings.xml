@@ -57,19 +57,11 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="G:/projects/smart_meter_dva/public/iconfont/demo_symbol.html" timestamp="1508293454418">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="38" />
-      </file>
       <file name="G:/projects/smart_meter_fullstack/webpack.config.js" timestamp="1503973559932">
         <mark key="[" line="43" column="39" />
         <mark key="]" line="43" column="45" />
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
-      </file>
-      <file name="G:/projects/smart_meter_dva/public/iconfont/iconfont.css" timestamp="1508295940715">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="36" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/client/webpack.config.js" timestamp="1503987426993">
         <mark key="[" line="8" column="0" />
@@ -261,7 +253,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1508725840638">
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1508728846408">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="0" />
@@ -280,6 +272,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="30" column="20" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="G:/projects/smart_meter_dva/src/tests/test.ts" timestamp="1508729581434">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/utils/ace-helper.ts" timestamp="1504676685454">
         <mark key="[" line="6" column="16" />
@@ -309,11 +307,10 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/services/state.ts" timestamp="1508726900466">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="20" column="23" />
+      <file name="G:/projects/smart_meter_dva/src/services/state.ts" timestamp="1508729662159">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/components/ContentTabsGroup/ContentTabsGroup.tsx" timestamp="1508381101045" />
       <file name="G:/projects/smart_meter_dva/src/routes/Devices.tsx" timestamp="1508202698074">
@@ -402,10 +399,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="G:/projects/smart_meter_dva/node_modules/antd/lib/tree/style/index.css" timestamp="1507693062221">
-        <mark key="[" line="467" column="0" />
-        <mark key="]" line="467" column="18" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -541,85 +534,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgcGF0aGVzID0gcGF0aC5zcGxpdCgiLiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>obj</text>
       </register>
       <register name="/" type="4">
         <text>e645</text>
       </register>
-      <register name="0" type="4">
-        <text>[
-  {
-    key: &quot;real_time_monitoring&quot;,
-    title: &quot;实时监控&quot;,
-    default_tab: null,
-    tabs: [],
-  },
-  {
-    key: &quot;device_maintain&quot;,
-    title: &quot;设备维护&quot;,
-    default_tab: null,
-    tabs: [
-      // { title: &quot;实时设备&quot;, link: &quot;/devices/real-time-devices&quot; },
-      // { title: &quot;设备地图&quot;, link: &quot;/devices/devices-map&quot; },
-      // { title: &quot;设备管理&quot;, link: &quot;/devices/devices-manger&quot; },
-      // { title: &quot;警报处理&quot;, link: &quot;/devices/alerts-handle&quot; },
-    ],
-  },
-  {
-    key: &quot;analysis&quot;,
-    title: &quot;统计分析&quot;,
-    default_tab: null,
-    tabs: [],
-  },
-  {
-    key: &quot;history&quot;,
-    title: &quot;历史查询&quot;,
-    default_tab: null,
-    tabs: [],
-  },
-  {
-    key: &quot;archives&quot;,
-    title: &quot;档案管理&quot;,
-    default_tab: null,
-    tabs: [],
-  },
-  {
-    key: &quot;system_setting&quot;,
-    title: &quot;系统设置&quot;,
-    default_tab: null,
-    tabs: [],
-  },
-]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCItLWVuZCCy4srUVVJMxqXF5CIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgcGF0aGVzID0gcGF0aC5zcGxpdCgiLiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBsZXQgcHVzaFN0YXRlID0ge307CiAgXy5zZXQocHVzaFN0YXRlLCBwYXRoLCBzdGF0ZSk7CiAgY29uc29sZS5sb2cocHVzaFN0YXRlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpdC5wdXNoCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYXRoZXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
