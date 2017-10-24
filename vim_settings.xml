@@ -260,11 +260,11 @@
         <mark key="." line="217" column="0" />
         <mark key="^" line="218" column="10" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/app.ts" timestamp="1508721528517">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
+      <file name="G:/projects/smart_meter_dva/src/models/app.ts" timestamp="1508830960757">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+        <mark key="^" line="8" column="29" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.tsx" timestamp="1508379597456">
         <mark key="'" line="43" column="0" />
@@ -534,10 +534,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgcGF0aGVzID0gcGF0aC5zcGxpdCgiLiIpOwo=</text>
+        <text encoding="base64">ICAgIHNldF9jdXJyZW50X2dyb3VwX2tleShzdGF0ZSwgeyBwYXlsb2FkOiB7IGN1cl90YWJzX2dyb3VwX2tleSB9IH0pIHsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBjdXJfdGFic19ncm91cF9rZXkKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>e645</text>
@@ -546,31 +546,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCItLWVuZCCy4srUVVJMxqXF5CIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgcGF0aGVzID0gcGF0aC5zcGxpdCgiLiIpOwo=</text>
+        <text encoding="base64">ICAgIHNldF9jdXJyZW50X2dyb3VwX2tleShzdGF0ZSwgeyBwYXlsb2FkOiB7IGN1cl90YWJzX2dyb3VwX2tleSB9IH0pIHsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBjdXJfdGFic19ncm91cF9rZXkKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgcHVzaFN0YXRlID0ge307CiAgXy5zZXQocHVzaFN0YXRlLCBwYXRoLCBzdGF0ZSk7CiAgY29uc29sZS5sb2cocHVzaFN0YXRlKQo=</text>
+        <text encoding="base64">ICAgIGN1cl90YWJzX2dyb3VwX2tleTogbnVsbCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBsZXQgcGF0aGVzID0gcGF0aC5zcGxpdCgiLiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBsZXQgcHVzaFN0YXRlID0ge307CiAgXy5zZXQocHVzaFN0YXRlLCBwYXRoLCBzdGF0ZSk7CiAgY29uc29sZS5sb2cocHVzaFN0YXRlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
