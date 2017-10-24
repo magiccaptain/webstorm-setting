@@ -15,7 +15,7 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/smart-meter-dva/src/config.ts" timestamp="1508073187285">
+      <file name="$USER_HOME$/projects/smart-meter-dva/src/config.ts" timestamp="1508854196171">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="40" />
         <mark key="." line="0" column="40" />
@@ -314,9 +314,9 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/smart-meter-dva/src/utils/oauth.ts" timestamp="1508853521133">
-        <mark key="[" line="64" column="21" />
-        <mark key="]" line="64" column="31" />
+      <file name="$USER_HOME$/projects/smart-meter-dva/src/utils/oauth.ts" timestamp="1508854455646">
+        <mark key="[" line="90" column="15" />
+        <mark key="]" line="90" column="24" />
       </file>
       <file name="G:/projects/smart_meter_dva/.roadhogrc" timestamp="1505111526210">
         <mark key="[" line="1" column="26" />
@@ -861,7 +861,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>oauth/token</text>
+        <text>grant_type</text>
       </register>
       <register name="-" type="4">
         <text>tabs_groups</text>
@@ -870,7 +870,7 @@
         <text>device</text>
       </register>
       <register name="0" type="4">
-        <text>oauth/token</text>
+        <text>grant_type</text>
       </register>
       <register name="1" type="4">
         <text>{
