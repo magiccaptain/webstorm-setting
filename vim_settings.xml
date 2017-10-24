@@ -260,9 +260,9 @@
         <mark key="." line="217" column="0" />
         <mark key="^" line="218" column="10" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/app.ts" timestamp="1508830960757">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="8" column="29" />
+      <file name="G:/projects/smart_meter_dva/src/models/app.ts" timestamp="1508833818950">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="23" />
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
@@ -533,8 +533,8 @@
       <jump line="35" column="0" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNldF9jdXJyZW50X2dyb3VwX2tleShzdGF0ZSwgeyBwYXlsb2FkOiB7IGN1cl90YWJzX2dyb3VwX2tleSB9IH0pIHsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBjdXJfdGFic19ncm91cF9rZXkKICAgICAgfQogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>cur_tabs_group_key</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -542,8 +542,8 @@
       <register name="/" type="4">
         <text>e645</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCItLWVuZCCy4srUVVJMxqXF5CIpOwo=</text>
+      <register name="0" type="4">
+        <text>cur_tabs_group_key</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNldF9jdXJyZW50X2dyb3VwX2tleShzdGF0ZSwgeyBwYXlsb2FkOiB7IGN1cl90YWJzX2dyb3VwX2tleSB9IH0pIHsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBjdXJfdGFic19ncm91cF9rZXkKICAgICAgfQogICAgfQo=</text>
