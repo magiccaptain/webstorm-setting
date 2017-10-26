@@ -26,6 +26,7 @@
         <mark key="^" line="42" column="37" />
         <mark key="." line="42" column="37" />
       </file>
+      <file name="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" timestamp="1509000933762" />
       <file name="G:/projects/smart_meter_fullstack/server/routes/auth.ts" timestamp="1502176196636">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="17" />
@@ -92,6 +93,7 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="G:/projects/smart_meter_dva/node_modules/dva-loading/src/index.js" timestamp="1509000999698" />
       <file name="G:/projects/smart_meter_dva/node_modules/dva/index.d.ts" timestamp="1505266118248">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="38" />
@@ -110,17 +112,17 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1508997889429">
+      <file name="G:/projects/smart_meter_dva/src/utils/oauth.ts" timestamp="1508999462931">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
         <mark key="^" line="218" column="10" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/models/app.ts" timestamp="1508894708494">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="G:/projects/smart_meter_dva/src/models/app.ts" timestamp="1509000728620">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/webpack.config.js" timestamp="1503973559932">
         <mark key="[" line="43" column="39" />
@@ -353,6 +355,7 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1508999936983" />
       <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1507798193123">
         <mark key="[" line="8" column="23" />
         <mark key="]" line="8" column="36" />
@@ -524,7 +527,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNldF9uCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -536,31 +539,31 @@
         <text>cur_tabs_group_key</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHNldF9uCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IHsKICAgICAgZ3JvdXBzOiA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgY3VyX3RhYnNfZ3JvdXBfa2V5OiBudWxsCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHNldF9jdXJyZW50X2dyb3VwX2tleShzdGF0ZSwgeyBwYXlsb2FkOiB7IGN1cl90YWJzX2dyb3VwX2tleSB9IH0pIHsKICAgICAgcmV0dXJuIHsKICAgICAgICAuLi5zdGF0ZSwKICAgICAgICBjdXJfdGFic19ncm91cF9rZXkKICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGN1cl90YWJzX2dyb3VwX2tleTogbnVsbCwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBsZXQgcGF0aGVzID0gcGF0aC5zcGxpdCgiLiIpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBsZXQgcHVzaFN0YXRlID0ge307CiAgXy5zZXQocHVzaFN0YXRlLCBwYXRoLCBzdGF0ZSk7CiAgY29uc29sZS5sb2cocHVzaFN0YXRlKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICBsZXQgcHVzaFN0YXRlID0ge307CiAgXy5zZXQocHVzaFN0YXRlLCBwYXRoLCBzdGF0ZSk7CiAgY29uc29sZS5sb2cocHVzaFN0YXRlKQo=</text>
       </register>
     </registers>
     <search>
