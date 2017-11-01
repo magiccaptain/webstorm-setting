@@ -315,7 +315,7 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/smart-meter-dva/src/utils/oauth.ts" timestamp="1509542699340">
+      <file name="$USER_HOME$/projects/smart-meter-dva/src/utils/oauth.ts" timestamp="1509543985608">
         <mark key="[" line="90" column="15" />
         <mark key="]" line="90" column="24" />
       </file>
@@ -353,11 +353,10 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/smart-meter-dva/src/services/state.ts" timestamp="1508763911759">
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="$USER_HOME$/projects/smart-meter-dva/src/services/state.ts" timestamp="1509544031422">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/Login.jsx" timestamp="1499048631636">
         <mark key="[" line="39" column="53" />
@@ -667,6 +666,9 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
+      <file name="/Dummy.txt" timestamp="1509543895702">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499437108532">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="48" column="3" />
@@ -861,8 +863,8 @@
       <jump line="51" column="24" filename="G:/projects/smart_meter_dva/src/router.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>grant_type</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>tabs_groups</text>
@@ -873,18 +875,18 @@
       <register name="0" type="4">
         <text>grant_type</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="4">
         <text>{
     }</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgZ3JvdXBzOiBbXSwK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY3VyX3RhYnNfZ3JvdXBfa2V5OiBudWxsCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3VyX3RhYnNfZ3JvdXBfa2V5OiBudWxsCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -893,13 +895,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZW5kZXIgbWVudXMiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaWNvbikK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZW5kZXIgbWVudXMiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGNvbnNvbGUgY2xhc3NOYW1lPSJsbyI+PC9jb25zb2xlPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaWNvbikK</text>
       </register>
     </registers>
     <search>
