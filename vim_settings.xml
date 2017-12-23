@@ -123,11 +123,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/main.ts" timestamp="1514040589694">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="26" />
-        <mark key="." line="15" column="26" />
-        <mark key="^" line="15" column="26" />
+      <file name="D:/projects/FRI/ServerShell/main.ts" timestamp="1514043623589">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="32" column="11" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/utils/oatuh.ts" timestamp="1503986825762">
         <mark key="[" line="4" column="8" />
@@ -565,7 +565,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
@@ -580,22 +580,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwcC5vbigncmVhZHknLCBjcmVhdGVXaW5kb3cpOwoKICAgIGFwcC5vbignd2luZG93LWFsbC1jbG9zZWQnLCAoKSA9PiB7CiAgICAgICAgaWYgKHByb2Nlc3MucGxhdGZvcm0gIT09ICdkYXJ3aW4nKSB7CiAgICAgICAgICAgIGFwcC5xdWl0KCkKICAgICAgICB9CiAgICB9KTsKCiAgICBhcHAub24oJ2FjdGl2YXRlJywgKCkgPT4gewogICAgICAgIC8vINTabWFjT1PJz6OstbG1pbv3ZG9ja828seqyosfSw7vT0Mbky/u0sL/atPK/qsqxo6wKICAgICAgICAvLyDNqLOj1NrTptPDs8zQ8tbQ1tjQwrS0vajSu7j2tLC/2qGjCiAgICAgICAgaWYgKHdpbiA9PT0gbnVsbCkgewogICAgICAgICAgICBjcmVhdGVXaW5kb3coKQogICAgICAgIH0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpbi5zZXRNZW51KG51bGwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBmcmFtZTogZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzbGFzZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZWxlY3Ryb24gZnJvbSAnZWxlY3Ryb24nCg==</text>
+        <text encoding="base64">ICAgIGFwcC5vbigncmVhZHknLCBjcmVhdGVXaW5kb3cpOwoKICAgIGFwcC5vbignd2luZG93LWFsbC1jbG9zZWQnLCAoKSA9PiB7CiAgICAgICAgaWYgKHByb2Nlc3MucGxhdGZvcm0gIT09ICdkYXJ3aW4nKSB7CiAgICAgICAgICAgIGFwcC5xdWl0KCkKICAgICAgICB9CiAgICB9KTsKCiAgICBhcHAub24oJ2FjdGl2YXRlJywgKCkgPT4gewogICAgICAgIC8vINTabWFjT1PJz6OstbG1pbv3ZG9ja828seqyosfSw7vT0Mbky/u0sL/atPK/qsqxo6wKICAgICAgICAvLyDNqLOj1NrTptPDs8zQ8tbQ1tjQwrS0vajSu7j2tLC/2qGjCiAgICAgICAgaWYgKHdpbiA9PT0gbnVsbCkgewogICAgICAgICAgICBjcmVhdGVXaW5kb3coKQogICAgICAgIH0KICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
