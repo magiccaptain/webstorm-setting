@@ -26,10 +26,11 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/node_modules/@types/dva/router.d.ts" timestamp="1514110344098">
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/dva/router.d.ts" timestamp="1514111896060">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="62" column="21" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/server/routes/auth.ts" timestamp="1502176196636">
         <mark key="[" line="11" column="13" />
@@ -73,6 +74,7 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/react-router-redux/package.json" timestamp="1514111616980" />
       <file name="G:/projects/smart_meter_dva/node_modules/dva/router.d.ts" timestamp="1505788543542">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
@@ -90,10 +92,11 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/package.json" timestamp="1514046483047">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="D:/projects/FRI/ServerShell/package.json" timestamp="1514111807236">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/client/dev_server/index.html" timestamp="1502154812597">
         <mark key="[" line="8" column="0" />
@@ -153,8 +156,8 @@
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/@types/dva/router.d.ts" timestamp="1514110373168">
-        <mark key="'" line="0" column="0" />
+      <file name="D:/projects/FRI/ServerShell/@types/dva/router.d.ts" timestamp="1514111893587">
+        <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="62" column="21" />
         <mark key="." line="34" column="0" />
@@ -218,6 +221,9 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/src/models/project.ts" timestamp="1514113862450">
+        <mark key="[" line="4" column="12" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -252,7 +258,7 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/src/routes.tsx" timestamp="1514110302812">
+      <file name="D:/projects/FRI/ServerShell/src/routes.tsx" timestamp="1514113548303">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="39" />
         <mark key="." line="2" column="39" />
@@ -281,6 +287,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/dva/index.d.ts" timestamp="1514112743908">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="9" column="38" />
+        <mark key="^" line="9" column="38" />
+        <mark key="." line="9" column="38" />
+      </file>
       <file name="G:/projects/smart_meter_fullstack/app.js" timestamp="1502089822854">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="31" />
@@ -299,6 +311,8 @@
         <mark key="." line="22" column="20" />
         <mark key="^" line="22" column="20" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/dva/README.md" timestamp="1514112015328" />
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/dva/package.json" timestamp="1514111959435" />
       <file name="G:/projects/smart_meter_fullstack/client/src/index.tsx" timestamp="1503971015563">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="18" />
@@ -343,10 +357,12 @@
       <file name="/JavaScript Console" timestamp="1513959065597">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/node_modules/@types/react-router-redux/index.d.ts" timestamp="1514110027036">
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/react-router-redux/index.d.ts" timestamp="1514113024997">
+        <mark key="'" line="39" column="17" />
         <mark key="[" line="30" column="17" />
         <mark key="]" line="30" column="27" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/node_modules/dva/src/dynamic.js" timestamp="1514112553550" />
       <file name="G:/projects/smart_meter_dva/src/router.ts" timestamp="1503927604793">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="27" column="1" />
@@ -416,6 +432,13 @@
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/dva/dynamic.d.ts" timestamp="1514113752955">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="50" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/react/package.json" timestamp="1514111764823" />
       <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1505282806545">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -444,6 +467,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="64" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/projects/FRI/ServerShell/src/models/projects.ts" timestamp="1514113892920">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -526,14 +554,15 @@
       <jump line="14" column="14" filename="G:/projects/smart_meter_dva/src/router.tsx" />
       <jump line="51" column="24" filename="G:/projects/smart_meter_dva/src/router.tsx" />
       <jump line="6" column="18" filename="D:/projects/FRI/ServerShell/package.json" />
-      <jump line="0" column="0" filename="D:/projects/FRI/ServerShell/@types/dva/router.d.ts" />
+      <jump line="39" column="17" filename="D:/projects/FRI/ServerShell/node_modules/@types/react-router-redux/index.d.ts" />
+      <jump line="0" column="7" filename="D:/projects/FRI/ServerShell/@types/dva/router.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICAgIFJvdXRlckNoaWxkQ29udGV4dCwKICAgIE1lbW9yeVJvdXRlclByb3BzLAogICAgTWVtb3J5Um91dGVyLAogICAgUHJvbXB0UHJvcHMsCiAgICBQcm9tcHQsCiAgICBSZWRpcmVjdFByb3BzLAogICAgUmVkaXJlY3QsCiAgICBSb3V0ZUNvbXBvbmVudFByb3BzLAogICAgUm91dGVQcm9wcywKICAgIFJvdXRlclByb3BzLAogICAgUm91dGUsCiAgICBSb3V0ZXIsCiAgICBTdGF0aWNSb3V0ZXIsCiAgICBTdGF0aWNSb3V0ZXJQcm9wcywKICAgIFN3aXRjaCwKICAgIFN3aXRjaFByb3BzLAogICAgRGlmZiwKICAgIE9taXQsCiAgICBtYXRjaFBhdGgsCiAgICBtYXRjaCwKICAgIHdpdGhSb3V0ZXIsCn0gZnJvbSAncmVhY3Qtcm91dGVyJwoKaW1wb3J0ICogYXMgcmQgZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4JwoKaW50ZXJmYWNlIHJvdXRlclJlZHV4IHsKICAgIHB1c2g6IHR5cGVvZiByZC5wdXNoCiAgICByZXBsYWNlOiB0eXBlb2YgcmQucmVwbGFjZQogICAgZ286IHR5cGVvZiByZC5nbwogICAgZ29CYWNrOiB0eXBlb2YgcmQuZ29CYWNrCiAgICBnb0ZvcndhcmQ6IHR5cGVvZiByZC5nb0ZvcndhcmQKICAgIExvY2F0aW9uQWN0aW9uUGF5bG9hZDogcmQuTG9jYXRpb25BY3Rpb25QYXlsb2FkCiAgICBSb3V0ZXJBY3Rpb246IHJkLlJvdXRlckFjdGlvbgp9CgpleHBvcnQgY29uc3Qgcm91dGVyUmVkdXg6IHJvdXRlclJlZHV4CgpleHBvcnQgewogICAgUm91dGVyQ2hpbGRDb250ZXh0LAogICAgTWVtb3J5Um91dGVyUHJvcHMsCiAgICBNZW1vcnlSb3V0ZXIsCiAgICBQcm9tcHRQcm9wcywKICAgIFByb21wdCwKICAgIFJlZGlyZWN0UHJvcHMsCiAgICBSZWRpcmVjdCwKICAgIFJvdXRlQ29tcG9uZW50UHJvcHMsCiAgICBSb3V0ZVByb3BzLAogICAgUm91dGVyUHJvcHMsCiAgICBSb3V0ZSwKICAgIFJvdXRlciwKICAgIFN0YXRpY1JvdXRlciwKICAgIFN0YXRpY1JvdXRlclByb3BzLAogICAgU3dpdGNoLAogICAgU3dpdGNoUHJvcHMsCiAgICBEaWZmLAogICAgT21pdCwKICAgIG1hdGNoUGF0aCwKICAgIG1hdGNoLAogICAgd2l0aFJvdXRlciwKfQoKZXhwb3J0IGRlZmF1bHQgUm91dGVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
@@ -542,31 +571,33 @@
         <text encoding="base64">aW1wb3J0IHsKICAgIFJvdXRlckNoaWxkQ29udGV4dCwKICAgIE1lbW9yeVJvdXRlclByb3BzLAogICAgTWVtb3J5Um91dGVyLAogICAgUHJvbXB0UHJvcHMsCiAgICBQcm9tcHQsCiAgICBSZWRpcmVjdFByb3BzLAogICAgUmVkaXJlY3QsCiAgICBSb3V0ZUNvbXBvbmVudFByb3BzLAogICAgUm91dGVQcm9wcywKICAgIFJvdXRlclByb3BzLAogICAgUm91dGUsCiAgICBSb3V0ZXIsCiAgICBTdGF0aWNSb3V0ZXIsCiAgICBTdGF0aWNSb3V0ZXJQcm9wcywKICAgIFN3aXRjaCwKICAgIFN3aXRjaFByb3BzLAogICAgRGlmZiwKICAgIE9taXQsCiAgICBtYXRjaFBhdGgsCiAgICBtYXRjaCwKICAgIHdpdGhSb3V0ZXIsCn0gZnJvbSAncmVhY3Qtcm91dGVyJwoKaW1wb3J0ICogYXMgcmQgZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4JwoKaW50ZXJmYWNlIHJvdXRlclJlZHV4IHsKICAgIHB1c2g6IHR5cGVvZiByZC5wdXNoCiAgICByZXBsYWNlOiB0eXBlb2YgcmQucmVwbGFjZQogICAgZ286IHR5cGVvZiByZC5nbwogICAgZ29CYWNrOiB0eXBlb2YgcmQuZ29CYWNrCiAgICBnb0ZvcndhcmQ6IHR5cGVvZiByZC5nb0ZvcndhcmQKICAgIExvY2F0aW9uQWN0aW9uUGF5bG9hZDogcmQuTG9jYXRpb25BY3Rpb25QYXlsb2FkCiAgICBSb3V0ZXJBY3Rpb246IHJkLlJvdXRlckFjdGlvbgp9CgpleHBvcnQgY29uc3Qgcm91dGVyUmVkdXg6IHJvdXRlclJlZHV4CgpleHBvcnQgewogICAgUm91dGVyQ2hpbGRDb250ZXh0LAogICAgTWVtb3J5Um91dGVyUHJvcHMsCiAgICBNZW1vcnlSb3V0ZXIsCiAgICBQcm9tcHRQcm9wcywKICAgIFByb21wdCwKICAgIFJlZGlyZWN0UHJvcHMsCiAgICBSZWRpcmVjdCwKICAgIFJvdXRlQ29tcG9uZW50UHJvcHMsCiAgICBSb3V0ZVByb3BzLAogICAgUm91dGVyUHJvcHMsCiAgICBSb3V0ZSwKICAgIFJvdXRlciwKICAgIFN0YXRpY1JvdXRlciwKICAgIFN0YXRpY1JvdXRlclByb3BzLAogICAgU3dpdGNoLAogICAgU3dpdGNoUHJvcHMsCiAgICBEaWZmLAogICAgT21pdCwKICAgIG1hdGNoUGF0aCwKICAgIG1hdGNoLAogICAgd2l0aFJvdXRlciwKfQoKZXhwb3J0IGRlZmF1bHQgUm91dGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZSwgU3dpdGNofSBmcm9tICdyZWFjdC1yb3V0ZXInOwppbXBvcnQgKiBhcyByb3V0ZXJSZWR1eCBmcm9tICdyZWFjdC1yb3V0ZXItcmVkdXgnCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogICAgbmFtZXNwYWNlOiAncHJvamVjdCcsCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>{
+
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IHJvdXRlclJlZHV4Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbXBvbmVudDogUmVhY3RDCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJvdXRlciwK</text>
+        <text encoding="base64">ICAgIGFwcDogRHZhSW5zdGFuY2UsCgo=</text>
       </register>
     </registers>
     <search>
