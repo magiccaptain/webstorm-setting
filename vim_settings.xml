@@ -51,7 +51,6 @@
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/node_modules/@types/react-router-redux/package.json" timestamp="1514111616980" />
       <file name="G:/projects/smart_meter_dva/.babelrc" timestamp="1505121597060">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -86,10 +85,11 @@
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/src/index.ts" timestamp="1514044922541">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/projects/FRI/ServerShell/src/index.ts" timestamp="1514127446075">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/client/webpack.config.js" timestamp="1503987426993">
         <mark key="[" line="8" column="0" />
@@ -97,7 +97,6 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="D:/projects/SmartMeter/smart-meter-dva/tsconfig.json" timestamp="1514124641752" />
       <file name="G:/projects/smart_meter_dva/src/constants.ts" timestamp="1504060509708">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
@@ -128,8 +127,6 @@
         <mark key="." line="4" column="60" />
         <mark key="^" line="4" column="60" />
       </file>
-      <file name="D:/projects/SmartMeter/smart-meter-dva/src/routes/Devices.tsx" timestamp="1514118051131" />
-      <file name="D:/projects/SmartMeter/smart-meter-dva/src/models/devices.ts" timestamp="1514118096661" />
       <file name="G:/projects/smart_meter_dva/src/tests/tsconfig.json" timestamp="1505116630498">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="26" />
@@ -147,13 +144,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/src/routes.tsx" timestamp="1514126463490">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="19" column="25" />
+      <file name="D:/projects/FRI/ServerShell/src/routes.tsx" timestamp="1514127136249">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/generated/manage_pb.d.ts" timestamp="1514121624394" />
       <file name="G:/projects/smart_meter_dva/src/routes/IndexPage.js" timestamp="1504064465351">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -172,6 +168,7 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/react-router/node_modules/@types/react/index.d.ts" timestamp="1514126659934" />
       <file name="G:/projects/smart_meter_fullstack/app.js" timestamp="1502089822854">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="31" />
@@ -184,8 +181,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/node_modules/@types/dva/README.md" timestamp="1514112015328" />
-      <file name="D:/projects/SmartMeter/smart-meter-dva/node_modules/dva/index.d.ts" timestamp="1514125254953" />
       <file name="G:/projects/smart_meter_fullstack/client/src/index.tsx" timestamp="1503971015563">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="24" column="18" />
@@ -210,16 +205,17 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="D:/projects/SmartMeter/smart-meter-dva/src/routes/IndexPage.tsx" timestamp="1514125653649" />
-      <file name="D:/projects/FRI/ServerShell/src/routes/IndexPage.jsx" timestamp="1514125588515" />
-      <file name="D:/projects/FRI/ServerShell/node_modules/dva/src/dynamic.js" timestamp="1514112553550" />
+      <file name="D:/projects/SmartMeter/smart-meter-dva/src/index.ts" timestamp="1514127228671" />
       <file name="G:/projects/smart_meter_dva/src/components/Users/Users.css" timestamp="1503990435294">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="D:/projects/SmartMeter/smart-meter-dva/src/router.jsx" timestamp="1514125346146" />
+      <file name="D:/projects/SmartMeter/smart-meter-dva/global.d.ts" timestamp="1514127284199">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="1" />
+      </file>
       <file name="G:/projects/smart_meter_dva/.roadhogrc" timestamp="1505111526210">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="8" column="3" />
@@ -231,26 +227,25 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/src/pbs/manage_pb.js" timestamp="1514123060611" />
       <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1507603959640">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/projects/SmartMeter/smart-meter-dva/src/models/users.js" timestamp="1514124652555" />
       <file name="D:/projects/FRI/ServerShell/src/services/fri-rep-client.js" timestamp="1514123336612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/projects/SmartMeter/smart-meter-dva/.roadhogrc" timestamp="1514127503638" />
+      <file name="D:/projects/FRI/ServerShell/src/routes.js" timestamp="1514127035796" />
       <file name="D:/projects/FRI/ServerShell/node_modules/@types/dva/dynamic.d.ts" timestamp="1514125360748">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="30" />
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/node_modules/@types/react/package.json" timestamp="1514111764823" />
       <file name="G:/projects/smart_meter_dva/src/components/Devices/Devices.tsx" timestamp="1507603469571">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -274,8 +269,6 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/src/pbs/manage_pb_service.ts" timestamp="1514122854003" />
-      <file name="D:/projects/FRI/ServerShell/src/models/accesses.js" timestamp="1514124669985" />
       <file name="G:/projects/smart_meter_fullstack/client/dev_server/webpack.config.js" timestamp="1502154965266">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="31" />
@@ -306,11 +299,11 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/package.json" timestamp="1514126549478">
+      <file name="D:/projects/FRI/ServerShell/package.json" timestamp="1514126959655">
         <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="37" />
-        <mark key="." line="11" column="0" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="7" column="22" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/projects/FRI/ServerShell/main.ts" timestamp="1514044600260">
         <mark key="[" line="22" column="0" />
@@ -341,15 +334,13 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/src/pbs/manage_pb.d.ts" timestamp="1514122717211" />
-      <file name="D:/projects/SmartMeter/smart-meter-dva/src/services/oauth.ts" timestamp="1514114067755" />
       <file name="D:/projects/FRI/ServerShell/@types/dva/dynamic.d.ts" timestamp="1514124937416">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="9" column="51" />
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/src/routes/IndexPage.tsx" timestamp="1514125661574">
+      <file name="D:/projects/FRI/ServerShell/src/routes/IndexPage.tsx" timestamp="1514126747202">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="35" />
         <mark key="^" line="11" column="35" />
@@ -361,6 +352,7 @@
         <mark key="^" line="5" column="43" />
         <mark key="." line="5" column="43" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/src/routes.jsx" timestamp="1514127114599" />
       <file name="D:/projects/FRI/ServerShell/src/main.ts" timestamp="1514042359171">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -389,7 +381,6 @@
         <mark key="." line="6" column="58" />
         <mark key="^" line="6" column="58" />
       </file>
-      <file name="D:/projects/SmartMeter/smart-meter-dva/src/models/users.ts" timestamp="1514123978955" />
       <file name="G:/projects/smart_meter_dva/src/services/devices.ts" timestamp="1507601630272">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -418,6 +409,11 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
+      </file>
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/dva/package.json" timestamp="1514126884251">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/projects/FRI/ServerShell/src/models/access.ts" timestamp="1514118502676">
         <mark key="[" line="3" column="22" />
@@ -454,6 +450,8 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/node_modules/dva/dynamic.js" timestamp="1514127095948" />
+      <file name="D:/projects/FRI/ServerShell/src/index.js" timestamp="1514127447732" />
       <file name="G:/projects/smart_meter_dva/src/router.ts" timestamp="1503927604793">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="27" column="1" />
@@ -481,7 +479,6 @@
         <mark key="]" line="15" column="39" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/projects/SmartMeter/smart-meter-dva/src/router.tsx" timestamp="1514125386849" />
       <file name="D:/projects/FRI/ServerShell/src/main.tsx" timestamp="1514044725560">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -500,6 +497,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="32" column="8" />
       </file>
+      <file name="D:/projects/SmartMeter/smart-meter-dva/node_modules/dva/router.d.ts" timestamp="1514126821795" />
       <file name="G:/projects/smart_meter_dva/src/services/users.ts" timestamp="1503925095530">
         <mark key="[" line="4" column="47" />
         <mark key="]" line="4" column="52" />
@@ -529,7 +527,7 @@
         <mark key="]" line="3" column="64" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/src/models/projects.ts" timestamp="1514124771483">
+      <file name="D:/projects/FRI/ServerShell/src/models/projects.ts" timestamp="1514127343365">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="12" column="3" />
@@ -621,43 +619,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3Qtcm91dGVyIjogIl40LjAuMjAiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhY3QgZnJvbSAncmVhY3QnOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVjbGFyZSB2YXIgcmVxdWlyZTogewogIDxUPihwYXRoOiBzdHJpbmcpOiBUOwogIChwYXRoczogc3RyaW5nW10sIGNhbGxiYWNrOiAoLi4ubW9kdWxlczogYW55W10pID0+IHZvaWQpOiB2b2lkOwogIGVuc3VyZTogKHBhdGhzOiBzdHJpbmdbXSwgY2FsbGJhY2s6IChyZXF1aXJlOiA8VD4ocGF0aDogc3RyaW5nKSA9PiBUKSA9PiB2b2lkKSA9PiB2b2lkOwp9Ow==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3Qtcm91dGVyIjogIl40LjAuMjAiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">YXBwLnVzZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZXIsIFN3aXRjaCwgUm91dGV9IGZyb20gImR2YS9yb3V0ZXIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSb3V0ZSBleGFjdCBwYXRoPSIvdXNlcnMiIGNvbXBvbmVudD17VXNlcnN9Lz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGVyIGhpc3Rvcnk9e2hpc3Rvcnl9PgogICAgICAgICAgICA8U3dpdGNoPgogICAgICAgICAgICAgICAgPFJvdXRlIGV4YWN0IHBhdGg9Ii8iIGNvbXBvbmVudD17SW5kZXhQYWdlfX0vPgogICAgICAgIDwvU3dpdGNoPgo8L1JvdXRlcj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtSb3V0ZX0gZnJvbSAicmVhY3Qtcm91dGVyIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8L1JvdXRlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJvdXRlIGV4YWN0IHBhdGg9Ii8iIGNvbXBvbmVudD17SW5kZXhQYWdlfS8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3Qtcm91dGVyIjogIl40LjAuMjAiLAo=</text>
       </register>
     </registers>
     <search>
@@ -713,6 +711,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
