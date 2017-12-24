@@ -150,6 +150,11 @@
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
+      <file name="D:/projects/FRI/ServerShell/@types/dva/router.d.ts" timestamp="1514110030464">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="D:/projects/FRI/ServerShell/src/index.ts" timestamp="1514044922541">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -238,15 +243,17 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/tsconfig.json" timestamp="1514044768769">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="D:/projects/FRI/ServerShell/tsconfig.json" timestamp="1514110057350">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/src/routes.tsx" timestamp="1514046770523">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="D:/projects/FRI/ServerShell/src/routes.tsx" timestamp="1514110105255">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/IndexPage.js" timestamp="1504064465351">
         <mark key="[" line="17" column="0" />
@@ -333,7 +340,10 @@
       <file name="/JavaScript Console" timestamp="1513959065597">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/projects/FRI/ServerShell/node_modules/@types/react-router-redux/index.d.ts" timestamp="1514047130129" />
+      <file name="D:/projects/FRI/ServerShell/node_modules/@types/react-router-redux/index.d.ts" timestamp="1514110027036">
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="30" column="27" />
+      </file>
       <file name="D:/projects/FRI/ServerShell/node_modules/@types/react-router-dom/index.d.ts" timestamp="1514046827881" />
       <file name="G:/projects/smart_meter_dva/src/router.ts" timestamp="1503927604793">
         <mark key="[" line="22" column="34" />
@@ -518,43 +528,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtSb3V0ZSwgU3dpdGNofSBmcm9tICdyZWFjdC1yb3V0ZXInOwppbXBvcnQgKiBhcyByb3V0ZXJSZWR1eCBmcm9tICdyZWFjdC1yb3V0ZXItcmVkdXgnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>typeof rd.LOCATION_CHANGE</text>
       </register>
       <register name="/" type="4">
         <text>device</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHtjb25uZWN0fSBmcm9tICdkdmEnOwo=</text>
+      <register name="0" type="4">
+        <text>RouterState</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtSb3V0ZSwgU3dpdGNofSBmcm9tICdyZWFjdC1yb3V0ZXInOwppbXBvcnQgKiBhcyByb3V0ZXJSZWR1eCBmcm9tICdyZWFjdC1yb3V0ZXItcmVkdXgnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qge0Nvbm5lY3RlZFJvdXRlcn0gPSByb3V0ZXJSZWR1eDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3Qtcm91dGVyLWRvbSI6ICJeNC4yLjMiLAogICAgIkB0eXBlcy9yZWFjdC1yb3V0ZXItcmVkdXgiOiAiXjUuMC4xMSIsCiAgICAiQHR5cGVzL3JlYWN0IjogIl4xNS54IiwKICAgICJkdmEiOiAiXjIuMS4wIiwKICAgICJlbGVjdHJvbiI6ICJeMS43LjEwIiwKICAgICJwcm9wLXR5cGVzIjogIl4xNS42LjAiLAogICAgInJlYWN0IjogIl4xNS54IiwKICAgICJyZWFjdC1kb20iOiAiMTUueCIsCiAgICAicmVkdXgiOiAiMy54Igo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QiOiAiXjE1LngiLAogICAgImR2YSI6ICJeMi4xLjAiLAogICAgImVsZWN0cm9uIjogIl4xLjcuMTAiLAogICAgInByb3AtdHlwZXMiOiAiXjE1LjYuMCIsCiAgICAicmVhY3QiOiAiXjE1LngiLAogICAgInJlYWN0LWRvbSI6ICIxNS54IiwKICAgICJyZWR1eCI6ICIzLngiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICAgIAp9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IHJvdXRlclJlZHV4Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHtyb3V0ZXJSZWR1eCwgUm91dGUsIFN3aXRjaH0gZnJvbSAnZHZhL3JvdXRlcicK</text>
+        <text encoding="base64">ICAgIFJvdXRlciwK</text>
       </register>
     </registers>
     <search>
