@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="proto" type="Native" />
+      <mapping pattern=".proto" type="PROTO" />
     </extensionMap>
   </component>
 </application>
