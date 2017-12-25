@@ -47,17 +47,19 @@
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri_rep_manage.ts" timestamp="1514181289275">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/node_modules/electron-builder-lib/out/util/packageDependencies.js" timestamp="1514189776152" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.ts" timestamp="1514181953408">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514183692489">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="33" column="39" />
-        <mark key="." line="33" column="39" />
-        <mark key="^" line="33" column="39" />
+      <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514192056102">
+        <mark key="'" line="58" column="12" />
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+        <mark key="^" line="16" column="40" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.ts" timestamp="1514183427139">
         <mark key="[" line="13" column="0" />
@@ -72,6 +74,7 @@
         <mark key="^" line="5" column="16" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/pbs/manage.proto" timestamp="1514172006283" />
+      <file name="G:/projects/fri/fri-rep-server-shell/app/package.json" timestamp="1514192163398" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/index.js" timestamp="1514183196425">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="34" column="4" />
@@ -89,6 +92,7 @@
         <mark key="." line="0" column="74" />
         <mark key="^" line="0" column="74" />
       </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/dist/win-unpacked/resources/app/package.json" timestamp="1514192156992" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/pbs/manage_pb.js" timestamp="1514171977206" />
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" timestamp="1514182555438" />
     </filemarks>
@@ -176,52 +180,53 @@
       <jump line="0" column="7" filename="D:/projects/FRI/ServerShell/@types/dva/router.d.ts" />
       <jump line="0" column="212" filename="G:/projects/fri/fri-rep-server-shell/pbs.cmd" />
       <jump line="86" column="14" filename="G:/projects/fri/fri-rep-server-shell/src/main/pbs/manage_grpc_pb.js" />
+      <jump line="52" column="12" filename="G:/projects/fri/fri-rep-server-shell/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11</text>
+        <text>/node_modules</text>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>/node_modules</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>semver</text>
       </register>
       <register name="0" type="4">
-        <text>FriRepManageClient</text>
+        <text>node_modules</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiZGVwZW5kZW5jaWVzIjogewogICAgImdycGMiOiAiXjEuOC4wIgogIH0K</text>
+        <text encoding="base64">ICAgICJkaXJlY3RvcmllcyI6IHsKICAgICAgImJ1aWxkUmVzb3VyY2UiOiAiYXBwIgogICAgfSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJidWlsZFJlc291cmNlIjogImFwcCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2plY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAibnNpcyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICJtYWMiOiBudWxsLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICJkaXN0IjogImVsZWN0cm9uLWJ1aWxkZXIgLXdtIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwcm9kdWN0TmFtZSI6ICJ0ZXN0LmV4ZSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gdGVzdEZ1bmMoKSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgICAgInR5cGUiOiBudWxsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImNhdGVnb3J5IjogInB1YmxpYy5hcHAtY2F0ZWdvcnkuZGV2ZWxvcGVyLXRvb2xzIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>semver</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>semver</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -243,6 +248,8 @@
         <entry>default</entry>
         <entry>doc</entry>
         <entry>e645</entry>
+        <entry>semer</entry>
+        <entry>semver</entry>
       </history-search>
       <history-cmd />
       <history-expr />
