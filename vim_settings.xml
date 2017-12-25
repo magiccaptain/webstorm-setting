@@ -227,9 +227,11 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="D:/projects/SmartMeter/smart-meter-dva/global.d.ts" timestamp="1514127284199">
+      <file name="D:/projects/FRI/fri-rep-server-shell/pbs.cmd" timestamp="1514203647974">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="182" />
       </file>
       <file name="G:/projects/smart_meter_dva/.roadhogrc" timestamp="1505111526210">
         <mark key="[" line="1" column="26" />
@@ -242,7 +244,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/client.ts" timestamp="1514203337261">
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/client.ts" timestamp="1514203610687">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -651,10 +653,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JwY190b29sc19ub2RlX3Byb3RvYyAtLWpzX291dD1pbXBvcnRfc3R5bGU9Y29tbW9uanMsYmluYXJ5Oi4gLS1ncnBjX291dD0uIC0tcGx1Z2luPXByb3RvYy1nZW4tZ3JwYz0uXG5vZGVfbW9kdWxlc1wuYmluXGdycGNfdG9vbHNfbm9kZV9wcm90b2NfcGx1Z2luLmNtZCAuXHNyY1xtYWluXHBic1xtYW5hZ2UucHJvdG8K</text>
       </register>
       <register name="-" type="4">
-        <text>$dirname</text>
+        <text>g\npm\</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
@@ -663,31 +665,31 @@
         <text encoding="base64">YXBwLm9uKCdicm93c2VyLXdpbmRvdy1jcmVhdGVkJywgKGUsIHdpbmRvdykgPT4gewogICAgLy8gudix1bLLtaXAuAogICAgd2luZG93LnNldE1lbnUobnVsbCk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z3JwY190b29sc19ub2RlX3Byb3RvYyAtLWpzX291dD1pbXBvcnRfc3R5bGU9Y29tbW9uanMsYmluYXJ5Oi4gLS1ncnBjX291dD0uIC0tcGx1Z2luPXByb3RvYy1nZW4tZ3JwYz0uXG5vZGVfbW9kdWxlc1wuYmluXGdycGNfdG9vbHNfbm9kZV9wcm90b2NfcGx1Z2luLmNtZCAuXHNyY1xtYWluXHBic1xtYW5hZ2UucHJvdG8K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBsb2dzCm5wbS1kZWJ1Zy5sb2cK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBsb2dzCm5wbS1kZWJ1Zy5sb2cK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBzeXN0ZW0gZmlsZXMKLkRTX1N0b3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBidWlsZCBvdXRwdXQKZGlzdAphcHAvZGlzdAo=</text>
+        <text encoding="base64">IyBzeXN0ZW0gZmlsZXMKLkRTX1N0b3JlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bG9nLmluZm8oJGRpcm5hbWUpOwo=</text>
+        <text encoding="base64">IyBidWlsZCBvdXRwdXQKZGlzdAphcHAvZGlzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nLmluZm8oX19kaXJuYW1lKTsK</text>
+        <text encoding="base64">bG9nLmluZm8oJGRpcm5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsb2cuaW5mbyhfX2Rpcm5hbWUpOwo=</text>
+        <text encoding="base64">bG9nLmluZm8oX19kaXJuYW1lKTsK</text>
       </register>
     </registers>
     <search>
