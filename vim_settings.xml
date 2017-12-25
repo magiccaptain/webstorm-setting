@@ -61,6 +61,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1514207657667">
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="36" />
+      </file>
       <file name="G:/projects/smart_meter_fullstack/client/dev_server/index.html" timestamp="1502154812597">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -83,6 +89,18 @@
         <mark key="]" line="9" column="38" />
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/electron-builder.yml" timestamp="1514207987092">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="15" column="8" />
+        <mark key="." line="15" column="8" />
+        <mark key="^" line="15" column="8" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/init.js" timestamp="1514207377358">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/webpack.config.js" timestamp="1503973559932">
         <mark key="[" line="43" column="39" />
@@ -173,7 +191,12 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/app/package.json" timestamp="1514204294024" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/app/package.json" timestamp="1514207910494">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="17" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="5" column="17" />
+      </file>
       <file name="G:/projects/smart_meter_fullstack/app.js" timestamp="1502089822854">
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="31" />
@@ -244,6 +267,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/app/init.js" timestamp="1514207451387">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="22" />
+        <mark key="^" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1507603959640">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
@@ -296,6 +325,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/webpack.config.main.babel.js" timestamp="1514206995307" />
       <file name="G:/projects/smart_meter_dva/src/routes/Login.ts" timestamp="1504251571582">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="12" column="9" />
@@ -379,6 +409,7 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/.roadhogrc" timestamp="1514206981341" />
       <file name="D:/projects/FRI/server-shell-electron/package.json" timestamp="1514130004781">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="28" />
@@ -523,6 +554,7 @@
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/app/dist/main.js" timestamp="1514206604076" />
       <file name="G:/projects/smart_meter_dva/src/services/oauth.ts" timestamp="1505282806545">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -637,11 +669,11 @@
       <jump line="0" column="7" filename="D:/projects/FRI/ServerShell/@types/dva/router.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dist/mai.js</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dist/mai.js</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
@@ -650,31 +682,31 @@
         <text encoding="base64">YXBwLm9uKCdicm93c2VyLXdpbmRvdy1jcmVhdGVkJywgKGUsIHdpbmRvdykgPT4gewogICAgLy8gudix1bLLtaXAuAogICAgd2luZG93LnNldE1lbnUobnVsbCk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXNzZXRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3JwY190b29sc19ub2RlX3Byb3RvYyAtLWpzX291dD1pbXBvcnRfc3R5bGU9Y29tbW9uanMsYmluYXJ5Oi4gLS1ncnBjX291dD0uIC0tcGx1Z2luPXByb3RvYy1nZW4tZ3JwYz0uXG5vZGVfbW9kdWxlc1wuYmluXGdycGNfdG9vbHNfbm9kZV9wcm90b2NfcGx1Z2luLmNtZCAlUEJTX1BBVEglXG1hbmFnZS5wcm90bwo=</text>
+        <text encoding="base64">ZGlzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Z3JwY190b29sc19ub2RlX3Byb3RvYyAtLWpzX291dD1pbXBvcnRfc3R5bGU9Y29tbW9uanMsYmluYXJ5Oi4gLS1ncnBjX291dD0uIC0tcGx1Z2luPXByb3RvYy1nZW4tZ3JwYz0uXG5vZGVfbW9kdWxlc1wuYmluXGdycGNfdG9vbHNfbm9kZV9wcm90b2NfcGx1Z2luLmNtZCAuXHNyY1xtYWluXHBic1xtYW5hZ2UucHJvdG8K</text>
+        <text encoding="base64">bm9kZV9tb2R1bGVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFnZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZS5qc29uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBsb2dzCm5wbS1kZWJ1Zy5sb2cK</text>
+        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcHA6IGFwcC9kaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBzeXN0ZW0gZmlsZXMKLkRTX1N0b3JlCg==</text>
+        <text encoding="base64">ICAgIGRpc3QtYXNzZXRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBidWlsZCBvdXRwdXQKZGlzdAphcHAvZGlzdAo=</text>
+        <text encoding="base64">ICAiYnVpbGQiOiB7CiAgICAiYXBwSWQiOiAiY29tLnNvcnJ5Y2MuZHZhLWJvaWxlcnBsYXRlIiwKICAgICJ3aW4iOiB7CiAgICAgICJ0YXJnZXQiOiBbCiAgICAgICAgInppcCIKICAgICAgXQogICAgfSwKICAgICJhc2FyIjogZmFsc2UKICB9LAo=</text>
       </register>
     </registers>
     <search>
