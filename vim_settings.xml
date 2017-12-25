@@ -61,11 +61,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1514207657667">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="36" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1514208558530">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="20" />
+        <mark key="^" line="7" column="54" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/client/dev_server/index.html" timestamp="1502154812597">
         <mark key="[" line="8" column="0" />
@@ -90,11 +91,11 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/electron-builder.yml" timestamp="1514207987092">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="15" column="8" />
-        <mark key="." line="15" column="8" />
-        <mark key="^" line="15" column="8" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/electron-builder.yml" timestamp="1514208912163">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/init.js" timestamp="1514207377358">
         <mark key="[" line="0" column="26" />
@@ -191,11 +192,10 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/app/package.json" timestamp="1514207910494">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="5" column="17" />
-        <mark key="." line="5" column="17" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/app/package.json" timestamp="1514208567859">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/app.js" timestamp="1502089822854">
         <mark key="[" line="6" column="31" />
@@ -667,46 +667,48 @@
       <jump line="6" column="18" filename="D:/projects/FRI/ServerShell/package.json" />
       <jump line="39" column="17" filename="D:/projects/FRI/ServerShell/node_modules/@types/react-router-redux/index.d.ts" />
       <jump line="0" column="7" filename="D:/projects/FRI/ServerShell/@types/dva/router.d.ts" />
+      <jump line="42" column="0" filename="D:/projects/FRI/fri-rep-server-shell/package.json" />
+      <jump line="49" column="0" filename="D:/projects/FRI/fri-rep-server-shell/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dist/mai.js</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>dist/mai.js</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLm9uKCdicm93c2VyLXdpbmRvdy1jcmVhdGVkJywgKGUsIHdpbmRvdykgPT4gewogICAgLy8gudix1bLLtaXAuAogICAgd2luZG93LnNldE1lbnUobnVsbCk7Cn0pOwo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjE4LjIiLAogICAgImJhYmVsLWVzbGludCI6ICJeNy4xLjEiLAogICAgImJhYmVsLWxvYWRlciI6ICJeNy4xLjIiLAogICAgImJhYmVsLXBsdWdpbi1hZGQtbW9kdWxlLWV4cG9ydHMiOiAiXjAuMi4xIiwKICAgICJiYWJlbC1wbHVnaW4tZHZhLWhtciI6ICJeMC4zLjIiLAogICAgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tZGVjb3JhdG9ycy1sZWdhY3kiOiAiXjEuMy40IiwKICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJ1bnRpbWUiOiAiXjYuMTUuMCIsCiAgICAiYmFiZWwtcHJlc2V0LWVzMjAxNSI6ICJeNi4xOC4wIiwKICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4xNi4wIiwKICAgICJiYWJlbC1yZWdpc3RlciI6ICJeNi4xOC4wIiwKICAgICJiYWJlbC1ydW50aW1lIjogIl42LjIwLjAiLAogICAgImVsZWN0cm9uLWlzIjogIl4yLjQuMCIsCiAgICAiZWxlY3Ryb24tbG9nIjogIl4yLjIuMTMiLAogICAgImVsZWN0cm9uLWNvbmZpZyI6ICJeMS4wLjAiLAogICAgImdycGMiOiAiXjEuOC4wIiwKICAgICJnb29nbGUtcHJvdG9idWYiOiAiXjMuNS4wIiwKICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCiAgICAicHJvcC10eXBlcyI6ICJeMTUuNi4wIiwKICAgICJyZWFjdCI6ICJeMTUuNC4wIiwKICAgICJyZWFjdC1kb20iOiAiXjE1LjQuMCIsCiAgICAicmVkYm94LXJlYWN0IjogIl4xLjMuMyIsCiAgICAiZWxlY3Ryb24taXMtZGV2IjogIl4wLjMuMCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXNzZXRzCg==</text>
+        <text encoding="base64">ICAgICJkdmEiOiAiXjIuMS4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlzdAo=</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbi1jb25maWciOiAiXjAuMi4xIiwKICAgICJlbGVjdHJvbi1pcyI6ICJeMi4zLjAiLAogICAgImVsZWN0cm9uLWxvZyI6ICJeMS4yLjIiLAogICAgImJhYmVsLWNvcmUiOiAiXjYuMTguMiIsCiAgICAiYmFiZWwtZXNsaW50IjogIl43LjEuMSIsCiAgICAiYmFiZWwtbG9hZGVyIjogIl43LjEuMiIsCiAgICAiYmFiZWwtcGx1Z2luLWFkZC1tb2R1bGUtZXhwb3J0cyI6ICJeMC4yLjEiLAogICAgImJhYmVsLXBsdWdpbi1kdmEtaG1yIjogIl4wLjMuMiIsCiAgICAiYmFiZWwtcGx1Z2luLXRyYW5zZm9ybS1kZWNvcmF0b3JzLWxlZ2FjeSI6ICJeMS4zLjQiLAogICAgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tcnVudGltZSI6ICJeNi4xNS4wIiwKICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjE4LjAiLAogICAgImJhYmVsLXByZXNldC1zdGFnZS0wIjogIl42LjE2LjAiLAogICAgImJhYmVsLXJlZ2lzdGVyIjogIl42LjE4LjAiLAogICAgImJhYmVsLXJ1bnRpbWUiOiAiXjYuMjAuMCIsCiAgICAiZ3JwYyI6ICJeMS44LjAiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzCg==</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbi1pcy1kZXYiOiAiXjAuMy4wIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFnZXMK</text>
+        <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS42LjAiLAogICAgInJlYWN0IjogIl4xNS40LjAiLAogICAgInJlYWN0LWRvbSI6ICJeMTUuNC4wIiwKICAgICJyZWRib3gtcmVhY3QiOiAiXjEuMy4zIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZS5qc29uCg==</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZS1sb2NrLmpzb24K</text>
+        <text encoding="base64">ICAgICJnb29nbGUtcHJvdG9idWYiOiAiXjMuNS4wIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcHA6IGFwcC9kaXN0Cg==</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbi1sb2ciOiAiXjIuMi4xMyIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3QtYXNzZXRzCg==</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbi1pcyI6ICJeMi40LjAiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiYnVpbGQiOiB7CiAgICAiYXBwSWQiOiAiY29tLnNvcnJ5Y2MuZHZhLWJvaWxlcnBsYXRlIiwKICAgICJ3aW4iOiB7CiAgICAgICJ0YXJnZXQiOiBbCiAgICAgICAgInppcCIKICAgICAgXQogICAgfSwKICAgICJhc2FyIjogZmFsc2UKICB9LAo=</text>
+        <text encoding="base64">ICAgICJlbGVjdHJvbi1jb25maWciOiAiXjEuMC4wIiwK</text>
       </register>
     </registers>
     <search>
