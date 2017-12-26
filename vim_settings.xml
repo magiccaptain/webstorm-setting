@@ -81,11 +81,11 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514295404818">
-        <mark key="[" line="14" column="37" />
-        <mark key="]" line="14" column="58" />
-        <mark key="." line="14" column="58" />
-        <mark key="^" line="14" column="58" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514296685022">
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="38" column="3" />
+        <mark key="^" line="38" column="3" />
+        <mark key="." line="38" column="3" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/init.js" timestamp="1514207377358">
         <mark key="[" line="0" column="26" />
@@ -230,6 +230,7 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="D:/projects/SmartMeter/smart-meter-dva/src/components/Devices/DevicesList.jsx" timestamp="1514296439559" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/routes/IndexPage.css" timestamp="1514292165011">
         <mark key="j" line="13" column="13" />
         <mark key="[" line="18" column="0" />
@@ -653,7 +654,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>当前还没有项目哦，请先添加</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>yay</text>
@@ -668,22 +669,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gUHJvamVjdHNUcmVlKHtsb2NhdGlvbiwgcHJvamVjdHN9KSB7CgogIC8vILuts/bP7sS/tcSy2df3CiAgZnVuY3Rpb24KCiAgY29uc3Qgb25BZGRDbGlja2VkID0gKGUpID0+IHsKCgogIH07CgogIGZ1bmN0aW9uIHJlbmRlckxpc3QoKSB7CgogIH0KCiAgcmV0dXJuICgKICApOwp9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">cmVuZGVyT3BlcmF0b3JzKCkgewogICAgcmV0dXJuICgKICAgICAgPGRpdj4KICAgICAgICA8QnV0dG9uLkdyb3VwPgogICAgICAgICAgPFRvb2x0aXAgcGxhY2VtZW50PSJ0b3AiIHRpdGxlPSLM7bzTz+7EvyI+CiAgICAgICAgICAgIDxCdXR0b24gaWNvbj0iZm9sZGVyLWFkZCIgb25DbGljaz17b25BZGRDbGlja2VkfS8+CiAgICAgICAgICA8L1Rvb2x0aXA+CiAgICAgICAgICA8VG9vbHRpcCBwbGFjZW1lbnQ9InRvcCIgdGl0bGU9IrHgvK3P7sS/Ij4KICAgICAgICAgICAgPEJ1dHRvbiBpY29uPSJlZGl0Ii8+CiAgICAgICAgICA8L1Rvb2x0aXA+CiAgICAgICAgICA8VG9vbHRpcCBwbGFjZW1lbnQ9InRvcCIgdGl0bGU9Ism+s/3P7sS/Ij4KICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJkYW5nZXIiIGljb249ImRlbGV0ZSIvPgogICAgICAgICAgPC9Ub29sdGlwPgogICAgICAgIDwvQnV0dG9uLkdyb3VwPgogICAgICA8L2Rpdj4KICAgICk7CiAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHByb2plY3RzCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBzdGF0ZSA9IHsKICAgIAogIH07Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgwdCx7Qo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
