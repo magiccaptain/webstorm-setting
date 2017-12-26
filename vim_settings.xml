@@ -13,10 +13,17 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514269268133">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514273350794">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/main-dev.html" timestamp="1514272998813">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="32" />
+        <mark key="^" line="17" column="32" />
+        <mark key="." line="17" column="32" />
       </file>
       <file name="G:/projects/smart_meter_dva/.babelrc" timestamp="1505121597060">
         <mark key="[" line="2" column="12" />
@@ -124,7 +131,7 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514272127569">
+      <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514272712553">
         <mark key="[" line="69" column="14" />
         <mark key="]" line="69" column="16" />
         <mark key="." line="69" column="16" />
@@ -272,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3.0.3</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>3.0.3</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>semver</text>
@@ -287,25 +294,25 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMubm9ybWFsfT4KICAgICAgPGgxIGNsYXNzTmFtZT17c3R5bGVzLnRpdGxlfT5ZYXkhIFdlbGNvbWUgdG8gZHZhITwvaDE+CiAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMud2VsY29tZX0vPgogICAgICA8dWwgY2xhc3NOYW1lPXtzdHlsZXMubGlzdH0+CiAgICAgICAgPGxpPrn+uf48Y29kZT5zcmMvaW5kZXguanM8L2NvZGU+IL/J0tQguf65/jwvbGk+CiAgICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9kdmFqcy9kdmEtZG9jcy9ibG9iL21hc3Rlci92MS9lbi11cy9nZXR0aW5nLXN0YXJ0ZWQubWQiPkdldHRpbmcgU3RhcnRlZDwvYT48L2xpPgogICAgICA8L3VsPgogICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPFNpZGVyPlByb2plY3RMaXN0czwvU2lkZXI+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzcAo=</text>
+        <text encoding="base64">ICAgICAgPEhlYWRlcj5IZWFkZXI8L0hlYWRlcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlaWhlaSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
