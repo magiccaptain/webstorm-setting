@@ -61,22 +61,22 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514268410508">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="21" />
-        <mark key="^" line="12" column="20" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514271842644">
+        <mark key="[" line="3" column="67" />
+        <mark key="]" line="3" column="67" />
+        <mark key="." line="3" column="67" />
+        <mark key="^" line="3" column="67" />
       </file>
       <file name="/Dummy.txt" timestamp="1514193010176">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514271432551">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514271899232">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
-        <mark key="^" line="38" column="10" />
+        <mark key="^" line="29" column="25" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/type_test.ts" timestamp="1505116818681">
         <mark key="[" line="1" column="0" />
@@ -123,6 +123,12 @@
         <mark key="]" line="39" column="26" />
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514272127569">
+        <mark key="[" line="69" column="14" />
+        <mark key="]" line="69" column="16" />
+        <mark key="." line="69" column="16" />
+        <mark key="^" line="69" column="16" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
         <mark key="[" line="0" column="0" />
@@ -265,11 +271,11 @@
       <jump line="17" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlaWhlaSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>3.0.3</text>
       </register>
       <register name="-" type="4">
-        <text>lot</text>
+        <text>3.0.3</text>
       </register>
       <register name="/" type="4">
         <text>semver</text>
@@ -278,31 +284,31 @@
         <text>subscriptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlaWhlaSIpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdXQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzcAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlaWhlaSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
