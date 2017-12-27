@@ -72,18 +72,24 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="25" column="21" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/.roadhogrc" timestamp="1514278637531">
         <mark key="[" line="17" column="67" />
         <mark key="]" line="17" column="67" />
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514349780954">
-        <mark key="'" line="37" column="37" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="20" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514353556713">
+        <mark key="'" line="39" column="37" />
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="83" column="33" />
+        <mark key="." line="83" column="33" />
+        <mark key="^" line="83" column="33" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/type_test.ts" timestamp="1505116818681">
         <mark key="[" line="1" column="0" />
@@ -301,32 +307,32 @@
       <jump line="50" column="71" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;新建成功&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>&quot;新建成功&quot;</text>
       </register>
       <register name="/" type="4">
         <text>addProjectFormRef</text>
       </register>
-      <register name="0" type="4">
-        <text>show_add_project_modal</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdWNjZXNzTm90aWZ5KCLP7sS/OiIgKyBuYW1lLCAi0MK9qLPJuaYiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFcnJvck5vdGlmeSgi0MK9qM/uxL8iLCBlLm1lc3NhZ2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1aSA9IHVpLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -335,7 +341,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm9ybS5zZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
