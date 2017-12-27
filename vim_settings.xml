@@ -19,6 +19,12 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514342401783">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="3" column="26" />
+      </file>
       <file name="G:/projects/smart_meter_dva/.babelrc" timestamp="1505121597060">
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
@@ -56,11 +62,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514271842644">
-        <mark key="[" line="3" column="67" />
-        <mark key="]" line="3" column="67" />
-        <mark key="." line="3" column="67" />
-        <mark key="^" line="3" column="67" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514342508902">
+        <mark key="[" line="22" column="28" />
+        <mark key="]" line="22" column="27" />
+        <mark key="." line="22" column="27" />
+        <mark key="^" line="22" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1514278783880">
         <mark key="[" line="0" column="0" />
@@ -73,12 +79,12 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514338520726">
-        <mark key="'" line="33" column="37" />
-        <mark key="[" line="31" column="40" />
-        <mark key="]" line="31" column="61" />
-        <mark key="^" line="39" column="22" />
-        <mark key="." line="41" column="0" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514345155620">
+        <mark key="'" line="37" column="37" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="69" column="7" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/type_test.ts" timestamp="1505116818681">
         <mark key="[" line="1" column="0" />
@@ -113,11 +119,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514338673525">
-        <mark key="[" line="95" column="48" />
-        <mark key="]" line="97" column="9" />
-        <mark key="^" line="97" column="9" />
-        <mark key="." line="97" column="9" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514344700295">
+        <mark key="'" line="73" column="2" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.js" timestamp="1514257864890">
         <mark key="[" line="6" column="15" />
@@ -285,52 +291,54 @@
       <jump line="17" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.ts" />
       <jump line="25" column="19" filename="G:/projects/fri/fri-rep-server-shell/package.json" />
       <jump line="33" column="37" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
+      <jump line="67" column="13" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
+      <jump line="72" column="2" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>semver</text>
+        <text>addProjectFormRef</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtkaXNwYXRjaH0gPSB0aGlzLnByb3BzOwogICAgZGlzcGF0Y2goewogICAgICB0eXBlOiAicHJvamVjdHMvc2V0QWRkUHJvamVjdFNob3ciLAogICAgICBwYXlsb2FkOiB7c2hvd19hZGRfcHJvamVjdF9tb2RhbDogdHJ1ZX0KICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICB1aSA9IHVpLnNldCgnZXJyb3InLCB7CiAgICAgICAgICB0eXBlOiAizO2808/uxL8iLAogICAgICAgICAgbWVzc2FnZTogZS5tZXNzYWdlCiAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7cHJvamVjdF9hZGRfc2hvdzogZmFsc2V9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe3Byb2plY3RfYWRkX3Nob3c6IGZhbHNlfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coInN1Y2Nlc3MiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoe3Byb2plY3RfYWRkX3Nob3c6IHRydWV9KTsK</text>
+        <text encoding="base64">ICAgICAgZm9ybS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgIHByb2plY3RfYWRkX3Nob3c6IGZhbHNlCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNob3dfYWRkX3Byb2plY3RfbW9kYWwpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKHsKICAgICAgdHlwZTogJ3Byb2plY3RzL25ld1Byb2plY3QnLAogICAgICBwYXlsb2FkOiB7CiAgICAgICAgbmFtZTogZm9ybS5nZXRGaWVsZFZhbHVlKCJwcm9qZWN0X25hbWUiKSwKICAgICAgICBkZXNjcmlwdGlvbjogZm9ybS5nZXRGaWVsZFZhbHVlKCJwcm9qZWN0X2Rlc2NyaXB0aW9uIikKICAgICAgfQogICAgfSk7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>semver</last-search>
+      <last-search>addProjectFormRef</last-search>
       <last-offset />
-      <last-pattern>semver</last-pattern>
+      <last-pattern>addProjectFormRef</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -354,6 +362,7 @@
         <entry>e645</entry>
         <entry>semer</entry>
         <entry>semver</entry>
+        <entry>addProjectFormRef</entry>
       </history-search>
       <history-cmd />
       <history-expr />
