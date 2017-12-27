@@ -19,11 +19,11 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514349710066">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="^" line="3" column="26" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514354493378">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="G:/projects/smart_meter_dva/.babelrc" timestamp="1505121597060">
         <mark key="[" line="2" column="12" />
@@ -61,11 +61,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514349704379">
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="22" column="51" />
-        <mark key="." line="22" column="51" />
-        <mark key="^" line="22" column="51" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514354516108">
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1514278783880">
         <mark key="[" line="0" column="0" />
@@ -84,12 +84,12 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514353556713">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514354626345">
         <mark key="'" line="39" column="37" />
-        <mark key="[" line="83" column="34" />
-        <mark key="]" line="83" column="33" />
-        <mark key="." line="83" column="33" />
-        <mark key="^" line="83" column="33" />
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="82" column="39" />
+        <mark key="." line="82" column="39" />
+        <mark key="^" line="82" column="39" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/type_test.ts" timestamp="1505116818681">
         <mark key="[" line="1" column="0" />
@@ -308,10 +308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;新建成功&quot;</text>
+        <text>目</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;新建成功&quot;</text>
+        <text>目</text>
       </register>
       <register name="/" type="4">
         <text>addProjectFormRef</text>
@@ -320,31 +320,31 @@
         <text encoding="base64">ICAgICAgICBTdWNjZXNzTm90aWZ5KCLP7sS/OiIgKyBuYW1lLCAi0MK9qLPJuaYiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvck5vdGlmeSgi0MK9qM/uxL8iLCBlLm1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQ6CiAgICAgIG1lc3NhZ2UKICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtZXNzYWdlID0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBFcnJvck5vdGlmeSgi0MK9qM/uxL8iLCBlLm1lc3NhZ2UpOwo=</text>
       </register>
     </registers>
     <search>
