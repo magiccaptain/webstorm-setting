@@ -57,12 +57,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514388063706">
-        <mark key="'" line="256" column="0" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="176" column="29" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514388831643">
+        <mark key="'" line="254" column="3" />
+        <mark key="[" line="247" column="97" />
+        <mark key="]" line="247" column="97" />
+        <mark key="^" line="247" column="97" />
+        <mark key="." line="247" column="97" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/application.js" timestamp="1514358634300">
         <mark key="[" line="3" column="43" />
@@ -173,11 +173,12 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514388102539">
-        <mark key="'" line="61" column="26" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514388959157">
+        <mark key="'" line="138" column="4" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="137" column="43" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514337696771">
         <mark key="'" line="25" column="19" />
@@ -248,8 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="36" filename="G:/projects/smart_meter_dva/node_modules/@types/node/index.d.ts" />
-      <jump line="54" column="22" filename="G:/projects/smart_meter_dva/src/components/Users/Users.js" />
       <jump line="26" column="20" filename="G:/projects/smart_meter_dva/src/components/Users/Users.js" />
       <jump line="48" column="0" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
       <jump line="107" column="25" filename="G:/projects/smart_meter_dva/node_modules/antd/lib/form/Form.d.ts" />
@@ -348,13 +347,15 @@
       <jump line="199" column="22" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="62" column="26" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/projects.js" />
       <jump line="256" column="0" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
+      <jump line="241" column="3" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
+      <jump line="137" column="4" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/projects.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0c19zZXJ2aWNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
@@ -363,31 +364,31 @@
         <text>updateProject</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0c19zZXJ2aWNlKTsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cocHJvamVjdFNlcnZpY2VzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0c19zZXJ2aWNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhuYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdfcHJvamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2cocHJvamVjdFNlcnZpY2VzKTsK</text>
       </register>
     </registers>
     <search>
