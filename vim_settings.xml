@@ -78,12 +78,12 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514345748734">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514345800989">
         <mark key="'" line="37" column="37" />
-        <mark key="[" line="75" column="27" />
-        <mark key="]" line="75" column="25" />
-        <mark key="." line="75" column="25" />
-        <mark key="^" line="75" column="25" />
+        <mark key="[" line="75" column="64" />
+        <mark key="]" line="75" column="64" />
+        <mark key="." line="75" column="64" />
+        <mark key="^" line="75" column="64" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/type_test.ts" timestamp="1505116818681">
         <mark key="[" line="1" column="0" />
@@ -293,11 +293,11 @@
       <jump line="72" column="2" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>endUi</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>addProjectFormRef</text>
