@@ -19,7 +19,7 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514441110773">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514441149895">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
@@ -35,6 +35,12 @@
         <mark key="[" line="2" column="12" />
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1514443540407">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="2" column="9" />
       </file>
       <file name="D:/projects/FRI/server-shell-electron/src/main/index.js" timestamp="1514130871288">
         <mark key="[" line="14" column="0" />
@@ -62,9 +68,9 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.css" timestamp="1514440808085">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.css" timestamp="1514442484612">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="1" />
+        <mark key="]" line="3" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/application.js" timestamp="1514358634300">
@@ -82,6 +88,11 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.css" timestamp="1514442485448">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1514426138696">
         <mark key="[" line="0" column="0" />
@@ -106,10 +117,10 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514424166574">
-        <mark key="'" line="143" column="10" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514443482827">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="162" column="2" />
+        <mark key="]" line="162" column="14" />
         <mark key="^" line="58" column="44" />
         <mark key="." line="58" column="41" />
       </file>
@@ -117,10 +128,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="G:/projects/smart_meter_dva/.roadhogrc" timestamp="1514336067851">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="60" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.ts" timestamp="1514256261960">
         <mark key="[" line="8" column="42" />
@@ -150,12 +157,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514441102544">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="50" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514442441255">
+        <mark key="'" line="243" column="0" />
+        <mark key="[" line="361" column="25" />
+        <mark key="]" line="361" column="25" />
         <mark key="^" line="274" column="19" />
-        <mark key="." line="265" column="0" />
+        <mark key="." line="361" column="25" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.js" timestamp="1514257864890">
         <mark key="[" line="6" column="15" />
@@ -180,12 +187,12 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514337696771">
-        <mark key="'" line="25" column="19" />
-        <mark key="[" line="87" column="23" />
-        <mark key="]" line="87" column="23" />
-        <mark key="." line="87" column="23" />
-        <mark key="^" line="87" column="23" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514443337815">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="54" column="43" />
+        <mark key="." line="54" column="43" />
+        <mark key="^" line="54" column="43" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
         <mark key="[" line="0" column="0" />
@@ -197,11 +204,11 @@
         <mark key="]" line="36" column="14" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.js" timestamp="1514440916524">
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-        <mark key="^" line="3" column="21" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.js" timestamp="1514443325466">
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="52" />
+        <mark key="." line="23" column="52" />
+        <mark key="^" line="23" column="52" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/services/state.ts" timestamp="1508729662159">
         <mark key="[" line="13" column="0" />
@@ -244,14 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="5" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
-      <jump line="3" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/js-cookie/index.d.ts" />
-      <jump line="12" column="0" filename="G:/projects/smart_meter_dva/src/utils/aes-helper.ts" />
-      <jump line="69" column="40" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
-      <jump line="79" column="0" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
-      <jump line="116" column="8" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
-      <jump line="27" column="22" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
-      <jump line="152" column="0" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="153" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="67" column="0" filename="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" />
       <jump line="5" column="0" filename="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" />
@@ -344,46 +343,54 @@
       <jump line="187" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="232" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="7" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
+      <jump line="239" column="11" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
+      <jump line="32" column="10" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
+      <jump line="243" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
+      <jump line="53" column="28" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
+      <jump line="4" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
+      <jump line="91" column="6" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
+      <jump line="101" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
+      <jump line="22" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIG5hbWVzcGFjZTogJE5BTUUkLAogIHN0YXRlOiB7JEVORCR9LAogIHJlZHVjZXJzOiB7fSwKICBlZmZlY3RzOiB7fSwKICBzdWJzY3JpcHRpb25zOiB7fQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>&quot;版本列表&quot;</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Lm1haW4gewogIHdpZHRoOiAxMDAlOwogIGhlaWdodDogMTAwJTsKfQo=</text>
+      <register name="0" type="4">
+        <text>subscriptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtYXJnaW4tbGVmdDogMTBweDsK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIG5hbWVzcGFjZTogJE5BTUUkLAogIHN0YXRlOiB7JEVORCR9LAogIHJlZHVjZXJzOiB7fSwKICBlZmZlY3RzOiB7fSwKICBzdWJzY3JpcHRpb25zOiB7fQp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtYXJnaW4tcmlnaHQ6IDEwcHg7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPENhcmQgc3R5bGU9IiI+CiAgICAgICAgPFRhYnM+CiAgICAgICAgICA8VGFiUGFuZSB0YWI9IrDmsb4iIGRpc2FibGVkPXtkaXNhYmxlZH0ga2V5PSJ2ZXJzaW9ucyI+sOaxvjwvVGFiUGFuZT4KICAgICAgICAgIDxUYWJQYW5lIHRhYj0iv9rB7iIgZGlzYWJsZWQ9e2Rpc2FibGVkfSBrZXk9InRva2VucyI+v9rB7jwvVGFiUGFuZT4KICAgICAgICA8L1RhYnM+CiAgICAgIDwvQ2FyZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPFRhYnM+CiAgICAgICAgPFRhYlBhbmUgdGFiPSKw5rG+IiBkaXNhYmxlZD17ZGlzYWJsZWR9IGtleT0idmVyc2lvbnMiPrDmsb48L1RhYlBhbmU+CiAgICAgICAgPFRhYlBhbmUgdGFiPSK/2sHuIiBkaXNhYmxlZD17ZGlzYWJsZWR9IGtleT0idG9rZW5zIj6/2sHuPC9UYWJQYW5lPgogICAgICA8L1RhYnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uR3JvdXA+CiAgICAgICAgICA8VG9vbHRpcCBwbGFjZW1lbnQ9InRvcCIgdGl0bGU9ItDCvaiw5rG+Ij4KICAgICAgICAgICAgPEJ1dHRvbiBpY29uPSJmaWxlLWFkZCIgb25DbGljaz17dGhpcy5vbkFkZENsaWNrZWR9Lz4KICAgICAgICAgIDwvVG9vbHRpcD4KICAgICAgICAgIDxUb29sdGlwIHBsYWNlbWVudD0idG9wIiB0aXRsZT0iyejWw86qSGVhZCI+CiAgICAgICAgICAgIDxCdXR0b24gaWNvbj0idXAiIG9uQ2xpY2s9e3RoaXMub25IZWFkQ2xpY2tlZH0vPgogICAgICAgICAgPC9Ub29sdGlwPgogICAgICAgICAgPFRvb2x0aXAgcGxhY2VtZW50PSJ0b3AiIHRpdGxlPSLJvrP9sOaxviI+CiAgICAgICAgICAgIDxCdXR0b24gdHlwZT0iZGFuZ2VyIiBpY29uPSJkZWxldGUiIG9uQ2xpY2s9e3RoaXMub25SZW1vdmVDbGlja2VkfS8+CiAgICAgICAgICA8L1Rvb2x0aXA+CiAgICAgICAgPC9CdXR0b25Hcm91cD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
