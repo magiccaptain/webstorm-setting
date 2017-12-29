@@ -240,7 +240,7 @@
       <file name="G:/projects/fri/fri-rep-server-shell/node_modules/dateformat/lib/dateformat.js" timestamp="1514360025254">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514519097613">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514519753229">
         <mark key="[" line="72" column="51" />
         <mark key="]" line="72" column="51" />
         <mark key="." line="72" column="51" />
@@ -361,10 +361,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>//</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
