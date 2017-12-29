@@ -240,11 +240,11 @@
       <file name="G:/projects/fri/fri-rep-server-shell/node_modules/dateformat/lib/dateformat.js" timestamp="1514360025254">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514512659615">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="25" column="59" />
-        <mark key="." line="15" column="0" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514514447519">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="38" />
+        <mark key="." line="38" column="38" />
+        <mark key="^" line="38" column="38" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/router.js" timestamp="1514269877254">
         <mark key="[" line="5" column="0" />
@@ -360,32 +360,32 @@
       <jump line="25" column="13" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L1Rvb2x0aXA+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -394,10 +394,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uIHR5cGU9ImRhbmdlciI+CiAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJtaW51cy1jaXJjbGUtbyIvPgogICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">aW1wb3J0IHtkaWFsb2d9IGZyb20gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiPgogICAgICAgICAgICAgICAgPEljb24gdHlwZT0icGx1cy1jaXJjbGUtbyIvPgogICAgICAgICAgICAgIDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
