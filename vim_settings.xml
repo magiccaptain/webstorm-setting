@@ -158,10 +158,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514512345595">
-        <mark key="'" line="243" column="0" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="47" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514515611442">
+        <mark key="'" line="238" column="0" />
+        <mark key="[" line="316" column="52" />
+        <mark key="]" line="316" column="67" />
         <mark key="^" line="274" column="19" />
         <mark key="." line="359" column="25" />
       </file>
@@ -240,11 +240,11 @@
       <file name="G:/projects/fri/fri-rep-server-shell/node_modules/dateformat/lib/dateformat.js" timestamp="1514360025254">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514514447519">
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="38" column="38" />
-        <mark key="." line="38" column="38" />
-        <mark key="^" line="38" column="38" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514516604772">
+        <mark key="[" line="68" column="11" />
+        <mark key="]" line="68" column="11" />
+        <mark key="." line="68" column="11" />
+        <mark key="^" line="68" column="11" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/router.js" timestamp="1514269877254">
         <mark key="[" line="5" column="0" />
@@ -258,9 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/glob/index.d.ts" />
-      <jump line="42" column="2" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
-      <jump line="50" column="39" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="51" column="25" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="791" column="14" filename="G:/projects/smart_meter_dva/node_modules/@types/react/index.d.ts" />
       <jump line="793" column="145" filename="G:/projects/smart_meter_dva/node_modules/@types/react/index.d.ts" />
@@ -358,43 +355,46 @@
       <jump line="5" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="85" column="3" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="25" column="13" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
+      <jump line="46" column="5" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
+      <jump line="48" column="19" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
+      <jump line="238" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhzKTsK</text>
+      <register name="0" type="4">
+        <text>dir_name + &quot;/&quot; + name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZWxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb2wgc3Bhbj17NX0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGdlblRyZWVOb2RlcyhuYW1lLCB2YWx1ZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHA+x+vM7bzTzsS8/jwvcD4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtkaWFsb2d9IGZyb20gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -482,6 +482,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
