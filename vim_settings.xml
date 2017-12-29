@@ -240,11 +240,11 @@
       <file name="G:/projects/fri/fri-rep-server-shell/node_modules/dateformat/lib/dateformat.js" timestamp="1514360025254">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514517609599">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="59" column="36" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514519097613">
+        <mark key="[" line="72" column="51" />
+        <mark key="]" line="72" column="51" />
+        <mark key="." line="72" column="51" />
+        <mark key="^" line="72" column="51" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/router.js" timestamp="1514269877254">
         <mark key="[" line="5" column="0" />
@@ -360,11 +360,11 @@
       <jump line="238" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>//</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>//</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
@@ -373,31 +373,31 @@
         <text encoding="base64">ICAgICAgICAgIGxldCBuYW1lID0gXy5rZXlzKGZpbGUpWzBdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Um93Lz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8L1Jvdz4KICAgICAgICA8Um93Lz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaXJfZmlsZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgc29ydGVkX2ZpbGVzID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXJfZmlsZXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc29ydGVkX2ZpbGVzID0gCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF8uc29ydEJ5KGZpbGVzLCBbKGYpID0+IHsKICAgICAgaWYgKHR5cGVvZiBmaWxlID09PSAnc3RyaW5nJykgewogICAgICAgIHJldHVybiBmaWxlOwogICAgICB9CgogICAgfV0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
