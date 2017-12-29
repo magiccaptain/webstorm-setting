@@ -36,11 +36,11 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1514443540407">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1514507601440">
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="D:/projects/FRI/server-shell-electron/src/main/index.js" timestamp="1514130871288">
         <mark key="[" line="14" column="0" />
@@ -159,10 +159,10 @@
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514442441255">
         <mark key="'" line="243" column="0" />
-        <mark key="[" line="361" column="25" />
-        <mark key="]" line="361" column="25" />
+        <mark key="[" line="359" column="25" />
+        <mark key="]" line="359" column="25" />
         <mark key="^" line="274" column="19" />
-        <mark key="." line="361" column="25" />
+        <mark key="." line="359" column="25" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.js" timestamp="1514257864890">
         <mark key="[" line="6" column="15" />
@@ -186,13 +186,6 @@
         <mark key="]" line="39" column="26" />
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514443337815">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="54" column="44" />
-        <mark key="]" line="54" column="43" />
-        <mark key="." line="54" column="43" />
-        <mark key="^" line="54" column="43" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
         <mark key="[" line="0" column="0" />
@@ -239,6 +232,13 @@
       <file name="G:/projects/fri/fri-rep-server-shell/node_modules/dateformat/lib/dateformat.js" timestamp="1514360025254">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514509829549">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/router.js" timestamp="1514269877254">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -251,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="67" column="0" filename="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" />
       <jump line="5" column="0" filename="G:/projects/smart_meter_dva/src/plugins/dva-oauth.ts" />
       <jump line="14" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/glob/index.d.ts" />
@@ -351,43 +350,44 @@
       <jump line="91" column="6" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
       <jump line="101" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
       <jump line="22" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
+      <jump line="22" column="17" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIG5hbWVzcGFjZTogJE5BTUUkLAogIHN0YXRlOiB7JEVORCR9LAogIHJlZHVjZXJzOiB7fSwKICBlZmZlY3RzOiB7fSwKICBzdWJzY3JpcHRpb25zOiB7fQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;版本列表&quot;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
       </register>
-      <register name="0" type="4">
-        <text>subscriptions</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8Um93PjwvUm93Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIG5hbWVzcGFjZTogJE5BTUUkLAogIHN0YXRlOiB7JEVORCR9LAogIHJlZHVjZXJzOiB7fSwKICBlZmZlY3RzOiB7fSwKICBzdWJzY3JpcHRpb25zOiB7fQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uR3JvdXA+CiAgICAgICAgICA8VG9vbHRpcCBwbGFjZW1lbnQ9InRvcCIgdGl0bGU9ItDCvaiw5rG+Ij4KICAgICAgICAgICAgPEJ1dHRvbiBpY29uPSJmaWxlLWFkZCIgb25DbGljaz17dGhpcy5vbkFkZENsaWNrZWR9Lz4KICAgICAgICAgIDwvVG9vbHRpcD4KICAgICAgICAgIDxUb29sdGlwIHBsYWNlbWVudD0idG9wIiB0aXRsZT0iyejWw86qSGVhZCI+CiAgICAgICAgICAgIDxCdXR0b24gaWNvbj0idXAiIG9uQ2xpY2s9e3RoaXMub25IZWFkQ2xpY2tlZH0vPgogICAgICAgICAgPC9Ub29sdGlwPgogICAgICAgICAgPFRvb2x0aXAgcGxhY2VtZW50PSJ0b3AiIHRpdGxlPSLJvrP9sOaxviI+CiAgICAgICAgICAgIDxCdXR0b24gdHlwZT0iZGFuZ2VyIiBpY29uPSJkZWxldGUiIG9uQ2xpY2s9e3RoaXMub25SZW1vdmVDbGlja2VkfS8+CiAgICAgICAgICA8L1Rvb2x0aXA+CiAgICAgICAgPC9CdXR0b25Hcm91cD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -472,6 +472,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

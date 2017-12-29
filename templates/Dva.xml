@@ -1,5 +1,5 @@
 <templateSet group="Dva">
-  <template name="DvaModel" value="export default {&#10;  namespace: &quot;$NAME$&quot;,&#10;  state: {$END$},&#10;  reducers: {},&#10;  effects: {},&#10;  subscriptions: {}&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="DvaModel" value="export default {&#10;  namespace: &quot;$NAME$&quot;,&#10;  state: {$END$},&#10;  reducers: {},&#10;  effects: {},&#10;  subscriptions: {}&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
