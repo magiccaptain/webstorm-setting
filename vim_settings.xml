@@ -238,11 +238,12 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514808693113">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="54" column="36" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514810037455">
+        <mark key="'" line="38" column="12" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="58" column="27" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
@@ -262,9 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
-      <jump line="50" column="0" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
-      <jump line="63" column="5" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
       <jump line="3" column="0" filename="G:/projects/smart_meter_dva/node_modules/@types/js-cookie/index.d.ts" />
       <jump line="12" column="0" filename="G:/projects/smart_meter_dva/src/utils/aes-helper.ts" />
       <jump line="69" column="40" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
@@ -362,58 +360,60 @@
       <jump line="51" column="15" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="60" column="20" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="16" column="0" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
+      <jump line="82" column="18" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
+      <jump line="36" column="10" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
+      <jump line="38" column="12" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>par</text>
+        <text>files</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text>push</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGFyc2VQYXRocyhwYXRocykpOwo=</text>
+        <text encoding="base64">ICAgICAgZmlsZXMgPSBfLnVuaXEoZmlsZXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsZXMpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlczogXy5tZXJnZShmaWxlcywgcGF0aHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgcGF0aHMgPSB0aGlzLnBhcnNlUGF0aHMocGF0aHMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlczogZmlsZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHN0YXQuaXNEaXJlY3RvcnkoKSkgewoK</text>
+        <text encoding="base64">ICAgICAgZmlsZXMucHVzaCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXQucHVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgZmlsZXMucHVzaCgpCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>find</last-search>
+      <last-search>push</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern>push</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>requi</entry>
         <entry>create</entry>
         <entry>auth</entry>
@@ -433,6 +433,7 @@
         <entry>addProjectFormRef</entry>
         <entry>setAddProject</entry>
         <entry>find</entry>
+        <entry>push</entry>
       </history-search>
       <history-cmd />
       <history-expr />
