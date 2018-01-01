@@ -238,12 +238,11 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514810037455">
-        <mark key="'" line="38" column="12" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-        <mark key="^" line="58" column="27" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514811233214">
+        <mark key="'" line="39" column="12" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
@@ -366,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQnV0dG9uR3JvdXA+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>files</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
@@ -378,31 +377,31 @@
         <text encoding="base64">ICAgICAgZmlsZXMgPSBfLnVuaXEoZmlsZXMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQnV0dG9uR3JvdXA+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b25Hcm91cCBzdHlsZT17e3BhZGRpbmdUb3A6IDEwfX0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsZXMpOwo=</text>
+        <text encoding="base64">ICBvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlczogXy5tZXJnZShmaWxlcywgcGF0aHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGF0aHMgPSB0aGlzLnBhcnNlUGF0aHMocGF0aHMpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlczogZmlsZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmlsZXMucHVzaCgpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZmlsZXMucHVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsZXMpOwo=</text>
       </register>
     </registers>
     <search>
