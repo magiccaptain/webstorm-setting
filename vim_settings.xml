@@ -59,10 +59,10 @@
         <mark key="^" line="17" column="68" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1514386345941">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="10" />
-        <mark key="^" line="61" column="10" />
-        <mark key="." line="61" column="10" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="62" column="10" />
+        <mark key="^" line="62" column="10" />
+        <mark key="." line="62" column="10" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/.gitignore" timestamp="1514345869225">
         <mark key="[" line="18" column="0" />
@@ -143,6 +143,7 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
+      <file name="D:/projects/SmartMeter/smart-meter-dva/src/components/Login/Login.tsx" timestamp="1514807187889" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/index.js" timestamp="1514338780504">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="21" />
@@ -160,7 +161,6 @@
         <mark key="." line="9" column="15" />
         <mark key="^" line="9" column="15" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514469411633" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514354516108">
         <mark key="[" line="24" column="15" />
         <mark key="]" line="24" column="29" />
@@ -184,11 +184,8 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514473757903">
-        <mark key="'" line="16" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="49" column="5" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514361370929">
         <mark key="'" line="84" column="17" />
@@ -234,17 +231,18 @@
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514469915795">
         <mark key="'" line="119" column="27" />
       </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/node_modules/@types/node/index.d.ts" timestamp="1514808112012" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514387990449">
         <mark key="[" line="55" column="20" />
         <mark key="]" line="55" column="20" />
         <mark key="." line="55" column="20" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514473751195">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="17" column="7" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514808693113">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="54" column="36" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
@@ -367,43 +365,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>数据</text>
+        <text>par</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGFyc2VQYXRocyhwYXRocykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgnc3R5bGUnIGluIHRoaXMucHJvcHMpIHsKCiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHN0YXQuaXNEaXJlY3RvcnkoKSkgewoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEZpbGVTZWxlY3RvciA9IChwcm9wcykgPT4gewogICAgIAogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICByZXQucHVzaCgpCg==</text>
       </register>
     </registers>
     <search>
