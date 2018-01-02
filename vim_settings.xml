@@ -188,12 +188,12 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514511296551">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514871366917">
         <mark key="'" line="89" column="3" />
-        <mark key="[" line="80" column="22" />
-        <mark key="]" line="80" column="26" />
-        <mark key="." line="80" column="26" />
-        <mark key="^" line="80" column="26" />
+        <mark key="[" line="80" column="33" />
+        <mark key="]" line="80" column="33" />
+        <mark key="." line="80" column="33" />
+        <mark key="^" line="80" column="33" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
         <mark key="[" line="0" column="0" />
@@ -240,11 +240,11 @@
       <file name="G:/projects/fri/fri-rep-server-shell/node_modules/dateformat/lib/dateformat.js" timestamp="1514360025254">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514868450154">
-        <mark key="[" line="134" column="40" />
-        <mark key="]" line="134" column="56" />
-        <mark key="^" line="134" column="56" />
-        <mark key="." line="134" column="56" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514871287370">
+        <mark key="[" line="130" column="3" />
+        <mark key="]" line="130" column="3" />
+        <mark key="." line="130" column="3" />
+        <mark key="^" line="130" column="3" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/router.js" timestamp="1514269877254">
         <mark key="[" line="5" column="0" />
@@ -360,11 +360,11 @@
       <jump line="174" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>defaultValue={path_value}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>defaultValue={path_value}</text>
+        <text>input.refs['input']</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
@@ -373,31 +373,31 @@
         <text>selected_path_structure</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkX3BhdGhfc3RydWN0dXJlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhfdmFsdWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkX3BhdGhfc3RydWN0dXJlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5pbnB1dC52YWx1ZSA9IHNlbGVjdGVkX3BhdGhbMF07Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlbW92ZV9kaXNhYmxlZCA9IGN1cl9zZWxlY3RlZF9maWxlID09PSBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlucHV0LnJlZnNbJ2lucHV0J10pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29ucwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlucHV0LnJlZnMpOwo=</text>
       </register>
     </registers>
     <search>
