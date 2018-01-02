@@ -51,7 +51,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/versions.js" timestamp="1514876255069">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/versions.js" timestamp="1514880163240">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -113,11 +113,11 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514879263952">
-        <mark key="[" line="147" column="32" />
-        <mark key="]" line="147" column="45" />
-        <mark key="^" line="147" column="45" />
-        <mark key="." line="147" column="45" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514881266270">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="186" column="5" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
         <mark key="[" line="0" column="0" />
@@ -267,11 +267,11 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514879286849">
-        <mark key="[" line="129" column="22" />
-        <mark key="]" line="129" column="22" />
-        <mark key="." line="129" column="22" />
-        <mark key="^" line="129" column="22" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514881096038">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/router.js" timestamp="1514269877254">
         <mark key="[" line="5" column="0" />
@@ -388,47 +388,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZXMudmVyc2lvbl9udW0sCiAgICAgICAgdmFsdWVzLnZlcnNpb25fbWVzc2FnZSwKICAgICAgICB2YWx1ZXMudmVyc2lvbl9mb2xkZXIK</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMuc3RhdGUgPSB7CiAgICAvLyAgIHNlbGVjdGVkX3BhdGg6IHZhbHVlID8gdmFsdWUgOiBudWxsLAogICAgLy8gfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZlcnNpb25fbnVtOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmVyc2lvbl9zZXJ2aWNlKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        ...this.state, add_version_loading: true
-      }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmICh2YWx1ZSkgewogICAgfSBlbHNlIHsKICAgICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgICBzZWxlY3RlZF9wYXRoOiBudWxsLAogICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-        add_version_loading: true
-      })</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgICBzZWxlY3RlZF9wYXRoOiB2YWx1ZSA/IHZhbHVlIDogbnVsbAogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgYWRkX3ZlcnNpb25fbG9hZGluZzogdHJ1ZQogICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
