@@ -240,11 +240,11 @@
       <file name="G:/projects/fri/fri-rep-server-shell/node_modules/dateformat/lib/dateformat.js" timestamp="1514360025254">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514865642741">
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="64" column="34" />
-        <mark key="." line="64" column="34" />
-        <mark key="^" line="64" column="34" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514868450154">
+        <mark key="[" line="134" column="40" />
+        <mark key="]" line="134" column="56" />
+        <mark key="^" line="134" column="56" />
+        <mark key="." line="134" column="56" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/router.js" timestamp="1514269877254">
         <mark key="[" line="5" column="0" />
@@ -361,43 +361,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, 'multiSelections'</text>
+        <text>defaultValue={path_value}</text>
       </register>
       <register name="-" type="4">
-        <text>, 'multiSelections'</text>
+        <text>defaultValue={path_value}</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUb29sdGlwIHBsYWNlbWVudD0idG9wIiB0aXRsZT0izO2808/uxL8iPgo=</text>
+      <register name="0" type="4">
+        <text>selected_path_structure</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkX3BhdGhfc3RydWN0dXJlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXRocyAhPT0gdW5kZWZpbmVkKSB7CiAgICAgIGxldCBmaWxlcyA9IHRoaXMuc3RhdGUuZmlsZXM7CiAgICAgIGZpbGVzLnB1c2goLi4ucGF0aHMpOwogICAgICBmaWxlcyA9IF8udW5pcShmaWxlcyk7CiAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgIGZpbGVzCiAgICAgIH0pCiAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBvbkFkZEZpbGVDbGlja2VkID0gKGUpID0+IHsKICAgIGxldCBwYXRocyA9IGRpYWxvZy5zaG93T3BlbkRpYWxvZygKICAgICAgZWxlY3Ryb24ucmVtb3RlLmdldEN1cnJlbnRXaW5kb3coKSwKICAgICAge3Byb3BlcnRpZXM6IFsnb3BlbkZpbGUnLCAnbXVsdGlTZWxlY3Rpb25zJ119KTsKCiAgICAvLyDI57n7yKHP+9Gh1PGjrLe1u9i1xHBhdGhzzqogdW5kZWZpbmVkCiAgICBpZiAocGF0aHMgIT09IHVuZGVmaW5lZCkgewogICAgICBjb25zdCB7ZmlsZXN9ID0gdGhpcy5zdGF0ZTsKICAgICAgXy5mb3JFYWNoKHBhdGhzLCAocCkgPT4gewogICAgICAgIC8vIMS/wrzD+wogICAgICAgIGxldCBkaXJfbmFtZSA9IHBhdGguZGlybmFtZShwKTsKCgogICAgICB9KTsKCiAgICAgIC8vIGxldCBmaWxlcyA9IHRoaXMuc3RhdGUuZmlsZXM7CiAgICAgIC8vIGZpbGVzLnB1c2goLi4ucGF0aHMpOwogICAgICAvLyBmaWxlcyA9IF8udW5pcShmaWxlcyk7CiAgICAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgICAvLyAgIGZpbGVzCiAgICAgIC8vIH0pCiAgICB9CgogIH07Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkX3BhdGhfc3RydWN0dXJlKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHt9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGVjdERpciA9ICgKICAgICAgPEJ1dHRvbiBzaXplPSJzbWFsbCIgaWNvbj0iZm9sZGVyLW9wZW4iLz4KICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQ29sPgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlbW92ZV9kaXNhYmxlZCA9IGN1cl9zZWxlY3RlZF9maWxlID09PSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDb2wgc3Bhbj17MX0+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQ29sPgo=</text>
+        <text encoding="base64">ICAgICAgY29ucwo=</text>
       </register>
     </registers>
     <search>
