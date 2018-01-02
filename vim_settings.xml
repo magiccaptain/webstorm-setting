@@ -244,12 +244,12 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514813645500">
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514817428484">
         <mark key="'" line="39" column="12" />
-        <mark key="[" line="132" column="24" />
-        <mark key="]" line="132" column="24" />
-        <mark key="." line="132" column="24" />
-        <mark key="^" line="132" column="24" />
+        <mark key="[" line="55" column="7" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="47" column="24" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
@@ -371,11 +371,11 @@
       <jump line="38" column="12" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>, is_dir = false</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
@@ -384,31 +384,31 @@
         <text encoding="base64">ICAgICAgICAgIGxldCB0aXRsZSA9IGRlcHRoID09PSAwID8gbmFtZSA6IHBhdGguYmFzZW5hbWUobmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBvblNlbGVjdGVkID0gKHNlbGVjdGVkX2tleXMpID0+IHsKICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkX2tleXMpCiAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIMrHt/HS0b6t09DP4M2stcRwYXRoCiAgICBpZiAoaXNfZGlyKSB7CgogICAgfSBlbHNlIHsKCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB0aXRsZSA9IGRlcHRoID09PSAwPwo=</text>
+        <text encoding="base64">ICBwbGFjZVBhdGggPSAocm9vdCwgcGF0aCwgaXNfZGlyID0gZmFsc2UpID0+IHsKICAgIC8vIHJvb3TPwsv509C1xM7EvP4KICAgIGxldCByb290X2ZpbGVzID0gXy5maWx0ZXIocm9vdCwgZnVuY3Rpb24gKG4pIHsKICAgICAgcmV0dXJuIHR5cGVvZiBuID09PSAnc3RyaW5nJwogICAgfSk7CiAgICAvLyByb290z8LL+dPQtcTOxLz+vNAKICAgIGxldCByb290X2RpcnMgPSBfLmZpbHRlcihyb290LCBmdW5jdGlvbiAobikgewogICAgICByZXR1cm4gdHlwZW9mIG4gPT09ICdvYmplY3QnCiAgICB9KTsKCiAgICAvLyDKx7fx0tG+rdPQz+DNrLXEcGF0aAogICAgaWYgKGlzX2RpcikgewoKICAgIH0gZWxzZSB7CgogICAgfQoKICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCB0aWx0ZQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGJhc2VfbmFtZSA9IHBhdGguYmFzZW5hbWUocCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgaWYgdHlwZW9mIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQnV0dG9uR3JvdXA+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxCdXR0b25Hcm91cCBzdHlsZT17e3BhZGRpbmdUb3A6IDEwfX0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDU2mZpbGVz1tDV0rW9Cg==</text>
       </register>
     </registers>
     <search>
