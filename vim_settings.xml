@@ -41,6 +41,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/services/versions.js" timestamp="1514875933924">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.css" timestamp="1514874165802">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="25" />
@@ -97,12 +103,12 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514874077306">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514875886712">
         <mark key="'" line="113" column="3" />
-        <mark key="[" line="78" column="45" />
-        <mark key="]" line="78" column="45" />
-        <mark key="." line="78" column="45" />
-        <mark key="^" line="78" column="45" />
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="49" />
+        <mark key="." line="2" column="49" />
+        <mark key="^" line="2" column="49" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.js" timestamp="1507603845472">
         <mark key="[" line="0" column="0" />
@@ -210,6 +216,7 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1514874921022" />
       <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1514338756276">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="39" />
@@ -227,7 +234,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514872735215">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1514875895595">
         <mark key="'" line="238" column="0" />
         <mark key="[" line="242" column="0" />
         <mark key="]" line="242" column="47" />
@@ -246,11 +253,11 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514874180161">
-        <mark key="[" line="134" column="17" />
-        <mark key="]" line="134" column="17" />
-        <mark key="." line="134" column="17" />
-        <mark key="^" line="134" column="17" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" timestamp="1514875680224">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="127" column="38" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/router.js" timestamp="1514269877254">
         <mark key="[" line="5" column="0" />
@@ -366,11 +373,11 @@
       <jump line="174" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCBUcmlnZ2VyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text encoding="base64">LCBUcmlnZ2VyIA==</text>
       </register>
       <register name="/" type="4">
         <text>===</text>
@@ -379,31 +386,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBnZXRGaWVsZERlY29yYXRvcigndmVyc2lvbl9tZXNzYWdlJywgewogICAgICAgICAgICAgICAgICBydWxlczogW3tyZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ7Dmsb7Qxc+isrvE3M6qv9UnfV0sCiAgICAgICAgICAgICAgICAgIGluaXRpYWxWYWx1ZTogdmVyc2lvbl9tZXNzYWdlCiAgICAgICAgICAgICAgICB9KSgKICAgICAgICAgICAgICAgICAgPElucHV0IHR5cGU9InRleHRhcmVhIiBkaXNhYmxlZD17bG9hZGluZ30vPgogICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQnV0dG9uR3JvdXAgPSBCdXR0b24uR3JvdXA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dmFsaWRhdG9yOiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvblNlbGVjdD17dGhpcy5vblNlbGVjdGVkfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvbkNoYW5nZSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWUpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dmFsaWRhdG9yOiB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvbkNoYW5nZSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0cmlnZ2VyQ2hhbmdlID0gKHZhbHVlKSA9PiB7CgogIH07Cgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWUpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtvbkNoYW5nZX0gPSB0aGlzLnByb3BzOwogICAgY29uc29sZS5sb2codmFsdWUpOwoKICAgIGlmIChvbkNoYW5nZSkgewogICAgICBjb25zb2xlLmxvZyhvbkNoYW5nZSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICB0cmlnZ2VyQ2hhbmdlID0gKHZhbHVlKSA9PiB7CgogIH07Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvblNlbGVjdGVkID0gKHNlbGVjdGVkX2tleXMpID0+IHsKICAgIGNvbnNvbGUubG9nKHNlbGVjdGVkX2tleXMpCiAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
