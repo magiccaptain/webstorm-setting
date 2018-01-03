@@ -35,11 +35,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1514983576742">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="30" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1514986775426">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="31" />
+        <mark key="." line="21" column="41" />
+        <mark key="^" line="21" column="41" />
       </file>
       <file name="G:/projects/smart_meter_dva/karma.conf.js" timestamp="1505124232772">
         <mark key="[" line="21" column="0" />
@@ -171,6 +171,12 @@
         <mark key="." line="17" column="32" />
       </file>
       <file name="D:/projects/SmartMeter/smart-meter-dva/src/components/Devices/DeviceList.css" timestamp="1514907583398" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/app/package.json" timestamp="1514986778449">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="16" column="20" />
+      </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.css" timestamp="1514908540838">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="12" />
@@ -403,43 +409,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJnb29nbGUtcHJvdG9idWYiOiAiXjMuNS4wIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>saveVersions</text>
+        <text>sorrycc@gmail.com</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBwdXQoewogICAgICAgICAgdHlwZTogJ3NhdmVWZXJzaW9ucycsCiAgICAgICAgICBwYXlsb2FkOiB7dmVyc2lvbnN9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICJnb29nbGUtcHJvdG9idWYiOiAiXjMuNS4wIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJnb29nbGUtcHJvdG9idWYiOiAiXjMuNS4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdCI6ICJeMTUuNC4wIiwKICAgICJyZWFjdC1kb20iOiAiXjE1LjQuMCIsCiAgICAicmVkYm94LXJlYWN0IjogIl4xLjMuMyIsCiAgICAiYmFiZWwtZXNsaW50IjogIl43LjEuMSIsCiAgICAiYmFiZWwtbG9hZGVyIjogIl43LjEuMiIsCiAgICAiYmFiZWwtcGx1Z2luLWFkZC1tb2R1bGUtZXhwb3J0cyI6ICJeMC4yLjEiLAogICAgImJhYmVsLXBsdWdpbi1kdmEtaG1yIjogIl4wLjMuMiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5bG9hZDoge3ZlcnNpb25zfQo=</text>
+        <text encoding="base64">ICAgICJwcm9wLXR5cGVzIjogIl4xNS42LjAiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICghcHJvamVjdCkgewogICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghcHJvamVjdCkgewogICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtc3RhZ2UtMCI6ICJeNi4xNi4wIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIl42LjE4LjAiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocHJvamVjdCA9PT0gbnVsbCkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJ1bnRpbWUiOiAiXjYuMTUuMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWRlY29yYXRvcnMtbGVnYWN5IjogIl4xLjMuNCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl42LjE4LjIiLAo=</text>
       </register>
     </registers>
     <search>
