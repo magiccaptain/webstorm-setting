@@ -146,6 +146,13 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/dva-electron-boilerplate/package.json" timestamp="1514963217107">
+        <mark key="'" line="36" column="11" />
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="45" />
+        <mark key="." line="21" column="45" />
+        <mark key="^" line="21" column="45" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/const/AMap.js" timestamp="1499138933848">
         <mark key="[" line="5" column="57" />
         <mark key="]" line="5" column="56" />
@@ -415,6 +422,17 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
+      <file name="$USER_HOME$/projects/dva-electron-boilerplate/.gitignore" timestamp="1514963251249">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/dva-electron-boilerplate/README.md" timestamp="1514963837422">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+      </file>
       <file name="G:/projects/smart_meter_fullstack/client/dev_server/webpack.config.js" timestamp="1502154965266">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="31" />
@@ -457,9 +475,10 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/fri-rep-server-shell/package.json" timestamp="1514429201102">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="46" />
+      <file name="$USER_HOME$/projects/fri-rep-server-shell/package.json" timestamp="1514962350676">
+        <mark key="'" line="20" column="17" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="27" />
         <mark key="^" line="17" column="46" />
         <mark key="." line="17" column="46" />
       </file>
@@ -469,6 +488,7 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/fri-rep-server-shell/app/package.json" timestamp="1514963988502" />
       <file name="$USER_HOME$/projects/smart_meter_fullstack/client/src/index.tsx" timestamp="1502162984464">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -498,6 +518,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="36" column="73" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/dva-electron-boilerplate/electron-builder.yml" timestamp="1514962902426">
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+        <mark key="^" line="31" column="3" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/models/app.ts" timestamp="1505812382239">
         <mark key="[" line="8" column="0" />
@@ -676,7 +702,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509543895702">
+      <file name="/Dummy.txt" timestamp="1514963264766">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499437108532">
@@ -745,7 +771,6 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/fri-rep-server-shell/src/main/services/window.js" timestamp="1514535203979" />
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Page.jsx" timestamp="1499441823049">
         <mark key="[" line="207" column="0" />
         <mark key="]" line="207" column="0" />
@@ -877,61 +902,72 @@
       <jump line="71" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="14" column="14" filename="G:/projects/smart_meter_dva/src/router.tsx" />
       <jump line="51" column="24" filename="G:/projects/smart_meter_dva/src/router.tsx" />
+      <jump line="35" column="25" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
+      <jump line="52" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
+      <jump line="53" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
+      <jump line="54" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
+      <jump line="55" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
+      <jump line="31" column="11" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
+      <jump line="24" column="18" filename="$USER_HOME$/projects/fri-rep-server-shell/package.json" />
+      <jump line="21" column="17" filename="$USER_HOME$/projects/fri-rep-server-shell/package.json" />
+      <jump line="22" column="19" filename="$USER_HOME$/projects/fri-rep-server-shell/package.json" />
+      <jump line="20" column="17" filename="$USER_HOME$/projects/fri-rep-server-shell/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>pack</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>pack</text>
       </register>
       <register name="/" type="4">
-        <text>device</text>
+        <text>run-s</text>
       </register>
       <register name="0" type="4">
-        <text>grant_type</text>
+        <text>private:build:mac</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0YXRlKTsK</text>
+        <text encoding="base64">L2FwcC9ub2RlX21vZHVsZXMvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">L2Rpc3QvCg==</text>
       </register>
       <register name="3" type="4">
-        <text>{
-    }</text>
+        <text>,
+  &quot;build&quot;: {
+    &quot;appId&quot;: &quot;com.sorrycc.dva-boilerplate&quot;,
+    &quot;category&quot;: &quot;public.app-category.developer-tools&quot;,
+    &quot;asar&quot;: false
+  },</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZ3JvdXBzOiBbXSwK</text>
+        <text encoding="base64">ICBjYXRlZ29yeTogcHVibGljLmFwcC1jYXRlZ29yeS50b29scwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY3VyX3RhYnNfZ3JvdXBfa2V5OiBudWxsCg==</text>
+        <text encoding="base64">ICAgICJyZWJ1aWxkIjogImVsZWN0cm9uLXJlYnVpbGQgLW0gLi9hcHAvbm9kZV9tb2R1bGVzIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJYcG9zdGluc3RhbGwiOiAiY2QgYXBwICYmIHRucG0gaSAmJiBjZCAuLiAmJiBucG0gcnVuIHJlYnVpbGQiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJYcG9zdGluc3RhbGwiOiAiY2QgYXBwICYmIHRucG0gaSAmJiBjZCAuLiAmJiBucG0gcnVuIHJlYnVpbGQiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICJeNy4wLjAtMCIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJyZW5kZXIgbWVudXMiKTsK</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICJeNy4wLjAtYmV0YS4zNCIsCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>device</last-search>
+      <last-search>run-s</last-search>
       <last-offset />
-      <last-pattern>device</last-pattern>
+      <last-pattern>run-s</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>muiTH</entry>
-        <entry>mui</entry>
-        <entry>drap</entry>
         <entry>drop</entry>
         <entry>toolBar</entry>
         <entry>tool</entry>
@@ -949,6 +985,9 @@
         <entry>timePeriod</entry>
         <entry>table</entry>
         <entry>haha</entry>
+        <entry>plugin</entry>
+        <entry>jest</entry>
+        <entry>run-s</entry>
       </history-search>
       <history-cmd />
       <history-expr />
