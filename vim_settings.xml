@@ -9,7 +9,6 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/node_modules/antd/es/button/button-group.d.ts" timestamp="1514512395978" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514355295823">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="27" />
@@ -26,11 +25,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/versions.js" timestamp="1514950609658">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="56" column="31" />
-        <mark key="." line="64" column="0" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/versions.js" timestamp="1514953652615">
+        <mark key="[" line="54" column="22" />
+        <mark key="]" line="54" column="34" />
+        <mark key="^" line="54" column="23" />
+        <mark key="." line="54" column="23" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.css" timestamp="1514944937137">
         <mark key="[" line="1" column="0" />
@@ -74,11 +73,11 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514951692480">
-        <mark key="[" line="69" column="14" />
-        <mark key="]" line="69" column="14" />
-        <mark key="." line="69" column="14" />
-        <mark key="^" line="90" column="82" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514953840787">
+        <mark key="[" line="372" column="22" />
+        <mark key="]" line="372" column="27" />
+        <mark key="." line="372" column="27" />
+        <mark key="^" line="372" column="27" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514948533527">
         <mark key="'" line="77" column="15" />
@@ -164,7 +163,9 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1514874921022" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1514953693295">
+        <mark key="'" line="50" column="0" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1514338756276">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="39" />
@@ -203,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="71" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
-      <jump line="97" column="73" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="105" column="32" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="136" column="50" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="37" column="0" filename="G:/projects/smart_meter_dva/src/components/MainLayout/MainLayout.tsx" />
@@ -303,50 +302,48 @@
       <jump line="246" column="32" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="260" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="257" column="28" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
+      <jump line="322" column="12" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
+      <jump line="50" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/main/pbs/manage.proto" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>else {
-              throw &quot;No Operation&quot;
-            }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJldHVybiAoPFZlcnNpb25DYXJkIHZlcnNpb249e3Z9IGtleT17di5nZXRWZXJzaW9uTnVtKCl9Lz4pCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>throw</text>
+        <text>v.getVersionNum() === head_version.getVersionNum()</text>
       </register>
       <register name="/" type="4">
         <text>im</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aHJvdyAiTm8gT3BlcmF0aW9uIgo=</text>
+      <register name="0" type="4">
+        <text>onSetHead</text>
       </register>
-      <register name="1" type="4">
-        <text>else {
-              throw &quot;No Operation&quot;
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJldHVybiAoPFZlcnNpb25DYXJkIHZlcnNpb249e3Z9IGtleT17di5nZXRWZXJzaW9uTnVtKCl9Lz4pCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAoPFZlcnNpb25DYXJkICBvblJlbW92ZT17dGhpcy5yZW1vdmVWZXJzaW9ufSBvblNldEhlYWQ9e3RoaXMuc2V0VmVyc2lvbkhlYWR9IHZlcnNpb249e3Z9IGtleT17di5nZXRWZXJzaW9uTnVtKCl9IGhlYWQvPikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZWplY3QoIk5vIE9wZXJhdGlvbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uLlN1Y2Nlc3NOb3RpZnkoIsm+s/2w5rG+OiIgKyB2ZXJzaW9uLmdldFZlcnNpb25OdW0oKSwgIrPJuaYiKTsKICAgICAgICAgICAgcmVzb2x2ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVqZWN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZpY2F0aW9uLlN1Y2Nlc3NOb3RpZnkoIsno1sNIZWFksOaxvjoiICsgdmVyc2lvbi5nZXRWZXJzaW9uTnVtKCksICKzybmmIik7CiAgICAgICAgICAgIHJlc29sdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
