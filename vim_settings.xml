@@ -73,12 +73,15 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514948234178">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514949241934">
         <mark key="'" line="29" column="42" />
-        <mark key="[" line="134" column="38" />
-        <mark key="]" line="134" column="38" />
-        <mark key="^" line="134" column="38" />
-        <mark key="." line="134" column="38" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+        <mark key="^" line="144" column="10" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514948533527">
+        <mark key="'" line="77" column="15" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/node_modules/dateformat/lib/dateformat.js" timestamp="1514360025254">
         <mark key="'" line="3" column="0" />
@@ -148,12 +151,12 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514947572023">
-        <mark key="'" line="90" column="47" />
-        <mark key="[" line="70" column="13" />
-        <mark key="]" line="70" column="21" />
-        <mark key="^" line="70" column="21" />
-        <mark key="." line="70" column="21" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514949213178">
+        <mark key="'" line="101" column="47" />
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="60" column="7" />
+        <mark key="." line="60" column="7" />
+        <mark key="^" line="60" column="7" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.ts" timestamp="1514256261960">
         <mark key="[" line="8" column="42" />
@@ -200,9 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="6" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
-      <jump line="108" column="6" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
-      <jump line="109" column="25" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
       <jump line="132" column="33" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
       <jump line="52" column="15" filename="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" />
       <jump line="52" column="6" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
@@ -300,58 +300,60 @@
       <jump line="54" column="44" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="29" column="42" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="305" column="38" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
+      <jump line="65" column="23" filename="G:/projects/fri/fri-rep-server-shell/package.json" />
+      <jump line="73" column="32" filename="G:/projects/fri/fri-rep-server-shell/package.json" />
+      <jump line="77" column="15" filename="G:/projects/fri/fri-rep-server-shell/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>resp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>resp</text>
+        <text>Version</text>
       </register>
       <register name="/" type="4">
-        <text>blue-6</text>
+        <text>im</text>
       </register>
       <register name="0" type="4">
-        <text>cur_selected_project</text>
+        <text>refeshProject</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VsZWN0ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VsZWN0ZWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGlzdC4K</text>
       </register>
     </registers>
     <search>
-      <last-search>blue-6</last-search>
+      <last-search>im</last-search>
       <last-offset />
-      <last-pattern>blue-6</last-pattern>
+      <last-pattern>im</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>json</entry>
         <entry>requi</entry>
         <entry>create</entry>
         <entry>auth</entry>
@@ -371,6 +373,7 @@
         <entry>===</entry>
         <entry>select</entry>
         <entry>blue-6</entry>
+        <entry>im</entry>
       </history-search>
       <history-cmd />
       <history-expr />
