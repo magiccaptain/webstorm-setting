@@ -72,12 +72,12 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514958363620">
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514958426638">
         <mark key="'" line="367" column="30" />
-        <mark key="[" line="337" column="24" />
-        <mark key="]" line="337" column="24" />
-        <mark key="." line="337" column="24" />
-        <mark key="^" line="337" column="24" />
+        <mark key="[" line="324" column="0" />
+        <mark key="]" line="324" column="0" />
+        <mark key="." line="324" column="0" />
+        <mark key="^" line="323" column="7" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514948533527">
         <mark key="'" line="77" column="15" />
@@ -306,8 +306,8 @@
       <jump line="367" column="30" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -322,28 +322,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgaGVhZCA9IHYuZ2V0VmVyc2lvbk51bSgpID09PSBoZWFkX3ZlcnNpb24uZ2V0VmVyc2lvbk51bSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLmdldFByb2plY3QoKSk7CiAgICAgICAgY29uc29sZS5sb2cocmVzcC5nZXRWZXJzaW9uKCkpOwoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwLmdldFByb2plY3QoKSk7CiAgICAgICAgLy8gY29uc29sZS5sb2cocmVzcC5nZXRWZXJzaW9uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgaGVhZCA9IHYuZ2V0VmVyc2lvbk51bSgpID09PSBoZWFkX3ZlcnNpb24uZ2V0VmVyc2lvbk51bSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLmdldFByb2plY3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwLmdldFByb2plY3QoKSk7CiAgICAgICAgLy8gY29uc29sZS5sb2cocmVzcC5nZXRWZXJzaW9uKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLmdldFByb2plY3QoKSk7Cg==</text>
       </register>
     </registers>
     <search>
