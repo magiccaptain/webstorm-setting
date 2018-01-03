@@ -9,11 +9,11 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514355295823">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="27" column="23" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514969534219">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/pbs/manage_grpc_pb.js" timestamp="1514876200517">
         <mark key="[" line="155" column="2" />
@@ -72,12 +72,12 @@
         <mark key="^" line="42" column="8" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514958426638">
-        <mark key="'" line="367" column="30" />
-        <mark key="[" line="324" column="0" />
-        <mark key="]" line="324" column="0" />
-        <mark key="." line="324" column="0" />
-        <mark key="^" line="323" column="7" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514969357748">
+        <mark key="'" line="373" column="30" />
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="332" column="11" />
+        <mark key="." line="329" column="0" />
+        <mark key="^" line="326" column="49" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514948533527">
         <mark key="'" line="77" column="15" />
@@ -91,11 +91,11 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1514960071052">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="62" column="25" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1514969420685">
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="31" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/index.js" timestamp="1514876710718">
         <mark key="'" line="65" column="32" />
@@ -130,8 +130,8 @@
         <mark key="." line="54" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/pbs/manage_pb.d.ts" timestamp="1514882979738">
-        <mark key="[" line="185" column="2" />
-        <mark key="]" line="185" column="18" />
+        <mark key="[" line="189" column="2" />
+        <mark key="]" line="189" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1514959628992">
         <mark key="[" line="0" column="0" />
@@ -306,44 +306,44 @@
       <jump line="367" column="30" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>head</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaCh7CiAgICAgICAgICB0eXBlOiAidmVyc2lvbnMvbmV3VmVyc2lvbiIsCiAgICAgICAgICBwYXlsb2FkOiB7dmVyc2lvbjogcmVzcC5nZXRWZXJzaW9uKCl9CiAgICAgICAgfSk7CgogICAgICAgIGRpc3BhdGNoKHsKICAgICAgICAgIHR5cGU6ICJwcm9qZWN0cy9yZWZyZXNoUHJvamVjdCIsCiAgICAgICAgICBwYXlsb2FkOiB7cHJvamVjdDogcmVzcC5nZXRQcm9qZWN0KCkudG9PYmplY3QoKX0KICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgdmVyc2lvbnMgPSBzb3J0VmVyc2lvbnModmVyc2lvbnMsIHZlcnNpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IG5ld192ZXJzaW9ucyA9IExpc3Qoc3RhdGUudmVyc2lvbnMpOwogICAgICBsZXQgdmVyc2lvbnMgPSBuZXdfdmVyc2lvbnMudG9KUygpOwogICAgICB2ZXJzaW9ucyA9IHNvcnRWZXJzaW9ucyh2ZXJzaW9ucywgdmVyc2lvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3X3ZlcnNpb25zID0gbmV3X3ZlcnNpb25zLnB1c2godmVyc2lvbik7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLmdldFByb2plY3QoKSk7CiAgICAgICAgY29uc29sZS5sb2cocmVzcC5nZXRWZXJzaW9uKCkpOwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBsZXQgaGVhZCA9IHYuZ2V0VmVyc2lvbk51bSgpID09PSBoZWFkX3ZlcnNpb24uZ2V0VmVyc2lvbk51bSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuZXcK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZXNwLmdldFByb2plY3QoKSk7CiAgICAgICAgLy8gY29uc29sZS5sb2cocmVzcC5nZXRWZXJzaW9uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
     </registers>
     <search>
