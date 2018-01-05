@@ -85,9 +85,6 @@
         <mark key="^" line="299" column="82" />
         <mark key="." line="299" column="82" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514948533527">
-        <mark key="'" line="77" column="15" />
-      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/README.md" timestamp="1515032200548">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -107,10 +104,10 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.js" timestamp="1515047662942">
-        <mark key="'" line="194" column="22" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.js" timestamp="1515113678589">
+        <mark key="'" line="10" column="27" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="43" />
         <mark key="^" line="64" column="82" />
         <mark key="." line="250" column="0" />
       </file>
@@ -153,7 +150,7 @@
         <mark key="[" line="189" column="2" />
         <mark key="]" line="189" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514981331175">
+      <file name="/Dummy.txt" timestamp="1515056595306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -178,14 +175,17 @@
         <mark key="." line="95" column="0" />
         <mark key="^" line="94" column="26" />
       </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515114148567">
+        <mark key="[" line="57" column="37" />
+        <mark key="]" line="57" column="37" />
+        <mark key="." line="57" column="37" />
+        <mark key="^" line="57" column="38" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.ts" timestamp="1514256261960">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="42" />
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
-      </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1514953693295">
-        <mark key="'" line="50" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1514338756276">
         <mark key="[" line="15" column="0" />
@@ -226,8 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="14" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
-      <jump line="3" column="0" filename="G:/projects/fri/fri-rep-server-shell/node_modules/dateformat/lib/dateformat.js" />
       <jump line="122" column="43" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="28" column="3" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="125" column="20" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
@@ -326,58 +324,59 @@
       <jump line="20" column="40" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/accesses.js" />
       <jump line="177" column="10" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.js" />
       <jump line="194" column="22" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.js" />
+      <jump line="203" column="38" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.js" />
+      <jump line="10" column="27" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>resp</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>head</text>
+        <text>Group</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgeWllbGQgcHV0KHsKICAgICAgICB0eXBlOiAncHJvamVjdHMvcmVmcmVzaFByb2plY3QnLAogICAgICAgIHBheWxvYWQ6IHtwcm9qZWN0fQogICAgICB9KQo=</text>
+      <register name="0" type="4">
+        <text>style={{lineHeight: '40px'}}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb2wgc3Bhbj17OH0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDxBbGVydCBtZXNzYWdlPXtzZXJ2aWNlX3N0YXR1cygitO3O8yIpfSB0eXBlPSJpbmZvIi8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvUm93Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHJlc3AgPSBhd2FpdCBhY2Nlc3Nfc2VydmljZVsnUmVtb3ZlQWNjZXNzJ10oYWNjZXNzKTsKCiAgICAgIGRpc3BhdGNoKHsKICAgICAgICB0eXBlOiAiYWNjZXNzZXMvcmVtb3ZlQWNjZXNzIiwKICAgICAgICBwYXlsb2FkOiB7CiAgICAgICAgICBhY2Nlc3M6IHJlc3AuYWNjZXNzLAogICAgICAgICAgcHJvamVjdDogcmVzcC5wcm9qZWN0LAogICAgICAgIH0KICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIDxSb3c+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b25Hcm91cCBzdHlsZT17e2xpbmVIZWlnaHQ6ICc0MHB4J319PgogICAgICAgICAgICA8QnV0dG9uIHR5cGU9InByaW1hcnkiIG9uQ2xpY2s9e3RoaXMub25TdGFydENsaWNrfT4KICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJjYXJldC1yaWdodCIvPsb0tq8KICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDxCdXR0b24gdHlwZT0iZGFuZ2VyIj4KICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJwYXVzZSIvPs2j1rkKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIDxCdXR0b24gdHlwZT0iZGFuZ2VyIj4KICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJyZWxvYWQiLz7W2Mb0CiAgICAgICAgICAgIDwvQnV0dG9uPgogICAgICAgICAgPC9CdXR0b25Hcm91cD4KCiAgICAgICAgICA8QWxlcnQgbWVzc2FnZT17c2VydmljZV9zdGF0dXMoIrTtzvMiKX0gdHlwZT0iaW5mbyIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvQ29sPgo=</text>
       </register>
     </registers>
     <search>
-      <last-search>head</last-search>
+      <last-search>Group</last-search>
       <last-offset />
-      <last-pattern>head</last-pattern>
+      <last-pattern>Group</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>auth</entry>
         <entry>align</entry>
         <entry>alignItems</entry>
         <entry>saveToken</entry>
@@ -397,6 +396,7 @@
         <entry>im</entry>
         <entry>refresh</entry>
         <entry>head</entry>
+        <entry>Group</entry>
       </history-search>
       <history-cmd />
       <history-expr />
