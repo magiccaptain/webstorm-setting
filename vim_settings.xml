@@ -108,11 +108,11 @@
         <mark key="^" line="64" column="82" />
         <mark key="." line="250" column="0" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515116303181">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="10" column="15" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="15" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515130833960">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1515046420298">
         <mark key="'" line="57" column="7" />
@@ -215,6 +215,7 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/javascript/nodejs/library/node-globals-stub.js" timestamp="1515130692713" />
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="22" column="46" />
@@ -229,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="43" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="28" column="3" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="125" column="20" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="23" column="3" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
@@ -329,13 +329,14 @@
       <jump line="194" column="22" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.js" />
       <jump line="203" column="38" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.js" />
       <jump line="10" column="27" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.js" />
+      <jump line="21" column="17" filename="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>__dirname</text>
       </register>
       <register name="/" type="4">
         <text>Group</text>
@@ -344,31 +345,31 @@
         <text>style={{lineHeight: '40px'}}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwYXRoLnJlc29sdmUoX19kaXJuYW1lKSk7CiAgY29uc29sZS5sb2coX19maWxlbmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBzZXJ2ZXJfcHJvZ3Jlc3MgPSBleGVjKCcnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmN3ZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHByb2Nlc3MgZnJvbSAgJ3Byb2Nlc3MnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcm9qZWN0ZGRrCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLgo=</text>
+        <text encoding="base64">ICBzZXJ2ZXJfcHJvZ3Jlc3MgPSBleGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBybwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
