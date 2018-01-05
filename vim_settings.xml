@@ -41,7 +41,6 @@
         <mark key="^" line="74" column="29" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515079185827">
-        <mark key="'" line="45" column="17" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -66,9 +65,11 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515079124483">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="34" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515157295978">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="15" column="42" />
+        <mark key="^" line="15" column="42" />
+        <mark key="." line="15" column="42" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.css" timestamp="1514945023633">
         <mark key="[" line="5" column="1" />
@@ -213,7 +214,7 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="24" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514991432808">
+      <file name="/Dummy.txt" timestamp="1515079443983">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -229,14 +230,10 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="25" column="21" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1515077264450">
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1515156785182">
         <mark key="'" line="11" column="26" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="91" column="17" />
-      </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/main-dev.html" timestamp="1514987775263">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="70" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514949213178">
         <mark key="'" line="101" column="47" />
@@ -411,11 +408,11 @@
       <jump line="24" column="1" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="-" type="4">
-        <text>()+</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>Group</text>
@@ -430,22 +427,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBfLmZvckVhY2gob3MubmV0d29ya0ludGVyZmFjZXMoKSkgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBmb3IobGV0IGkpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ewogCn0K</text>
+        <text encoding="base64">ICBsZXQgaG9zdF9uYW1lID0gb3MuaG9zdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gbGV0IG5ld19yZXQgPSBlbGVjdGlvbi5yZW1vdGUuYXBwWydmcmktcmVwLXNlcnZpY2VzLXByb2plY3QnXS5OZXdQcm9qZWN0KCKy4srUz+7EvzQiLCAiuf65/iIpOwovLwovLyBuZXdfcmV0LnRoZW4ocmVzcCA9PiB7Ci8vICAgY29uc29sZS5sb2cocmVzcC5nZXROYW1lKCkpCi8vCi8vICAgbGV0IHJldCA9IGVsZWN0aW9uLnJlbW90ZS5hcHBbJ2ZyaS1yZXAtc2VydmljZXMtcHJvamVjdCddLlByb2plY3RMaXN0KCk7Ci8vCi8vICAgcmV0LnRoZW4obGlzdF9yZXQgPT4gewovLyAgICAgY29uc29sZS5sb2cobGlzdF9yZXQpCi8vICAgfSkuY2F0Y2goZXJyID0+IHsKLy8gICAgIGNvbnNvbGUubG9nKGVycikKLy8gICB9KTsKLy8gfSkuY2F0Y2goZXJyID0+IHsKLy8gICBjb25zb2xlLmxvZyhlcnIpCi8vIH0pOwoKCi8vIGlwY1JlbmRlcmVyLm9uKCJuZXdfcHJvamVjdF9yZXBseSIsIChldmVudCwgcHJvamVjdCkgPT4gewovLyAgIGNvbnNvbGUubG9nKCJyZW5kZXJlcjoiKTsKLy8gICBjb25zb2xlLmxvZyhwcm9qZWN0KTsKLy8gfSk7Ci8vCi8vIHAudGhlbihwcm9qZWN0ID0+IHsKLy8gICBjb25zb2xlLmxvZyhwcm9qZWN0KQovLyB9KS5jYXRjaChlcnIgPT4gewovLyAgIGNvbnNvbGUubG9nKGVycikKLy8gfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
