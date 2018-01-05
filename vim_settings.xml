@@ -40,11 +40,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="74" column="29" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515079185827">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="34" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515159925749">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1515077188219">
         <mark key="'" line="373" column="11" />
@@ -65,11 +65,11 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515157295978">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="42" />
-        <mark key="^" line="15" column="42" />
-        <mark key="." line="15" column="42" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515160888811">
+        <mark key="[" line="39" column="69" />
+        <mark key="]" line="39" column="84" />
+        <mark key="^" line="39" column="84" />
+        <mark key="." line="39" column="84" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.css" timestamp="1514945023633">
         <mark key="[" line="5" column="1" />
@@ -409,43 +409,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>process.cwd(), 'fri-rep-service', '</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>process.cwd(), 'fri-rep-service', '</text>
       </register>
       <register name="/" type="4">
         <text>Group</text>
       </register>
       <register name="0" type="4">
-        <text>StartService</text>
+        <text>path.join(process.cwd(), 'fri-rep-service', 'FriRepService.exe')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9IGNhdGNoIChlKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoIkZyaVJlcFNlcnZlciIpCiAgIAogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cnkgewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBmcy5hY2Nlc3NTeW5jKHNlcnZlcl9iaW5fcGF0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBfLmZvckVhY2gob3MubmV0d29ya0ludGVyZmFjZXMoKSkgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3IobGV0IGkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQgaG9zdF9uYW1lID0gb3MuaG9zdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHNlcnZlcl9zZXJ2aWNlWydTdGFydFNlcnZpY2UnXSgpCg==</text>
       </register>
     </registers>
     <search>
