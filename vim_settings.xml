@@ -21,10 +21,10 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1514986775426">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="31" />
-        <mark key="." line="21" column="41" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1515162897969">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
         <mark key="^" line="21" column="41" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/services/versions.js" timestamp="1514876050732">
@@ -65,11 +65,11 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515160888811">
-        <mark key="[" line="39" column="69" />
-        <mark key="]" line="39" column="84" />
-        <mark key="^" line="39" column="84" />
-        <mark key="." line="39" column="84" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515166050068">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.css" timestamp="1514945023633">
         <mark key="[" line="5" column="1" />
@@ -156,11 +156,11 @@
         <mark key="." line="17" column="32" />
       </file>
       <file name="D:/projects/SmartMeter/smart-meter-dva/src/components/Devices/DeviceList.css" timestamp="1514907583398" />
-      <file name="D:/projects/FRI/fri-rep-server-shell/app/package.json" timestamp="1514986778449">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="20" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/app/package.json" timestamp="1515162889586">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1514969420685">
         <mark key="[" line="40" column="24" />
@@ -408,44 +408,44 @@
       <jump line="24" column="1" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>process.cwd(), 'fri-rep-service', '</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb2RlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>process.cwd(), 'fri-rep-service', '</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>Group</text>
       </register>
-      <register name="0" type="4">
-        <text>path.join(process.cwd(), 'fri-rep-service', 'FriRepService.exe')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJpY29udiI6ICJeMi4zLjAiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9IGNhdGNoIChlKSB7CiAgICB0aHJvdyBuZXcgRXJyb3IoIkZyaVJlcFNlcnZlciIpCiAgIAogIH0K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb2RlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0cnkgewo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmcy5hY2Nlc3NTeW5jKHNlcnZlcl9iaW5fcGF0aCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RyaW5nRGVjb2RlciB9IGZyb20gJ3N0cmluZ19kZWNvZGVyJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGljb252IGZyb20gJ2ljb252LWxpdGUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZGVjb2RlciA9IG5ldyBTdHJpbmdEZWNvZGVyKCd1dGY4Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhCdWZmZXIuZnJvbSgnudzA7VxuJykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHNlcnZlcl9zZXJ2aWNlWydTdGFydFNlcnZpY2UnXSgpCg==</text>
+        <text encoding="base64">ICBpZiAoZGF0YSA9PT0gJ7ncwO1cbicpIHsKICAgIGNvbnNvbGUubG9nKCezybmmJyk7CiAgfSBlbHNlIHsKICAgIGNvbnNvbGUubG9nKCLKp7DcIik7CiAgfQo=</text>
       </register>
     </registers>
     <search>
