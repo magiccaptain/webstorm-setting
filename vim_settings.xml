@@ -124,12 +124,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/logs/fri-server.log" timestamp="1515246271346">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="62" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="21" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/logs/fri-server.log" timestamp="1515250502644">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514946529394">
         <mark key="'" line="63" column="6" />
@@ -182,6 +181,11 @@
         <mark key="^" line="30" column="40" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/node_modules/@types/node/index.d.ts" timestamp="1514808112012" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/node_modules/winston/lib/winston/transports/file.js" timestamp="1515249847788">
+        <mark key="'" line="71" column="14" />
+        <mark key="[" line="35" column="67" />
+        <mark key="." line="35" column="13" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1514361160978">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="7" />
@@ -207,18 +211,19 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="74" column="29" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515242705776">
-        <mark key="[" line="83" column="34" />
-        <mark key="]" line="83" column="61" />
-        <mark key="." line="83" column="61" />
-        <mark key="^" line="83" column="61" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515248202419">
+        <mark key="'" line="43" column="3" />
+        <mark key="[" line="101" column="38" />
+        <mark key="]" line="101" column="62" />
+        <mark key="." line="101" column="62" />
+        <mark key="^" line="101" column="62" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515247046692">
-        <mark key="'" line="5" column="23" />
-        <mark key="[" line="140" column="8" />
-        <mark key="]" line="140" column="8" />
-        <mark key="^" line="140" column="8" />
-        <mark key="." line="140" column="8" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515249483362">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="97" column="25" />
+        <mark key="]" line="97" column="25" />
+        <mark key="." line="97" column="25" />
+        <mark key="^" line="97" column="25" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1514990318859">
         <mark key="'" line="72" column="25" />
@@ -251,7 +256,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/service.js" timestamp="1515243356893">
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/service.js" timestamp="1515248473794">
         <mark key="k" line="31" column="4" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -279,11 +284,11 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/logger.js" timestamp="1515246757658">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="7" column="6" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/logger.js" timestamp="1515250474951">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="3" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="19" column="3" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.css" timestamp="1514942461169">
         <mark key="[" line="10" column="9" />
@@ -353,13 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
-      <jump line="272" column="11" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
-      <jump line="6" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
-      <jump line="143" column="10" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
-      <jump line="263" column="46" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
-      <jump line="42" column="11" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
-      <jump line="270" column="14" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="295" column="18" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="307" column="24" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="102" column="16" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
@@ -453,58 +451,64 @@
       <jump line="0" column="0" filename="D:/projects/FRI/fri-rep-server-shell/logs/fri-server.log" />
       <jump line="130" column="33" filename="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" />
       <jump line="5" column="23" filename="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" />
+      <jump line="43" column="3" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" />
+      <jump line="23" column="0" filename="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" />
+      <jump line="35" column="32" filename="D:/projects/FRI/fri-rep-server-shell/node_modules/winston/lib/winston/transports/file.js" />
+      <jump line="248" column="8" filename="D:/projects/FRI/fri-rep-server-shell/node_modules/winston/lib/winston/transports/file.js" />
+      <jump line="266" column="4" filename="D:/projects/FRI/fri-rep-server-shell/node_modules/winston/lib/winston/transports/file.js" />
+      <jump line="71" column="14" filename="D:/projects/FRI/fri-rep-server-shell/node_modules/winston/lib/winston/transports/file.js" />
+      <jump line="1" column="34" filename="D:/projects/FRI/fri-rep-server-shell/logs/fri-server.log" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">eyJtZXNzYWdlIjoiudzA7bf+zvHG9Lavo6y84Mz9o7ogMTI3LjAuMC4xOjUwMDUxIiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoiv827p7bLt/7O8cb0tq+jrLzgzP2juiAwLjAuMC4wOjkwOTAiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK3/s7xxvS2ryIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6IrncwO23/s7xxvS2r6OsvODM/aO6IDEyNy4wLjAuMTo1MDA1MSIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Ir/Nu6e2y7f+zvHG9Lavo6y84Mz9o7ogMC4wLjAuMDo5MDkwIiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8c2j1rkiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK3/s7xxvS2ryIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6IrncwO23/s7xxvS2r6OsvODM/aO6IDEyNy4wLjAuMTo1MDA1MSIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Ir/Nu6e2y7f+zvHG9Lavo6y84Mz9o7ogMC4wLjAuMDo5MDkwIiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8dbYxvQiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK53MDtt/7O8cb0tq+jrLzgzP2juiAxMjcuMC4wLjE6NTAwNTEiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHNo9a5IiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8cb0tq8iLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK53MDtt/7O8cb0tq+jrLzgzP2juiAxMjcuMC4wLjE6NTAwNTEiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHNo9a5IiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8cb0tq8iLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK53MDtt/7O8cb0tq+jrLzgzP2juiAxMjcuMC4wLjE6NTAwNTEiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHNo9a5IiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8cb0tq8iLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK53MDtt/7O8cb0tq+jrLzgzP2juiAxMjcuMC4wLjE6NTAwNTEiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHNo9a5IiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8cb0tq8iLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6IrncwO23/s7xxvS2r6OsvODM/aO6IDEyNy4wLjAuMTo1MDA1MSIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHG9LavIiwibGV2ZWwiOiJpbmZvIiwidGltZXN0YW1wIjoiMjAxOC0wMS0wNlQxNDo1NDo1NC41MTRaIn0KeyJtZXNzYWdlIjoiudzA7bf+zvHG9Lavo6y84Mz9o7ogMTI3LjAuMC4xOjUwMDUxIiwibGV2ZWwiOiJpbmZvIiwidGltZXN0YW1wIjoiMjAxOC0wMS0wNlQxNDo1NDo1NC41NDlaIn0KeyJtZXNzYWdlIjoiv827p7bLt/7O8cb0tq+jrLzgzP2juiAwLjAuMC4wOjkwOTAiLCJsZXZlbCI6ImluZm8iLCJ0aW1lc3RhbXAiOiIyMDE4LTAxLTA2VDE0OjU0OjU0LjU1MFoifQp7Im1lc3NhZ2UiOiK3/s7xzaPWuSIsImxldmVsIjoiaW5mbyIsInRpbWVzdGFtcCI6IjIwMTgtMDEtMDZUMTQ6NTQ6NTUuMzM0WiJ9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">bWVzc2FnZSwg</text>
       </register>
       <register name="/" type="4">
-        <text>win</text>
+        <text>time</text>
       </register>
-      <register name="0" type="4">
-        <text>./logs/fri-server.log</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmluZm8oIrf+zvHNo9a5Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">eyJtZXNzYWdlIjoiudzA7bf+zvHG9Lavo6y84Mz9o7ogMTI3LjAuMC4xOjUwMDUxIiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoiv827p7bLt/7O8cb0tq+jrLzgzP2juiAwLjAuMC4wOjkwOTAiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK3/s7xxvS2ryIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6IrncwO23/s7xxvS2r6OsvODM/aO6IDEyNy4wLjAuMTo1MDA1MSIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Ir/Nu6e2y7f+zvHG9Lavo6y84Mz9o7ogMC4wLjAuMDo5MDkwIiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8c2j1rkiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK3/s7xxvS2ryIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6IrncwO23/s7xxvS2r6OsvODM/aO6IDEyNy4wLjAuMTo1MDA1MSIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Ir/Nu6e2y7f+zvHG9Lavo6y84Mz9o7ogMC4wLjAuMDo5MDkwIiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8dbYxvQiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK53MDtt/7O8cb0tq+jrLzgzP2juiAxMjcuMC4wLjE6NTAwNTEiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHNo9a5IiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8cb0tq8iLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK53MDtt/7O8cb0tq+jrLzgzP2juiAxMjcuMC4wLjE6NTAwNTEiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHNo9a5IiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8cb0tq8iLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK53MDtt/7O8cb0tq+jrLzgzP2juiAxMjcuMC4wLjE6NTAwNTEiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHNo9a5IiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8cb0tq8iLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK53MDtt/7O8cb0tq+jrLzgzP2juiAxMjcuMC4wLjE6NTAwNTEiLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHNo9a5IiwibGV2ZWwiOiJpbmZvIn0KeyJtZXNzYWdlIjoit/7O8cb0tq8iLCJsZXZlbCI6ImluZm8ifQp7Im1lc3NhZ2UiOiK/zbuntsu3/s7xxvS2r6OsvODM/aO6IDAuMC4wLjA6OTA5MCIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6IrncwO23/s7xxvS2r6OsvODM/aO6IDEyNy4wLjAuMTo1MDA1MSIsImxldmVsIjoiaW5mbyJ9CnsibWVzc2FnZSI6Irf+zvHG9LavIiwibGV2ZWwiOiJpbmZvIiwidGltZXN0YW1wIjoiMjAxOC0wMS0wNlQxNDo1NDo1NC41MTRaIn0KeyJtZXNzYWdlIjoiudzA7bf+zvHG9Lavo6y84Mz9o7ogMTI3LjAuMC4xOjUwMDUxIiwibGV2ZWwiOiJpbmZvIiwidGltZXN0YW1wIjoiMjAxOC0wMS0wNlQxNDo1NDo1NC41NDlaIn0KeyJtZXNzYWdlIjoiv827p7bLt/7O8cb0tq+jrLzgzP2juiAwLjAuMC4wOjkwOTAiLCJsZXZlbCI6ImluZm8iLCJ0aW1lc3RhbXAiOiIyMDE4LTAxLTA2VDE0OjU0OjU0LjU1MFoifQp7Im1lc3NhZ2UiOiK3/s7xzaPWuSIsImxldmVsIjoiaW5mbyIsInRpbWVzdGFtcCI6IjIwMTgtMDEtMDZUMTQ6NTQ6NTUuMzM0WiJ9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGltZXN0YW1wOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgcmV0dXJuIG5ldyAKICAgICAgIAoKICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IExPR19GSUxFOwoKZXhwb3J0ICBsb2dnZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGVGb3JtYXQgZnJvbSAnZGF0ZWZvcm1hdCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IExPR19GSUxFID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZm9ybWF0ID0gd2luc3Rvbi5mb3JtYXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAganNvbjogZmFsc2UsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGxvZ2dlciBjbGFzc05hbWU9ImluIj48L2xvZ2dlcj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAganNvbjogZmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewoKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgdGltZXN0YW1wOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBEYXRlKCk7CiAgICAgIH0K</text>
       </register>
     </registers>
     <search>
-      <last-search>win</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>win</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>state</entry>
         <entry>select</entry>
         <entry>header</entry>
         <entry>device</entry>
@@ -524,6 +528,7 @@
         <entry>dataformat</entry>
         <entry>dateFormat</entry>
         <entry>win</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd />
       <history-expr />
