@@ -47,11 +47,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="74" column="29" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/electron-builder.yml" timestamp="1515244890188">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="4" column="9" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/electron-builder.yml" timestamp="1515334535795">
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="14" />
+        <mark key="." line="35" column="14" />
+        <mark key="^" line="35" column="14" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515327720182">
         <mark key="'" line="20" column="8" />
@@ -85,7 +85,7 @@
         <mark key="." line="144" column="23" />
         <mark key="^" line="144" column="23" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/LogsModal/LogsModal.js" timestamp="1515328489569">
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/LogsModal/LogsModal.js" timestamp="1515328491800">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -465,10 +465,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSB6aXAKICAgICAgLSBuc2lzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>port</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>rules</text>
@@ -477,31 +477,31 @@
         <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdzZXJ2aWNlL3NhdmVQb3J0JywKICAgICAgICBwYXlsb2FkOiB7cG9ydDogbmV4dF9zZXJ2aWNlX3BvcnR9LAogICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSB6aXAKICAgICAgLSBuc2lzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICBhcmNoOgogICAgLSB4NjQKICAgIC0gaWEzMgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhZ2luYXRpb24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhZ2luYXRpb24pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9uLlN1Y2Nlc3NOb3RpZnkoIrf+zvHG9Lavs8m5piIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9uLlN1Y2Nlc3NOb3RpZnkoIrf+zvHG9Lavs8m5piIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
