@@ -86,12 +86,12 @@
         <mark key="." line="135" column="34" />
         <mark key="^" line="135" column="34" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/LogsModal/LogsModal.js" timestamp="1515294607441">
-        <mark key="'" line="31" column="3" />
-        <mark key="[" line="55" column="32" />
-        <mark key="]" line="56" column="25" />
-        <mark key="." line="56" column="25" />
-        <mark key="^" line="56" column="25" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/LogsModal/LogsModal.js" timestamp="1515295401128">
+        <mark key="'" line="56" column="21" />
+        <mark key="[" line="18" column="27" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="16" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.css" timestamp="1514945023633">
         <mark key="[" line="5" column="1" />
@@ -355,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="28" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="4" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="91" column="6" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
       <jump line="101" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" />
@@ -455,13 +454,14 @@
       <jump line="31" column="3" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/LogsModal/LogsModal.js" />
       <jump line="59" column="27" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" />
       <jump line="5" column="15" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" />
+      <jump line="56" column="21" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/LogsModal/LogsModal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Return</text>
       </register>
       <register name="/" type="4">
         <text>dateFormat</text>
@@ -473,25 +473,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ2R2YSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGZvb3Rlcj17WwogICAgICAgICAgICAgICAKICAgICAgICAgICAgIF19Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRyeSB7CiAgICAvLyAgIGxldCBsb2dzID0gYXdhaXQgc2VydmVyX3NlcnZpY2VbJ0dldExvZ3MnXSgpOwogICAgLy8KICAgIC8vICAgY29uc29sZS5sb2cobG9ncyk7CiAgICAvLyB9IGNhdGNoIChlKSB7CiAgICAvLyAgIG5vdGlmaWNhdGlvbi5FcnJvck5vdGlmeSgiyNXWvrvxyKHKp7DcOiIgKyBlLm1lc3NhZ2UpOwogICAgLy8gICBjb25zb2xlLmxvZyhlKTsKICAgIC8vIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgY29ubmVjdCB9IGZyb20gJ2R2YSc7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbWFwU3RhdGVUb1Byb3BzKHN0YXRlKSB7CiAgcmV0dXJuIHt9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHRyeSB7CiAgICAvLyAgIGxldCBsb2dzID0gYXdhaXQgc2VydmVyX3NlcnZpY2VbJ0dldExvZ3MnXSgpOwogICAgLy8KICAgIC8vICAgY29uc29sZS5sb2cobG9ncyk7CiAgICAvLyB9IGNhdGNoIChlKSB7CiAgICAvLyAgIG5vdGlmaWNhdGlvbi5FcnJvck5vdGlmeSgiyNXWvrvxyKHKp7DcOiIgKyBlLm1lc3NhZ2UpOwogICAgLy8gICBjb25zb2xlLmxvZyhlKTsKICAgIC8vIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
