@@ -79,7 +79,7 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515327772364">
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515912566005">
         <mark key="[" line="144" column="23" />
         <mark key="]" line="144" column="23" />
         <mark key="." line="144" column="23" />
@@ -152,8 +152,8 @@
         <mark key="." line="87" column="23" />
         <mark key="^" line="87" column="23" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/index.js" timestamp="1515079041772">
-        <mark key="'" line="68" column="32" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/index.js" timestamp="1515912884260">
+        <mark key="'" line="28" column="9" />
         <mark key="[" line="69" column="5" />
         <mark key="]" line="69" column="27" />
         <mark key="." line="69" column="46" />
@@ -267,7 +267,7 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="24" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515342306309">
+      <file name="/Dummy.txt" timestamp="1515343030232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
@@ -365,9 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="32" filename="G:/projects/fri/fri-rep-server-shell/src/main/index.js" />
-      <jump line="57" column="3" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
-      <jump line="75" column="52" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="83" column="7" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="366" column="41" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="381" column="48" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
@@ -465,6 +462,9 @@
       <jump line="77" column="6" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="21" column="31" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/service.js" />
       <jump line="33" column="5" filename="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/service.js" />
+      <jump line="79" column="0" filename="D:/projects/FRI/fri-rep-server-shell/src/main/index.js" />
+      <jump line="20" column="7" filename="D:/projects/FRI/fri-rep-server-shell/src/main/index.js" />
+      <jump line="28" column="9" filename="D:/projects/FRI/fri-rep-server-shell/src/main/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -474,7 +474,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>rules</text>
+        <text>dev</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGlzcGF0Y2goewogICAgICAgIHR5cGU6ICdzZXJ2aWNlL3NhdmVQb3J0JywKICAgICAgICBwYXlsb2FkOiB7cG9ydDogbmV4dF9zZXJ2aWNlX3BvcnR9LAogICAgICB9KTsK</text>
@@ -508,15 +508,14 @@
       </register>
     </registers>
     <search>
-      <last-search>rules</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>rules</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>default</entry>
         <entry>doc</entry>
         <entry>e645</entry>
         <entry>semer</entry>
@@ -536,6 +535,7 @@
         <entry>parteen</entry>
         <entry>parten</entry>
         <entry>rules</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd />
       <history-expr />
