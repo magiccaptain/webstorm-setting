@@ -15,6 +15,7 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
+      <file name="D:/projects/dva-electron-boilerplate/src/main/services/window.js" timestamp="1516116786525" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514982740875">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="27" />
@@ -28,6 +29,8 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="21" column="41" />
       </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/tsconfig.json" timestamp="1516116853113" />
+      <file name="D:/projects/dva-electron-boilerplate/node_modules/roadhog/src/dev.js" timestamp="1516117527248" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/services/versions.js" timestamp="1514876050732">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="8" column="0" />
@@ -44,7 +47,7 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="74" column="29" />
       </file>
-      <file name="D:/projects/dva-electron-boilerplate/.webpackrc" timestamp="1516115922563">
+      <file name="D:/projects/dva-electron-boilerplate/.webpackrc" timestamp="1516117024111">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -113,11 +116,11 @@
         <mark key="^" line="62" column="10" />
         <mark key="." line="62" column="10" />
       </file>
-      <file name="D:/projects/dva-electron-boilerplate/package.json" timestamp="1516115877846">
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="9" column="49" />
-        <mark key="." line="9" column="49" />
-        <mark key="^" line="9" column="49" />
+      <file name="D:/projects/dva-electron-boilerplate/package.json" timestamp="1516117635135">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="32" />
+        <mark key="^" line="33" column="32" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.js" timestamp="1514257864890">
         <mark key="[" line="6" column="15" />
@@ -158,6 +161,7 @@
         <mark key="." line="87" column="23" />
         <mark key="^" line="87" column="23" />
       </file>
+      <file name="D:/projects/dva-electron-boilerplate/src/main/index.js" timestamp="1516116772825" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/index.js" timestamp="1515912884260">
         <mark key="'" line="28" column="9" />
         <mark key="[" line="69" column="5" />
@@ -178,13 +182,11 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/service.js" timestamp="1515327598372">
-        <mark key="'" line="33" column="5" />
-        <mark key="k" line="41" column="4" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="6" column="43" />
+      <file name="D:/projects/dva-electron-boilerplate/src/renderer/components/Test.ts" timestamp="1516117057444">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/main-dev.html" timestamp="1514272998813">
         <mark key="[" line="17" column="14" />
@@ -277,11 +279,6 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="25" column="21" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1515326477905">
-        <mark key="'" line="77" column="6" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="41" />
-      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514949213178">
         <mark key="'" line="101" column="47" />
         <mark key="[" line="60" column="7" />
@@ -289,6 +286,8 @@
         <mark key="^" line="60" column="7" />
         <mark key="." line="60" column="7" />
       </file>
+      <file name="D:/projects/dva-electron-boilerplate/webpack.config.main.babel.js" timestamp="1516116553671" />
+      <file name="D:/projects/dva-electron-boilerplate/node_modules/roadhog/src/getWebpackConfig.js" timestamp="1516117512558" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1515073995524">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -355,6 +354,10 @@
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
         <mark key="^" line="24" column="29" />
+      </file>
+      <file name="D:/projects/dva-electron-boilerplate/node_modules/roadhog/package.json" timestamp="1516117611824">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -460,44 +463,44 @@
       <jump line="28" column="9" filename="D:/projects/FRI/fri-rep-server-shell/src/main/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJ1bnRpbWUiCg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJjcm9zcy1lbnYiOiAiXjUuMS4zIiwK</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICI3LjAuMC1iZXRhLjMxIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJ1bnRpbWUiCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl43LjAueCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJ1bnRpbWUiCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl43LjAuMC1iZXRhLjM0IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tYWRkLW1vZHVsZS1leHBvcnRzIjogIl4wLjIuMSIsCg==</text>
+        <text encoding="base64">aW1wb3J0ICdyZWEnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1ydW50aW1lIjogIl42LjIwLjAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJ1bnRpbWUiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLSB6aXAKICAgICAgLSBuc2lzCg==</text>
+        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJ1bnRpbWUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcmNoOgogICAgLSB4NjQKICAgIC0gaWEzMgo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tYWRkLW1vZHVsZS1leHBvcnRzIjogIl4wLjIuMSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1ydW50aW1lIjogIl42LjIwLjAiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLSB6aXAKICAgICAgLSBuc2lzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhZ2luYXRpb24pOwo=</text>
+        <text encoding="base64">ICBhcmNoOgogICAgLSB4NjQKICAgIC0gaWEzMgo=</text>
       </register>
     </registers>
     <search>
