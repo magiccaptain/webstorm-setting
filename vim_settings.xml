@@ -153,7 +153,7 @@
         <mark key="[" line="189" column="2" />
         <mark key="]" line="189" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1515056595306">
+      <file name="/Dummy.txt" timestamp="1515156062114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -332,11 +332,11 @@
       <jump line="21" column="17" filename="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2018年1月4日17:03:16</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>2018年1月4日17:03:16</text>
       </register>
       <register name="/" type="4">
         <text>Group</text>
