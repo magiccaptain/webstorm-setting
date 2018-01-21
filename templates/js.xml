@@ -1,5 +1,5 @@
 <templateSet group="js">
-  <template name="ReturnPromise" value="return new Promise((resolve, reject) =&gt; {&#10;    $END$&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="ReturnPromise" value="return new Promise((resolve, reject) =&gt; {&#10;    $END$&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
