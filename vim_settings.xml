@@ -76,11 +76,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/egg-example/app/model/user.js" timestamp="1516532567080">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="15" />
+      <file name="$USER_HOME$/projects/egg-example/app/model/user.js" timestamp="1516542376440">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/components/LoginForm/LoginForm.tsx" timestamp="1516525971442">
         <mark key="'" line="50" column="38" />
@@ -141,7 +140,7 @@
       <file name="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" timestamp="1516526488650">
         <mark key="'" line="148" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/egg-example/package.json" timestamp="1516531847913">
+      <file name="$USER_HOME$/projects/egg-example/package.json" timestamp="1516542354696">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -225,7 +224,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -237,31 +236,31 @@
         <text>postgres</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">bW9kdWxlLgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgU2VxdWVsaXplID0gcmVxdWlyZSgnc2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2U6IElOVEVHRVIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZDogU1RSSU5HLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
