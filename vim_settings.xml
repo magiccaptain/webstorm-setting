@@ -27,6 +27,9 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/migrations/20180121105532-unnamed-migration.js" timestamp="1516532500447" />
+      <file name="$USER_HOME$/projects/egg-example/node_modules/egg-sequelize/lib/loader.js" timestamp="1516543069606">
+        <mark key="'" line="51" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/src/routes/IndexPage.js" timestamp="1516526641072">
         <mark key="'" line="12" column="13" />
         <mark key="[" line="1" column="0" />
@@ -76,16 +79,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/egg-example/app/model/user.js" timestamp="1516542376440">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/src/components/LoginForm/LoginForm.tsx" timestamp="1516525971442">
-        <mark key="'" line="50" column="38" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/projects/egg-example/app/model/user.js" timestamp="1516542956993">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/config/config.default.js" timestamp="1516540196067">
         <mark key="[" line="21" column="18" />
@@ -96,7 +93,7 @@
       <file name="$USER_HOME$/projects/SmartElective/node_modules/roadhog/src/utils/mock.js" timestamp="1516459165572">
         <mark key="'" line="7" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/egg-example/node_modules/sequelize/lib/sequelize.js" timestamp="1516541274373">
+      <file name="$USER_HOME$/projects/egg-example/node_modules/sequelize/lib/sequelize.js" timestamp="1516542951450">
         <mark key="'" line="322" column="28" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/controller/users.js" timestamp="1516523881584">
@@ -108,6 +105,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/egg-example/app/model/define/User.ts" timestamp="1516543036338">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="0" column="38" />
+        <mark key="^" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/node_modules/@types/react-router-redux/index.d.ts" timestamp="1516528312116" />
       <file name="$USER_HOME$/projects/SmartElective/node_modules/@types/whatwg-fetch/index.d.ts" timestamp="1516456203677">
@@ -221,52 +224,54 @@
       <jump line="148" column="7" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
       <jump line="1042" column="2" filename="$USER_HOME$/projects/egg-example/node_modules/sequelize/lib/sequelize.js" />
       <jump line="322" column="28" filename="$USER_HOME$/projects/egg-example/node_modules/sequelize/lib/sequelize.js" />
+      <jump line="26" column="27" filename="$USER_HOME$/projects/egg-example/node_modules/egg-sequelize/lib/loader.js" />
+      <jump line="51" column="22" filename="$USER_HOME$/projects/egg-example/node_modules/egg-sequelize/lib/loader.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>import Sequelize from 'sequelize';</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>import Sequelize from 'sequelize';</text>
       </register>
       <register name="/" type="4">
-        <text>STRING</text>
+        <text>model</text>
       </register>
       <register name="0" type="4">
         <text>postgres</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0ICBTZXF1ZWxpemUgPSBhcHAuU2VxdWVsaXplOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bW9kdWxlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgU2VxdWVsaXplID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>STRING</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>STRING</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -276,6 +281,7 @@
         <entry>dispatch</entry>
         <entry>connect</entry>
         <entry>STRING</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd />
       <history-expr />
