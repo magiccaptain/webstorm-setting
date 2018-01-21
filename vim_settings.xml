@@ -96,6 +96,9 @@
       <file name="$USER_HOME$/projects/egg-example/node_modules/sequelize/lib/sequelize.js" timestamp="1516542951450">
         <mark key="'" line="322" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" timestamp="1516543281643">
+        <mark key="'" line="3765" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/egg-example/app/controller/users.js" timestamp="1516523881584">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
@@ -106,11 +109,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/egg-example/app/model/define/User.ts" timestamp="1516543036338">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+      <file name="$USER_HOME$/projects/egg-example/app/model/define/User.ts" timestamp="1516543877028">
+        <mark key="j" line="19" column="19" />
+        <mark key="[" line="14" column="0" />
+        <mark key="m" line="19" column="19" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/node_modules/@types/react-router-redux/index.d.ts" timestamp="1516528312116" />
       <file name="$USER_HOME$/projects/SmartElective/node_modules/@types/whatwg-fetch/index.d.ts" timestamp="1516456203677">
@@ -149,6 +154,7 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="50" />
       </file>
+      <file name="$USER_HOME$/projects/egg-example/app/model/define/User.js" timestamp="1516543425200" />
       <file name="$USER_HOME$/projects/egg-example/models/index.js" timestamp="1516540108223" />
       <file name="$USER_HOME$/projects/SmartElective/package.json" timestamp="1516528259702">
         <mark key="[" line="30" column="34" />
@@ -226,25 +232,33 @@
       <jump line="322" column="28" filename="$USER_HOME$/projects/egg-example/node_modules/sequelize/lib/sequelize.js" />
       <jump line="26" column="27" filename="$USER_HOME$/projects/egg-example/node_modules/egg-sequelize/lib/loader.js" />
       <jump line="51" column="22" filename="$USER_HOME$/projects/egg-example/node_modules/egg-sequelize/lib/loader.js" />
+      <jump line="4114" column="27" filename="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="4272" column="79" filename="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3698" column="10" filename="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3711" column="178" filename="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3723" column="182" filename="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3735" column="29" filename="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3737" column="25" filename="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3765" column="18" filename="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>import Sequelize from 'sequelize';</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>import Sequelize from 'sequelize';</text>
+        <text>_login_at</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>define</text>
       </register>
       <register name="0" type="4">
-        <text>postgres</text>
+        <text>Sequelize</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0ICBTZXF1ZWxpemUgPSBhcHAuU2VxdWVsaXplOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -253,25 +267,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgU2VxdWVsaXplID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZXBhcnRtZW50OiB7CiAgICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcsCiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVuCg==</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>define</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>define</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -282,6 +296,8 @@
         <entry>connect</entry>
         <entry>STRING</entry>
         <entry>model</entry>
+        <entry>Model</entry>
+        <entry>define</entry>
       </history-search>
       <history-cmd />
       <history-expr />
