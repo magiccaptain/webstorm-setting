@@ -109,6 +109,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/egg-example/README.md" timestamp="1516981669539">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="46" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/user.js" timestamp="1516550085377">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="25" />
@@ -121,17 +127,18 @@
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/egg-example/app/extend/model.ts" timestamp="1516551185774">
+      <file name="$USER_HOME$/projects/egg-example/app/extend/model.ts" timestamp="1516981363446">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="37" column="64" />
         <mark key="]" line="37" column="92" />
         <mark key="." line="37" column="92" />
         <mark key="^" line="37" column="92" />
       </file>
-      <file name="$USER_HOME$/projects/egg-example/config/config.default.js" timestamp="1516546065133">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/projects/egg-example/config/config.default.js" timestamp="1516981462252">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/node_modules/roadhog/src/utils/mock.js" timestamp="1516459165572">
         <mark key="'" line="7" column="24" />
@@ -309,43 +316,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>能</text>
+        <text>create user smart_elective with password 'pjU5gTopTMGYGp';</text>
       </register>
       <register name="/" type="4">
         <text>Model</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpc1tNT0RFTF1bJ3VzZXInXSA9IHVzZXI7Cg==</text>
+        <text encoding="base64">cG9zdGdyZXM9IyBjcmVhdGUgdXNlciBzbWFydF9lbGVjdGl2ZSB3aXRoIHBhc3N3b3JkICdwalU1Z1RvcFRNR1lHcCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVhY2hlci4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">5Yib5bu655So5oi377yaCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgIG8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVhY2hlci4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
