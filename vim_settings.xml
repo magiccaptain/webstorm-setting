@@ -122,11 +122,22 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517069953426">
+        <mark key="'" line="56" column="21" />
+        <mark key="[" line="74" column="37" />
+        <mark key="]" line="74" column="37" />
+        <mark key="." line="74" column="37" />
+        <mark key="^" line="75" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/smart-meter-dva/src/components/MainLayout/Test.tsx.ts" timestamp="1508506770878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/extend/application.ts" timestamp="1517062315043">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="51" column="114" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/webpack.config.js" timestamp="1502163470262">
         <mark key="[" line="12" column="54" />
@@ -140,6 +151,7 @@
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/teacher.ts" timestamp="1517062153665" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/client/main.jsx" timestamp="1499416021015">
         <mark key="[" line="18" column="27" />
         <mark key="]" line="18" column="27" />
@@ -206,6 +218,10 @@
         <mark key="." line="4" column="60" />
         <mark key="^" line="4" column="60" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/gen_mock.js" timestamp="1517065740295">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/IntellMeter/react-bmap/src/components/map.js" timestamp="1501572465742">
         <mark key="[" line="156" column="17" />
         <mark key="]" line="156" column="16" />
@@ -223,6 +239,12 @@
         <mark key="]" line="276" column="0" />
         <mark key="." line="276" column="0" />
         <mark key="^" line="10" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517068359763">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/redux/store.js" timestamp="1499047055465">
         <mark key="[" line="12" column="0" />
@@ -297,6 +319,10 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course.ts" timestamp="1517066360752">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="27" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/components/Login/Login.tsx" timestamp="1507604358991">
         <mark key="'" line="52" column="15" />
         <mark key="[" line="4" column="0" />
@@ -321,9 +347,11 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/projects/smart-meter-dva/src/utils/oauth.ts" timestamp="1509543985608">
-        <mark key="[" line="90" column="15" />
-        <mark key="]" line="90" column="24" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/department.ts" timestamp="1517061659209">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="5" />
+        <mark key="^" line="12" column="5" />
+        <mark key="." line="12" column="5" />
       </file>
       <file name="G:/projects/smart_meter_dva/.roadhogrc" timestamp="1505111526210">
         <mark key="[" line="1" column="26" />
@@ -427,6 +455,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/config/config.default.js" timestamp="1517067879781">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="28" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/dva-electron-boilerplate/README.md" timestamp="1514963837422">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="27" column="7" />
@@ -463,6 +495,10 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/package.json" timestamp="1517064470225">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="43" />
+      </file>
       <file name="G:/projects/smart_meter_dva/node_modules/dva/router.d.ts" timestamp="1505788543542">
         <mark key="[" line="24" column="12" />
         <mark key="]" line="24" column="12" />
@@ -488,7 +524,12 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/projects/fri-rep-server-shell/app/package.json" timestamp="1514963988502" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/package.json" timestamp="1517068312561">
+        <mark key="[" line="49" column="63" />
+        <mark key="]" line="49" column="65" />
+        <mark key="^" line="49" column="65" />
+        <mark key="." line="49" column="65" />
+      </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/client/src/index.tsx" timestamp="1502162984464">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -547,6 +588,13 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" timestamp="1517071180694">
+        <mark key="'" line="41" column="14" />
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="49" column="10" />
+        <mark key="." line="49" column="10" />
+        <mark key="^" line="49" column="10" />
+      </file>
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" timestamp="1499437827501">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -576,6 +624,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/major.ts" timestamp="1517066450094">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/projects/smart-meter-dva/src/plugins/sync-state.ts" timestamp="1509634891074">
         <mark key="[" line="15" column="0" />
@@ -800,6 +854,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="30" column="14" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.js" timestamp="1517062809417" />
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1504251622617">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="22" column="46" />
@@ -811,6 +866,12 @@
         <mark key="]" line="48" column="1" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517064080306">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/tsconfig.json" timestamp="1502162368622">
         <mark key="[" line="10" column="0" />
@@ -912,51 +973,50 @@
       <jump line="21" column="17" filename="$USER_HOME$/projects/fri-rep-server-shell/package.json" />
       <jump line="22" column="19" filename="$USER_HOME$/projects/fri-rep-server-shell/package.json" />
       <jump line="20" column="17" filename="$USER_HOME$/projects/fri-rep-server-shell/package.json" />
+      <jump line="55" column="21" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" />
+      <jump line="14" column="33" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
+      <jump line="30" column="19" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
+      <jump line="39" column="14" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>pack</text>
+        <text>department</text>
       </register>
       <register name="/" type="4">
         <text>run-s</text>
       </register>
-      <register name="0" type="4">
-        <text>private:build:mac</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGxldCBkYXRhID0gZnMucmVhZEZpbGVTeW5jKGZpbGVfcGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">L2FwcC9ub2RlX21vZHVsZXMvCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">L2Rpc3QvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>,
-  &quot;build&quot;: {
-    &quot;appId&quot;: &quot;com.sorrycc.dva-boilerplate&quot;,
-    &quot;category&quot;: &quot;public.app-category.developer-tools&quot;,
-    &quot;asar&quot;: false
-  },</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjYXRlZ29yeTogcHVibGljLmFwcC1jYXRlZ29yeS50b29scwo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJyZWJ1aWxkIjogImVsZWN0cm9uLXJlYnVpbGQgLW0gLi9hcHAvbm9kZV9tb2R1bGVzIiwK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZGVwYXJ0ID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJYcG9zdGluc3RhbGwiOiAiY2QgYXBwICYmIHRucG0gaSAmJiBjZCAuLiAmJiBucG0gcnVuIHJlYnVpbGQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobWFqb3IpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhtYWpvci5pZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJYcG9zdGluc3RhbGwiOiAiY2QgYXBwICYmIHRucG0gaSAmJiBjZCAuLiAmJiBucG0gcnVuIHJlYnVpbGQiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICJeNy4wLjAtMCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBtYWpvcl9tb2RlbC5jcmVhdGUoe25hbWU6IH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICJeNy4wLjAtYmV0YS4zNCIsCg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkZXBhcnRfbW9kZWwuY3JlYXRlKHt9KQo=</text>
       </register>
     </registers>
     <search>
