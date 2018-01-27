@@ -151,7 +151,6 @@
         <mark key="^" line="43" column="45" />
         <mark key="." line="43" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/teacher.ts" timestamp="1517062153665" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/client/main.jsx" timestamp="1499416021015">
         <mark key="[" line="18" column="27" />
         <mark key="]" line="18" column="27" />
@@ -240,11 +239,11 @@
         <mark key="." line="276" column="0" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517068359763">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="24" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517072342264">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/redux/store.js" timestamp="1499047055465">
         <mark key="[" line="12" column="0" />
@@ -588,12 +587,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" timestamp="1517071180694">
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" timestamp="1517074066561">
         <mark key="'" line="41" column="14" />
-        <mark key="[" line="49" column="10" />
-        <mark key="]" line="49" column="10" />
-        <mark key="." line="49" column="10" />
-        <mark key="^" line="49" column="10" />
+        <mark key="[" line="51" column="23" />
+        <mark key="]" line="51" column="23" />
+        <mark key="." line="51" column="23" />
+        <mark key="^" line="50" column="51" />
       </file>
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" timestamp="1499437827501">
         <mark key="[" line="96" column="0" />
@@ -854,7 +853,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="30" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.js" timestamp="1517062809417" />
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1504251622617">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="22" column="46" />
@@ -867,11 +865,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517064080306">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="15" column="12" />
-        <mark key="^" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517073225595">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/tsconfig.json" timestamp="1502162368622">
         <mark key="[" line="10" column="0" />
@@ -979,11 +977,11 @@
       <jump line="39" column="14" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>department</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>run-s</text>
@@ -992,31 +990,31 @@
         <text encoding="base64">ICAgIGxldCBkYXRhID0gZnMucmVhZEZpbGVTeW5jKGZpbGVfcGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlcGFydG1lbnQ6IGRlcGFydG1lbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1ham9yX21vZGVsOiBNb2RlbCA9IG1vZGVsc1snbWFqb3InXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkZXBhcnRtZW50LmlkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFqb3JzOiBkLm1ham9ycwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZGVwYXJ0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobWFqb3IpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhtYWpvci5pZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBtYWpvcl9tb2RlbC5jcmVhdGUoe25hbWU6IH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkZXBhcnRfbW9kZWwuY3JlYXRlKHt9KQo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZGVwYXJ0ID0gCg==</text>
       </register>
     </registers>
     <search>
