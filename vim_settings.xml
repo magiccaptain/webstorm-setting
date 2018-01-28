@@ -122,12 +122,12 @@
         <mark key="^" line="16" column="10" />
         <mark key="." line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517069953426">
-        <mark key="'" line="56" column="21" />
-        <mark key="[" line="74" column="37" />
-        <mark key="]" line="74" column="37" />
-        <mark key="." line="74" column="37" />
-        <mark key="^" line="75" column="40" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517148456544">
+        <mark key="'" line="70" column="23" />
+        <mark key="[" line="69" column="20" />
+        <mark key="]" line="69" column="22" />
+        <mark key="." line="69" column="22" />
+        <mark key="^" line="69" column="22" />
       </file>
       <file name="$USER_HOME$/projects/smart-meter-dva/src/components/MainLayout/Test.tsx.ts" timestamp="1508506770878">
         <mark key="[" line="0" column="0" />
@@ -217,9 +217,9 @@
         <mark key="." line="4" column="60" />
         <mark key="^" line="4" column="60" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/gen_mock.js" timestamp="1517065740295">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="69" />
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/gen_mock.js" timestamp="1517148250218">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="21" column="55" />
       </file>
       <file name="$USER_HOME$/projects/IntellMeter/react-bmap/src/components/map.js" timestamp="1501572465742">
         <mark key="[" line="156" column="17" />
@@ -239,11 +239,11 @@
         <mark key="." line="276" column="0" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517077006166">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517148590514">
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+        <mark key="^" line="38" column="20" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/redux/store.js" timestamp="1499047055465">
         <mark key="[" line="12" column="0" />
@@ -402,6 +402,12 @@
         <mark key="]" line="27" column="45" />
         <mark key="^" line="27" column="45" />
         <mark key="." line="27" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student_info.ts" timestamp="1517148652817">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+        <mark key="." line="9" column="39" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/components/Devices/Devices.tsx" timestamp="1507603469571">
         <mark key="[" line="12" column="0" />
@@ -587,11 +593,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" timestamp="1517076450999">
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" timestamp="1517149154709">
         <mark key="'" line="39" column="14" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="72" column="13" />
+        <mark key="." line="72" column="13" />
+        <mark key="^" line="72" column="13" />
       </file>
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" timestamp="1499437827501">
         <mark key="[" line="96" column="0" />
@@ -628,6 +635,9 @@
         <mark key="]" line="20" column="1" />
         <mark key="." line="20" column="1" />
         <mark key="^" line="20" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/data/student.json" timestamp="1517149065157">
+        <mark key="'" line="169" column="9" />
       </file>
       <file name="$USER_HOME$/projects/smart-meter-dva/src/plugins/sync-state.ts" timestamp="1509634891074">
         <mark key="[" line="15" column="0" />
@@ -864,11 +874,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517076869132">
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="30" column="9" />
-        <mark key="^" line="30" column="9" />
-        <mark key="." line="30" column="9" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517148444344">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/tsconfig.json" timestamp="1502162368622">
         <mark key="[" line="10" column="0" />
@@ -974,51 +984,50 @@
       <jump line="14" column="33" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
       <jump line="30" column="19" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
       <jump line="39" column="14" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
+      <jump line="70" column="23" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" />
+      <jump line="169" column="9" filename="$USER_HOME$/projects/SmartElective/Server/mock/data/student.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>INTEGER</text>
+        <text>_info</text>
       </register>
       <register name="/" type="4">
         <text>run-s</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBkYXRhID0gZnMucmVhZEZpbGVTeW5jKGZpbGVfcGF0aCk7Cg==</text>
+      <register name="0" type="4">
+        <text>201[4-8]\d{4}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>,
-        role: {
-            type: Sequelize.STRING,
-            allowNull: false,
-            defaultValue: &quot;user&quot;,
-        },</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgc3R1ZGVudF9pbmZvID0gYXdhaXQgc3R1ZGVudF9pbmZvX21vZGVsLmNyZWF0ZShzLmluZm8pOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>{
+            
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlcGFydG1lbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBzdHVkZW50X21vZGVsCg==</text>
       </register>
     </registers>
     <search>
