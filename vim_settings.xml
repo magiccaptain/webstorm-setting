@@ -239,11 +239,11 @@
         <mark key="." line="276" column="0" />
         <mark key="^" line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517072342264">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="31" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517077006166">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/redux/store.js" timestamp="1499047055465">
         <mark key="[" line="12" column="0" />
@@ -587,12 +587,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" timestamp="1517074066561">
-        <mark key="'" line="41" column="14" />
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="51" column="23" />
-        <mark key="." line="51" column="23" />
-        <mark key="^" line="50" column="51" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" timestamp="1517076450999">
+        <mark key="'" line="39" column="14" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/connects/AddDevice.js" timestamp="1499437827501">
         <mark key="[" line="96" column="0" />
@@ -865,11 +864,11 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517073225595">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="35" />
-        <mark key="^" line="5" column="35" />
-        <mark key="." line="5" column="35" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517076869132">
+        <mark key="[" line="30" column="9" />
+        <mark key="]" line="30" column="9" />
+        <mark key="^" line="30" column="9" />
+        <mark key="." line="30" column="9" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/tsconfig.json" timestamp="1502162368622">
         <mark key="[" line="10" column="0" />
@@ -977,11 +976,11 @@
       <jump line="39" column="14" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>INTEGER</text>
       </register>
       <register name="/" type="4">
         <text>run-s</text>
@@ -990,31 +989,36 @@
         <text encoding="base64">ICAgIGxldCBkYXRhID0gZnMucmVhZEZpbGVTeW5jKGZpbGVfcGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlcGFydG1lbnQ6IGRlcGFydG1lbnQK</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1ham9yX21vZGVsOiBNb2RlbCA9IG1vZGVsc1snbWFqb3InXTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkZXBhcnRtZW50LmlkKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFqb3JzOiBkLm1ham9ycwo=</text>
+      <register name="4" type="4">
+        <text>,
+        role: {
+            type: Sequelize.STRING,
+            allowNull: false,
+            defaultValue: &quot;user&quot;,
+        },</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQK</text>
+        <text encoding="base64">ICAgIGRlcGFydG1lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZGVwYXJ0ID0gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
