@@ -140,11 +140,12 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517237950008">
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517239119067">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="88" column="85" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/node_modules/@types/sequelize/index.d.ts" timestamp="1516549258839">
         <mark key="'" line="5625" column="13" />
@@ -153,7 +154,8 @@
         <mark key="^" line="5828" column="10" />
         <mark key="." line="5828" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" timestamp="1517237514982">
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" timestamp="1517238501375">
+        <mark key="'" line="71" column="36" />
         <mark key="[" line="17" column="15" />
         <mark key="]" line="17" column="15" />
         <mark key="." line="17" column="15" />
@@ -306,13 +308,14 @@
       <jump line="30" column="27" filename="$USER_HOME$/projects/egg-example/app/extend/model.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/projects/egg-example/app/extend/model.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" />
+      <jump line="71" column="36" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvdXJzZS5iZWxvbmdzVG9NYW55KGNsYXNzX3NjaGVkdWxlLCB7YXM6IH0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>课程</text>
+        <text>课程可能存在与多个课表</text>
       </register>
       <register name="/" type="4">
         <text>Model</text>
@@ -321,15 +324,24 @@
         <text>Symbol('Application#Model')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvdXJzZS5iZWxvbmdzVG9NYW55KGNsYXNzX3NjaGVkdWxlLCB7YXM6IH0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIOivvueoiy3or77ooagg5LiA5Liq6K++56iL5Y+v6IO95a2Y5Zyo5LqO5aSa5Liq6K++6KGoCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIOivvuihqC3ogIHluIgg5LiA5Liq6K++6KGo5Y+v6IO95bGe5LqO5LiA5Liq6ICB5biICiAgICBjbGFzc19zY2hlZHVsZS5iZWxvbmdzVG8odGVhY2hlcik7CiAgICAvLyDogIHluIgt6K++6KGoIOS4gOS4quiAgeW4iOWPr+iDveacieWkmuS4quivvuihqAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dpbmc6IHRoaXMubG9nZ2VyLAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>,
         department: {
             type: Sequelize.INTEGER,
@@ -341,20 +353,11 @@
             }
         }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5hcHApOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qge01PREVMfSA9IHJlcXVpcmUoJy4uL2V4dGVuZC9tb2RlbCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5hcHApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -396,6 +399,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
