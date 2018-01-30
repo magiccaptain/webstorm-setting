@@ -76,23 +76,23 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517285325514">
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517300032186">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="33" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_departments.ts" timestamp="1517277725534">
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_departments.ts" timestamp="1517300977686">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="89" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="26" column="31" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517277768952">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="24" column="13" />
-        <mark key="." line="24" column="13" />
-        <mark key="^" line="24" column="13" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517300529217">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
+        <mark key="^" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/department.ts" timestamp="1517274051463">
         <mark key="[" line="2" column="56" />
@@ -107,9 +107,9 @@
         <mark key="^" line="98" column="17" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_students.ts" timestamp="1517242447077">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="29" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_students.ts" timestamp="1517300254148">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="37" />
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
@@ -119,10 +119,8 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/sequelize.ts" timestamp="1517274336963">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/mockjs/index.d.ts" timestamp="1517301019175">
+        <mark key="'" line="240" column="25" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/services/auth.ts" timestamp="1516462231642">
         <mark key="[" line="7" column="0" />
@@ -130,12 +128,14 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/lodash/collection/sample.d.ts" timestamp="1517301183123" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_json.ts" timestamp="1517274043354">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="23" />
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/lodash/index.d.ts" timestamp="1517301067340" />
       <file name="$USER_HOME$/projects/egg-example/app/model/user.ts" timestamp="1516549412075">
         <mark key="[" line="35" column="25" />
         <mark key="]" line="36" column="66" />
@@ -172,6 +172,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517301362876">
+        <mark key="'" line="31" column="13" />
+        <mark key="[" line="33" column="56" />
+        <mark key="]" line="33" column="56" />
+        <mark key="." line="33" column="56" />
+        <mark key="^" line="33" column="56" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/student.ts" timestamp="1516985720659">
         <mark key="[" line="29" column="9" />
@@ -265,9 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/projects/SmartElective/src/routes/IndexPage.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
-      <jump line="35" column="2" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
       <jump line="36" column="2" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
       <jump line="65" column="18" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
       <jump line="70" column="3" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
@@ -365,19 +369,22 @@
       <jump line="30" column="0" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock_db.ts" />
       <jump line="25" column="17" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_departments.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_departments.ts" />
+      <jump line="242" column="18" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/mockjs/index.d.ts" />
+      <jump line="240" column="25" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/mockjs/index.d.ts" />
+      <jump line="31" column="13" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbG9hZFBvc2l0aW9uKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>Model</text>
+        <text>extend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbG9hZFBvc2l0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAn5Zyf5pyo5LiO5Lqk6YCa5bel56iL5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn566h55CG5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5biC5pS/5LiO546v5aKD5bel56iL5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5bu6562R5LiO5Z+O5biC6KeE5YiS5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn6IO95rqQ5LiO5bu6562R546v5aKD5bel56iL5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5rWL57uY5LiO5Z+O5biC56m66Ze05L+h5oGv5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn6Im65pyv6K6+6K6h5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn6K6h566X5py65LiO5pWw5o2u56eR5a2m5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn55S15rCU5LiO5o6n5Yi25bel56iL5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5p2Q5paZ5LiO5YyW5bel5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn55Sf5ZG956eR5a2m5LiO5bel56iL5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5pWw55CG5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5aSW5Zu96K+t5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5rOV5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5Zu96ZmF5pWZ6IKy5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5L2T6IKy5pWZ5a2m6YOoJywKICAgICAgICAgICAgICAgICAgICAn57un57ut5pWZ6IKy5a2m6ZmiJywKICAgICAgICAgICAgICAgICAgICAn5oCd5oOz5pS/5rK75pWZ6IKy5pWZ5a2m6YOoJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -385,35 +392,54 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>[
+                    '土木与交通工程学院',
+                    '管理学院',
+                    '市政与环境工程学院',
+                    '建筑与城市规划学院',
+                    '能源与建筑环境工程学院',
+                    '测绘与城市空间信息学院',
+                    '艺术设计学院',
+                    '计算机与数据科学学院',
+                    '电气与控制工程学院',
+                    '材料与化工学院',
+                    '生命科学与工程学院',
+                    '数理学院',
+                    '外国语学院',
+                    '法学院',
+                    '国际教育学院',
+                    '体育教学部',
+                    '继续教育学院',
+                    '思想政治教育教学部',
+                ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3JlYXRlX3JldFsxXSkgewogICAgICAgICAgICBjcmVhdGVfcmV0WzBdLnNhdmUoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIE1vY2tqc1JhbmRvbS5leAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIE1vY2suUmFuZG9tLmV4dGVuZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcG9zaXRpb24gPSBidWlsZF9yZXRbMF07Cg==</text>
+        <text encoding="base64">ICAgIFJhbmRvbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmlrDnuqrlvZUKICAgICAgICBpZiAoYnVpbGRfcmV0WzFdKSB7CgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIFJhbmRvbQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Model</last-search>
+      <last-search>extend</last-search>
       <last-offset />
-      <last-pattern>Model</last-pattern>
+      <last-pattern>extend</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -427,6 +453,7 @@
         <entry>define</entry>
         <entry>logging</entry>
         <entry>Model</entry>
+        <entry>extend</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
