@@ -2,9 +2,6 @@
   <action id="ActivateDBBrowserToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoProject" />
