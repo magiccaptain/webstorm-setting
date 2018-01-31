@@ -146,12 +146,6 @@
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_teacher.ts" timestamp="1517379935627">
-        <mark key="'" line="42" column="19" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/egg-example/app/extend/application.ts" timestamp="1516986826457">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -182,9 +176,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517393153945">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517400065760">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="41" column="35" />
         <mark key="^" line="23" column="19" />
         <mark key="." line="11" column="0" />
       </file>
@@ -217,9 +211,9 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_info.ts" timestamp="1517396702721">
-        <mark key="[" line="35" column="13" />
-        <mark key="]" line="35" column="13" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_info.ts" timestamp="1517400680148">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="19" />
         <mark key="." line="35" column="13" />
         <mark key="^" line="35" column="13" />
       </file>
@@ -229,11 +223,11 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_course.ts" timestamp="1517330057169">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="1" column="7" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_course.ts" timestamp="1517401194430">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_type.ts" timestamp="1517396663557">
         <mark key="[" line="18" column="1" />
@@ -278,9 +272,9 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="70" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_class_hour.ts" timestamp="1517396886864">
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_class_hour.ts" timestamp="1517397252498">
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="42" column="0" />
+        <mark key="]" line="8" column="27" />
         <mark key="^" line="40" column="76" />
         <mark key="." line="40" column="76" />
       </file>
@@ -290,6 +284,9 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="8" column="13" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/data/teacher.json" timestamp="1517400310088">
+        <mark key="'" line="384" column="17" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_student.ts" timestamp="1517321785473">
         <mark key="[" line="49" column="0" />
@@ -347,11 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="23" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
-      <jump line="118" column="26" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
-      <jump line="163" column="5" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
-      <jump line="170" column="5" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
-      <jump line="176" column="30" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
       <jump line="216" column="68" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
       <jump line="238" column="5" filename="$USER_HOME$/projects/SmartElective/node_modules/@types/react-redux/index.d.ts" />
       <jump line="106" column="17" filename="$USER_HOME$/projects/SmartElective/node_modules/redux/index.d.ts" />
@@ -447,59 +439,61 @@
       <jump line="33" column="45" filename="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" />
       <jump line="38" column="15" filename="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" />
       <jump line="16" column="36" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" />
+      <jump line="237" column="12" filename="$USER_HOME$/projects/SmartElective/Server/mock/data/teacher.json" />
+      <jump line="387" column="8" filename="$USER_HOME$/projects/SmartElective/Server/mock/data/teacher.json" />
+      <jump line="97" column="17" filename="$USER_HOME$/projects/SmartElective/Server/mock/data/teacher.json" />
+      <jump line="341" column="17" filename="$USER_HOME$/projects/SmartElective/Server/mock/data/teacher.json" />
+      <jump line="384" column="17" filename="$USER_HOME$/projects/SmartElective/Server/mock/data/teacher.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbG9hZENvdXJzZVR5cGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ClassPlace</text>
+        <text>Environmental Problem</text>
       </register>
       <register name="/" type="4">
-        <text>extend</text>
+        <text>土木</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbG9hZENvdXJzZVR5cGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAn5biC5pS/5LiO546v5aKD5bel56iL5a2m6ZmiJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbG9hZENvdXJzZVR5cGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdXJzZU51bQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>[
+    ]</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdvcmRlcnwrMSc6IDEsCiAgICAgICAgICAgICAgICAnc3RhcnRUaW1lJzogZnVuY3Rpb24gKCkgewogICAgICAgICAgICAgICAgICAgIGxldCBkYXRlID0gbmV3IERhdGUoKTsKICAgICAgICAgICAgICAgICAgICBsZXQgaG91ciA9IDg7CiAgICAgICAgICAgICAgICAgICAgaWYgKHRoaXMub3JkZXIgPD0gNCkgewogICAgICAgICAgICAgICAgICAgICAgICBob3VyICs9ICh0aGlzLm9yZGVyIC0gMSk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgaG91ciArPSAodGhpcy5vcmRlciArIDEpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBkYXRlLnNldEhvdXJzKGhvdXIsIDAsIDAsIDApOwoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGF0ZUZvcm1hdChkYXRlLCAnSEg6TU06c3MnKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAnZW5kVGltZSc6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICBsZXQgZGF0ZSA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICAgICAgICAgbGV0IGhvdXIgPSA4OwogICAgICAgICAgICAgICAgICAgIGlmICh0aGlzLm9yZGVyIDw9IDQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaG91ciArPSAodGhpcy5vcmRlciAtIDEpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGhvdXIgKz0gKHRoaXMub3JkZXIgKyAxKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZGF0ZS5zZXRIb3Vycyhob3VyLCA1MCwgMCwgMCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGRhdGVGb3JtYXQoZGF0ZSwgJ0hIOk1NOnNzJyk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>,
-            type: {
-                type: Sequelize.ENUM('基础必修', '全校任选', '专业必修', '专业选修'),
-                allowNull: false
-            },</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZToge30sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>extend</last-search>
+      <last-search>土木</last-search>
       <last-offset />
-      <last-pattern>extend</last-pattern>
+      <last-pattern>土木</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -514,6 +508,7 @@
         <entry>logging</entry>
         <entry>Model</entry>
         <entry>extend</entry>
+        <entry>土木</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
