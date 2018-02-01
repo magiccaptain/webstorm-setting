@@ -88,6 +88,11 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_course_session.ts" timestamp="1517475882981">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517410533396">
         <mark key="[" line="48" column="28" />
         <mark key="]" line="48" column="27" />
@@ -95,10 +100,6 @@
         <mark key="." line="48" column="27" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_course_session.js" timestamp="1517454176743" />
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_departments.ts" timestamp="1517407800507">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="25" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517452825689">
         <mark key="[" line="52" column="37" />
         <mark key="]" line="53" column="17" />
@@ -111,9 +112,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_class_hour.ts" timestamp="1517409304574">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="47" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_class_hour.ts" timestamp="1517475198864">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="31" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="22" />
       </file>
@@ -161,6 +162,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_course_session.ts" timestamp="1517475155383">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/user.ts" timestamp="1516549412075">
         <mark key="[" line="35" column="25" />
@@ -213,7 +220,6 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/data/course_session.json" timestamp="1517454259351" />
       <file name="$USER_HOME$/projects/egg-example/app/model/student.ts" timestamp="1516985720659">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="9" />
@@ -243,11 +249,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_course_session.ts" timestamp="1517454295481">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="18" />
-        <mark key="." line="43" column="18" />
-        <mark key="^" line="43" column="18" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_course_session.ts" timestamp="1517475242695">
+        <mark key="[" line="76" column="72" />
+        <mark key="]" line="76" column="87" />
+        <mark key="." line="76" column="87" />
+        <mark key="^" line="76" column="87" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_info.ts" timestamp="1517400680148">
         <mark key="[" line="18" column="12" />
@@ -387,7 +393,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="58" filename="$USER_HOME$/projects/SmartElective/node_modules/redux/index.d.ts" />
       <jump line="148" column="61" filename="$USER_HOME$/projects/SmartElective/node_modules/redux/index.d.ts" />
       <jump line="151" column="2" filename="$USER_HOME$/projects/SmartElective/node_modules/redux/index.d.ts" />
       <jump line="162" column="5" filename="$USER_HOME$/projects/SmartElective/node_modules/redux/index.d.ts" />
@@ -487,10 +492,11 @@
       <jump line="336" column="0" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_course.ts" />
       <jump line="1122" column="7" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" />
       <jump line="21273" column="28" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" />
+      <jump line="21" column="20" filename="$USER_HOME$/projects/SmartElective/Server/mock/data/course_session.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>[]</text>
@@ -498,32 +504,32 @@
       <register name="/" type="4">
         <text>国际</text>
       </register>
-      <register name="0" type="4">
-        <text>sessionClassHours</text>
+      <register name="0" type="2">
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gbG9hZENsYXNzSG91cigpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVjbGFyZSBuYW1lc3BhY2UgU21hcnRFbGVjdGl2ZU1vZGVsIHsKCn0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudW0gT2RkRXZlbldlZWsgewogICAgICAgIEFMTCA9IDEsCiAgICAgICAgT0RELAogICAgICAgIEVWRU4sCiAgICB9CgogICAgaW50ZXJmYWNlIERheUNsYXNzSG91ciB7CiAgICAgICAgaG91cnM6IG51bWJlcltdIHwgdW5kZWZpbmVkLAogICAgICAgIC8vIOWlh+aVsOWRqOS4iuivvui/mOaYr+WBtuaVsOWRqOS4iuivvgogICAgICAgIG9kZEV2ZW46IE9kZEV2ZW5XZWVrIHwgdW5kZWZpbmVkLAogICAgfQoKICAgIGludGVyZmFjZSBTZXNzaW9uQ2xhc3NIb3VycyB7CiAgICAgICAgZGF5czogRGF5Q2xhc3NIb3VyW10KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtPZGRFdmVuV2VlaywgU2Vzc2lvbkNsYXNzSG91cnMsIERheUNsYXNzSG91cn0gZnJvbSAnLi4vYXBwL21vZGVsJzsK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVjbGFyZSBuYW1lc3BhY2UgU21hcnRFbGVjdGl2ZU1vZGVsIHsKCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudW0gT2RkRXZlbldlZWsgewogICAgICAgIEFMTCA9IDEsCiAgICAgICAgT0RELAogICAgICAgIEVWRU4sCiAgICB9CgogICAgaW50ZXJmYWNlIERheUNsYXNzSG91ciB7CiAgICAgICAgaG91cnM6IG51bWJlcltdIHwgdW5kZWZpbmVkLAogICAgICAgIC8vIOWlh+aVsOWRqOS4iuivvui/mOaYr+WBtuaVsOWRqOS4iuivvgogICAgICAgIG9kZEV2ZW46IE9kZEV2ZW5XZWVrIHwgdW5kZWZpbmVkLAogICAgfQoKICAgIGludGVyZmFjZSBTZXNzaW9uQ2xhc3NIb3VycyB7CiAgICAgICAgZGF5czogRGF5Q2xhc3NIb3VyW10KICAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtPZGRFdmVuV2VlaywgU2Vzc2lvbkNsYXNzSG91cnMsIERheUNsYXNzSG91cn0gZnJvbSAnLi4vYXBwL21vZGVsJzsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
