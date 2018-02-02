@@ -145,7 +145,7 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedAuth.tsx" timestamp="1517592413163">
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedAuth.tsx" timestamp="1517593633520">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
@@ -197,10 +197,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/auth.js" timestamp="1517584166385">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/auth.js" timestamp="1517593755094">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="32" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/elecvive.ts" timestamp="1517483137408">
         <mark key="[" line="10" column="9" />
@@ -220,10 +221,11 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedLoginRouter.tsx" timestamp="1517593141289">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedLoginRouter.tsx" timestamp="1517594252491">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="80" column="44" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/README.md" timestamp="1516982095786">
         <mark key="[" line="10" column="15" />
@@ -659,13 +661,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.props</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMubG9jYXRpb24hIS5wYXRobmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgIGxvYWRpbmc6IGZhbHNlCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -674,25 +676,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUobmV4dFByb3BzKSB7CiAgICBjb25zb2xlLmxvZyhuZXh0UHJvcHMubG9jYXRpb24hIS5wYXRobmFtZSk7CiAgICByZXR1cm4gdHJ1ZTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpc0xvZ2luPyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWloZWknKTsK</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CiAgICBjb25zb2xlLmxvZygnaGVpaGVpJyk7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlc2l6ZVRvKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
