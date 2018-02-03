@@ -167,11 +167,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.css" timestamp="1517505907876">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="9" />
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.css" timestamp="1517636467852">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/extend/application.ts" timestamp="1516986826457">
         <mark key="[" line="17" column="0" />
@@ -221,10 +221,11 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedLoginRouter.tsx" timestamp="1517630139610">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedLoginRouter.tsx" timestamp="1517636401772">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="36" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/README.md" timestamp="1516982095786">
         <mark key="[" line="10" column="15" />
@@ -291,10 +292,10 @@
         <mark key="^" line="96" column="73" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedLogoutRouter.jsx" timestamp="1517578342168" />
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" timestamp="1517629712483">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" timestamp="1517634445474">
+        <mark key="'" line="66" column="0" />
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="49" />
+        <mark key="]" line="1" column="50" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="30" column="23" />
       </file>
@@ -412,12 +413,12 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/router.js" timestamp="1517629365260">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="45" column="43" />
-        <mark key="]" line="46" column="41" />
-        <mark key="." line="46" column="41" />
-        <mark key="^" line="46" column="41" />
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/router.js" timestamp="1517636230193">
+        <mark key="'" line="42" column="8" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="^" line="24" column="27" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/node_modules/react-redux/es/components/connectAdvanced.js" timestamp="1517584828982" />
       <file name="$USER_HOME$/projects/egg-example/app/model/user.ts" timestamp="1516549412075">
@@ -439,11 +440,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.tsx" timestamp="1517630743901">
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="36" />
-        <mark key="^" line="45" column="36" />
-        <mark key="." line="45" column="36" />
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.tsx" timestamp="1517636508899">
+        <mark key="'" line="61" column="20" />
+        <mark key="[" line="60" column="81" />
+        <mark key="]" line="60" column="84" />
+        <mark key="." line="60" column="84" />
+        <mark key="^" line="60" column="84" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517408429647">
         <mark key="[" line="12" column="18" />
@@ -556,10 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" />
-      <jump line="10" column="8" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" />
-      <jump line="9" column="0" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_departments.ts" />
       <jump line="51" column="17" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_departments.ts" />
       <jump line="8" column="3" filename="$USER_HOME$/projects/SmartElective/Server/mock/gen_departments.ts" />
       <jump line="12" column="24" filename="$USER_HOME$/projects/SmartElective/Server/package.json" />
@@ -635,7 +633,6 @@
       <jump line="26" column="0" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
       <jump line="7" column="2" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedLoginRouter.tsx" />
       <jump line="51" column="4" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.tsx" />
-      <jump line="21" column="11" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.tsx" />
       <jump line="44" column="16" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/auth.js" />
       <jump line="125" column="39" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/auth.js" />
       <jump line="48" column="16" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/auth.js" />
@@ -656,46 +653,51 @@
       <jump line="32" column="21" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
       <jump line="88" column="25" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedLoginRouter.tsx" />
       <jump line="1" column="0" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
+      <jump line="21" column="27" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.tsx" />
+      <jump line="66" column="0" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
+      <jump line="25" column="18" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.tsx" />
+      <jump line="40" column="28" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.tsx" />
+      <jump line="58" column="20" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Right</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Right</text>
       </register>
       <register name="/" type="4">
         <text>render</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgcm91dGVyUmVkdXggZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4JzsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vcmVmZXJyZXIiIGhyZWY9IiI+5Liq5Lq66LWE5paZPC9hPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBDb250ZW50Cg==</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgcm9sZVBhdGhNYXAgPSB7CiAgc3R1ZGVudDogWwogICAgJy9zdHVkZW50JywKICBdLAogIHRlYWNoZXI6IFsKICAgICcvdGVhY2hlcicsCiAgXQp9Owo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBkZWZhdWx0U2VsZWN0ZWRLZXlzID0gW2xvY2F0aW9uLnBhdGhuYW1lXTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb25uZWN0ZWRSb3V0ZXJQcm9wc30gZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4Jwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt9ID0gdGhpcy5wcm9wczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
