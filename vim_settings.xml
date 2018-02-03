@@ -250,11 +250,12 @@
         <mark key="." line="75" column="10" />
         <mark key="^" line="75" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1517650153277">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="89" column="8" />
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1517656833668">
+        <mark key="'" line="86" column="8" />
+        <mark key="[" line="37" column="14" />
+        <mark key="]" line="37" column="19" />
+        <mark key="." line="37" column="19" />
+        <mark key="^" line="37" column="19" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/user.js" timestamp="1516550085377">
         <mark key="[" line="1" column="26" />
@@ -325,12 +326,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="8" column="13" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/TeacherLoginForm/TeacherLoginForm.tsx" timestamp="1517499344111">
-        <mark key="'" line="57" column="4" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/node_modules/@types/js-cookie/index.d.ts" timestamp="1517642472677">
         <mark key="'" line="6" column="0" />
@@ -584,11 +579,12 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1517656288209">
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1517658339113">
         <mark key="'" line="106" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+        <mark key="[" line="114" column="25" />
+        <mark key="]" line="116" column="44" />
+        <mark key="." line="116" column="44" />
+        <mark key="^" line="116" column="44" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/package.json" timestamp="1516542354696">
         <mark key="[" line="43" column="0" />
@@ -610,7 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/projects/SmartElective/FrontEnd/node_modules/@types/js-cookie/index.d.ts" />
       <jump line="4" column="20" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
       <jump line="67" column="33" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
       <jump line="0" column="27" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
@@ -710,46 +705,47 @@
       <jump line="59" column="16" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="102" column="27" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="104" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
+      <jump line="80" column="8" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/elective.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>courseSession</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bGV0IGNvdXJzZTMg</text>
+        <text>courseSession</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjb3Vyc2VzMik7Cg==</text>
+      <register name="0" type="4">
+        <text>'createdAt', 'updatedAt', 'courseId', 'id'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW09wLm5vdEluXTogbm90QWxsb3dDb3Vyc2VzSWRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2VxdWVsaXplLk9wLm5vdEluCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBjb3Vyc2VzOiBhbnlbXSA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhID0gey4uLmRhdGEsIF8ub21pdCgpfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvdXJzZXMubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBhbGxfY291cnNlcyA9IGF3YWl0IHNlc3Npb24uZ2V0Q291cnNlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXQgZGF0YSA9IHt9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
