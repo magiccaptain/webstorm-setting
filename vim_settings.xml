@@ -15,6 +15,7 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/logs/egg-example/common-error.log.2018-02-03" timestamp="1517675884906" />
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517285070347">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -27,10 +28,16 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/logs/egg-example/egg-web.log.2018-02-02" timestamp="1517675874138">
+        <mark key="'" line="23" column="33" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/utils/request.js" timestamp="1517674903165">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/logs/egg-example/egg-web.log.2018-02-03" timestamp="1517675867359">
+        <mark key="'" line="228" column="69" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/tsconfig.json" timestamp="1516549882140">
         <mark key="[" line="7" column="22" />
@@ -38,11 +45,11 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/config/config.default.js" timestamp="1517675425014">
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="39" column="5" />
-        <mark key="." line="39" column="5" />
-        <mark key="^" line="39" column="5" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/config/config.default.js" timestamp="1517676157274">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="18" />
+        <mark key="." line="39" column="18" />
+        <mark key="^" line="39" column="18" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/models.ts" timestamp="1517274358175">
         <mark key="[" line="4" column="36" />
@@ -401,7 +408,8 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/package.json" timestamp="1517674562633" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/logs/egg-example/common-error.log" timestamp="1517676070363" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/package.json" timestamp="1517675515606" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_course_type.ts" timestamp="1517397116175">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="28" />
@@ -535,6 +543,7 @@
         <mark key="." line="11" column="70" />
         <mark key="^" line="11" column="70" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/logs/egg-example/egg-example-web.log" timestamp="1517675955285" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/utils/request_options.ts" timestamp="1517666172479">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="31" />
@@ -589,8 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3436" column="51" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="3676" column="17" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="3784" column="31" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="3415" column="28" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="3703" column="38" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
@@ -689,19 +696,21 @@
       <jump line="156" column="18" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" />
       <jump line="78" column="16" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" />
       <jump line="0" column="1184740" filename="$USER_HOME$/projects/SmartElective/FrontEnd/dist/index.js" />
+      <jump line="228" column="69" filename="$USER_HOME$/projects/SmartElective/Server/logs/egg-example/egg-web.log.2018-02-03" />
+      <jump line="23" column="33" filename="$USER_HOME$/projects/SmartElective/Server/logs/egg-example/egg-web.log.2018-02-02" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>egg-view-nunjucks</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>egg-view-nunjucks</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>localhost</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0cy52YWxpZGF0ZSA9IHsKICAgIGVuYWJsZTogdHJ1ZSwKICAgIHBhY2thZ2U6ICdlZ2ctdmFsaWRhdGUnLAp9Owo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbmZpZy5zZXF1ZWxpemUgPSB7CiAgICAvLyAgICAgZGlhbGVjdDogJ3Bvc3RncmVzJywKICAgIC8vICAgICBkYXRhYmFzZTogJ3NtYXJ0X2VsZWN0aXZlX2RiJywKICAgIC8vICAgICBob3N0OiAnc3RhY2t0b3AuY24nLAogICAgLy8gICAgIHBvcnQ6IDg1MzIsCiAgICAvLyAgICAgdXNlcm5hbWU6ICdzbWFydF9lbGVjdGl2ZScsCiAgICAvLyAgICAgcGFzc3dvcmQ6ICdwalU1Z1RvcFRNR1lHcCcKICAgIC8vIH07Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgY29uZmlnLm51bmp1Y2tzID0gewogICAgICAgIAogICAgfQo=</text>
