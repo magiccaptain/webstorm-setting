@@ -326,6 +326,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/TeacherLoginForm/TeacherLoginForm.tsx" timestamp="1517499344111">
+        <mark key="'" line="57" column="4" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/node_modules/@types/js-cookie/index.d.ts" timestamp="1517642472677">
         <mark key="'" line="6" column="0" />
       </file>
@@ -346,6 +352,12 @@
         <mark key="]" line="21" column="30" />
         <mark key="." line="21" column="30" />
         <mark key="^" line="21" column="30" />
+      </file>
+      <file name="[stacktop.cn] CONSOLE - stacktop.cn" timestamp="1517654556202">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="0" column="38" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_sessions.ts" timestamp="1517330344570">
         <mark key="[" line="22" column="17" />
@@ -572,12 +584,11 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1517652674929">
-        <mark key="'" line="59" column="16" />
-        <mark key="[" line="96" column="43" />
-        <mark key="]" line="96" column="43" />
-        <mark key="^" line="96" column="43" />
-        <mark key="." line="96" column="43" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1517656288209">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/package.json" timestamp="1516542354696">
         <mark key="[" line="43" column="0" />
@@ -599,8 +610,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
-      <jump line="77" column="0" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/SmartElective/FrontEnd/node_modules/@types/js-cookie/index.d.ts" />
       <jump line="4" column="20" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
       <jump line="67" column="33" filename="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" />
@@ -699,40 +708,42 @@
       <jump line="1067" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="1086" column="21" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="59" column="16" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
+      <jump line="102" column="27" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
+      <jump line="104" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">bGV0IGNvdXJzZTMg</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3Qgc2VxdWVsaXplID0gbmV3IFNlcXVlbGl6ZSh0aGlzLmNvbmZpZy5zZXF1ZWxpemUpOwoKICAgICAgICAgICAgdGhpc1tTRVFVRUxJWkVdID0gc2VxdWVsaXplOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjb3Vyc2VzMik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgW09wLm5vdEluXTogbm90QWxsb3dDb3Vyc2VzSWRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2VxdWVsaXplLk9wLm5vdEluCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5oqKbW9kZWzliqDovb3ov5vmnaUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5jb25maWcuc2VxdWVsaXplKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBjb3Vyc2VzOiBhbnlbXSA9IFtdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNvdXJzZXMubGVuZ3RoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBhbGxfY291cnNlcyA9IGF3YWl0IHNlc3Npb24uZ2V0Q291cnNlcygpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
