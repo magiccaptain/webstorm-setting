@@ -15,7 +15,7 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517743299207">
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="11" column="9" />
         <mark key="." line="11" column="9" />
@@ -27,16 +27,12 @@
         <mark key="." line="9" column="17" />
         <mark key="^" line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/utils/request.js" timestamp="1517738787859">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/teacher.ts" timestamp="1517759227259">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="26" />
-        <mark key="^" line="19" column="26" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/positions.js" timestamp="1517742341940" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/teacher.ts" timestamp="1517762869894">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/tsconfig.json" timestamp="1516549882140">
         <mark key="[" line="7" column="22" />
@@ -56,18 +52,11 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedLogoutRouter.tsx" timestamp="1517642431867">
-        <mark key="'" line="73" column="3" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="30" column="12" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/pre_elecvive.ts" timestamp="1517759175148">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="14" column="34" />
-        <mark key="." line="14" column="34" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/pre_elecvive.ts" timestamp="1517762843888">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/db.d.ts" timestamp="1517758943765">
         <mark key="'" line="0" column="0" />
@@ -80,11 +69,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_course_session.ts" timestamp="1517482284745">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="41" column="48" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_course_session.ts" timestamp="1517762786351">
+        <mark key="[" line="41" column="16" />
+        <mark key="]" line="41" column="16" />
+        <mark key="^" line="41" column="16" />
+        <mark key="." line="41" column="16" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/home.js" timestamp="1517675450053">
         <mark key="[" line="9" column="46" />
@@ -92,6 +81,8 @@
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/students.ts" timestamp="1517742290849" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_department.js" timestamp="1517743574044" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517481072671">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="38" />
@@ -104,6 +95,13 @@
         <mark key="^" line="86" column="30" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/allow_course_major.ts" timestamp="1517766190764">
+        <mark key="[" line="10" column="1" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/service/elective.js" timestamp="1517765554604" />
       <file name="$USER_HOME$/projects/SmartElective/Server/app/router.js" timestamp="1517650240530">
         <mark key="[" line="12" column="58" />
         <mark key="]" line="12" column="58" />
@@ -158,10 +156,12 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1517760055908">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1517765241348">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="167" column="67" />
+        <mark key="]" line="167" column="69" />
+        <mark key="." line="167" column="69" />
+        <mark key="^" line="167" column="69" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/package.json" timestamp="1517673564167">
         <mark key="[" line="4" column="43" />
@@ -193,20 +193,23 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" timestamp="1517760030367">
-        <mark key="'" line="5844" column="8" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" timestamp="1517765341809">
+        <mark key="'" line="748" column="34" />
+        <mark key="[" line="772" column="8" />
+        <mark key="]" line="772" column="81" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/node_modules/egg/index.d.ts" timestamp="1517763966086" />
       <file name="$USER_HOME$/projects/egg-example/app/model/Department.ts" timestamp="1516548964313">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/elecvive.ts" timestamp="1517759125724">
-        <mark key="[" line="13" column="27" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="31" />
-        <mark key="^" line="14" column="31" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/elecvive.ts" timestamp="1517762832417">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/student.ts" timestamp="1516985720659">
         <mark key="[" line="29" column="9" />
@@ -220,13 +223,8 @@
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedLoginRouter.tsx" timestamp="1517641418859">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="90" column="17" />
-      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/db.tables.js" timestamp="1517742413800" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/AllowCourseMajor.ts" timestamp="1517766161733" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/StudentElective/StudentElective.css" timestamp="1517647456805">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="23" />
@@ -239,44 +237,24 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1517673044665">
-        <mark key="'" line="100" column="8" />
-        <mark key="[" line="54" column="11" />
-        <mark key="]" line="54" column="11" />
-        <mark key="." line="54" column="11" />
-        <mark key="^" line="54" column="11" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/department.ts" timestamp="1517762828932">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/department.ts" timestamp="1517759114494">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-      </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/db.tables.ts" timestamp="1517758219520" />
       <file name="$USER_HOME$/projects/egg-example/app/model/user.js" timestamp="1516550085377">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="25" />
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/node_modules/@types/react-router/index.d.ts" timestamp="1517630408434">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="20" />
-        <mark key="]" line="68" column="43" />
-        <mark key="." line="68" column="19" />
-        <mark key="^" line="68" column="19" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/session.ts" timestamp="1517759185343">
-        <mark key="[" line="37" column="29" />
-        <mark key="]" line="38" column="30" />
-        <mark key="." line="38" column="30" />
-        <mark key="^" line="38" column="30" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/extend/application.ts" timestamp="1517652760822">
-        <mark key="'" line="28" column="23" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="30" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/session.ts" timestamp="1517762847580">
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/config/plugin.js" timestamp="1517675505742">
         <mark key="[" line="17" column="31" />
@@ -296,25 +274,18 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517758850345">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="86" column="36" />
-        <mark key="]" line="86" column="36" />
-        <mark key="." line="86" column="36" />
-        <mark key="^" line="86" column="36" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517766315507">
+        <mark key="'" line="72" column="60" />
+        <mark key="[" line="139" column="21" />
+        <mark key="]" line="140" column="26" />
+        <mark key="^" line="140" column="26" />
+        <mark key="." line="140" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_schedule.ts" timestamp="1517742885475">
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_schedule.ts" timestamp="1517762810878">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="9" />
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/models/user.ts" timestamp="1517643142950">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="67" column="23" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_class_hour.ts" timestamp="1517451962382">
         <mark key="[" line="4" column="0" />
@@ -340,11 +311,11 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_session.ts" timestamp="1517759090619">
-        <mark key="[" line="25" column="38" />
-        <mark key="]" line="25" column="38" />
-        <mark key="." line="25" column="38" />
-        <mark key="^" line="25" column="38" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_session.ts" timestamp="1517762821227">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="[stacktop.cn] CONSOLE - stacktop.cn" timestamp="1517654556202">
         <mark key="[" line="17" column="0" />
@@ -358,6 +329,7 @@
         <mark key="." line="22" column="17" />
         <mark key="^" line="15" column="30" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/studentInfos.ts" timestamp="1517742356354" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/init_db.ts" timestamp="1517275576922">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -370,18 +342,20 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/electives.ts" timestamp="1517742818239" />
       <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/classHours.ts" timestamp="1517742826319">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="7" column="68" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_place.ts" timestamp="1517759050901">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_place.ts" timestamp="1517762806885">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_json.js" timestamp="1517743925618" />
       <file name="$USER_HOME$/projects/egg-example/app/model/department.ts" timestamp="1516985731332">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="10" />
@@ -406,11 +380,11 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/major.ts" timestamp="1517759144617">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="19" column="28" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/major.ts" timestamp="1517762836162">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/LoadingPage/LoadingPage.tsx" timestamp="1517638156698">
         <mark key="[" line="14" column="28" />
@@ -431,6 +405,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/AllowCourseMajor.js" timestamp="1517741775542" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StudentMainPage.tsx" timestamp="1517505685956">
         <mark key="[" line="28" column="56" />
         <mark key="]" line="28" column="56" />
@@ -479,30 +454,25 @@
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/ScheduleCourse.js" timestamp="1517741828086" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.js" timestamp="1517740246073" />
       <file name="$USER_HOME$/projects/egg-example/app/model/teacher.ts" timestamp="1516985737545">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student_info.ts" timestamp="1517759214453">
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="35" column="34" />
-        <mark key="." line="35" column="34" />
-        <mark key="^" line="35" column="34" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student_info.ts" timestamp="1517762865500">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/index.d.ts" timestamp="1517488039933">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StuentMainPage/StudentMainPage.tsx" timestamp="1517647600164">
-        <mark key="'" line="81" column="35" />
-        <mark key="[" line="69" column="41" />
-        <mark key="]" line="69" column="42" />
-        <mark key="." line="69" column="42" />
-        <mark key="^" line="69" column="42" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517408429647">
         <mark key="[" line="12" column="18" />
@@ -522,24 +492,17 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_hour.ts" timestamp="1517759035738">
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="34" />
-        <mark key="." line="31" column="34" />
-        <mark key="^" line="31" column="34" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_hour.ts" timestamp="1517766145978">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="11" column="9" />
+        <mark key="^" line="11" column="9" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_info.ts" timestamp="1517759078271">
-        <mark key="'" line="13" column="18" />
-        <mark key="[" line="40" column="9" />
-        <mark key="]" line="42" column="33" />
-        <mark key="." line="42" column="33" />
-        <mark key="^" line="42" column="33" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_type.ts" timestamp="1517759102074">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="18" column="33" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_type.ts" timestamp="1517762824806">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/course.ts" timestamp="1516985742352">
         <mark key="[" line="6" column="4" />
@@ -559,16 +522,17 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/service/elective.ts" timestamp="1517758704773">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/service/elective.ts" timestamp="1517766090678">
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="26" />
+        <mark key="^" line="43" column="26" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517759201227">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="30" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517762859075">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="35" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_student.ts" timestamp="1517321785473">
         <mark key="[" line="49" column="0" />
@@ -576,11 +540,11 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/teacher_info.ts" timestamp="1517759238649">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="31" column="30" />
-        <mark key="." line="31" column="30" />
-        <mark key="^" line="31" column="30" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/teacher_info.ts" timestamp="1517762876074">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/config/config.json" timestamp="1516540205173">
         <mark key="[" line="6" column="25" />
@@ -594,13 +558,20 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1517765488774">
+        <mark key="'" line="89" column="21" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="73" />
+        <mark key="." line="89" column="59" />
+        <mark key="^" line="89" column="59" />
+      </file>
       <file name="$USER_HOME$/projects/egg-example/package.json" timestamp="1516542354696">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="50" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/db.d.ts" timestamp="1517759414070">
+      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/db.d.ts" timestamp="1517764630320">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="254" column="112" />
@@ -611,34 +582,14 @@
         <mark key="^" line="30" column="34" />
         <mark key="." line="30" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course.ts" timestamp="1517759066954">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="17" column="29" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="17" column="29" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course.ts" timestamp="1517762814653">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="4654" column="27" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="4993" column="21" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="5075" column="87" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="5116" column="94" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="5119" column="72" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="5122" column="8" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="5263" column="68" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="5503" column="27" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="5878" column="11" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="5883" column="26" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="5884" column="73" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="6373" column="27" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="35" column="27" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="46" column="11" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="54" column="10" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="66" column="50" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="91" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="127" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="140" column="52" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="149" column="27" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="160" column="11" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="168" column="10" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
@@ -718,62 +669,81 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
       <jump line="151" column="18" filename="$USER_HOME$/projects/SmartElective/Server/gen_models/db.d.ts" />
       <jump line="253" column="0" filename="$USER_HOME$/projects/SmartElective/Server/gen_models/db.d.ts" />
+      <jump line="2785" column="34" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3232" column="8" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3893" column="68" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="4104" column="35" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="6033" column="39" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="6043" column="35" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="748" column="34" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="113" column="16" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
+      <jump line="17" column="17" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
+      <jump line="5" column="19" filename="$USER_HOME$/projects/SmartElective/Server/gen_models/db.d.ts" />
+      <jump line="89" column="21" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
+      <jump line="46" column="17" filename="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" />
+      <jump line="119" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
+      <jump line="15" column="8" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
+      <jump line="375" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
+      <jump line="376" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
+      <jump line="25" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/projects/SmartElective/Server/gen_models/db.d.ts" />
+      <jump line="78" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
+      <jump line="70" column="60" filename="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>'AllowCourseMajor'</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>'AllowCourseMajor'</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>through</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gdGFibGU6IFBvc2l0aW9uCmV4cG9ydCBpbnRlcmZhY2UgUG9zaXRpb25BdHRyaWJ1dGUgewogIGlkOm51bWJlcjsKICBuYW1lOnN0cmluZzsKfQpleHBvcnQgaW50ZXJmYWNlIFBvc2l0aW9uSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8UG9zaXRpb25BdHRyaWJ1dGU+LCBQb3NpdGlvbkF0dHJpYnV0ZSB7IH0KZXhwb3J0IGludGVyZmFjZSBQb3NpdGlvbk1vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPFBvc2l0aW9uSW5zdGFuY2UsIFBvc2l0aW9uQXR0cmlidXRlPiB7IH0KCi8vIHRhYmxlOiBTZXNzaW9ucwpleHBvcnQgaW50ZXJmYWNlIFNlc3Npb25zQXR0cmlidXRlIHsKICBpZDpudW1iZXI7CiAgeWVhcjpudW1iZXI7CiAgc2Vzc2lvbjpudW1iZXI7CiAgc3RhcnREYXRlOkRhdGU7CiAgZW5kRGF0ZTpEYXRlOwogIHdlZWtzPzpudW1iZXI7Cn0KZXhwb3J0IGludGVyZmFjZSBTZXNzaW9uc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPFNlc3Npb25zQXR0cmlidXRlPiwgU2Vzc2lvbnNBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgU2Vzc2lvbnNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxTZXNzaW9uc0luc3RhbmNlLCBTZXNzaW9uc0F0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogRGVwYXJ0bWVudHMKZXhwb3J0IGludGVyZmFjZSBEZXBhcnRtZW50c0F0dHJpYnV0ZSB7CiAgaWQ6bnVtYmVyOwogIG5hbWU6c3RyaW5nOwp9CmV4cG9ydCBpbnRlcmZhY2UgRGVwYXJ0bWVudHNJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxEZXBhcnRtZW50c0F0dHJpYnV0ZT4sIERlcGFydG1lbnRzQXR0cmlidXRlIHsgfQpleHBvcnQgaW50ZXJmYWNlIERlcGFydG1lbnRzTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8RGVwYXJ0bWVudHNJbnN0YW5jZSwgRGVwYXJ0bWVudHNBdHRyaWJ1dGU+IHsgfQoKLy8gdGFibGU6IFN0dWRlbnRzCmV4cG9ydCBpbnRlcmZhY2UgU3R1ZGVudHNBdHRyaWJ1dGUgewogIGlkOm51bWJlcjsKICBzdHVkZW50TnVtOnN0cmluZzsKICBwYXNzd29yZDpzdHJpbmc7CiAgbGFzdExvZ2luQXQ/OkRhdGU7CiAgY3JlYXRlZEF0OkRhdGU7CiAgdXBkYXRlZEF0OkRhdGU7Cn0KZXhwb3J0IGludGVyZmFjZSBTdHVkZW50c0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPFN0dWRlbnRzQXR0cmlidXRlPiwgU3R1ZGVudHNBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgU3R1ZGVudHNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxTdHVkZW50c0luc3RhbmNlLCBTdHVkZW50c0F0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogVGVhY2hlckluZm9zCmV4cG9ydCBpbnRlcmZhY2UgVGVhY2hlckluZm9zQXR0cmlidXRlIHsKICBpZDpudW1iZXI7CiAgbmFtZTpzdHJpbmc7CiAgZ2VuZGVyOmFueTsKICB0ZWxlcGhvbmU/OnN0cmluZzsKICBlbWFpbD86c3RyaW5nOwogIGNyZWF0ZWRBdDpEYXRlOwogIHVwZGF0ZWRBdDpEYXRlOwogIFRlYWNoZXJJZD86bnVtYmVyOwp9CmV4cG9ydCBpbnRlcmZhY2UgVGVhY2hlckluZm9zSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8VGVhY2hlckluZm9zQXR0cmlidXRlPiwgVGVhY2hlckluZm9zQXR0cmlidXRlIHsgfQpleHBvcnQgaW50ZXJmYWNlIFRlYWNoZXJJbmZvc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPFRlYWNoZXJJbmZvc0luc3RhbmNlLCBUZWFjaGVySW5mb3NBdHRyaWJ1dGU+IHsgfQoKLy8gdGFibGU6IE1ham9ycwpleHBvcnQgaW50ZXJmYWNlIE1ham9yc0F0dHJpYnV0ZSB7CiAgaWQ6bnVtYmVyOwogIG5hbWU6c3RyaW5nOwogIERlcGFydG1lbnRJZD86bnVtYmVyOwp9CmV4cG9ydCBpbnRlcmZhY2UgTWFqb3JzSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8TWFqb3JzQXR0cmlidXRlPiwgTWFqb3JzQXR0cmlidXRlIHsgfQpleHBvcnQgaW50ZXJmYWNlIE1ham9yc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPE1ham9yc0luc3RhbmNlLCBNYWpvcnNBdHRyaWJ1dGU+IHsgfQoKLy8gdGFibGU6IFN0dWRlbnRJbmZvcwpleHBvcnQgaW50ZXJmYWNlIFN0dWRlbnRJbmZvc0F0dHJpYnV0ZSB7CiAgaWQ6bnVtYmVyOwogIGdyYWRlOnN0cmluZzsKICBnZW5kZXI6YW55OwogIG5hbWU6c3RyaW5nOwogIHRlbGVwaG9uZT86c3RyaW5nOwogIGVtYWlsPzpzdHJpbmc7CiAgY3JlYXRlZEF0OkRhdGU7CiAgdXBkYXRlZEF0OkRhdGU7CiAgU3R1ZGVudElkPzpudW1iZXI7Cn0KZXhwb3J0IGludGVyZmFjZSBTdHVkZW50SW5mb3NJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxTdHVkZW50SW5mb3NBdHRyaWJ1dGU+LCBTdHVkZW50SW5mb3NBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgU3R1ZGVudEluZm9zTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8U3R1ZGVudEluZm9zSW5zdGFuY2UsIFN0dWRlbnRJbmZvc0F0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogVGVhY2hlcnMKZXhwb3J0IGludGVyZmFjZSBUZWFjaGVyc0F0dHJpYnV0ZSB7CiAgaWQ6bnVtYmVyOwogIHRlYWNoZXJOdW06c3RyaW5nOwogIHBhc3N3b3JkOnN0cmluZzsKICBjcmVhdGVkQXQ6RGF0ZTsKICB1cGRhdGVkQXQ6RGF0ZTsKICBQb3NpdGlvbklkPzpudW1iZXI7Cn0KZXhwb3J0IGludGVyZmFjZSBUZWFjaGVyc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPFRlYWNoZXJzQXR0cmlidXRlPiwgVGVhY2hlcnNBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgVGVhY2hlcnNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxUZWFjaGVyc0luc3RhbmNlLCBUZWFjaGVyc0F0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogQ291cnNlVHlwZXMKZXhwb3J0IGludGVyZmFjZSBDb3Vyc2VUeXBlc0F0dHJpYnV0ZSB7CiAgaWQ6bnVtYmVyOwogIG5hbWU6c3RyaW5nOwogIGNyZWF0ZWRBdDpEYXRlOwogIHVwZGF0ZWRBdDpEYXRlOwp9CmV4cG9ydCBpbnRlcmZhY2UgQ291cnNlVHlwZXNJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxDb3Vyc2VUeXBlc0F0dHJpYnV0ZT4sIENvdXJzZVR5cGVzQXR0cmlidXRlIHsgfQpleHBvcnQgaW50ZXJmYWNlIENvdXJzZVR5cGVzTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8Q291cnNlVHlwZXNJbnN0YW5jZSwgQ291cnNlVHlwZXNBdHRyaWJ1dGU+IHsgfQoKLy8gdGFibGU6IENsYXNzSG91cnMKZXhwb3J0IGludGVyZmFjZSBDbGFzc0hvdXJzQXR0cmlidXRlIHsKICBpZDpudW1iZXI7CiAgb3JkZXI6bnVtYmVyOwogIHN0YXJ0VGltZTphbnk7CiAgZW5kVGltZTphbnk7Cn0KZXhwb3J0IGludGVyZmFjZSBDbGFzc0hvdXJzSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8Q2xhc3NIb3Vyc0F0dHJpYnV0ZT4sIENsYXNzSG91cnNBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgQ2xhc3NIb3Vyc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPENsYXNzSG91cnNJbnN0YW5jZSwgQ2xhc3NIb3Vyc0F0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogQ2xhc3NTY2hlZHVsZQpleHBvcnQgaW50ZXJmYWNlIENsYXNzU2NoZWR1bGVBdHRyaWJ1dGUgewogIGlkOm51bWJlcjsKICBjcmVhdGVkQXQ6RGF0ZTsKICB1cGRhdGVkQXQ6RGF0ZTsKICBTZXNzaW9uSWQ/Om51bWJlcjsKICBTdHVkZW50SWQ/Om51bWJlcjsKfQpleHBvcnQgaW50ZXJmYWNlIENsYXNzU2NoZWR1bGVJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxDbGFzc1NjaGVkdWxlQXR0cmlidXRlPiwgQ2xhc3NTY2hlZHVsZUF0dHJpYnV0ZSB7IH0KZXhwb3J0IGludGVyZmFjZSBDbGFzc1NjaGVkdWxlTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8Q2xhc3NTY2hlZHVsZUluc3RhbmNlLCBDbGFzc1NjaGVkdWxlQXR0cmlidXRlPiB7IH0KCi8vIHRhYmxlOiBBbGxvd0NvdXJzZU1ham9yCmV4cG9ydCBpbnRlcmZhY2UgQWxsb3dDb3Vyc2VNYWpvckF0dHJpYnV0ZSB7CiAgY3JlYXRlZEF0OkRhdGU7CiAgdXBkYXRlZEF0OkRhdGU7CiAgQ291cnNlSWQ6bnVtYmVyOwogIE1ham9ySWQ6bnVtYmVyOwp9CmV4cG9ydCBpbnRlcmZhY2UgQWxsb3dDb3Vyc2VNYWpvckluc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPEFsbG93Q291cnNlTWFqb3JBdHRyaWJ1dGU+LCBBbGxvd0NvdXJzZU1ham9yQXR0cmlidXRlIHsgfQpleHBvcnQgaW50ZXJmYWNlIEFsbG93Q291cnNlTWFqb3JNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxBbGxvd0NvdXJzZU1ham9ySW5zdGFuY2UsIEFsbG93Q291cnNlTWFqb3JBdHRyaWJ1dGU+IHsgfQoKLy8gdGFibGU6IENvdXJzZVNlc3Npb25zCmV4cG9ydCBpbnRlcmZhY2UgQ291cnNlU2Vzc2lvbnNBdHRyaWJ1dGUgewogIHN0YXJ0V2VlazpudW1iZXI7CiAgZW5kV2VlazpudW1iZXI7CiAgY2xhc3NIb3Vyczphbnk7CiAgY3JlYXRlZEF0OkRhdGU7CiAgdXBkYXRlZEF0OkRhdGU7CiAgQ291cnNlSWQ6bnVtYmVyOwogIFNlc3Npb25JZDpudW1iZXI7CiAgY2xhc3NQbGFjZUlkPzpudW1iZXI7CiAgRWxlY3RpdmVJZD86bnVtYmVyOwogIFByZUVsZWN0aXZlSWQ/Om51bWJlcjsKfQpleHBvcnQgaW50ZXJmYWNlIENvdXJzZVNlc3Npb25zSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8Q291cnNlU2Vzc2lvbnNBdHRyaWJ1dGU+LCBDb3Vyc2VTZXNzaW9uc0F0dHJpYnV0ZSB7IH0KZXhwb3J0IGludGVyZmFjZSBDb3Vyc2VTZXNzaW9uc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPENvdXJzZVNlc3Npb25zSW5zdGFuY2UsIENvdXJzZVNlc3Npb25zQXR0cmlidXRlPiB7IH0KCi8vIHRhYmxlOiBFbGVjdGl2ZXMKZXhwb3J0IGludGVyZmFjZSBFbGVjdGl2ZXNBdHRyaWJ1dGUgewogIGlkOm51bWJlcjsKICBjcmVhdGVkQXQ6RGF0ZTsKICB1cGRhdGVkQXQ6RGF0ZTsKICBkZWxldGVkQXQ/OkRhdGU7Cn0KZXhwb3J0IGludGVyZmFjZSBFbGVjdGl2ZXNJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxFbGVjdGl2ZXNBdHRyaWJ1dGU+LCBFbGVjdGl2ZXNBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgRWxlY3RpdmVzTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8RWxlY3RpdmVzSW5zdGFuY2UsIEVsZWN0aXZlc0F0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogVGVhY2hlckRlcGFydG1lbnQKZXhwb3J0IGludGVyZmFjZSBUZWFjaGVyRGVwYXJ0bWVudEF0dHJpYnV0ZSB7CiAgY3JlYXRlZEF0OkRhdGU7CiAgdXBkYXRlZEF0OkRhdGU7CiAgVGVhY2hlcklkOm51bWJlcjsKICBEZXBhcnRtZW50SWQ6bnVtYmVyOwp9CmV4cG9ydCBpbnRlcmZhY2UgVGVhY2hlckRlcGFydG1lbnRJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxUZWFjaGVyRGVwYXJ0bWVudEF0dHJpYnV0ZT4sIFRlYWNoZXJEZXBhcnRtZW50QXR0cmlidXRlIHsgfQpleHBvcnQgaW50ZXJmYWNlIFRlYWNoZXJEZXBhcnRtZW50TW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8VGVhY2hlckRlcGFydG1lbnRJbnN0YW5jZSwgVGVhY2hlckRlcGFydG1lbnRBdHRyaWJ1dGU+IHsgfQoKLy8gdGFibGU6IGNsYXNzUGxhY2VzCmV4cG9ydCBpbnRlcmZhY2UgY2xhc3NQbGFjZXNBdHRyaWJ1dGUgewogIGlkOm51bWJlcjsKICBwbGFjZTpzdHJpbmc7Cn0KZXhwb3J0IGludGVyZmFjZSBjbGFzc1BsYWNlc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPGNsYXNzUGxhY2VzQXR0cmlidXRlPiwgY2xhc3NQbGFjZXNBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgY2xhc3NQbGFjZXNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxjbGFzc1BsYWNlc0luc3RhbmNlLCBjbGFzc1BsYWNlc0F0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogQ291cnNlSW5mb3MKZXhwb3J0IGludGVyZmFjZSBDb3Vyc2VJbmZvc0F0dHJpYnV0ZSB7CiAgaWQ6bnVtYmVyOwogIG5hbWU6c3RyaW5nOwogIGNhcGFjaXR5Om51bWJlcjsKICBlbk5hbWU/OnN0cmluZzsKICBjcmVkaXRzOm51bWJlcjsKICBob3VyOm51bWJlcjsKICBub3Rlcz86c3RyaW5nOwogIGNyZWF0ZWRBdDpEYXRlOwogIHVwZGF0ZWRBdDpEYXRlOwogIENvdXJzZUlkPzpudW1iZXI7Cn0KZXhwb3J0IGludGVyZmFjZSBDb3Vyc2VJbmZvc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPENvdXJzZUluZm9zQXR0cmlidXRlPiwgQ291cnNlSW5mb3NBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgQ291cnNlSW5mb3NNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxDb3Vyc2VJbmZvc0luc3RhbmNlLCBDb3Vyc2VJbmZvc0F0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogU3R1ZGVudE1ham9ycwpleHBvcnQgaW50ZXJmYWNlIFN0dWRlbnRNYWpvcnNBdHRyaWJ1dGUgewogIGNyZWF0ZWRBdDpEYXRlOwogIHVwZGF0ZWRBdDpEYXRlOwogIFN0dWRlbnRJZDpudW1iZXI7CiAgTWFqb3JJZDpudW1iZXI7Cn0KZXhwb3J0IGludGVyZmFjZSBTdHVkZW50TWFqb3JzSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8U3R1ZGVudE1ham9yc0F0dHJpYnV0ZT4sIFN0dWRlbnRNYWpvcnNBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgU3R1ZGVudE1ham9yc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPFN0dWRlbnRNYWpvcnNJbnN0YW5jZSwgU3R1ZGVudE1ham9yc0F0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogRWxlY3RpdmVTdHVkZW50CmV4cG9ydCBpbnRlcmZhY2UgRWxlY3RpdmVTdHVkZW50QXR0cmlidXRlIHsKICBjcmVhdGVkQXQ6RGF0ZTsKICB1cGRhdGVkQXQ6RGF0ZTsKICBFbGVjdGl2ZUlkOm51bWJlcjsKICBTdHVkZW50SWQ6bnVtYmVyOwp9CmV4cG9ydCBpbnRlcmZhY2UgRWxlY3RpdmVTdHVkZW50SW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8RWxlY3RpdmVTdHVkZW50QXR0cmlidXRlPiwgRWxlY3RpdmVTdHVkZW50QXR0cmlidXRlIHsgfQpleHBvcnQgaW50ZXJmYWNlIEVsZWN0aXZlU3R1ZGVudE1vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPEVsZWN0aXZlU3R1ZGVudEluc3RhbmNlLCBFbGVjdGl2ZVN0dWRlbnRBdHRyaWJ1dGU+IHsgfQoKLy8gdGFibGU6IFByZUVsZWN0aXZlcwpleHBvcnQgaW50ZXJmYWNlIFByZUVsZWN0aXZlc0F0dHJpYnV0ZSB7CiAgaWQ6bnVtYmVyOwogIGNyZWF0ZWRBdDpEYXRlOwogIHVwZGF0ZWRBdDpEYXRlOwogIGRlbGV0ZWRBdD86RGF0ZTsKfQpleHBvcnQgaW50ZXJmYWNlIFByZUVsZWN0aXZlc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPFByZUVsZWN0aXZlc0F0dHJpYnV0ZT4sIFByZUVsZWN0aXZlc0F0dHJpYnV0ZSB7IH0KZXhwb3J0IGludGVyZmFjZSBQcmVFbGVjdGl2ZXNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxQcmVFbGVjdGl2ZXNJbnN0YW5jZSwgUHJlRWxlY3RpdmVzQXR0cmlidXRlPiB7IH0KCi8vIHRhYmxlOiBQcmVFbGVjdGl2ZVN0dWRlbnQKZXhwb3J0IGludGVyZmFjZSBQcmVFbGVjdGl2ZVN0dWRlbnRBdHRyaWJ1dGUgewogIGNyZWF0ZWRBdDpEYXRlOwogIHVwZGF0ZWRBdDpEYXRlOwogIFByZUVsZWN0aXZlSWQ6bnVtYmVyOwogIFN0dWRlbnRJZDpudW1iZXI7Cn0KZXhwb3J0IGludGVyZmFjZSBQcmVFbGVjdGl2ZVN0dWRlbnRJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxQcmVFbGVjdGl2ZVN0dWRlbnRBdHRyaWJ1dGU+LCBQcmVFbGVjdGl2ZVN0dWRlbnRBdHRyaWJ1dGUgeyB9CmV4cG9ydCBpbnRlcmZhY2UgUHJlRWxlY3RpdmVTdHVkZW50TW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8UHJlRWxlY3RpdmVTdHVkZW50SW5zdGFuY2UsIFByZUVsZWN0aXZlU3R1ZGVudEF0dHJpYnV0ZT4geyB9CgovLyB0YWJsZTogQ291cnNlcwpleHBvcnQgaW50ZXJmYWNlIENvdXJzZXNBdHRyaWJ1dGUgewogIGlkOm51bWJlcjsKICBjb3Vyc2VOdW06c3RyaW5nOwogIERlcGFydG1lbnRJZD86bnVtYmVyOwogIFRlYWNoZXJJZD86bnVtYmVyOwogIENvdXJzZVR5cGVJZD86bnVtYmVyOwp9CmV4cG9ydCBpbnRlcmZhY2UgQ291cnNlc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPENvdXJzZXNBdHRyaWJ1dGU+LCBDb3Vyc2VzQXR0cmlidXRlIHsgfQpleHBvcnQgaW50ZXJmYWNlIENvdXJzZXNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxDb3Vyc2VzSW5zdGFuY2UsIENvdXJzZXNBdHRyaWJ1dGU+IHsgfQoKLy8gdGFibGU6IFNjaGVkdWxlQ291cnNlCmV4cG9ydCBpbnRlcmZhY2UgU2NoZWR1bGVDb3Vyc2VBdHRyaWJ1dGUgewogIGNyZWF0ZWRBdDpEYXRlOwogIHVwZGF0ZWRBdDpEYXRlOwogIENvdXJzZUlkOm51bWJlcjsKICBjbGFzc1NjaGVkdWxlSWQ6bnVtYmVyOwp9CmV4cG9ydCBpbnRlcmZhY2UgU2NoZWR1bGVDb3Vyc2VJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxTY2hlZHVsZUNvdXJzZUF0dHJpYnV0ZT4sIFNjaGVkdWxlQ291cnNlQXR0cmlidXRlIHsgfQpleHBvcnQgaW50ZXJmYWNlIFNjaGVkdWxlQ291cnNlTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8U2NoZWR1bGVDb3Vyc2VJbnN0YW5jZSwgU2NoZWR1bGVDb3Vyc2VBdHRyaWJ1dGU+IHsgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBzZXF1bGl6ZS5kZWZpbmUoCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgKiDpgLvovpHpnIDopoHmlLnlj5gsIOW6lOivpQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOi/memHjOeahOmAu+i+kemcgOimgeaUueWPmAogICAgICAgIC8vIFRPRE8g5bqU6K+l5YWI5p+l6K+i5omA5pyJ5Lq65YWB6K646YCJ6K++Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5om+5Yiw5LiT5Lia5YWB6K646YCJ5oup55qEY291cnNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gdGFibGU6IFBvc2l0aW9uCmV4cG9ydCBpbnRlcmZhY2UgUG9zaXRpb25BdHRyaWJ1dGUgewogICAgaWQ6IG51bWJlcjsKICAgIG5hbWU6IHN0cmluZzsKfQoKZXhwb3J0IGludGVyZmFjZSBQb3NpdGlvbkluc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPFBvc2l0aW9uQXR0cmlidXRlPiwgUG9zaXRpb25BdHRyaWJ1dGUgewp9CgpleHBvcnQgaW50ZXJmYWNlIFBvc2l0aW9uTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8UG9zaXRpb25JbnN0YW5jZSwgUG9zaXRpb25BdHRyaWJ1dGU+IHsKfQoKLy8gdGFibGU6IERlcGFydG1lbnRzCmV4cG9ydCBpbnRlcmZhY2UgRGVwYXJ0bWVudHNBdHRyaWJ1dGUgewogICAgaWQ6IG51bWJlcjsKICAgIG5hbWU6IHN0cmluZzsKfQoKZXhwb3J0IGludGVyZmFjZSBEZXBhcnRtZW50c0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPERlcGFydG1lbnRzQXR0cmlidXRlPiwgRGVwYXJ0bWVudHNBdHRyaWJ1dGUgewp9CgoKZXhwb3J0IGludGVyZmFjZSBEZXBhcnRtZW50c01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPERlcGFydG1lbnRzSW5zdGFuY2UsIERlcGFydG1lbnRzQXR0cmlidXRlPiB7Cn0KCi8vIHRhYmxlOiBTZXNzaW9ucwpleHBvcnQgaW50ZXJmYWNlIFNlc3Npb25zQXR0cmlidXRlIHsKICAgIGlkOiBudW1iZXI7CiAgICB5ZWFyOiBudW1iZXI7CiAgICBzZXNzaW9uOiBudW1iZXI7CiAgICBzdGFydERhdGU6IERhdGU7CiAgICBlbmREYXRlOiBEYXRlOwogICAgd2Vla3M/OiBudW1iZXI7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgU2Vzc2lvbnNJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxTZXNzaW9uc0F0dHJpYnV0ZT4sIFNlc3Npb25zQXR0cmlidXRlIHsKICAgIGdldENvdXJzZSgpOiBDb3Vyc2VzSW5zdGFuY2UKfQoKZXhwb3J0IGludGVyZmFjZSBTZXNzaW9uc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPFNlc3Npb25zSW5zdGFuY2UsIFNlc3Npb25zQXR0cmlidXRlPiB7Cn0KCi8vIHRhYmxlOiBTdHVkZW50cwpleHBvcnQgaW50ZXJmYWNlIFN0dWRlbnRzQXR0cmlidXRlIHsKICAgIGlkOiBudW1iZXI7CiAgICBzdHVkZW50TnVtOiBzdHJpbmc7CiAgICBwYXNzd29yZDogc3RyaW5nOwogICAgbGFzdExvZ2luQXQ/OiBEYXRlOwogICAgY3JlYXRlZEF0OiBEYXRlOwogICAgdXBkYXRlZEF0OiBEYXRlOwp9CgpleHBvcnQgaW50ZXJmYWNlIFN0dWRlbnRzSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8U3R1ZGVudHNBdHRyaWJ1dGU+LCBTdHVkZW50c0F0dHJpYnV0ZSB7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgU3R1ZGVudHNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxTdHVkZW50c0luc3RhbmNlLCBTdHVkZW50c0F0dHJpYnV0ZT4gewp9CgovLyB0YWJsZTogVGVhY2hlckluZm9zCmV4cG9ydCBpbnRlcmZhY2UgVGVhY2hlckluZm9zQXR0cmlidXRlIHsKICAgIGlkOiBudW1iZXI7CiAgICBuYW1lOiBzdHJpbmc7CiAgICBnZW5kZXI6IGFueTsKICAgIHRlbGVwaG9uZT86IHN0cmluZzsKICAgIGVtYWlsPzogc3RyaW5nOwogICAgY3JlYXRlZEF0OiBEYXRlOwogICAgdXBkYXRlZEF0OiBEYXRlOwogICAgVGVhY2hlcklkPzogbnVtYmVyOwp9CgpleHBvcnQgaW50ZXJmYWNlIFRlYWNoZXJJbmZvc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPFRlYWNoZXJJbmZvc0F0dHJpYnV0ZT4sIFRlYWNoZXJJbmZvc0F0dHJpYnV0ZSB7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgVGVhY2hlckluZm9zTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8VGVhY2hlckluZm9zSW5zdGFuY2UsIFRlYWNoZXJJbmZvc0F0dHJpYnV0ZT4gewp9CgovLyB0YWJsZTogU3R1ZGVudEluZm9zCmV4cG9ydCBpbnRlcmZhY2UgU3R1ZGVudEluZm9zQXR0cmlidXRlIHsKICAgIGlkOiBudW1iZXI7CiAgICBncmFkZTogc3RyaW5nOwogICAgZ2VuZGVyOiBhbnk7CiAgICBuYW1lOiBzdHJpbmc7CiAgICB0ZWxlcGhvbmU/OiBzdHJpbmc7CiAgICBlbWFpbD86IHN0cmluZzsKICAgIGNyZWF0ZWRBdDogRGF0ZTsKICAgIHVwZGF0ZWRBdDogRGF0ZTsKICAgIFN0dWRlbnRJZD86IG51bWJlcjsKfQoKZXhwb3J0IGludGVyZmFjZSBTdHVkZW50SW5mb3NJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxTdHVkZW50SW5mb3NBdHRyaWJ1dGU+LCBTdHVkZW50SW5mb3NBdHRyaWJ1dGUgewp9CgpleHBvcnQgaW50ZXJmYWNlIFN0dWRlbnRJbmZvc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPFN0dWRlbnRJbmZvc0luc3RhbmNlLCBTdHVkZW50SW5mb3NBdHRyaWJ1dGU+IHsKfQoKLy8gdGFibGU6IE1ham9ycwpleHBvcnQgaW50ZXJmYWNlIE1ham9yc0F0dHJpYnV0ZSB7CiAgICBpZDogbnVtYmVyOwogICAgbmFtZTogc3RyaW5nOwogICAgRGVwYXJ0bWVudElkPzogbnVtYmVyOwp9CgpleHBvcnQgaW50ZXJmYWNlIE1ham9yc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPE1ham9yc0F0dHJpYnV0ZT4sIE1ham9yc0F0dHJpYnV0ZSB7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgTWFqb3JzTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8TWFqb3JzSW5zdGFuY2UsIE1ham9yc0F0dHJpYnV0ZT4gewp9CgovLyB0YWJsZTogQ291cnNlVHlwZXMKZXhwb3J0IGludGVyZmFjZSBDb3Vyc2VUeXBlc0F0dHJpYnV0ZSB7CiAgICBpZDogbnVtYmVyOwogICAgbmFtZTogc3RyaW5nOwogICAgY3JlYXRlZEF0OiBEYXRlOwogICAgdXBkYXRlZEF0OiBEYXRlOwp9CgpleHBvcnQgaW50ZXJmYWNlIENvdXJzZVR5cGVzSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8Q291cnNlVHlwZXNBdHRyaWJ1dGU+LCBDb3Vyc2VUeXBlc0F0dHJpYnV0ZSB7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgQ291cnNlVHlwZXNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxDb3Vyc2VUeXBlc0luc3RhbmNlLCBDb3Vyc2VUeXBlc0F0dHJpYnV0ZT4gewp9CgovLyB0YWJsZTogVGVhY2hlcnMKZXhwb3J0IGludGVyZmFjZSBUZWFjaGVyc0F0dHJpYnV0ZSB7CiAgICBpZDogbnVtYmVyOwogICAgdGVhY2hlck51bTogc3RyaW5nOwogICAgcGFzc3dvcmQ6IHN0cmluZzsKICAgIGNyZWF0ZWRBdDogRGF0ZTsKICAgIHVwZGF0ZWRBdDogRGF0ZTsKICAgIFBvc2l0aW9uSWQ/OiBudW1iZXI7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgVGVhY2hlcnNJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxUZWFjaGVyc0F0dHJpYnV0ZT4sIFRlYWNoZXJzQXR0cmlidXRlIHsKfQoKZXhwb3J0IGludGVyZmFjZSBUZWFjaGVyc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPFRlYWNoZXJzSW5zdGFuY2UsIFRlYWNoZXJzQXR0cmlidXRlPiB7Cn0KCi8vIHRhYmxlOiBDbGFzc0hvdXJzCmV4cG9ydCBpbnRlcmZhY2UgQ2xhc3NIb3Vyc0F0dHJpYnV0ZSB7CiAgICBpZDogbnVtYmVyOwogICAgb3JkZXI6IG51bWJlcjsKICAgIHN0YXJ0VGltZTogYW55OwogICAgZW5kVGltZTogYW55Owp9CgpleHBvcnQgaW50ZXJmYWNlIENsYXNzSG91cnNJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxDbGFzc0hvdXJzQXR0cmlidXRlPiwgQ2xhc3NIb3Vyc0F0dHJpYnV0ZSB7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgQ2xhc3NIb3Vyc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPENsYXNzSG91cnNJbnN0YW5jZSwgQ2xhc3NIb3Vyc0F0dHJpYnV0ZT4gewp9CgovLyB0YWJsZTogQ2xhc3NTY2hlZHVsZQpleHBvcnQgaW50ZXJmYWNlIENsYXNzU2NoZWR1bGVBdHRyaWJ1dGUgewogICAgaWQ6IG51bWJlcjsKICAgIGNyZWF0ZWRBdDogRGF0ZTsKICAgIHVwZGF0ZWRBdDogRGF0ZTsKICAgIFNlc3Npb25JZD86IG51bWJlcjsKICAgIFN0dWRlbnRJZD86IG51bWJlcjsKfQoKZXhwb3J0IGludGVyZmFjZSBDbGFzc1NjaGVkdWxlSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8Q2xhc3NTY2hlZHVsZUF0dHJpYnV0ZT4sIENsYXNzU2NoZWR1bGVBdHRyaWJ1dGUgewp9CgpleHBvcnQgaW50ZXJmYWNlIENsYXNzU2NoZWR1bGVNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxDbGFzc1NjaGVkdWxlSW5zdGFuY2UsIENsYXNzU2NoZWR1bGVBdHRyaWJ1dGU+IHsKfQoKLy8gdGFibGU6IENvdXJzZVNlc3Npb25zCmV4cG9ydCBpbnRlcmZhY2UgQ291cnNlU2Vzc2lvbnNBdHRyaWJ1dGUgewogICAgc3RhcnRXZWVrOiBudW1iZXI7CiAgICBlbmRXZWVrOiBudW1iZXI7CiAgICBjbGFzc0hvdXJzOiBhbnk7CiAgICBjcmVhdGVkQXQ6IERhdGU7CiAgICB1cGRhdGVkQXQ6IERhdGU7CiAgICBDb3Vyc2VJZDogbnVtYmVyOwogICAgU2Vzc2lvbklkOiBudW1iZXI7CiAgICBjbGFzc1BsYWNlSWQ/OiBudW1iZXI7CiAgICBFbGVjdGl2ZUlkPzogbnVtYmVyOwogICAgUHJlRWxlY3RpdmVJZD86IG51bWJlcjsKfQoKZXhwb3J0IGludGVyZmFjZSBDb3Vyc2VTZXNzaW9uc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPENvdXJzZVNlc3Npb25zQXR0cmlidXRlPiwgQ291cnNlU2Vzc2lvbnNBdHRyaWJ1dGUgewp9CgpleHBvcnQgaW50ZXJmYWNlIENvdXJzZVNlc3Npb25zTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8Q291cnNlU2Vzc2lvbnNJbnN0YW5jZSwgQ291cnNlU2Vzc2lvbnNBdHRyaWJ1dGU+IHsKfQoKLy8gdGFibGU6IFRlYWNoZXJEZXBhcnRtZW50CmV4cG9ydCBpbnRlcmZhY2UgVGVhY2hlckRlcGFydG1lbnRBdHRyaWJ1dGUgewogICAgY3JlYXRlZEF0OiBEYXRlOwogICAgdXBkYXRlZEF0OiBEYXRlOwogICAgVGVhY2hlcklkOiBudW1iZXI7CiAgICBEZXBhcnRtZW50SWQ6IG51bWJlcjsKfQoKZXhwb3J0IGludGVyZmFjZSBUZWFjaGVyRGVwYXJ0bWVudEluc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPFRlYWNoZXJEZXBhcnRtZW50QXR0cmlidXRlPiwgVGVhY2hlckRlcGFydG1lbnRBdHRyaWJ1dGUgewp9CgpleHBvcnQgaW50ZXJmYWNlIFRlYWNoZXJEZXBhcnRtZW50TW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8VGVhY2hlckRlcGFydG1lbnRJbnN0YW5jZSwgVGVhY2hlckRlcGFydG1lbnRBdHRyaWJ1dGU+IHsKfQoKLy8gdGFibGU6IEVsZWN0aXZlcwpleHBvcnQgaW50ZXJmYWNlIEVsZWN0aXZlc0F0dHJpYnV0ZSB7CiAgICBpZDogbnVtYmVyOwogICAgY3JlYXRlZEF0OiBEYXRlOwogICAgdXBkYXRlZEF0OiBEYXRlOwogICAgZGVsZXRlZEF0PzogRGF0ZTsKfQoKZXhwb3J0IGludGVyZmFjZSBFbGVjdGl2ZXNJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxFbGVjdGl2ZXNBdHRyaWJ1dGU+LCBFbGVjdGl2ZXNBdHRyaWJ1dGUgewp9CgpleHBvcnQgaW50ZXJmYWNlIEVsZWN0aXZlc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPEVsZWN0aXZlc0luc3RhbmNlLCBFbGVjdGl2ZXNBdHRyaWJ1dGU+IHsKfQoKLy8gdGFibGU6IEFsbG93Q291cnNlTWFqb3IKZXhwb3J0IGludGVyZmFjZSBBbGxvd0NvdXJzZU1ham9yQXR0cmlidXRlIHsKICAgIGNyZWF0ZWRBdDogRGF0ZTsKICAgIHVwZGF0ZWRBdDogRGF0ZTsKICAgIENvdXJzZUlkOiBudW1iZXI7CiAgICBNYWpvcklkOiBudW1iZXI7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgQWxsb3dDb3Vyc2VNYWpvckluc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPEFsbG93Q291cnNlTWFqb3JBdHRyaWJ1dGU+LCBBbGxvd0NvdXJzZU1ham9yQXR0cmlidXRlIHsKfQoKZXhwb3J0IGludGVyZmFjZSBBbGxvd0NvdXJzZU1ham9yTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8QWxsb3dDb3Vyc2VNYWpvckluc3RhbmNlLCBBbGxvd0NvdXJzZU1ham9yQXR0cmlidXRlPiB7Cn0KCi8vIHRhYmxlOiBjbGFzc1BsYWNlcwpleHBvcnQgaW50ZXJmYWNlIGNsYXNzUGxhY2VzQXR0cmlidXRlIHsKICAgIGlkOiBudW1iZXI7CiAgICBwbGFjZTogc3RyaW5nOwp9CgpleHBvcnQgaW50ZXJmYWNlIGNsYXNzUGxhY2VzSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8Y2xhc3NQbGFjZXNBdHRyaWJ1dGU+LCBjbGFzc1BsYWNlc0F0dHJpYnV0ZSB7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgY2xhc3NQbGFjZXNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxjbGFzc1BsYWNlc0luc3RhbmNlLCBjbGFzc1BsYWNlc0F0dHJpYnV0ZT4gewp9CgovLyB0YWJsZTogU3R1ZGVudE1ham9ycwpleHBvcnQgaW50ZXJmYWNlIFN0dWRlbnRNYWpvcnNBdHRyaWJ1dGUgewogICAgY3JlYXRlZEF0OiBEYXRlOwogICAgdXBkYXRlZEF0OiBEYXRlOwogICAgU3R1ZGVudElkOiBudW1iZXI7CiAgICBNYWpvcklkOiBudW1iZXI7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgU3R1ZGVudE1ham9yc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPFN0dWRlbnRNYWpvcnNBdHRyaWJ1dGU+LCBTdHVkZW50TWFqb3JzQXR0cmlidXRlIHsKfQoKZXhwb3J0IGludGVyZmFjZSBTdHVkZW50TWFqb3JzTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8U3R1ZGVudE1ham9yc0luc3RhbmNlLCBTdHVkZW50TWFqb3JzQXR0cmlidXRlPiB7Cn0KCi8vIHRhYmxlOiBDb3Vyc2VJbmZvcwpleHBvcnQgaW50ZXJmYWNlIENvdXJzZUluZm9zQXR0cmlidXRlIHsKICAgIGlkOiBudW1iZXI7CiAgICBuYW1lOiBzdHJpbmc7CiAgICBjYXBhY2l0eTogbnVtYmVyOwogICAgZW5OYW1lPzogc3RyaW5nOwogICAgY3JlZGl0czogbnVtYmVyOwogICAgaG91cjogbnVtYmVyOwogICAgbm90ZXM/OiBzdHJpbmc7CiAgICBjcmVhdGVkQXQ6IERhdGU7CiAgICB1cGRhdGVkQXQ6IERhdGU7CiAgICBDb3Vyc2VJZD86IG51bWJlcjsKfQoKZXhwb3J0IGludGVyZmFjZSBDb3Vyc2VJbmZvc0luc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPENvdXJzZUluZm9zQXR0cmlidXRlPiwgQ291cnNlSW5mb3NBdHRyaWJ1dGUgewp9CgpleHBvcnQgaW50ZXJmYWNlIENvdXJzZUluZm9zTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8Q291cnNlSW5mb3NJbnN0YW5jZSwgQ291cnNlSW5mb3NBdHRyaWJ1dGU+IHsKfQoKLy8gdGFibGU6IFByZUVsZWN0aXZlcwpleHBvcnQgaW50ZXJmYWNlIFByZUVsZWN0aXZlc0F0dHJpYnV0ZSB7CiAgICBpZDogbnVtYmVyOwogICAgY3JlYXRlZEF0OiBEYXRlOwogICAgdXBkYXRlZEF0OiBEYXRlOwogICAgZGVsZXRlZEF0PzogRGF0ZTsKfQoKZXhwb3J0IGludGVyZmFjZSBQcmVFbGVjdGl2ZXNJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxQcmVFbGVjdGl2ZXNBdHRyaWJ1dGU+LCBQcmVFbGVjdGl2ZXNBdHRyaWJ1dGUgewp9CgpleHBvcnQgaW50ZXJmYWNlIFByZUVsZWN0aXZlc01vZGVsIGV4dGVuZHMgU2VxdWVsaXplLk1vZGVsPFByZUVsZWN0aXZlc0luc3RhbmNlLCBQcmVFbGVjdGl2ZXNBdHRyaWJ1dGU+IHsKfQoKLy8gdGFibGU6IENvdXJzZXMKZXhwb3J0IGludGVyZmFjZSBDb3Vyc2VzQXR0cmlidXRlIHsKICAgIGlkOiBudW1iZXI7CiAgICBjb3Vyc2VOdW06IHN0cmluZzsKICAgIERlcGFydG1lbnRJZD86IG51bWJlcjsKICAgIFRlYWNoZXJJZD86IG51bWJlcjsKICAgIENvdXJzZVR5cGVJZD86IG51bWJlcjsKfQoKZXhwb3J0IGludGVyZmFjZSBDb3Vyc2VzSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8Q291cnNlc0F0dHJpYnV0ZT4sIENvdXJzZXNBdHRyaWJ1dGUgewp9CgpleHBvcnQgaW50ZXJmYWNlIENvdXJzZXNNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxDb3Vyc2VzSW5zdGFuY2UsIENvdXJzZXNBdHRyaWJ1dGU+IHsKfQoKLy8gdGFibGU6IFNjaGVkdWxlQ291cnNlCmV4cG9ydCBpbnRlcmZhY2UgU2NoZWR1bGVDb3Vyc2VBdHRyaWJ1dGUgewogICAgY3JlYXRlZEF0OiBEYXRlOwogICAgdXBkYXRlZEF0OiBEYXRlOwogICAgQ291cnNlSWQ6IG51bWJlcjsKICAgIGNsYXNzU2NoZWR1bGVJZDogbnVtYmVyOwp9CgpleHBvcnQgaW50ZXJmYWNlIFNjaGVkdWxlQ291cnNlSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8U2NoZWR1bGVDb3Vyc2VBdHRyaWJ1dGU+LCBTY2hlZHVsZUNvdXJzZUF0dHJpYnV0ZSB7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgU2NoZWR1bGVDb3Vyc2VNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxTY2hlZHVsZUNvdXJzZUluc3RhbmNlLCBTY2hlZHVsZUNvdXJzZUF0dHJpYnV0ZT4gewp9CgovLyB0YWJsZTogRWxlY3RpdmVTdHVkZW50CmV4cG9ydCBpbnRlcmZhY2UgRWxlY3RpdmVTdHVkZW50QXR0cmlidXRlIHsKICAgIGNyZWF0ZWRBdDogRGF0ZTsKICAgIHVwZGF0ZWRBdDogRGF0ZTsKICAgIEVsZWN0aXZlSWQ6IG51bWJlcjsKICAgIFN0dWRlbnRJZDogbnVtYmVyOwp9CgpleHBvcnQgaW50ZXJmYWNlIEVsZWN0aXZlU3R1ZGVudEluc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPEVsZWN0aXZlU3R1ZGVudEF0dHJpYnV0ZT4sIEVsZWN0aXZlU3R1ZGVudEF0dHJpYnV0ZSB7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgRWxlY3RpdmVTdHVkZW50TW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8RWxlY3RpdmVTdHVkZW50SW5zdGFuY2UsIEVsZWN0aXZlU3R1ZGVudEF0dHJpYnV0ZT4gewp9CgovLyB0YWJsZTogUHJlRWxlY3RpdmVTdHVkZW50CmV4cG9ydCBpbnRlcmZhY2UgUHJlRWxlY3RpdmVTdHVkZW50QXR0cmlidXRlIHsKICAgIGNyZWF0ZWRBdDogRGF0ZTsKICAgIHVwZGF0ZWRBdDogRGF0ZTsKICAgIFByZUVsZWN0aXZlSWQ6IG51bWJlcjsKICAgIFN0dWRlbnRJZDogbnVtYmVyOwp9CgpleHBvcnQgaW50ZXJmYWNlIFByZUVsZWN0aXZlU3R1ZGVudEluc3RhbmNlIGV4dGVuZHMgU2VxdWVsaXplLkluc3RhbmNlPFByZUVsZWN0aXZlU3R1ZGVudEF0dHJpYnV0ZT4sIFByZUVsZWN0aXZlU3R1ZGVudEF0dHJpYnV0ZSB7Cn0KCmV4cG9ydCBpbnRlcmZhY2UgUHJlRWxlY3RpdmVTdHVkZW50TW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8UHJlRWxlY3RpdmVTdHVkZW50SW5zdGFuY2UsIFByZUVsZWN0aXZlU3R1ZGVudEF0dHJpYnV0ZT4gewp9CgoKCgoKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gdHNsaW50OmRpc2FibGUKaW1wb3J0ICogYXMgU2VxdWVsaXplIGZyb20gJ3NlcXVlbGl6ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IG5vdAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>through</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>through</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>define</entry>
         <entry>logging</entry>
         <entry>extend</entry>
         <entry>土木</entry>
@@ -793,6 +763,7 @@
         <entry>04830</entry>
         <entry>localhost</entry>
         <entry>get</entry>
+        <entry>through</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
