@@ -501,11 +501,12 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/service/elective.ts" timestamp="1517825100337">
-        <mark key="[" line="48" column="44" />
-        <mark key="]" line="50" column="15" />
-        <mark key="." line="50" column="15" />
-        <mark key="^" line="50" column="15" />
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/service/elective.ts" timestamp="1517835361475">
+        <mark key="'" line="70" column="30" />
+        <mark key="[" line="19" column="39" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="43" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517762859075">
         <mark key="[" line="5" column="35" />
@@ -537,12 +538,12 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1517824999575">
+      <file name="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1517835284560">
         <mark key="'" line="44" column="17" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="44" column="17" />
-        <mark key="^" line="44" column="17" />
+        <mark key="[" line="44" column="71" />
+        <mark key="]" line="44" column="71" />
+        <mark key="." line="44" column="71" />
+        <mark key="^" line="44" column="70" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/package.json" timestamp="1516542354696">
         <mark key="[" line="43" column="0" />
@@ -569,7 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="10" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="180" column="50" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="205" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="218" column="72" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
@@ -669,46 +669,47 @@
       <jump line="70" column="60" filename="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" />
       <jump line="44" column="17" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="50" column="24" filename="$USER_HOME$/projects/SmartElective/Server/app/service/elective.ts" />
+      <jump line="58" column="30" filename="$USER_HOME$/projects/SmartElective/Server/app/service/elective.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZXJlOiB7CiAgICAgICAgICAgICAgICAgICAgbWFqb3JJZDogewogICAgICAgICAgICAgICAgICAgICAgICAkZXE6IG51bGwKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>学生可选择的课程，并转换成前端使用的格式</text>
       </register>
       <register name="-" type="4">
-        <text>, Sequelize</text>
+        <text>学生可选择的课程，并转换成前端使用的格式</text>
       </register>
       <register name="/" type="4">
         <text>through</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgU2VxdWVsaXplID0gcmVxdWlyZSgnc2VxdWVsaXplJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5jbHVkZTogW3sKICAgICAgICAgICAgICAgIG1vZGVsOiBNYWpvciwKICAgICAgICAgICAgICAgIGFzOiAnYWxsb3dNYWpvcnMnLAogICAgICAgICAgICB9XSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoZXJlOiB7CiAgICAgICAgICAgICAgICAgICAgbWFqb3JJZDogewogICAgICAgICAgICAgICAgICAgICAgICAkZXE6IG51bGwKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB7U2Vzc2lvbkluc3RhbmNlfSBzZXNzaW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6I635Y+W5pys5a2m5pyf5omA5pyJ6K++56iLCiAgICAgICAgICAgIGxldCBzZXNzaW9uID0gYXdhaXQgU2Vzc2lvbi5maW5kKHsKICAgICAgICAgICAgICAgIHdoZXJlOiB7CiAgICAgICAgICAgICAgICAgICAgeWVhcjogMjAxOCwKICAgICAgICAgICAgICAgICAgICBzZXNzaW9uOiAxLAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBBbGxvd0NvdXJzZU1ham9yOiBBbGxvd0NvdXJzZU1ham9yTW9kZWwgPSBtb2RlbHNbJ2FsbG93X2NvdXJzZV9tYWpvciddOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAvKioKICAgICAgICAvLyAgKiBUT0RPICDmn6Xor6LlrabnlJ/miYDmnInlj6/ku6XpgInmi6nnmoTor77nqIsKICAgICAgICAvLyAgKiDmn6Xor6LmiYDmnInlhYHorrjlhajpg6jkuJPkuJrpgInmi6nnmoTor77nqIsKICAgICAgICAvLyAgKiDmn6Xor6LlrabnlJ/nmoTlhajpg6jkuJPkuJrlhYHorrjpgInmi6nnmoTor77nqIsKICAgICAgICAvLyAgKi8KICAgICAgICAvLyBmb3IgKGxldCBtIG9mIG1ham9ycykgewogICAgICAgIC8vICAgICBsZXQgcXVlcnlfcmV0ID0gYXdhaXQgc2VxdWVsaXplLnF1ZXJ5KAogICAgICAgIC8vICAgICAgICAgYHNlbGVjdCBESVNUSU5DVAogICAgICAgIC8vICAgICAgICAgICAgICAgICAiY291cnNlSWQiIGZyb20gIkFsbG93Q291cnNlTWFqb3IiCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICB3aGVyZSAibWFqb3JJZCIgPD4gJHttLmdldCgnaWQnKX1gLAogICAgICAgIC8vICAgICApOwogICAgICAgIC8vICAgICBsZXQgY291cnNlczEgPSBfLm1hcChxdWVyeV9yZXRbMF0sIChyOiBhbnkpID0+IHsKICAgICAgICAvLyAgICAgICAgIHJldHVybiByLmNvdXJzZUlkOwogICAgICAgIC8vICAgICB9KTsKICAgICAgICAvLyAgICAgcXVlcnlfcmV0ID0gYXdhaXQgc2VxdWVsaXplLnF1ZXJ5KAogICAgICAgIC8vICAgICAgICAgYHNlbGVjdCBESVNUSU5DVAogICAgICAgIC8vICAgICAgICAgICAgICAgICAiY291cnNlSWQiIGZyb20gIkFsbG93Q291cnNlTWFqb3IiCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICB3aGVyZSAibWFqb3JJZCIgPSAke20uZ2V0KCdpZCcpfWAsCiAgICAgICAgLy8gICAgICk7CiAgICAgICAgLy8gICAgIGxldCBjb3Vyc2VzMiA9IF8ubWFwKHF1ZXJ5X3JldFswXSwgKHI6IGFueSkgPT4gewogICAgICAgIC8vICAgICAgICAgcmV0dXJuIHIuY291cnNlSWQ7CiAgICAgICAgLy8gICAgIH0pOwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIGxldCBub3RBbGxvd0NvdXJzZXNJZHMgPSBfLndpdGhvdXQoY291cnNlczEsIC4uLmNvdXJzZXMyKTsKICAgICAgICAvLwogICAgICAgIC8vIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhbGxvd0NvdXJzZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzdHVkZW50QWxsb3dDb3Vyc2UubGVuZ3RoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
