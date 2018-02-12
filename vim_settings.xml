@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/user.ts" timestamp="1518449241348" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514441149895">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="20" />
@@ -21,13 +22,14 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1516115794680">
+      <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1518448833559">
         <mark key="'" line="32" column="21" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="25" />
         <mark key="." line="102" column="0" />
         <mark key="^" line="21" column="41" />
       </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/pbs/manage_pb_service.ts" timestamp="1518449335852" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/services/versions.js" timestamp="1514876050732">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="8" column="0" />
@@ -100,7 +102,7 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1518448392585">
+      <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1518448464133">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
@@ -111,10 +113,10 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1514990318859">
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1518449301808">
         <mark key="'" line="72" column="25" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="10" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="22" />
         <mark key="^" line="62" column="10" />
         <mark key="." line="62" column="10" />
       </file>
@@ -169,6 +171,7 @@
         <mark key="." line="69" column="46" />
         <mark key="^" line="69" column="46" />
       </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1518449217080" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -182,6 +185,12 @@
         <mark key="." line="0" column="35" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1518448372056" />
+      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective.proto" timestamp="1518449380078">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="23" />
+      </file>
       <file name="D:/projects/dva-electron-boilerplate/src/renderer/components/Test.ts" timestamp="1516117057444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -279,6 +288,7 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="25" column="21" />
       </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/pbs.cmd" timestamp="1518449078981" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514949213178">
         <mark key="'" line="101" column="47" />
         <mark key="[" line="60" column="7" />
@@ -461,44 +471,44 @@
       <jump line="28" column="9" filename="D:/projects/FRI/fri-rep-server-shell/src/main/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY291cnNlcyA9IFtdOwo=</text>
+      <register name="&quot;" type="4">
+        <text>课程的学期信息</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>课程的学期信息</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvY29yZSI6ICI3LjAuMC1iZXRhLjMxIiwK</text>
+        <text encoding="base64">c3ludGF4ID0gInByb3RvMyI7CgpwYWNrYWdlIGZyaV9yZXBfbWFuYWdlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY291cnNlcyA9IFtdOwo=</text>
+        <text encoding="base64">IGtleTogc3RyaW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl43LjAueCIsCg==</text>
+        <text encoding="base64">Kgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl43LjAuMC1iZXRhLjM0IiwK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgY291cnNlcyA9IFtdOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdyZWEnCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl43LjAueCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJ1bnRpbWUiCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIl43LjAuMC1iZXRhLjM0IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJ1bnRpbWUiCg==</text>
+        <text encoding="base64">aW1wb3J0ICdyZWEnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tYWRkLW1vZHVsZS1leHBvcnRzIjogIl4wLjIuMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJ1bnRpbWUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1ydW50aW1lIjogIl42LjIwLjAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJ1bnRpbWUiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSB6aXAKICAgICAgLSBuc2lzCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tYWRkLW1vZHVsZS1leHBvcnRzIjogIl4wLjIuMSIsCg==</text>
       </register>
     </registers>
     <search>
