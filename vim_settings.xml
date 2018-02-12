@@ -99,7 +99,7 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1518452941668">
+      <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1518452979098">
         <mark key="'" line="104" column="26" />
         <mark key="[" line="112" column="46" />
         <mark key="]" line="112" column="46" />
@@ -185,11 +185,11 @@
         <mark key="." line="0" column="35" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1518452874081" />
-      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective.proto" timestamp="1518452343189">
-        <mark key="[" line="54" column="13" />
-        <mark key="]" line="54" column="14" />
-        <mark key="." line="54" column="14" />
-        <mark key="^" line="54" column="14" />
+      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective.proto" timestamp="1518454238957">
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="16" />
+        <mark key="." line="63" column="16" />
+        <mark key="^" line="63" column="16" />
       </file>
       <file name="D:/projects/dva-electron-boilerplate/src/renderer/components/Test.ts" timestamp="1516117057444">
         <mark key="[" line="0" column="0" />
@@ -485,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
