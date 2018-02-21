@@ -72,12 +72,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1518452979098">
-        <mark key="'" line="104" column="26" />
-        <mark key="[" line="112" column="46" />
-        <mark key="]" line="112" column="46" />
-        <mark key="." line="112" column="46" />
-        <mark key="^" line="112" column="46" />
+      <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519218475209">
+        <mark key="'" line="103" column="26" />
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="126" column="52" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/.roadhogrc" timestamp="1514278637531">
         <mark key="[" line="17" column="67" />
@@ -98,6 +98,7 @@
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts" timestamp="1519216796904" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.js" timestamp="1514257864890">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="24" />
@@ -122,8 +123,11 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1518451089104" />
-      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1518451047238" />
+      <file name="D:/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1519218177173">
+        <mark key="[" line="292" column="4" />
+        <mark key="]" line="292" column="10" />
+      </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519216523148" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -136,11 +140,12 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1518452874081" />
-      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective.proto" timestamp="1519216495361">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1519216951314" />
+      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective.proto" timestamp="1519218138067">
+        <mark key="[" line="66" column="4" />
+        <mark key="]" line="67" column="12" />
+        <mark key="." line="67" column="12" />
+        <mark key="^" line="67" column="12" />
       </file>
       <file name="D:/projects/dva-electron-boilerplate/src/renderer/components/Test.ts" timestamp="1516117057444">
         <mark key="[" line="0" column="0" />
@@ -208,7 +213,7 @@
         <mark key="." line="18" column="122" />
         <mark key="^" line="18" column="122" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective_pb.d.ts" timestamp="1518454625627" />
+      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective_pb.d.ts" timestamp="1519216870577" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="20" />
@@ -398,40 +403,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>getwj</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="4">
-        <text>protoc --plugin=protoc-gen-ts=.\node_modules\.bin\protoc-gen-ts.cmd --js_out=import_style=commonjs,binary:%PBS_PATH% --ts_out=service=true:%PBS_PATH% -I %PBS_PATH% %PBS_PATH%\%PB_FILE%</text>
+        <text>credits</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWVzc2FnZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHRlYWNoZXJJbmZvID0gY3NbJ2NvdXJzZSddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGIuc2V0VGVhY2hlcih0ZWFjaGVySW5mby5nZXQoJ25hbWUnKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb3Vyc2VTZXNzaW9uUGIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGIuc2V0VGVhY2hlck51bSh0ZWFjaGVyLmdldCgndGVhY2hlck51bScpKTsKICAgICAgICAgICAgcGIuc2V0VGVhY2hlcih0ZWFjaGVySW5mby5nZXQoJ25hbWUnKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGIuc2V0Q2FwYWNpdHkoY291cnNlSW5mby5nZXQoJ2NhcGFjaXR5JykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGIuCg==</text>
       </register>
     </registers>
     <search>
