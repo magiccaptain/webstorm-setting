@@ -73,18 +73,18 @@
         <mark key="." line="35" column="26" />
         <mark key="^" line="35" column="26" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/proto/index.d.ts" timestamp="1519223497289">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="24" />
+      <file name="D:/projects/SmartElective/Server/app/proto/index.d.ts" timestamp="1519224173129">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519223532265">
-        <mark key="'" line="101" column="25" />
-        <mark key="[" line="105" column="35" />
-        <mark key="]" line="105" column="27" />
-        <mark key="." line="105" column="27" />
-        <mark key="^" line="105" column="27" />
+      <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519224909553">
+        <mark key="'" line="103" column="25" />
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/.roadhogrc" timestamp="1514278637531">
         <mark key="[" line="17" column="67" />
@@ -130,14 +130,15 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1519219155296">
+      <file name="D:/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1519224123810">
         <mark key="[" line="292" column="4" />
         <mark key="]" line="292" column="10" />
       </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519223280582">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519224458112">
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
         <mark key="[" line="9" column="0" />
@@ -151,11 +152,11 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1519222907934">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="100" column="38" />
-        <mark key="." line="101" column="0" />
+      <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1519224913981">
+        <mark key="[" line="100" column="22" />
+        <mark key="]" line="100" column="28" />
+        <mark key="^" line="100" column="28" />
+        <mark key="." line="100" column="28" />
       </file>
       <file name="D:/projects/SmartElective/Server/config/config.default.js" timestamp="1519221454221">
         <mark key="[" line="41" column="15" />
@@ -246,11 +247,11 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="183" />
       </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1519223057596">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="54" column="15" />
-        <mark key="." line="53" column="0" />
+      <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1519224785221">
+        <mark key="[" line="107" column="18" />
+        <mark key="]" line="107" column="22" />
+        <mark key="^" line="107" column="22" />
+        <mark key="." line="107" column="22" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1515073995524">
         <mark key="[" line="14" column="0" />
@@ -333,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="15" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="237" column="25" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="212" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="20" column="4" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" />
@@ -433,46 +433,47 @@
       <jump line="97" column="16" filename="D:/projects/SmartElective/Server/app/service/elective.ts" />
       <jump line="59" column="13" filename="D:/projects/SmartElective/Server/app/proto/smart_elective.proto" />
       <jump line="102" column="25" filename="D:/projects/SmartElective/Server/app/service/elective.ts" />
+      <jump line="5" column="17" filename="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CoursePb()</text>
+        <text>course</text>
       </register>
       <register name="-" type="4">
-        <text>CoursePb()</text>
+        <text>course</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBDb3Vyc2UgewogIC8vIGtleSBjb3Vyc2VOdW0KICBrZXk6IHN0cmluZywKCiAgLy8gv86zzMP7s8YgMQogIG5hbWU6IHN0cmluZywKCiAgLy8gv86zzMjdwb8gMgogIGNhcGFjaXR5OiBudW1iZXIsCgogIC8vINOizsTD+7PGIDMKICBlbk5hbWU6IHN0cmluZywKCiAgLy8g0ae31iA0CiAgY3JlZGl0czogbnVtYmVyLAoKICAvLyDX3NGnyrEgNQogIGhvdXI6IG51bWJlciwKCiAgLy8gsbjXoiA2CiAgbm90ZXM6IHN0cmluZywKCiAgLy8g0tHRocjLyv0gNwogIGVsZWN0aXZlQ291bnQ6IG51bWJlciwKCiAgLy8g0tG+rdSk0aG1xMjLyv0gOAogIHByZUVsZWN0aXZlQ291bnQ6IG51bWJlciwKCiAgLy8gvczKpiA5CiAgdGVhY2hlcjogc3RyaW5nLAoKICAvLyC9zMqmseC6xSAxMAogIHRlYWNoZXJOdW06IHN0cmluZywKCiAgLy8gv6rJ6NGn1LogMTEKICBkZXBhcnRtZW50OiBzdHJpbmcsCgogIC8vIMnPv8612LXjIDEyCiAgcGxhY2U6IHN0cmluZywKCiAgLy8gyc+/zsqxvOQgMTMKICBjbGFzc0hvdXJzOiBvYmplY3QsCgogIC8vIL+qyrzJz7/O1twgMTQKICBzdGFydFdlZWs6IG51bWJlciwKCiAgLy8gveHK+MnPv87W3CAxNQogIGVuZFdlZWs6IG51bWJlciwKCiAgLy8gv86zzMDg0M0gMTYKICBjbGFzc1R5cGU6IHN0cmluZywKCn0K</text>
+      <register name="0" type="4">
+        <text>cs['course']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGIua2V5ID0gCg==</text>
+        <text encoding="base64">aW1wb3J0IHtDb3Vyc2V9IGZyb20gIi4uLy4uL21vZGVscy9lbGVjdGl2ZSI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGIuCg==</text>
+        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtDb3Vyc2VTZXNzaW9uUGJ9IGZyb20gIi4uL3Byb3RvL3NtYXJ0X2VsZWN0aXZlX3BiIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSBDb3Vyc2UgewogIC8vIGtleSBjb3Vyc2VOdW0KICBrZXk6IHN0cmluZywKCiAgLy8gv86zzMP7s8YgMQogIG5hbWU6IHN0cmluZywKCiAgLy8gv86zzMjdwb8gMgogIGNhcGFjaXR5OiBudW1iZXIsCgogIC8vINOizsTD+7PGIDMKICBlbk5hbWU6IHN0cmluZywKCiAgLy8g0ae31iA0CiAgY3JlZGl0czogbnVtYmVyLAoKICAvLyDX3NGnyrEgNQogIGhvdXI6IG51bWJlciwKCiAgLy8gsbjXoiA2CiAgbm90ZXM6IHN0cmluZywKCiAgLy8g0tHRocjLyv0gNwogIGVsZWN0aXZlQ291bnQ6IG51bWJlciwKCiAgLy8g0tG+rdSk0aG1xMjLyv0gOAogIHByZUVsZWN0aXZlQ291bnQ6IG51bWJlciwKCiAgLy8gvczKpiA5CiAgdGVhY2hlcjogc3RyaW5nLAoKICAvLyC9zMqmseC6xSAxMAogIHRlYWNoZXJOdW06IHN0cmluZywKCiAgLy8gv6rJ6NGn1LogMTEKICBkZXBhcnRtZW50OiBzdHJpbmcsCgogIC8vIMnPv8612LXjIDEyCiAgcGxhY2U6IHN0cmluZywKCiAgLy8gyc+/zsqxvOQgMTMKICBjbGFzc0hvdXJzOiBvYmplY3QsCgogIC8vIL+qyrzJz7/O1twgMTQKICBzdGFydFdlZWs6IG51bWJlciwKCiAgLy8gveHK+MnPv87W3CAxNQogIGVuZFdlZWs6IG51bWJlciwKCiAgLy8gv86zzMDg0M0gMTYKICBjbGFzc1R5cGU6IHN0cmluZywKCn0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIL/Os8zTos7ECiAgICBlbk5hbWU6IHN0cmluZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcGIuc2V0S2V5KCk7CiAgICAgICAgICAgIC8vIHBiLnNldE5hbWUoY291cnNlSW5mby5nZXQoJ25hbWUnKSk7CiAgICAgICAgICAgIC8vIHBiLnNldENhcGFjaXR5KCk7CiAgICAgICAgICAgIC8vIHBiLnNldENyZWRpdHMoY291cnNlSW5mby5nZXQoJ2NyZWRpdHMnKSk7CiAgICAgICAgICAgIC8vIHBiLnNldEhvdXIoKTsKICAgICAgICAgICAgLy8gcGIuc2V0Tm90ZXMoKTsKICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gcGIuc2V0RWxlY3RpdmVDb3VudCgwKTsKICAgICAgICAgICAgLy8gcGIuc2V0UHJlRWxlY3RpdmVDb3VudCgwKTsKICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gcGIuc2V0VGVhY2hlcih0ZWFjaGVySW5mby5nZXQoJ25hbWUnKSk7CiAgICAgICAgICAgIC8vIHBiLnNldFRlYWNoZXJOdW0odGVhY2hlci5nZXQoJ3RlYWNoZXJOdW0nKSk7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIHBiLnNldERlcGFydG1lbnQoZGVwYXJ0bWVudC5nZXQoJ25hbWUnKSk7CiAgICAgICAgICAgIC8vIHBiLnNldFBsYWNlKGNsYXNzUGxhY2UuZ2V0KCdwbGFjZScpKTsKICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gbGV0IGNsYXNzSG91cnMgPSBjcy5nZXQoJ2NsYXNzSG91cnMnKTsKICAgICAgICAgICAgLy8gcGIuc2V0Q2xhc3NIb3VycyhKU09OLnN0cmluZ2lmeShjbGFzc0hvdXJzKSk7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIHBiLnNldFN0YXJ0V2Vlayhjcy5nZXQoJ3N0YXJ0V2VlaycpKTsKICAgICAgICAgICAgLy8gcGIuc2V0RW5kV2Vlayhjcy5nZXQoJ2VuZFdlZWsnKSk7CiAgICAgICAgICAgIC8vIHBiLnNldENsYXNzVHlwZShjb3Vyc2VUeXBlLmdldCgnbmFtZScpKTsKICAgICAgICAgICAgLy8gcGIuc2V0RW5OYW1lKGNvdXJzZUluZm8uZ2V0KCdlbk5hbWUnKSk7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIGNvdXJzZXMucHVzaChwYi50b09iamVjdCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY291cnNlcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gLy8gVE9ETyC8xsvj0tHRocjLyv26zdLR1KTRocjLyv0K</text>
       </register>
     </registers>
     <search>
