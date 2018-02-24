@@ -10,7 +10,7 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1519480671055">
+      <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1519481499030">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="47" column="29" />
@@ -158,11 +158,11 @@
         <mark key="[" line="292" column="4" />
         <mark key="]" line="292" column="10" />
       </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519478937871">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519481777770">
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="21" />
+        <mark key="." line="34" column="21" />
+        <mark key="^" line="34" column="21" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
         <mark key="[" line="9" column="0" />
@@ -472,11 +472,11 @@
       <jump line="32" column="14" filename="D:/projects/SmartElective/Server/app/controller/elective.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>undefined</text>
       </register>
       <register name="-" type="4">
-        <text>获取可选课程请求</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -488,28 +488,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXBhcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqILvxyKHL+dPQveG5+7XEt7W72AogKi8KZXhwb3J0IGludGVyZmFjZSBHZXREZXBhcnRtZW50c1Jlc3AgewoKfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqILvxyKHL+dPQveG5+7XEt7W72AogKi8KZXhwb3J0IGludGVyZmFjZSBHZXREZXBhcnRtZW50c1Jlc3AgewoKfQo=</text>
       </register>
     </registers>
     <search>
