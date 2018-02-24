@@ -10,7 +10,7 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1519481499030">
+      <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1519481955426">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="47" column="29" />
@@ -51,9 +51,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="[Log] CONSOLE - Log" timestamp="1515255279416">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/projects/SmartElective/Server/app/proto/smart_elective_pb.js" timestamp="1519212179768" />
       <file name="D:/projects/FRI/fri-rep-server-shell/electron-builder.yml" timestamp="1515334535795">
         <mark key="[" line="35" column="11" />
@@ -78,6 +75,12 @@
         <mark key="]" line="144" column="23" />
         <mark key="." line="144" column="23" />
         <mark key="^" line="144" column="23" />
+      </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/components/DepartmentFilter/DepartmentFilter.ts" timestamp="1519482216195">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.css" timestamp="1514945023633">
         <mark key="[" line="5" column="1" />
@@ -154,15 +157,10 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1519224123810">
-        <mark key="[" line="292" column="4" />
-        <mark key="]" line="292" column="10" />
-      </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519481777770">
-        <mark key="[" line="34" column="18" />
-        <mark key="]" line="34" column="21" />
-        <mark key="." line="34" column="21" />
-        <mark key="^" line="34" column="21" />
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519482130110">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
         <mark key="[" line="9" column="0" />
@@ -280,22 +278,16 @@
         <mark key="." line="18" column="122" />
         <mark key="^" line="18" column="122" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519224919973">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
         <mark key="[" line="24" column="20" />
         <mark key="]" line="24" column="20" />
         <mark key="." line="24" column="20" />
         <mark key="^" line="25" column="21" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/pbs.cmd" timestamp="1518451885956">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="183" />
-      </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1519224785221">
-        <mark key="[" line="107" column="18" />
-        <mark key="]" line="107" column="22" />
+      <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1519486065931">
+        <mark key="'" line="84" column="72" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="54" />
         <mark key="^" line="107" column="22" />
         <mark key="." line="107" column="22" />
       </file>
@@ -316,6 +308,11 @@
         <mark key="]" line="15" column="39" />
         <mark key="^" line="11" column="26" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="D:/projects/SmartElective/Server/test/app/controller/home.test.js" timestamp="1519220837485">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1514269420635">
         <mark key="[" line="51" column="0" />
@@ -349,11 +346,18 @@
         <mark key="^" line="18" column="56" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/service/elective.js" timestamp="1518452863600" />
+      <file name="D:/projects/SmartElective/Server/app/model/teacher.ts" timestamp="1519481964402" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/service.js" timestamp="1515078852236">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/components/DepartmentFilter/DepartmentFilter.tsx" timestamp="1519486095992">
+        <mark key="[" line="8" column="92" />
+        <mark key="]" line="8" column="94" />
+        <mark key="^" line="8" column="94" />
+        <mark key="." line="8" column="94" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
@@ -370,7 +374,6 @@
       <file name="D:/projects/SmartElective/FrontEnd/src/router.js" timestamp="1519225896202" />
     </filemarks>
     <jumps>
-      <jump line="7" column="27" filename="G:/projects/fri/fri-rep-server-shell/node_modules/antd/lib/style/themes/default.less" />
       <jump line="54" column="44" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="29" column="42" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="305" column="38" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
@@ -470,10 +473,11 @@
       <jump line="68" column="27" filename="D:/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="96" column="40" filename="D:/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="32" column="14" filename="D:/projects/SmartElective/Server/app/controller/elective.ts" />
+      <jump line="84" column="72" filename="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>undefined</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwppbXBvcnQgeyBjb25uZWN0IH1hbnkgZnJvbSAnZHZhJzsKCmNsYXNzICROQU1FJCBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoPGRpdj48L2Rpdj4pCiAgfQp9CgpmdW5jdGlvbiBtYXBTdGF0ZVRvUHJvcHMoc3RhdGUpIHsKICByZXR1cm4ge30KfQoKCmV4cG9ydCBkZWZhdWx0IGNvbm5lY3QobWFwU3RhdGVUb1Byb3BzKSgkTkFNRSQpCgo=</text>
       </register>
       <register name="-" type="4">
         <text>undefined</text>
@@ -482,34 +486,34 @@
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjbGFzcyBFbGVjdGl2ZUNvbnRyb2xsZXIgZXh0ZW5kcyBDb250cm9sbGVyIHsK</text>
+        <text encoding="base64">aW1wb3J0IHtEaXNwYXRjaFByb3B9IGZyb20gJ3JlYWN0LXJlZHV4JwppbXBvcnQge0Nvbm5lY3RlZFJvdXRlclByb3BzfSBmcm9tICdyZWFjdC1yb3V0ZXItcmVkdXgnCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwppbXBvcnQgeyBjb25uZWN0IH1hbnkgZnJvbSAnZHZhJzsKCmNsYXNzICROQU1FJCBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoPGRpdj48L2Rpdj4pCiAgfQp9CgpmdW5jdGlvbiBtYXBTdGF0ZVRvUHJvcHMoc3RhdGUpIHsKICByZXR1cm4ge30KfQoKCmV4cG9ydCBkZWZhdWx0IGNvbm5lY3QobWFwU3RhdGVUb1Byb3BzKSgkTkFNRSQpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXBhcgo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">UmVhY3RDb20K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JwppbXBvcnQge2Nvbm5lY3R9IGZyb20gJ2R2YSc7CmltcG9ydCB7RGlzcGF0Y2hQcm9wfSBmcm9tICdyZWFjdC1yZWR1eCcKaW1wb3J0IHtDb25uZWN0ZWRSb3V0ZXJQcm9wc30gZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4JwoKY2xhc3MgRGVwYXJ0bWVudEZpbHRlciBleHRlbmRzIFJlYWN0LkNvbXBvbmVudCB7CgogIHJlbmRlcigpIHsKICAgIHJldHVybiAoPGRpdj48L2Rpdj4pCiAgfQp9CgpmdW5jdGlvbiBtYXBTdGF0ZVRvUHJvcHMoc3RhdGUpIHsKICByZXR1cm4ge30KfQoKCmV4cG9ydCBkZWZhdWx0IGNvbm5lY3QobWFwU3RhdGVUb1Byb3BzKShEZXBhcnRtZW50RmlsdGVyKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZWFjaGVyczogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBkZXBhcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqILvxyKHL+dPQveG5+7XEt7W72AogKi8KZXhwb3J0IGludGVyZmFjZSBHZXREZXBhcnRtZW50c1Jlc3AgewoKfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>

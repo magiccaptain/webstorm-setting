@@ -1,5 +1,5 @@
 <templateSet group="React">
-  <template name="DvaReactComponent" value="import React from 'react'&#10;import { connect } from 'dva';&#10;&#10;class $NAME$ extends React.Component {&#10;&#10;  render() {&#10;    return (&lt;div&gt;&lt;/div&gt;)&#10;  }&#10;}&#10;&#10;function mapStateToProps(state) {&#10;  return {}&#10;}&#10;&#10;&#10;export default connect(mapStateToProps)($NAME$)&#10;&#10;&#10;" description="" toReformat="true" toShortenFQNames="true">
+  <template name="DvaReactComponent" value="import React from 'react'&#10;import {connect} from 'dva';&#10;import {DispatchProp} from 'react-redux'&#10;import {ConnectedRouterProps} from 'react-router-redux'&#10;&#10;interface $NAME$Props {&#10;}&#10;&#10;class $NAME$ extends React.Component&lt;$NAME$Props &amp; DispatchProp&lt;any&gt; &amp; ConnectedRouterProps&lt;any&gt;&gt; {&#10;&#10;  render() {&#10;    return (&lt;div&gt;&lt;/div&gt;)&#10;  }&#10;}&#10;&#10;function mapStateToProps(state) {&#10;  return {}&#10;}&#10;&#10;&#10;export default connect(mapStateToProps)($NAME$)&#10;&#10;&#10;" description="" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
