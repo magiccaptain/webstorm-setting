@@ -3,39 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/projects/SmartElective/FrontEnd/src/models/user.ts" timestamp="1519488205792">
-        <mark key="'" line="43" column="13" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="2" column="11" />
-      </file>
       <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1519481955426">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="^" line="47" column="29" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/controller/auth.js" timestamp="1519465156819">
-        <mark key="[" line="86" column="11" />
-      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514441149895">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1514361160978">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-      </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514982740875">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="27" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/package.json" timestamp="1518451661676">
         <mark key="'" line="32" column="21" />
@@ -44,25 +22,18 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="21" column="41" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/pbs/manage_pb_service.ts" timestamp="1518449335852" />
-      <file name="D:/projects/SmartElective/FrontEnd/src/utils/request_options.ts" timestamp="1519487666505" />
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/services/versions.js" timestamp="1514876050732">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="3" />
-      </file>
-      <file name="D:/projects/dva-electron-boilerplate/.webpackrc" timestamp="1516117024111">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective_pb.js" timestamp="1519212179768" />
       <file name="D:/projects/FRI/fri-rep-server-shell/electron-builder.yml" timestamp="1515334535795">
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="14" />
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="14" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" timestamp="1515293937740">
+        <mark key="'" line="17" column="21" />
+        <mark key="[" line="357" column="31" />
+        <mark key="]" line="357" column="95" />
+        <mark key="." line="328" column="0" />
+        <mark key="^" line="327" column="23" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.css" timestamp="1514944937137">
         <mark key="[" line="1" column="0" />
@@ -75,12 +46,6 @@
         <mark key="]" line="3" column="45" />
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
-      </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515912566005">
-        <mark key="[" line="144" column="23" />
-        <mark key="]" line="144" column="23" />
-        <mark key="." line="144" column="23" />
-        <mark key="^" line="144" column="23" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/components/DepartmentFilter/DepartmentFilter.ts" timestamp="1519482216195">
         <mark key="[" line="0" column="0" />
@@ -119,13 +84,6 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1518449301808">
-        <mark key="'" line="72" column="25" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="22" />
-        <mark key="^" line="62" column="10" />
-        <mark key="." line="62" column="10" />
-      </file>
       <file name="D:/projects/dva-electron-boilerplate/package.json" timestamp="1516117635135">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="32" />
@@ -163,18 +121,19 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="4" column="22" />
       </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" timestamp="1514969357748">
+        <mark key="'" line="373" column="30" />
+        <mark key="[" line="329" column="0" />
+        <mark key="]" line="332" column="11" />
+        <mark key="." line="329" column="0" />
+        <mark key="^" line="326" column="49" />
+      </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519488198557">
         <mark key="'" line="69" column="27" />
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="35" />
         <mark key="." line="6" column="35" />
         <mark key="^" line="6" column="35" />
-      </file>
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="8" column="12" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.css" timestamp="1514812265521">
         <mark key="[" line="0" column="0" />
@@ -189,30 +148,11 @@
         <mark key="^" line="41" column="79" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/projects/SmartElective/Server/config/config.default.js" timestamp="1519221454221">
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="14" />
-        <mark key="." line="41" column="14" />
-        <mark key="^" line="41" column="14" />
-      </file>
-      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective.proto" timestamp="1519222586156">
-        <mark key="'" line="59" column="13" />
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="10" />
-        <mark key="." line="46" column="10" />
-        <mark key="^" line="46" column="10" />
-      </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/services/elective.ts" timestamp="1519488080305">
+      <file name="D:/projects/SmartElective/FrontEnd/src/services/elective.ts" timestamp="1519488242496">
         <mark key="[" line="13" column="33" />
         <mark key="]" line="13" column="32" />
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="32" />
-      </file>
-      <file name="D:/projects/dva-electron-boilerplate/src/renderer/components/Test.ts" timestamp="1516117057444">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/main-dev.html" timestamp="1514272998813">
         <mark key="[" line="17" column="14" />
@@ -226,25 +166,7 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/controller/departments.ts" timestamp="1519480410753">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="26" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/services/auth.ts" timestamp="1519465204211" />
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1514969420685">
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="31" />
-        <mark key="^" line="40" column="31" />
-        <mark key="." line="40" column="31" />
-      </file>
-      <file name="D:/projects/dva-electron-boilerplate/src/renderer/index.js" timestamp="1516115224669">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="37" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
-      </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.css" timestamp="1514908540838">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="12" />
@@ -258,33 +180,14 @@
         <mark key="^" line="84" column="55" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/proto/Constant.ts" timestamp="1519488145766">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/index.js" timestamp="1514338780504">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-      </file>
       <file name="D:/projects/SmartElective/Server/package.json" timestamp="1519220716024">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="23" />
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.css" timestamp="1514942461169">
-        <mark key="[" line="10" column="9" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="10" />
-        <mark key="^" line="10" column="10" />
-      </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/models/user.js" timestamp="1519465112515" />
-      <file name="D:/projects/SmartElective/Server/app/proto/proto.js" timestamp="1519465164873" />
       <file name="D:/projects/SmartElective/FrontEnd/src/proto/proto.js" timestamp="1519465058483" />
-      <file name="D:/projects/SmartElective/FrontEnd/src/routes/NeedLoginRouter.tsx" timestamp="1519464143092" />
       <file name="D:/projects/FRI/fri-rep-server-shell/logs/fri-server.log" timestamp="1515250502644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -297,18 +200,19 @@
         <mark key="." line="18" column="122" />
         <mark key="^" line="18" column="122" />
       </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="24" column="20" />
-        <mark key="." line="24" column="20" />
-        <mark key="^" line="25" column="21" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514946529394">
+        <mark key="'" line="63" column="6" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="24" column="29" />
       </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1519486065931">
-        <mark key="'" line="84" column="72" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="54" />
-        <mark key="^" line="107" column="22" />
-        <mark key="." line="107" column="22" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1514949213178">
+        <mark key="'" line="101" column="47" />
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="60" column="7" />
+        <mark key="^" line="60" column="7" />
+        <mark key="." line="60" column="7" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/proto/proto.ts" timestamp="1519488191577">
         <mark key="[" line="3" column="34" />
@@ -322,6 +226,214 @@
         <mark key="^" line="13" column="26" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1514269420635">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="8" column="36" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/projects.js" timestamp="1515243377078">
+        <mark key="'" line="160" column="27" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+        <mark key="^" line="27" column="35" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/index.js" timestamp="1515327036316">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="30" column="40" />
+      </file>
+      <file name="D:/projects/SmartElective/Server/app/service/elective.js" timestamp="1518452863600" />
+      <file name="D:/projects/SmartElective/Server/app/model/teacher.ts" timestamp="1519481964402" />
+      <file name="D:/projects/SmartElective/FrontEnd/src/components/DepartmentFilter/DepartmentFilter.tsx" timestamp="1519489422987">
+        <mark key="'" line="30" column="9" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="25" />
+      </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/user.ts" timestamp="1519488205792">
+        <mark key="'" line="43" column="13" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="11" />
+      </file>
+      <file name="D:/projects/SmartElective/Server/app/controller/auth.js" timestamp="1519465156819">
+        <mark key="[" line="86" column="11" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1514361160978">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514982740875">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/pbs/manage_pb_service.ts" timestamp="1518449335852" />
+      <file name="D:/projects/SmartElective/FrontEnd/src/utils/request_options.ts" timestamp="1519487666505" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/services/versions.js" timestamp="1514876050732">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="3" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/versions.js" timestamp="1514990031283">
+        <mark key="'" line="22" column="5" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="47" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="74" column="29" />
+      </file>
+      <file name="D:/projects/dva-electron-boilerplate/.webpackrc" timestamp="1516117024111">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective_pb.js" timestamp="1519212179768" />
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515343025980">
+        <mark key="'" line="20" column="8" />
+        <mark key="[" line="156" column="14" />
+        <mark key="]" line="158" column="7" />
+        <mark key="." line="158" column="7" />
+        <mark key="^" line="158" column="7" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515912566005">
+        <mark key="[" line="144" column="23" />
+        <mark key="]" line="144" column="23" />
+        <mark key="." line="144" column="23" />
+        <mark key="^" line="144" column="23" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/LogsModal/LogsModal.js" timestamp="1515341534576">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="51" column="62" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/pbs/manage.proto" timestamp="1518449301808">
+        <mark key="'" line="72" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="62" column="10" />
+        <mark key="." line="62" column="10" />
+      </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/components/StudentElective/StudentElective.tsx" timestamp="1519488359149" />
+      <file name="G:/projects/fri/fri-rep-server-shell/package.json" timestamp="1514948533527">
+        <mark key="'" line="77" column="15" />
+        <mark key="[" line="87" column="23" />
+        <mark key="]" line="87" column="23" />
+        <mark key="." line="87" column="23" />
+        <mark key="^" line="87" column="23" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/index.js" timestamp="1515912884260">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="69" column="27" />
+        <mark key="." line="69" column="46" />
+        <mark key="^" line="69" column="46" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="12" />
+      </file>
+      <file name="D:/projects/SmartElective/Server/config/config.default.js" timestamp="1519221454221">
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="14" />
+        <mark key="." line="41" column="14" />
+        <mark key="^" line="41" column="14" />
+      </file>
+      <file name="D:/projects/SmartElective/Server/app/proto/smart_elective.proto" timestamp="1519222586156">
+        <mark key="'" line="59" column="13" />
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="46" column="10" />
+        <mark key="." line="46" column="10" />
+        <mark key="^" line="46" column="10" />
+      </file>
+      <file name="D:/projects/dva-electron-boilerplate/src/renderer/components/Test.ts" timestamp="1516117057444">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/projects/SmartElective/Server/app/controller/departments.ts" timestamp="1519480410753">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1514969420685">
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="31" />
+        <mark key="^" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+      </file>
+      <file name="D:/projects/dva-electron-boilerplate/src/renderer/index.js" timestamp="1516115224669">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/main/index.js" timestamp="1514876710718">
+        <mark key="'" line="65" column="32" />
+        <mark key="[" line="65" column="5" />
+        <mark key="]" line="65" column="28" />
+        <mark key="." line="65" column="49" />
+        <mark key="^" line="65" column="49" />
+      </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/proto/Constant.ts" timestamp="1519488145766">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/index.js" timestamp="1514338780504">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/logger.js" timestamp="1515322799793">
+        <mark key="'" line="23" column="26" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="49" column="14" />
+      </file>
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.css" timestamp="1514942461169">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="10" column="10" />
+        <mark key="." line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+      </file>
+      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1515293240735">
+        <mark key="'" line="88" column="16" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="71" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="87" column="33" />
+      </file>
+      <file name="D:/projects/SmartElective/Server/app/proto/proto.js" timestamp="1519465164873" />
+      <file name="D:/projects/SmartElective/FrontEnd/src/routes/NeedLoginRouter.tsx" timestamp="1519464143092" />
+      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="25" column="21" />
+      </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1519489506737">
+        <mark key="'" line="200" column="34" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.ts" timestamp="1514256261960">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="42" />
@@ -334,19 +446,8 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="G:/projects/smart_meter_dva/src/router.tsx" timestamp="1514269420635">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="8" column="36" />
-      </file>
       <file name="D:/projects/SmartElective/Server/node_modules/google-protobuf/google/protobuf/api_pb.js" timestamp="1519219016806" />
-      <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/index.js" timestamp="1515327036316">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="30" column="40" />
-      </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.js" timestamp="1519488234029" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514989789995">
         <mark key="[" line="55" column="20" />
         <mark key="]" line="55" column="20" />
@@ -365,19 +466,11 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/service/elective.js" timestamp="1518452863600" />
-      <file name="D:/projects/SmartElective/Server/app/model/teacher.ts" timestamp="1519481964402" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/service.js" timestamp="1515078852236">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="1" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/components/DepartmentFilter/DepartmentFilter.tsx" timestamp="1519486782921">
-        <mark key="'" line="31" column="9" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
@@ -394,9 +487,6 @@
       <file name="D:/projects/SmartElective/FrontEnd/src/router.js" timestamp="1519225896202" />
     </filemarks>
     <jumps>
-      <jump line="73" column="32" filename="G:/projects/fri/fri-rep-server-shell/package.json" />
-      <jump line="77" column="15" filename="G:/projects/fri/fri-rep-server-shell/package.json" />
-      <jump line="258" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
       <jump line="246" column="32" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="260" column="0" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Versions/Versions.js" />
       <jump line="257" column="28" filename="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.js" />
@@ -494,46 +584,49 @@
       <jump line="67" column="49" filename="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" />
       <jump line="69" column="27" filename="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" />
       <jump line="43" column="13" filename="D:/projects/SmartElective/FrontEnd/src/models/user.ts" />
+      <jump line="202" column="0" filename="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" />
+      <jump line="203" column="29" filename="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" />
+      <jump line="198" column="34" filename="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXNwU3RhdHVzfSBmcm9tICcuLi9wcm90by9wcm90bycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtEZXBhcnRtZW50UGIsIEdldERlcGFydG1lbnRzUmVzcCwgUmVzcFN0YXR1c30gZnJvbSAiLi4vcHJvdG8vcHJvdG8iOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Um93PgogICAgICAgICAgCiAgICAgICAgPC9Sb3c+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXNwU3RhdHVzfSBmcm9tICcuLi9wcm90by9wcm90bycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZXNwU3RhdHVzfSBmcm9tICIuLi9wcm90by9wcm90byI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb2wgc3Bhbj17MX0+ybjRoaO6PC9Db2w+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIL3HyasKICovCmV4cG9ydCBlbnVtIFJvbGUgewogICAgVEVBQ0hFUiA9ICd0ZWFjaGVyJywKICAgIFNUVURFTlQgPSAnc3R1ZGVudCcsCiAgICBBRE1JTiA9ICdhZG1pbicsCn0KCi8qKgogKiC3tbvY17TMrAogKi8KZXhwb3J0IGVudW0gUmVzcFN0YXR1cyB7CiAgICBTVUNDRVNTID0gMCwKICAgIEVSUk9SID0gMSwKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgIDxDb2xsYXBzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+0aHU8b+qyejRp9S6Ojwvc3Bhbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLmRlcGFydG1lbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT17e3dpZHRoOiAnMTAwJSd9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKERlcGFydG1lbnRGaWx0ZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtEaXNwYXRjaFByb3B9IGZyb20gJ3JlYWN0LXJlZHV4JwppbXBvcnQge0Nvbm5lY3RlZFJvdXRlclByb3BzfSBmcm9tICdyZWFjdC1yb3V0ZXItcmVkdXgnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gbWFwU3RhdGVUb1Byb3BzKHN0YXRlKSB7CiAgcmV0dXJuIHsKICAgIGRlcGFydG1lbnRzOiBzdGF0ZS5lbGVjdGl2ZS5kZXBhcnRtZW50cwogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
