@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1519481955426">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="47" column="29" />
-        <mark key="." line="48" column="0" />
+      <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1519529252001">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="48" column="24" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514441149895">
         <mark key="[" line="14" column="11" />
@@ -141,7 +141,7 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1519480358188">
+      <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1519528964253">
         <mark key="'" line="32" column="14" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -177,12 +177,12 @@
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="39" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/controller/auth.ts" timestamp="1519479773087">
-        <mark key="'" line="84" column="20" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="^" line="84" column="55" />
-        <mark key="." line="70" column="0" />
+      <file name="D:/projects/SmartElective/Server/app/controller/auth.ts" timestamp="1519528939481">
+        <mark key="'" line="86" column="20" />
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/projects/SmartElective/Server/package.json" timestamp="1519220716024">
         <mark key="[" line="1" column="11" />
@@ -373,11 +373,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/controller/departments.ts" timestamp="1519480410753">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="28" column="26" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/projects/SmartElective/Server/app/controller/departments.ts" timestamp="1519529003052">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1514969420685">
         <mark key="[" line="40" column="24" />
@@ -437,7 +437,7 @@
         <mark key="." line="24" column="20" />
         <mark key="^" line="25" column="21" />
       </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1519526359261">
+      <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1519528144818">
         <mark key="'" line="208" column="20" />
         <mark key="[" line="213" column="12" />
         <mark key="]" line="213" column="15" />
@@ -475,6 +475,11 @@
         <mark key="]" line="18" column="56" />
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
+      </file>
+      <file name="D:/projects/SmartElective/FrontEnd/src/components/TeacherFilter/TeacherFilter.tsx" timestamp="1519528411167">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/service.js" timestamp="1515078852236">
         <mark key="[" line="4" column="0" />
@@ -599,11 +604,11 @@
       <jump line="205" column="20" filename="D:/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>任课老师</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>任课老师</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -612,31 +617,31 @@
         <text encoding="base64">ICAgICAgICAgIDxDb2wgc3Bhbj17Mn0gc3R5bGU9e3tsaW5lSGVpZ2h0OiAnMzJweCd9fT4KICAgICAgICAgICAgyM6/zsDPyqajugogICAgICAgICAgPC9Db2w+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93IHN0eWxlPXt7bWFyZ2luVG9wOiAxMH19PgoKICAgICAgICA8L1Jvdz4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBzZWxlY3RTaXplICA9IHNpemUgPyBzaXplIDogJ2RlZmF1bHQnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzaXplPXtzZWxlY3RTaXplfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGludGVyZmFjZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29sPjwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uCg==</text>
       </register>
     </registers>
     <search>
