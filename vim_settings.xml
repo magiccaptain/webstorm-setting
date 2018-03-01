@@ -121,11 +121,11 @@
         <mark key="." line="18" column="12" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519830239668">
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/elective.ts" timestamp="1519904051611">
         <mark key="'" line="85" column="0" />
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="42" column="36" />
-        <mark key="." line="42" column="36" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
         <mark key="^" line="42" column="36" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.css" timestamp="1514812265521">
@@ -213,10 +213,10 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="183" />
       </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/proto/proto.ts" timestamp="1519745873863">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
+      <file name="D:/projects/SmartElective/FrontEnd/src/proto/proto.ts" timestamp="1519904468026">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
         <mark key="^" line="3" column="34" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1515073995524">
@@ -582,28 +582,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyC1sb/Os8zD+7PGyv2+3cfls/3Wrrrzo6zU8sflv9VGaWx0ZXIKICBvbkNvdXJzZU5hbWVDaGFuZ2UgPSAodmFsdWUpID0+IHsKICAgIGNvbnNvbGUubG9nKHZhbHVlKTsKICAgIGlmICghdmFsdWUpIHsKICAgICAgY29uc29sZS5sb2coJ2NsZWFyJyk7CiAgICB9CiAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5vbkNvdXJzZU5hbWVDaGFuZ2V9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyC1sb/Os8zD+7PGyv2+3cfls/3Wrrrzo6zU8sflv9VGaWx0ZXIKICBvbkNvdXJzZU5hbWVDaGFuZ2UgPSAodmFsdWUpID0+IHsKICAgIGNvbnNvbGUubG9nKHZhbHVlKTsKICAgIGlmICghdmFsdWUpIHsKICAgICAgY29uc29sZS5sb2coJ2NsZWFyJyk7CiAgICB9CiAgfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvbkNoYW5nZT17dGhpcy5vbkNvdXJzZU5hbWVDaGFuZ2V9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh2YWx1ZSkgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmICh2YWx1ZSkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHYpOwo=</text>
       </register>
     </registers>
     <search>
