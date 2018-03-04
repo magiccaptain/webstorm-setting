@@ -10,7 +10,7 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="72" column="38" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1519912125509">
+      <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1520174331960">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -176,11 +176,11 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1520172367911">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="26" column="30" />
-        <mark key="." line="56" column="0" />
+      <file name="D:/projects/SmartElective/Server/app/controller/elective.ts" timestamp="1520174569033">
+        <mark key="[" line="112" column="33" />
+        <mark key="]" line="112" column="51" />
+        <mark key="^" line="112" column="51" />
+        <mark key="." line="112" column="51" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/services/elective.ts" timestamp="1519908115238">
         <mark key="'" line="27" column="0" />
@@ -304,7 +304,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="23" column="62" />
       </file>
-      <file name="D:/projects/SmartElective/FrontEnd/src/models/user.ts" timestamp="1519913990055">
+      <file name="D:/projects/SmartElective/FrontEnd/src/models/user.ts" timestamp="1520172871432">
         <mark key="'" line="44" column="13" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -696,11 +696,11 @@
       <jump line="2" column="42" filename="D:/projects/SmartElective/Server/app/extend/application.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
@@ -709,7 +709,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoIXRoaXNbU0VUVElOR1NdKSB7CiAgICAgICAgICAgIHRoaXNbU0VUVElOR1NdID0gUmVhZFNldHRpbmdzKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -718,22 +718,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0dGluZ3MK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtTZXF1ZWxpemV9IGZyb20gInNlcXVlbGl6ZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
