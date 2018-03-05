@@ -1,6 +1,0 @@
-<application>
-  <component name="NodeJSRemoteInterpreters">
-    <interpreter node-remote-interpreter="sftp://sc@172.16.67.200:22/home/sc/.nvm/v6.11.1/bin/node" WEB_SERVER_CONFIG_ID="f03cacc6-778f-4e4e-b641-fb10f0d4e6f1" WEB_SERVER_CONFIG_NAME="Copy of project-level server 'dev_server'" WEB_SERVER_CREDENTIALS_ID="sftp://sc@172.16.67.200:22" INTERPRETER_PATH="/home/sc/.nvm/v6.11.1/bin/node" HELPERS_PATH="/home/sc/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="6.11.1" />
-    <interpreter node-remote-interpreter="sftp://sc@172.16.67.200:22/home/sc/.nvm/v6.11.1/bin/supervisor" WEB_SERVER_CONFIG_ID="f03cacc6-778f-4e4e-b641-fb10f0d4e6f1" WEB_SERVER_CONFIG_NAME="Copy of project-level server 'dev_server'" WEB_SERVER_CREDENTIALS_ID="sftp://sc@172.16.67.200:22" INTERPRETER_PATH="/home/sc/.nvm/v6.11.1/bin/supervisor" HELPERS_PATH="/home/sc/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="?" />
-  </component>
-</application>
