@@ -36,11 +36,11 @@
         <mark key="." line="102" column="0" />
         <mark key="^" line="21" column="41" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/package.json" timestamp="1520341245015">
-        <mark key="[" line="44" column="9" />
-        <mark key="]" line="44" column="28" />
-        <mark key="^" line="44" column="28" />
-        <mark key="." line="44" column="28" />
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/package.json" timestamp="1520345467920">
+        <mark key="[" line="44" column="23" />
+        <mark key="]" line="44" column="25" />
+        <mark key="^" line="44" column="25" />
+        <mark key="." line="44" column="25" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/electron-builder.yml" timestamp="1515334535795">
         <mark key="[" line="35" column="11" />
@@ -198,6 +198,7 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/Authority.ts" timestamp="1520345893132" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/main-dev.html" timestamp="1514272998813">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="32" />
@@ -298,11 +299,10 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="30" column="40" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520343381795">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="48" column="30" />
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520345902755">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/components/DepartmentFilter/DepartmentFilter.tsx" timestamp="1519829772677">
         <mark key="'" line="49" column="0" />
@@ -711,10 +711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm9sZXMuY3JlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>请</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
@@ -723,34 +723,34 @@
         <text encoding="base64">Ly+2wcihxeTWw87EvP4KbGV0IGRiQ29uZmlnID0geWFtbC5zYWZlTG9hZChmcy5yZWFkRmlsZVN5bmMoIi4vZGF0YWJhc2UueW1sIiwgJ3V0ZjgnKSk7Ci8vxeTWw1NlcXVlbGl6ZQpjb25zdCBzZXF1ZWxpemUgPSBuZXcgU2VxdWVsaXplKGRiQ29uZmlnKTsKY29uc3QgbW9kZWxzOiBNb2RlbHMgPSBHZXRNb2RlbHMoc2VxdWVsaXplKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm9sZXMuY3JlCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZyhyb2xlKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvZyhyb2xlKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>{
                 name: role.name,
                 
             }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
