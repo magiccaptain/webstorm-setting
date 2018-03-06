@@ -51,7 +51,7 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1520236763647">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1520299165159">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -147,9 +147,9 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/user.ts" timestamp="1520297244848">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/user.ts" timestamp="1520299293469">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="0" />
         <mark key="." line="19" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/services/users.js" timestamp="1514268898601">
@@ -200,11 +200,6 @@
         <mark key="]" line="10" column="9" />
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/gen_models/db.d.ts" timestamp="1517764630320">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="254" column="112" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/index.js" timestamp="1516465073974">
         <mark key="[" line="10" column="28" />
@@ -295,6 +290,12 @@
         <mark key="]" line="4" column="43" />
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
+      </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/user_info.ts" timestamp="1520299679915">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1517821744274">
         <mark key="'" line="91" column="0" />
@@ -464,6 +465,12 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/UserInfo.ts" timestamp="1520300130878">
+        <mark key="[" line="19" column="9" />
+        <mark key="]" line="19" column="7" />
+        <mark key="^" line="19" column="7" />
+        <mark key="." line="19" column="7" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_hour.ts" timestamp="1517766145978">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="26" />
@@ -536,21 +543,23 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="43" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" timestamp="1517765341809">
-        <mark key="'" line="748" column="34" />
-        <mark key="[" line="772" column="8" />
-        <mark key="]" line="772" column="81" />
-      </file>
-      <file name="$USER_HOME$/projects/SmartElective/Server/app/model/db.d.ts" timestamp="1517758943765">
-        <mark key="'" line="0" column="0" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/userinfo.ts" timestamp="1520299513885">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="254" column="124" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_position.ts" timestamp="1517394243340">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="24" column="27" />
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
+      </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/User.ts" timestamp="1520299856793">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="20" column="9" />
+        <mark key="." line="20" column="9" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/config.ts" timestamp="1517241622251">
         <mark key="[" line="13" column="24" />
@@ -619,11 +628,6 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
         <mark key="^" line="63" column="5" />
-      </file>
-      <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/models/versions.js" timestamp="1515046420298">
-        <mark key="'" line="57" column="7" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="45" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/index.js" timestamp="1514876710718">
         <mark key="'" line="65" column="32" />
@@ -798,7 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="726" column="27" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="743" column="11" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="751" column="10" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="770" column="50" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
@@ -898,46 +901,47 @@
       <jump line="2325" column="44" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="2331" column="7" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="5865" column="19" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="0" column="0" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/userinfo.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZzLmFjY2Vzc1N5bmMoInRlc3QiKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGVtYWlsOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>sequelize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbmNsdWRlOiBbCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsOiBDb3Vyc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmNsdWRlOiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlbDogQ291cnNlSW5mbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXR0cmlidXRlczogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZXhjbHVkZTogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjcmVhdGVkQXQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd1cGRhdGVkQXQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpZCcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2NvdXJzZUlkJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWw6IERlcGFydG1lbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0dHJpYnV0ZXM6IFsnbmFtZSddCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsOiBDb3Vyc2VUeXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRyaWJ1dGVzOiBbJ25hbWUnXQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlbDogVGVhY2hlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXR0cmlidXRlczogWyd0ZWFjaGVyTnVtJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluY2x1ZGU6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlbDogVGVhY2hlckluZm8sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXR0cmlidXRlczogWyduYW1lJ10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vZGVsOiBDbGFzc1BsYWNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgYXR0cmlidXRlczogWydwbGFjZSddLAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2RlbDogRWxlY3RpdmUKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9kZWw6IFByZUVsZWN0aXZlCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgU2VxdWVsaXplIGZyb20gJ3NlcXVlbGl6ZSc7CgpleHBvcnQgaW50ZXJmYWNlIFVzZXJBdHRyaWJ1dGUgewogICAgaWQ6IG51bWJlciwKICAgIGVtYWlsOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLAogICAgY3JlYXRlZEF0OiBEYXRlLAogICAgdXBkYXRlZEF0OiBEYXRlLAp9CgpleHBvcnQgaW50ZXJmYWNlIFVzZXJJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxVc2VyQXR0cmlidXRlPiwgVXNlckF0dHJpYnV0ZSB7Cgp9CgpleHBvcnQgaW50ZXJmYWNlIFVzZXJNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxVc2VySW5zdGFuY2UsIFVzZXJBdHRyaWJ1dGU+IHsKCn0KCmV4cG9ydCBkZWZhdWx0IChzZXF1ZWxpemU6IFNlcXVlbGl6ZS5TZXF1ZWxpemUpOiBVc2VyTW9kZWwgPT4gewogICAgcmV0dXJuIHNlcXVlbGl6ZS5kZWZpbmU8VXNlckluc3RhbmNlLCBVc2VyQXR0cmlidXRlPigKICAgICAgICAndXNlcicsCiAgICAgICAgewogICAgICAgICAgICBlbWFpbDogewogICAgICAgICAgICAgICAgdHlwZTogU2VxdWVsaXplLlNUUklORywKICAgICAgICAgICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHBhc3N3b3JkOiB7CiAgICAgICAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuU1RSSU5HLAogICAgICAgICAgICAgICAgYWxsb3dOdWxsOiBmYWxzZQogICAgICAgICAgICB9LAogICAgICAgIH0pCn0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGZzLmFjY2Vzc1N5bmMoInRlc3QiKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGVtYWlsOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLA==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGVtYWlsOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLAogICAgY3JlYXRlZEF0OiBEYXRlLAogICAgdXBkYXRlZEF0OiBEYXRlLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">TW9kZWwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgU2VxdWVsaXplIGZyb20gJ3NlcXVlbGl6ZSc7CgpleHBvcnQgaW50ZXJmYWNlICROQU1FJEF0dHJpYnV0ZSB7CiAgICBpZDogbnVtYmVyLAogICAgZW1haWw6IHN0cmluZywKICAgIHBhc3N3b3JkOiBzdHJpbmcsCiAgICBjcmVhdGVkQXQ6IERhdGUsCiAgICB1cGRhdGVkQXQ6IERhdGUsCn0KCmV4cG9ydCBpbnRlcmZhY2UgJE5BTUUkSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8JE5BTUUkQXR0cmlidXRlPiwgJE5BTUUkQXR0cmlidXRlIHsKCn0KCmV4cG9ydCBpbnRlcmZhY2UgJE5BTUUkTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8JE5BTUUkSW5zdGFuY2UsICROQU1FJEF0dHJpYnV0ZT4gewoKfQoKZXhwb3J0IGRlZmF1bHQgKHNlcXVlbGl6ZTogU2VxdWVsaXplLlNlcXVlbGl6ZSk6ICROQU1FJE1vZGVsID0+IHsKICAgIHJldHVybiBzZXF1ZWxpemUuZGVmaW5lPCROQU1FJEluc3RhbmNlLCAkTkFNRSRBdHRyaWJ1dGU+KAogICAgICAgICckTkFNRSQnLAogICAgICAgIHsKICAgICAgICAgICAgJEVORCQKICAgICAgICB9KQp9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW1haWw6IHsKICAgICAgICAgICAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcsCiAgICAgICAgICAgICAgICBhbGxvd051bGw6IGZhbHNlLAogICAgICAgICAgICB9LAogICAgICAgICAgICBwYXNzd29yZDogewogICAgICAgICAgICAgICAgdHlwZTogU2VxdWVsaXplLlNUUklORywKICAgICAgICAgICAgICAgIGFsbG93TnVsbDogZmFsc2UKICAgICAgICAgICAgfSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZzLmFjY2Vzc1N5bmMoInRlc3QiKTsK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgZnMgZnJvbSAnZnMnOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>,
         {
             timestamps: false
         });</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZDogewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbGl6ZS5kZWZpbmUoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
