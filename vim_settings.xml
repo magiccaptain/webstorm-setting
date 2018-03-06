@@ -33,6 +33,7 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/GetModels.js" timestamp="1520316398109" />
       <file name="$USER_HOME$/projects/SmartElective/.roadhogrc.mock.js" timestamp="1516502812658">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="28" />
@@ -617,11 +618,12 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="63" column="5" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/GetModels.ts" timestamp="1520308713085">
-        <mark key="[" line="70" column="13" />
-        <mark key="]" line="71" column="19" />
-        <mark key="." line="71" column="19" />
-        <mark key="^" line="71" column="19" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/GetModels.ts" timestamp="1520316403732">
+        <mark key="'" line="23" column="53" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="122" column="38" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/index.js" timestamp="1514338780504">
         <mark key="[" line="8" column="8" />
@@ -778,15 +780,14 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/UserGroup.ts" timestamp="1520306908901">
-        <mark key="[" line="19" column="9" />
-        <mark key="]" line="20" column="16" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="20" column="16" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/UserGroup.ts" timestamp="1520315893632">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1024" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="1067" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="1086" column="21" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="59" column="16" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
@@ -886,13 +887,14 @@
       <jump line="1913" column="31" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="1919" column="7" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="37" column="32" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Authority.ts" />
+      <jump line="23" column="53" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/GetModels.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>as: ''</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>as: ''</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
@@ -904,25 +906,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBNb2RlbHN7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFVzZXJNb2RlbC4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIFVzZXJHcm91cDogVXNlckdyb3VwTW9kZWwKCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
