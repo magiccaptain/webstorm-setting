@@ -265,7 +265,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="43" column="18" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520346593281">
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520346799332">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -426,6 +426,10 @@
         <mark key="]" line="8" column="28" />
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
+      </file>
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/database.yml" timestamp="1520346641723">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/index.d.ts" timestamp="1517488039933">
         <mark key="[" line="5" column="0" />
@@ -816,9 +820,6 @@
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" timestamp="1520238208023">
-        <mark key="'" line="5865" column="19" />
-      </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/utils/request_options.ts" timestamp="1519743645078">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="26" />
@@ -1123,8 +1124,8 @@
       <jump line="0" column="0" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/userinfo.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>J5YYdXhK9EJDtH</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -1132,8 +1133,8 @@
       <register name="/" type="4">
         <text>sequelize</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgU2VxdWVsaXplIGZyb20gJ3NlcXVlbGl6ZSc7CgpleHBvcnQgaW50ZXJmYWNlIFVzZXJBdHRyaWJ1dGUgewogICAgaWQ6IG51bWJlciwKICAgIGVtYWlsOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLAogICAgY3JlYXRlZEF0OiBEYXRlLAogICAgdXBkYXRlZEF0OiBEYXRlLAp9CgpleHBvcnQgaW50ZXJmYWNlIFVzZXJJbnN0YW5jZSBleHRlbmRzIFNlcXVlbGl6ZS5JbnN0YW5jZTxVc2VyQXR0cmlidXRlPiwgVXNlckF0dHJpYnV0ZSB7Cgp9CgpleHBvcnQgaW50ZXJmYWNlIFVzZXJNb2RlbCBleHRlbmRzIFNlcXVlbGl6ZS5Nb2RlbDxVc2VySW5zdGFuY2UsIFVzZXJBdHRyaWJ1dGU+IHsKCn0KCmV4cG9ydCBkZWZhdWx0IChzZXF1ZWxpemU6IFNlcXVlbGl6ZS5TZXF1ZWxpemUpOiBVc2VyTW9kZWwgPT4gewogICAgcmV0dXJuIHNlcXVlbGl6ZS5kZWZpbmU8VXNlckluc3RhbmNlLCBVc2VyQXR0cmlidXRlPigKICAgICAgICAndXNlcicsCiAgICAgICAgewogICAgICAgICAgICBlbWFpbDogewogICAgICAgICAgICAgICAgdHlwZTogU2VxdWVsaXplLlNUUklORywKICAgICAgICAgICAgICAgIGFsbG93TnVsbDogZmFsc2UsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHBhc3N3b3JkOiB7CiAgICAgICAgICAgICAgICB0eXBlOiBTZXF1ZWxpemUuU1RSSU5HLAogICAgICAgICAgICAgICAgYWxsb3dOdWxsOiBmYWxzZQogICAgICAgICAgICB9LAogICAgICAgIH0pCn0K</text>
+      <register name="0" type="4">
+        <text>J5YYdXhK9EJDtH</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
