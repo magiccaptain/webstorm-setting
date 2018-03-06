@@ -51,11 +51,11 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1520299165159">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="3" column="23" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1520302670321">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="5" />
+        <mark key="." line="16" column="5" />
+        <mark key="^" line="16" column="5" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.css" timestamp="1515032820691">
         <mark key="[" line="3" column="1" />
@@ -201,6 +201,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Authority.ts" timestamp="1520303336495">
+        <mark key="[" line="23" column="12" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/src/index.js" timestamp="1516465073974">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="31" />
@@ -231,7 +237,7 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Department.ts" timestamp="1520301091793">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Department.ts" timestamp="1520302692903">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
@@ -273,11 +279,12 @@
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Role.ts" timestamp="1520301268644">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Role.ts" timestamp="1520303309814">
+        <mark key="'" line="36" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="1" column="11" />
+        <mark key="^" line="1" column="11" />
+        <mark key="." line="1" column="11" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/student.ts" timestamp="1516985720659">
         <mark key="[" line="29" column="9" />
@@ -477,7 +484,7 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/UserInfo.ts" timestamp="1520301024653">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/UserInfo.ts" timestamp="1520302683401">
         <mark key="[" line="35" column="39" />
         <mark key="]" line="35" column="41" />
         <mark key="." line="35" column="41" />
@@ -567,7 +574,7 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/User.ts" timestamp="1520299856793">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/User.ts" timestamp="1520302687675">
         <mark key="[" line="20" column="9" />
         <mark key="]" line="20" column="9" />
         <mark key="." line="20" column="9" />
@@ -767,7 +774,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="7" column="68" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/user.js" timestamp="1520238632199" />
       <file name="$USER_HOME$/projects/SmartElective/gen_mock.js" timestamp="1516455632310">
         <mark key="[" line="26" column="13" />
         <mark key="]" line="26" column="17" />
@@ -793,7 +799,6 @@
         <mark key="." line="95" column="20" />
         <mark key="^" line="95" column="20" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/router.js" timestamp="1520238684534" />
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="22" column="46" />
@@ -814,7 +819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="743" column="11" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="751" column="10" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="770" column="50" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="796" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
@@ -914,13 +918,14 @@
       <jump line="2331" column="7" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="5865" column="19" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="0" column="0" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/userinfo.ts" />
+      <jump line="33" column="0" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Role.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>sequelize</text>
@@ -932,28 +937,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93TnVsbDogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGVtYWlsOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsbG93TnVsbDogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVtYWlsOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLAogICAgY3JlYXRlZEF0OiBEYXRlLAogICAgdXBkYXRlZEF0OiBEYXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">TW9kZWwK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGVtYWlsOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgU2VxdWVsaXplIGZyb20gJ3NlcXVlbGl6ZSc7CgpleHBvcnQgaW50ZXJmYWNlICROQU1FJEF0dHJpYnV0ZSB7CiAgICBpZDogbnVtYmVyLAogICAgZW1haWw6IHN0cmluZywKICAgIHBhc3N3b3JkOiBzdHJpbmcsCiAgICBjcmVhdGVkQXQ6IERhdGUsCiAgICB1cGRhdGVkQXQ6IERhdGUsCn0KCmV4cG9ydCBpbnRlcmZhY2UgJE5BTUUkSW5zdGFuY2UgZXh0ZW5kcyBTZXF1ZWxpemUuSW5zdGFuY2U8JE5BTUUkQXR0cmlidXRlPiwgJE5BTUUkQXR0cmlidXRlIHsKCn0KCmV4cG9ydCBpbnRlcmZhY2UgJE5BTUUkTW9kZWwgZXh0ZW5kcyBTZXF1ZWxpemUuTW9kZWw8JE5BTUUkSW5zdGFuY2UsICROQU1FJEF0dHJpYnV0ZT4gewoKfQoKZXhwb3J0IGRlZmF1bHQgKHNlcXVlbGl6ZTogU2VxdWVsaXplLlNlcXVlbGl6ZSk6ICROQU1FJE1vZGVsID0+IHsKICAgIHJldHVybiBzZXF1ZWxpemUuZGVmaW5lPCROQU1FJEluc3RhbmNlLCAkTkFNRSRBdHRyaWJ1dGU+KAogICAgICAgICckTkFNRSQnLAogICAgICAgIHsKICAgICAgICAgICAgJEVORCQKICAgICAgICB9KQp9Cg==</text>
+        <text encoding="base64">ICAgIGVtYWlsOiBzdHJpbmcsCiAgICBwYXNzd29yZDogc3RyaW5nLAogICAgY3JlYXRlZEF0OiBEYXRlLAogICAgdXBkYXRlZEF0OiBEYXRlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>

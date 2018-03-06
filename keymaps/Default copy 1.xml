@@ -1,7 +1,14 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateDBBrowserToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoProject" />
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="GotoBookmark2" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
