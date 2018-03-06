@@ -133,7 +133,6 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/InitData.ts" timestamp="1520340972397" />
       <file name="G:/projects/smart_meter_dva/src/services/users.js" timestamp="1514268898601">
         <mark key="[" line="4" column="52" />
         <mark key="]" line="4" column="60" />
@@ -198,7 +197,6 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/Authority.ts" timestamp="1520345893132" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/main-dev.html" timestamp="1514272998813">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="32" />
@@ -299,10 +297,11 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="30" column="40" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520345902755">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520346326283">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="59" column="40" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/components/DepartmentFilter/DepartmentFilter.tsx" timestamp="1519829772677">
         <mark key="'" line="49" column="0" />
@@ -408,7 +407,6 @@
         <mark key="." line="69" column="46" />
         <mark key="^" line="69" column="46" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.js" timestamp="1520341251493" />
       <file name="D:/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1519911740221">
         <mark key="'" line="152" column="19" />
         <mark key="[" line="332" column="0" />
@@ -587,7 +585,6 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/base_data/roles.yml" timestamp="1520342945082" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/service.js" timestamp="1515078852236">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -711,10 +708,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm9sZXMuY3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
@@ -723,10 +720,10 @@
         <text encoding="base64">Ly+2wcihxeTWw87EvP4KbGV0IGRiQ29uZmlnID0geWFtbC5zYWZlTG9hZChmcy5yZWFkRmlsZVN5bmMoIi4vZGF0YWJhc2UueW1sIiwgJ3V0ZjgnKSk7Ci8vxeTWw1NlcXVlbGl6ZQpjb25zdCBzZXF1ZWxpemUgPSBuZXcgU2VxdWVsaXplKGRiQ29uZmlnKTsKY29uc3QgbW9kZWxzOiBNb2RlbHMgPSBHZXRNb2RlbHMoc2VxdWVsaXplKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm9sZXMuY3JlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -735,22 +732,19 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZVJvbGVzLnB1Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxvZyhyb2xlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                name: role.name,
-                
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeWFtbC5kdQo=</text>
       </register>
     </registers>
     <search>
