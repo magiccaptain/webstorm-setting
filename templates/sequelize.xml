@@ -1,0 +1,8 @@
+<templateSet group="sequelize">
+  <template name="ModelDefine" value="import * as Sequelize from 'sequelize';&#10;&#10;export interface $NAME$Attribute {&#10;    id: number, &#10;    createdAt: Date,&#10;    updatedAt: Date,&#10;}&#10;&#10;export interface $NAME$Instance extends Sequelize.Instance&lt;$NAME$Attribute&gt;, $NAME$Attribute {&#10;&#10;}&#10;&#10;export interface $NAME$Model extends Sequelize.Model&lt;$NAME$Instance, $NAME$Attribute&gt; {&#10;&#10;}&#10;&#10;export default (sequelize: Sequelize.Sequelize): $NAME$Model =&gt; {&#10;    return sequelize.define&lt;$NAME$Instance, $NAME$Attribute&gt;(&#10;        '$END$',&#10;        {&#10;         &#10;        })&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

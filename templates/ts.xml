@@ -1,8 +1,0 @@
-<templateSet group="ts">
-  <template name="ErrorDefine" value="export class $NAME$ extends Error {&#10;    constructor(message?) {&#10;        super(message);&#10;        this.name = '$NAME$';&#10;        Error.captureStackTrace(this, this.constructor);&#10;    }&#10;}" description="ts的错误定义" toReformat="false" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="TypeScript" value="true" />
-    </context>
-  </template>
-</templateSet>
