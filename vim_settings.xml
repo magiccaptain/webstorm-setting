@@ -202,7 +202,13 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" timestamp="1520384245522" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" timestamp="1520388773590">
+        <mark key="'" line="66" column="36" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="103" column="30" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/src/index.js" timestamp="1516465073974">
         <mark key="[" line="10" column="28" />
         <mark key="]" line="10" column="31" />
@@ -794,7 +800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="26" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="121" column="42" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="131" column="50" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="130" column="33" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
@@ -894,19 +899,20 @@
       <jump line="96" column="3" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/InitData.ts" />
       <jump line="103" column="24" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/InitData.ts" />
       <jump line="105" column="27" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/InitData.ts" />
+      <jump line="69" column="36" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRtcCA9IHlhbWwuc2FmZUR1bXAoYmFzZVJvbGVzKTsKICAgIGZzLndyaXRlRmlsZVN5bmModG1wLCAiLi9iYXNlX2RhdGEvcm9sZXMueW1sIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB0eXBlOiAnaW5wdXQnLAogICAgICAgICAgICBuYW1lOiAnYWxpYXMnLAogICAgICAgICAgICBtZXNzYWdlOiAnsfCzxqOo1tDOxMP7s8ajqaO6JwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -915,98 +921,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRtcCA9IHlhbWwuc2FmZUR1bXAoYmFzZVJvbGVzKTsKICAgIGZzLndyaXRlRmlsZVN5bmMoIi4vYmFzZV9kYXRhL3JvbGVzLnltbCIsIHRtcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGF3YWl0IFJvbGVzLmJ1bGtDcmVhdGUoYmFzZVJvbGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-        {
-            name: 'system_administrator',
-            alias: '系统管理员'
-        },
-        {
-            name: 'company_leader',
-            alias: '单位领导',
-        },
-        {
-            name: 'contract_user_manager',
-            alias: '外包人员管理员'
-        },
-        {
-            name: 'manage_department_leader',
-            alias: '管理部门负责人',
-        },
-        {
-            name: 'requirement_department_leader',
-            alias: '需求部门负责人',
-        },
-        {
-            name: 'develop_department_leader',
-            alias: '开发部门负责人',
-        },
-        {
-            name: 'test_department_leader',
-            alias: '测试部门负责人',
-        },
-        {
-            name: 'operations_department_leader',
-            alias: '运维部门负责人',
-        },
-        {
-            name: 'project_manager',
-            alias: '项目负责人'
-        },
-        {
-            name: 'project_member',
-            alias: '项目人员'
-        },
-        {
-            name: 'project_requirement_manager',
-            alias: '需求负责人'
-        },
-        {
-            name: 'project_requirement_member',
-            alias: '需求人员'
-        },
-        {
-            name: 'project_develop_manager',
-            alias: '开发负责人'
-        },
-        {
-            name: 'project_develop_member',
-            alias: '开发人员'
-        },
-        {
-            name: 'project_test_manager',
-            alias: '测试负责人'
-        },
-        {
-            name: 'project_test_member',
-            alias: '测试人员'
-        },
-        {
-            name: 'project_operations_manager',
-            alias: '运维负责人'
-        },
-        {
-            name: 'project_operations_member',
-            alias: '运维人员'
-        },
-    ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRtcCA9IHlhbWwuc2FmZUR1bXAoYmFzZUF1dGhvcml0aWVzKTsKICAgIGZzLndyaXRlRmlsZVN5bmMoIi4vYmFzZV9kYXRhL2F1dGhvcml0aWVzLnltbCIsIHRtcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
