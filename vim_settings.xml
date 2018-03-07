@@ -112,6 +112,7 @@
         <mark key="^" line="86" column="30" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/base_data/authorities.yml" timestamp="1520390002157" />
       <file name="G:/projects/fri/fri-rep-server-shell/.roadhogrc" timestamp="1514278637531">
         <mark key="[" line="17" column="67" />
         <mark key="]" line="17" column="67" />
@@ -202,12 +203,11 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" timestamp="1520388773590">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" timestamp="1520390798719">
         <mark key="'" line="66" column="36" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="103" column="30" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/index.js" timestamp="1516465073974">
         <mark key="[" line="10" column="28" />
@@ -239,7 +239,7 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Department.ts" timestamp="1520317371490">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Department.ts" timestamp="1520390627497">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="26" column="16" />
         <mark key="." line="26" column="16" />
@@ -378,12 +378,12 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/InitData.ts" timestamp="1520383757146">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/InitData.ts" timestamp="1520391058443">
         <mark key="'" line="32" column="27" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="35" column="49" />
+        <mark key="[" line="42" column="17" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="45" column="7" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/utils/request_options.ts" timestamp="1517666172479">
         <mark key="[" line="11" column="27" />
@@ -557,6 +557,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="43" column="18" />
       </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/inquirer/index.d.ts" timestamp="1520390508766" />
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/userinfo.ts" timestamp="1520299513885">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -906,7 +907,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">KCgpPT57fSk=</text>
       </register>
       <register name="/" type="4">
         <text>default</text>
@@ -921,25 +922,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
