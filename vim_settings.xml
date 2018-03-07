@@ -192,12 +192,12 @@
         <mark key="." line="38" column="43" />
         <mark key="^" line="38" column="43" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/Department.ts" timestamp="1520428310361">
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/Department.ts" timestamp="1520430432228">
         <mark key="'" line="20" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="22" column="43" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/config/config.default.js" timestamp="1520340079989">
         <mark key="[" line="3" column="19" />
@@ -328,11 +328,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="43" column="18" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520429202577">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="128" column="7" />
-        <mark key="." line="129" column="0" />
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520430731995">
+        <mark key="'" line="143" column="55" />
+        <mark key="[" line="165" column="11" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="[stacktop.cn] CONSOLE - stacktop.cn" timestamp="1517654556202">
         <mark key="[" line="17" column="0" />
@@ -689,6 +689,9 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/node_modules/@types/sequelize/index.d.ts" timestamp="1520430708204">
+        <mark key="'" line="3284" column="63" />
+      </file>
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/package.json" timestamp="1520345467920">
         <mark key="[" line="46" column="23" />
         <mark key="]" line="46" column="25" />
@@ -805,11 +808,11 @@
         <mark key="^" line="64" column="24" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/Company.ts" timestamp="1520428269384">
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="26" column="41" />
-        <mark key="." line="26" column="41" />
-        <mark key="^" line="26" column="41" />
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/Company.ts" timestamp="1520430712332">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="99" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/gen_mock.js" timestamp="1516455632310">
         <mark key="[" line="26" column="13" />
@@ -1018,6 +1021,7 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="7" column="68" />
       </file>
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/base_data/companies.yml" timestamp="1520429222026" />
       <file name="D:/projects/SmartElective/Server/app/middleware/check_role.ts" timestamp="1520252177488">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="37" column="8" />
@@ -1217,7 +1221,7 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/GetModels.ts" timestamp="1520427770389">
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/GetModels.ts" timestamp="1520430052982">
         <mark key="'" line="18" column="19" />
         <mark key="[" line="121" column="17" />
         <mark key="]" line="122" column="15" />
@@ -1292,10 +1296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="796" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="846" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="895" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="938" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="981" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="1024" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="1067" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
@@ -1392,61 +1392,64 @@
       <jump line="23" column="0" filename="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/Department.ts" />
       <jump line="17" column="19" filename="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/GetModels.ts" />
       <jump line="21" column="0" filename="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/Department.ts" />
+      <jump line="143" column="55" filename="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" />
+      <jump line="2830" column="10" filename="D:/projects/CZCE/CZCE_PPM_SERVER/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3205" column="67" filename="D:/projects/CZCE/CZCE_PPM_SERVER/node_modules/@types/sequelize/index.d.ts" />
+      <jump line="3284" column="63" filename="D:/projects/CZCE/CZCE_PPM_SERVER/node_modules/@types/sequelize/index.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICDS18qiCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
       </register>
       <register name="-" type="4">
         <text>department</text>
       </register>
       <register name="/" type="4">
-        <text>sequelize</text>
+        <text>hasMany</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICogYXMgU2VxdWVsaXplIGZyb20gJ3NlcXVlbGl6ZSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICDS18qiCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgQXV0aG9yaXRpZXMuY3JlYXRlKGF1dGhvcml0eSBhcyBBdXRob3JpdHlBdHRyaWJ1dGUpOwogICAgICAgICAgICBsZXQgYmFzZUF1dGhvcml0aWVzOiBBdXRob3JpdHlBdHRyaWJ1dGVbXSA9CiAgICAgICAgICAgICAgICB5YW1sLnNhZmVMb2FkKGZzLnJlYWRGaWxlU3luYyhiYXNlQXV0aG9yaXRpZXNGaWxlLCAndXRmOCcpKTsKICAgICAgICAgICAgYmFzZUF1dGhvcml0aWVzLnB1c2goYXV0aG9yaXR5IGFzIEF1dGhvcml0eUF0dHJpYnV0ZSk7CiAgICAgICAgICAgIGZzLndyaXRlRmlsZVN5bmMoYmFzZUF1dGhvcml0aWVzRmlsZSwgeWFtbC5zYWZlRHVtcChiYXNlQXV0aG9yaXRpZXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb21wYW55Lgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LSBuYW1lOiB0ZXN0X3JvbGUKICBhbGlhczogsuLK1L3HyasK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLy8g0LTI62Jhc2VfZGF0YQogICAgICAgICAgICAvLyBsZXQgYmFzZVJvbGVzOiBSb2xlQXR0cmlidXRlW10gPSB5YW1sLnNhZmVMb2FkKGZzLnJlYWRGaWxlU3luYyhiYXNlUm9sZUZpbGUsICd1dGY4JykpOwogICAgICAgICAgICAvLyBiYXNlUm9sZXMucHVzaCh7CiAgICAgICAgICAgIC8vICAgICBuYW1lOiByb2xlLm5hbWUsCiAgICAgICAgICAgIC8vICAgICBhbGlhczogcm9sZS5hbGlhcwogICAgICAgICAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkZXBhcnRtZW50KTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>sequelize</last-search>
+      <last-search>hasMany</last-search>
       <last-offset />
-      <last-pattern>sequelize</last-pattern>
+      <last-pattern>hasMany</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>e645</entry>
         <entry>semer</entry>
         <entry>semver</entry>
         <entry>addProjectFormRef</entry>
@@ -1466,6 +1469,7 @@
         <entry>rules</entry>
         <entry>dev</entry>
         <entry>Error</entry>
+        <entry>hasMany</entry>
       </history-search>
       <history-cmd />
       <history-expr />
