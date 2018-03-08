@@ -39,11 +39,11 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/User.ts" timestamp="1520436101510">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="8" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="6" column="8" />
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/User.ts" timestamp="1520514949570">
+        <mark key="[" line="15" column="61" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+        <mark key="^" line="15" column="61" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/config/config.default.js" timestamp="1517741732567">
         <mark key="[" line="41" column="19" />
@@ -334,11 +334,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="43" column="18" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520511682956">
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520514723725">
         <mark key="'" line="238" column="25" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
       </file>
       <file name="[stacktop.cn] CONSOLE - stacktop.cn" timestamp="1517654556202">
         <mark key="[" line="17" column="0" />
@@ -702,8 +702,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/node_modules/@types/sequelize/index.d.ts" timestamp="1520430708204">
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/node_modules/@types/sequelize/index.d.ts" timestamp="1520514827887">
         <mark key="'" line="3284" column="63" />
+        <mark key="[" line="754" column="0" />
+        <mark key="]" line="762" column="25" />
       </file>
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/package.json" timestamp="1520436176900">
         <mark key="[" line="17" column="22" />
@@ -1240,7 +1242,7 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/GetModels.ts" timestamp="1520436426401">
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/GetModels.ts" timestamp="1520514742594">
         <mark key="'" line="28" column="19" />
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="44" />
@@ -1418,43 +1420,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2018年3月6日</text>
+        <text>...</text>
       </register>
       <register name="-" type="4">
-        <text>2018年3月6日</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
         <text>hasMany</text>
       </register>
-      <register name="0" type="4">
-        <text>.default</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAqICAgIC8vIHNldFJvbGVzLi4uCiAgICAgKiAgICAvLyBhZGRSb2xlcy4uLgogICAgICogICAgLy8gYWRkUm9sZS4uLgogICAgICogICAgLy8gY3JlYXRlUm9sZS4uLgogICAgICogICAgLy8gcmVtb3ZlUm9sZS4uLgogICAgICogICAgLy8gcmVtb3ZlUm9sZXMuLi4KICAgICAqICAgIC8vIGhhc1JvbGUuLi4KICAgICAqICAgIC8vIGhhc1JvbGVzLi4uCiAgICAgKiAgICAvLyBjb3VudFJvbGVzLi4uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldFJvbGVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlckluc3RhbmNlLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlckluc3RhbmNlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNlckluc3RhbmNlLgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
