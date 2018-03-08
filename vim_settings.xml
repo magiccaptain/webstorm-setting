@@ -39,6 +39,12 @@
         <mark key="." line="16" column="16" />
         <mark key="^" line="16" column="16" />
       </file>
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/User.ts" timestamp="1520436101510">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="6" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/config/config.default.js" timestamp="1517741732567">
         <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="32" />
@@ -328,11 +334,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="43" column="18" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520433207228">
-        <mark key="[" line="186" column="30" />
-        <mark key="]" line="186" column="30" />
-        <mark key="^" line="186" column="30" />
-        <mark key="." line="186" column="30" />
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" timestamp="1520436508853">
+        <mark key="'" line="238" column="25" />
+        <mark key="[" line="243" column="0" />
+        <mark key="]" line="243" column="0" />
+        <mark key="." line="243" column="0" />
       </file>
       <file name="[stacktop.cn] CONSOLE - stacktop.cn" timestamp="1517654556202">
         <mark key="[" line="17" column="0" />
@@ -549,12 +555,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/helper.ts" timestamp="1520432789197">
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/helper.ts" timestamp="1520434759793">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="11" column="58" />
-        <mark key="^" line="11" column="58" />
-        <mark key="." line="11" column="58" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="32" column="44" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_student.ts" timestamp="1517321785473">
         <mark key="[" line="49" column="0" />
@@ -594,7 +600,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520349266938">
+      <file name="/Dummy.txt" timestamp="1520436467938">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -699,11 +705,11 @@
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/node_modules/@types/sequelize/index.d.ts" timestamp="1520430708204">
         <mark key="'" line="3284" column="63" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/package.json" timestamp="1520345467920">
-        <mark key="[" line="46" column="23" />
-        <mark key="]" line="46" column="25" />
-        <mark key="^" line="46" column="25" />
-        <mark key="." line="46" column="25" />
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/package.json" timestamp="1520436176900">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="18" column="31" />
+        <mark key="^" line="18" column="31" />
+        <mark key="." line="18" column="31" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/StudentElective/StudentElective.tsx" timestamp="1517667111141">
         <mark key="[" line="40" column="26" />
@@ -850,6 +856,12 @@
         <mark key="]" line="2" column="12" />
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
+      </file>
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/UserInfo.ts" timestamp="1520436000627">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/config.ts" timestamp="1517241622251">
         <mark key="[" line="13" column="24" />
@@ -1228,7 +1240,7 @@
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
       </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/GetModels.ts" timestamp="1520433048381">
+      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/GetModels.ts" timestamp="1520436426401">
         <mark key="'" line="28" column="19" />
         <mark key="[" line="10" column="36" />
         <mark key="]" line="10" column="44" />
@@ -1303,8 +1315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1067" column="13" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="1086" column="21" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="59" column="16" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="102" column="27" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
       <jump line="104" column="0" filename="$USER_HOME$/projects/SmartElective/Server/app/controller/elective.ts" />
@@ -1403,13 +1413,15 @@
       <jump line="3284" column="63" filename="D:/projects/CZCE/CZCE_PPM_SERVER/node_modules/@types/sequelize/index.d.ts" />
       <jump line="18" column="0" filename="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/helper.ts" />
       <jump line="167" column="0" filename="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" />
+      <jump line="189" column="19" filename="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" />
+      <jump line="238" column="25" filename="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/PPM.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>：</text>
+        <text>2018年3月6日</text>
       </register>
       <register name="-" type="4">
-        <text>：</text>
+        <text>2018年3月6日</text>
       </register>
       <register name="/" type="4">
         <text>hasMany</text>
@@ -1421,28 +1433,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlckluc3RhbmNlLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
