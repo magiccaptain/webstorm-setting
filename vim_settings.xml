@@ -127,6 +127,13 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/passport-local/lib/strategy.js" timestamp="1520566354512" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/plugin.js" timestamp="1520564890451">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
+      </file>
       <file name="D:/projects/SmartElective/Server/app/model/system.ts" timestamp="1519914519832">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="1" column="13" />
@@ -174,6 +181,11 @@
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
+      </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/InitDB.ts" timestamp="1520322204795">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/services/elective.ts" timestamp="1519908115238">
         <mark key="'" line="27" column="0" />
@@ -447,7 +459,7 @@
         <mark key="." line="87" column="23" />
         <mark key="^" line="87" column="23" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/User.ts" timestamp="1520560881049" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/User.ts" timestamp="1520564584070" />
       <file name="D:/projects/SmartElective/Server/app/model/index.d.ts" timestamp="1519911740221">
         <mark key="'" line="152" column="19" />
         <mark key="[" line="332" column="0" />
@@ -497,10 +509,6 @@
         <mark key="]" line="7" column="10" />
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
-      </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/database.yml" timestamp="1520346641723">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="24" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/GetModels.ts" timestamp="1520321257407">
         <mark key="'" line="8" column="0" />
@@ -863,7 +871,7 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/egg-passport/lib/passport.js" timestamp="1520561214206" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/egg-passport/lib/passport.js" timestamp="1520566478282" />
       <file name="D:/projects/SmartElective/Server/package.json" timestamp="1519220716024">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="23" />
@@ -1019,6 +1027,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/app.ts" timestamp="1520566046651">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_hour.ts" timestamp="1517766145978">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="26" />
@@ -1099,10 +1112,6 @@
         <mark key="]" line="13" column="24" />
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
-      </file>
-      <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/InitDB.ts" timestamp="1520343156867">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="14" column="43" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1519914827219">
         <mark key="[" line="120" column="0" />
@@ -1434,7 +1443,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>passowrd</text>
       </register>
       <register name="/" type="4">
         <text>hasMany</text>
@@ -1446,22 +1455,22 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW50ZXJmYWNlICRJTlRFUkZBQ0VfTkFNRSRBc3NvY2lhdGlvbiB7CiAgICBnZXQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUdldEFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQ+OwogICAgc2V0JE5BTUUkczogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlTZXRBc3NvY2lhdGlvbnNNaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXIsICRKT0lOX1RBQkxFX0FUVFJJQlVURSQ+OwogICAgYWRkJE5BTUUkczogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlBZGRBc3NvY2lhdGlvbnNNaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXIsICRKT0lOX1RBQkxFX0FUVFJJQlVURSQ+OwogICAgYWRkJE5BTUUkOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUFkZEFzc29jaWF0aW9uTWl4aW48JElOU1RBTkNFJCwgbnVtYmVyLCAkSk9JTl9UQUJMRV9BVFRSSUJVVEUkPjsKICAgIGNyZWF0ZSROQU1FJDogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlDcmVhdGVBc3NvY2lhdGlvbk1peGluPCRJTlNUQU5DRSQsIG51bWJlciwgJEpPSU5fVEFCTEVfQVRUUklCVVRFJD47CiAgICByZW1vdmUkTkFNRSQ6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55UmVtb3ZlQXNzb2NpYXRpb25NaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXI+OwogICAgcmVtb3ZlJE5BTUUkczogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlSZW1vdmVBc3NvY2lhdGlvbnNNaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXI+OwogICAgaGFzJE5BTUUkOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUhhc0Fzc29jaWF0aW9uTWl4aW48JElOU1RBTkNFJCwgbnVtYmVyPjsKICAgIGhhcyROQU1FJHM6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55SGFzQXNzb2NpYXRpb25zTWl4aW48JElOU1RBTkNFJCwgbnVtYmVyPjsKICAgIGNvdW50JE5BTUUkczogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlDb3VudEFzc29jaWF0aW9uc01peGluOwp9Cg==</text>
+        <text encoding="base64">ICAgIGFwcC5wYQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGdldCROQU1FJHM6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55R2V0QXNzb2NpYXRpb25zTWl4aW48JElOU1RBTkNFJD47CiAgICBzZXQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueVNldEFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQsIG51bWJlciwgJEpPSU5fVEFCTEVfQVRUUklCVVRFJD47CiAgICBhZGQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUFkZEFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQsIG51bWJlciwgJEpPSU5fVEFCTEVfQVRUUklCVVRFJD47CiAgICBhZGQkTkFNRSQ6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55QWRkQXNzb2NpYXRpb25NaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXIsICRKT0lOX1RBQkxFX0FUVFJJQlVURSQ+OwogICAgY3JlYXRlJE5BTUUkOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUNyZWF0ZUFzc29jaWF0aW9uTWl4aW48JElOU1RBTkNFJCwgbnVtYmVyLCAkSk9JTl9UQUJMRV9BVFRSSUJVVEUkPjsKICAgIHJlbW92ZSROQU1FJDogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlSZW1vdmVBc3NvY2lhdGlvbk1peGluPCRJTlNUQU5DRSQsIG51bWJlcj47CiAgICByZW1vdmUkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueVJlbW92ZUFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQsIG51bWJlcj47CiAgICBoYXMkTkFNRSQ6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55SGFzQXNzb2NpYXRpb25NaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXI+OwogICAgaGFzJE5BTUUkczogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlIYXNBc3NvY2lhdGlvbnNNaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXI+OwogICAgY291bnQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb24=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdldCROQU1FJHM6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55R2V0QXNzb2NpYXRpb25zTWl4aW48JElOU1RBTkNFJD47CiAgICBzZXQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueVNldEFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQsIG51bWJlciwgJEpPSU5fVEFCTEVfQVRUUklCVVRFJD47CiAgICBhZGQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUFkZEFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQsIG51bWJlciwgJEpPSU5fVEFCTEVfQVRUUklCVVRFJD47CiAgICBhZGQkTkFNRSQ6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55QWRkQXNzb2NpYXRpb25NaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXIsICRKT0lOX1RBQkxFX0FUVFJJQlVURSQ+OwogICAgY3JlYXRlJE5BTUUkOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUNyZWF0ZUFzc29jaWF0aW9uTWl4aW48JElOU1RBTkNFJCwgbnVtYmVyLCAkSk9JTl9UQUJMRV9BVFRSSUJVVEUkPjsKICAgIHJlbW92ZSROQU1FJDogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlSZW1vdmVBc3NvY2lhdGlvbk1peGluPCRJTlNUQU5DRSQsIG51bWJlcj47CiAgICByZW1vdmUkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueVJlbW92ZUFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQsIG51bWJlcj47CiAgICBoYXMkTkFNRSQ6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55SGFzQXNzb2NpYXRpb25NaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXI+OwogICAgaGFzJE5BTUUkczogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlIYXNBc3NvY2lhdGlvbnNNaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXI+OwogICAgY291bnQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUNvdW50QXNzb2NpYXRpb25zTWl4aW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJlbG9uZ3NUbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldCROQU1FJHM6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55R2V0QXNzb2NpYXRpb25zTWl4aW48JElOU1RBTkNFJD47CiAgICBzZXQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueVNldEFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQsIG51bWJlciwgJEpPSU5fVEFCTEVfQVRUUklCVVRFJD47CiAgICBhZGQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUFkZEFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQsIG51bWJlciwgJEpPSU5fVEFCTEVfQVRUUklCVVRFJD47CiAgICBhZGQkTkFNRSQ6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55QWRkQXNzb2NpYXRpb25NaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXIsICRKT0lOX1RBQkxFX0FUVFJJQlVURSQ+OwogICAgY3JlYXRlJE5BTUUkOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUNyZWF0ZUFzc29jaWF0aW9uTWl4aW48JElOU1RBTkNFJCwgbnVtYmVyLCAkSk9JTl9UQUJMRV9BVFRSSUJVVEUkPjsKICAgIHJlbW92ZSROQU1FJDogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlSZW1vdmVBc3NvY2lhdGlvbk1peGluPCRJTlNUQU5DRSQsIG51bWJlcj47CiAgICByZW1vdmUkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueVJlbW92ZUFzc29jaWF0aW9uc01peGluPCRJTlNUQU5DRSQsIG51bWJlcj47CiAgICBoYXMkTkFNRSQ6IFNlcXVlbGl6ZS5CZWxvbmdzVG9NYW55SGFzQXNzb2NpYXRpb25NaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXI+OwogICAgaGFzJE5BTUUkczogU2VxdWVsaXplLkJlbG9uZ3NUb01hbnlIYXNBc3NvY2lhdGlvbnNNaXhpbjwkSU5TVEFOQ0UkLCBudW1iZXI+OwogICAgY291bnQkTkFNRSRzOiBTZXF1ZWxpemUuQmVsb25nc1RvTWFueUNvdW50QXNzb2NpYXRpb25zTWl4aW47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
