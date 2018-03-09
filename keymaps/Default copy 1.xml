@@ -2,12 +2,17 @@
   <action id="ActivateDBBrowserToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
-  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
+  <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
