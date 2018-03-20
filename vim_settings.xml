@@ -182,11 +182,11 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/router.ts" timestamp="1521527688521">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-        <mark key="^" line="7" column="3" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/router.ts" timestamp="1521529035966">
+        <mark key="[" line="6" column="68" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517408429647">
         <mark key="[" line="12" column="18" />
@@ -1484,11 +1484,11 @@
       <jump line="11" column="7" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/passport-local/lib/strategy.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
