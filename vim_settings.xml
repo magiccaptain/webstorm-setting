@@ -45,11 +45,11 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1521534635635">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="0" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1521604909278">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="28" column="5" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_session.ts" timestamp="1517394990020">
         <mark key="[" line="39" column="31" />
@@ -117,11 +117,11 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/plugin.js" timestamp="1520564890451">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/plugin.js" timestamp="1521604484463">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="1" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/model/system.ts" timestamp="1519914519832">
         <mark key="[" line="5" column="39" />
@@ -158,10 +158,11 @@
         <mark key="^" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/router.ts" timestamp="1521601699163">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/router.ts" timestamp="1521604666885">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517408429647">
         <mark key="[" line="12" column="18" />
@@ -174,7 +175,7 @@
         <mark key="]" line="4" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" timestamp="1521601203316">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" timestamp="1521604359233">
         <mark key="'" line="29" column="24" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="34" />
@@ -1039,10 +1040,10 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/controller/login.ts" timestamp="1521603582727">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/controller/login.ts" timestamp="1521604638453">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_course_session.ts" timestamp="1517762786351">
         <mark key="[" line="41" column="16" />
@@ -1215,40 +1216,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
       </register>
       <register name="0" type="4">
-        <text>.authenticate</text>
+        <text>controller['login'].login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LmJvZHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5jdHguYm9keSA9ICe1x8K9JzsKICAgICAgICAgICAgdGhpcy5jdHguc3RhdHVzID0gMjAwOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luYyBkb0xvZ2luKCkgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvY2FsID0gYXBwWydwYXNzcG9ydCddLmF1dGhlbnRpY2F0ZSgnbG9jYWwnLCB7CiAgICAgICAgc3VjY2Vzc1JlZGlyZWN0OiAnLycsCiAgICAgICAgbG9naW5VUkw6ICcvbG9naW4nCiAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
