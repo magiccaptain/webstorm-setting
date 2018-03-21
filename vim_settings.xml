@@ -45,11 +45,11 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1521604909278">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="28" column="5" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1521613046323">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="41" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_session.ts" timestamp="1517394990020">
         <mark key="[" line="39" column="31" />
@@ -192,7 +192,6 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app.js" timestamp="1521526936846" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_department.ts" timestamp="1517277894169">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="97" />
@@ -630,7 +629,6 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/passport/lib/framework/connect.js" timestamp="1521531657987" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/services/elective.ts" timestamp="1517650194409">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="27" />
@@ -754,6 +752,10 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/egg-validate/app/extend/context.js" timestamp="1521612863553">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/tsconfig.json" timestamp="1516460799207">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
@@ -808,7 +810,6 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="8" column="36" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/egg-passport/lib/framework.js" timestamp="1521532521942" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/utils/request_options.ts" timestamp="1517666172479">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="31" />
@@ -903,7 +904,6 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/extend/application.js" timestamp="1521534856586" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515912566005">
         <mark key="[" line="144" column="23" />
         <mark key="]" line="144" column="23" />
@@ -1040,10 +1040,11 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/controller/login.ts" timestamp="1521604638453">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/controller/login.ts" timestamp="1521613087560">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+        <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_course_session.ts" timestamp="1517762786351">
         <mark key="[" line="41" column="16" />
@@ -1216,43 +1217,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coY3R4KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
       </register>
       <register name="0" type="4">
-        <text>controller['login'].login</text>
+        <text>Validation Failed</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY29uc29sZS5sb2coY3R4KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3R4LmJvZHkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY3R4LnN0YXR1cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3R4LnN0YXR1cyA9IDUwMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvY2FsID0gYXBwWydwYXNzcG9ydCddLmF1dGhlbnRpY2F0ZSgnbG9jYWwnLCB7CiAgICAgICAgc3VjY2Vzc1JlZGlyZWN0OiAnLycsCiAgICAgICAgbG9naW5VUkw6ICcvbG9naW4nCiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
