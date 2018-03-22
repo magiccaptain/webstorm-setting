@@ -739,10 +739,10 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/service/role.ts" timestamp="1521686374803">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/service/role.ts" timestamp="1521687367196">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/egg-passport/lib/passport.js" timestamp="1521526926272">
         <mark key="'" line="78" column="26" />
@@ -765,11 +765,11 @@
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Role.ts" timestamp="1521686429691">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Role.ts" timestamp="1521687078043">
+        <mark key="[" line="29" column="72" />
+        <mark key="]" line="30" column="30" />
+        <mark key="." line="30" column="30" />
+        <mark key="^" line="30" column="30" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/student.ts" timestamp="1516985720659">
         <mark key="[" line="29" column="9" />
@@ -1256,10 +1256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByb2xlLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>authorities</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
@@ -1268,28 +1268,28 @@
         <text encoding="base64">aW1wb3J0IHtNb2RlbHN9IGZyb20gIi4uL21vZGVsL0dldE1vZGVscyI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb2xlLnNldAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKiAqIMm+s/3IqM/eCiAgICAgKiBAcGFyYW0ge0F1dGhvcml0eUluc3RhbmNlfSBhdXRob3JpdHkKICAgICAqIEByZXR1cm5zIHtQcm9taXNlPHZvaWQ+fQogICAgICovCiAgICBhc3luYyByZW1vdmVBdXRob3JpdHkoYXV0aG9yaXR5OiBBdXRob3JpdHlJbnN0YW5jZSkgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogzO2808ioz94KICAgICAqIEBwYXJhbSByb2xlCiAgICAgKiBAcGFyYW0ge0F1dGhvcml0eUluc3RhbmNlW119IGF1dGhvcml0aWVzCiAgICAgKi8KICAgIGFzeW5jIGFkZEF1dGhvcml0aWVzKHJvbGU6IHN0cmluZywgYXV0aG9yaXRpZXM6IHN0cmluZ1tdKSB7CgoKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByb2xlLgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
