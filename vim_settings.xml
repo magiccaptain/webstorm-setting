@@ -178,7 +178,7 @@
         <mark key="]" line="4" column="38" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" timestamp="1521622062238">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" timestamp="1521688615640">
         <mark key="'" line="29" column="24" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="34" />
@@ -739,10 +739,11 @@
         <mark key="^" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/service/role.ts" timestamp="1521687367196">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/service/role.ts" timestamp="1521688793516">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="14" />
+        <mark key="." line="25" column="14" />
+        <mark key="^" line="25" column="14" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/egg-passport/lib/passport.js" timestamp="1521526926272">
         <mark key="'" line="78" column="26" />
@@ -1255,11 +1256,11 @@
       <jump line="72" column="1" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/app/middleware/authenticate.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>authorities</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>local</text>
