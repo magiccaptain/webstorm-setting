@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store-redis.js" timestamp="1523432519540" />
       <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1520174331960">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -45,7 +46,7 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1521614465217">
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1523432408875">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="37" />
         <mark key="." line="24" column="37" />
@@ -86,11 +87,12 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store.ts" timestamp="1523429775645">
-        <mark key="[" line="22" column="61" />
-        <mark key="]" line="22" column="60" />
-        <mark key="." line="22" column="60" />
-        <mark key="^" line="22" column="60" />
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store.ts" timestamp="1523431961347">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="7" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/components/DepartmentFilter/DepartmentFilter.ts" timestamp="1519482216195">
         <mark key="[" line="0" column="0" />
@@ -487,6 +489,9 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
       </file>
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/node_modules/@types/js-yaml/index.d.ts" timestamp="1523432589649">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.ts" timestamp="1514256261960">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="42" />
@@ -605,11 +610,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/package.json" timestamp="1523426485248">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="11" column="26" />
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/package.json" timestamp="1523432804932">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_class_place.ts" timestamp="1517395384312">
         <mark key="[" line="6" column="0" />
@@ -777,11 +781,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store-redis.ts" timestamp="1523428777144">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="1" column="12" />
-        <mark key="^" line="1" column="12" />
-        <mark key="." line="1" column="12" />
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store-redis.ts" timestamp="1523432897027">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="16" column="51" />
       </file>
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/UserInfo.ts" timestamp="1520436000627">
         <mark key="[" line="9" column="13" />
@@ -857,9 +861,9 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/package.json" timestamp="1521598741685">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="28" column="25" />
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/package.json" timestamp="1523432330968">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="23" />
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
@@ -1018,6 +1022,12 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/redis.yml" timestamp="1523432257488">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="10" />
+        <mark key="^" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/controller/home.js" timestamp="1521532831759">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="13" column="1" />
@@ -1160,6 +1170,9 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
       </file>
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/node_modules/@types/redis/index.d.ts" timestamp="1523432480136">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="11" column="9" />
@@ -1204,9 +1217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4104" column="35" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="6033" column="39" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
-      <jump line="6043" column="35" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="748" column="34" filename="$USER_HOME$/projects/SmartElective/Server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="113" column="16" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
       <jump line="17" column="17" filename="$USER_HOME$/projects/SmartElective/Server/app/model/index.d.ts" />
@@ -1304,46 +1314,49 @@
       <jump line="85" column="13" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/cmd/PPM.ts" />
       <jump line="160" column="32" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/GetModels.ts" />
       <jump line="41" column="17" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/UserProjects.ts" />
+      <jump line="29" column="0" filename="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store.ts" />
+      <jump line="4" column="0" filename="G:/projects/StackTopAuthServer/stack-top-auth-server/node_modules/@types/redis/index.d.ts" />
+      <jump line="2" column="0" filename="G:/projects/StackTopAuthServer/stack-top-auth-server/node_modules/@types/js-yaml/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbA==</text>
+        <text>_config</text>
       </register>
       <register name="/" type="4">
         <text>UserProjectId</text>
       </register>
-      <register name="0" type="4">
-        <text>UserPorjectRolesModel</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IAo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0LjEwNiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0Ljk3IiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0Ljk3IiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
