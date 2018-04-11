@@ -610,10 +610,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/package.json" timestamp="1523432804932">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="0" />
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/package.json" timestamp="1523433270600">
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_class_place.ts" timestamp="1517395384312">
         <mark key="[" line="6" column="0" />
@@ -781,11 +782,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store-redis.ts" timestamp="1523432897027">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="16" column="51" />
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store-redis.ts" timestamp="1523433306265">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
       </file>
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/UserInfo.ts" timestamp="1520436000627">
         <mark key="[" line="9" column="13" />
@@ -1319,11 +1320,11 @@
       <jump line="2" column="0" filename="G:/projects/StackTopAuthServer/stack-top-auth-server/node_modules/@types/js-yaml/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>_config</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>UserProjectId</text>
@@ -1332,31 +1333,31 @@
         <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgZnMgZnJvbSAnZnMnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYWQK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0LjEwNiIsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0Ljk3IiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0Ljk3IiwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0LjEwNiIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0Ljk3IiwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0Ljk3IiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
