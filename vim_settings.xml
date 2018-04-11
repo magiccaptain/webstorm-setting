@@ -246,12 +246,6 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="18" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1514361160978">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515115686086">
         <mark key="[" line="57" column="37" />
         <mark key="]" line="57" column="37" />
@@ -424,6 +418,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="27" column="24" />
       </file>
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/package-lock.json" timestamp="1523437063013" />
       <file name="D:/projects/SmartElective/Server/config/config.default.js" timestamp="1520177270172">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="17" />
@@ -611,11 +606,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/package.json" timestamp="1523434438170">
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/package.json" timestamp="1523437093763">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+        <mark key="[" line="15" column="21" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_class_place.ts" timestamp="1517395384312">
         <mark key="[" line="6" column="0" />
@@ -646,6 +642,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="30" column="57" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1514361160978">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="D:/projects/dva-electron-boilerplate/package.json" timestamp="1516117635135">
         <mark key="[" line="33" column="32" />
@@ -783,11 +785,11 @@
         <mark key="." line="2" column="12" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store-redis.ts" timestamp="1523434377144">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="29" />
+      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/app/stores/client-store-redis.ts" timestamp="1523437153155">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/UserInfo.ts" timestamp="1520436000627">
         <mark key="[" line="9" column="13" />
@@ -1322,10 +1324,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeOC45LjMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>util</text>
+        <text>&quot;@types/node&quot;</text>
       </register>
       <register name="/" type="4">
         <text>readFile</text>
@@ -1334,31 +1336,31 @@
         <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeOC45LjMiLAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmcy5yZWFkRmlsZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHt9ID0gcmVxdWlyZSgndXRpbCcpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSgnbm9kZS9mcycpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtmc30gZnJvbSAnbm9kZSc7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtmc30gZnJvbSAnbm9kZScK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1dGlsLgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBub2RlLmZzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGZzID0gcmVxdWlyZSgnZnMnKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGZzID0gcmVxdWlyZSgnZnMnKTsKaW1wb3J0IHV0aWwgPSByZXF1aXJlKCd1dGlsJyk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHNhdmVDbGllbnQoY2xpZW50OiBDbGllbnRFbnRyeSwgY2xpZW50U2VjcmV0OiBTdHJpbmcpIHsKICAgICAgICBsZXQga2V5ID0gWyJjbGllbnQiLCB0aGlzLnByZWZpeCwgY2xpZW50LmlkLCBjbGllbnRTZWNyZXRdLmpvaW4oIjoiKTsKCgogICAgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeOC45LjMiLAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmcy5yZWFkRmlsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
