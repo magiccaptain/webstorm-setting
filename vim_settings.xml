@@ -531,6 +531,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="27" />
       </file>
+      <file name="D:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1523541840756">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+      </file>
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/cmd/helper.ts" timestamp="1520434759793">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="3" column="0" />
@@ -1078,11 +1084,11 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/stores/client-store.ts" timestamp="1523538322099">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="4" column="6" />
+      <file name="D:/projects/stacktop-auth-server/app/stores/client-store.ts" timestamp="1523539990110">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="61" />
+        <mark key="." line="37" column="61" />
+        <mark key="^" line="37" column="61" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1517673018679">
         <mark key="[" line="199" column="33" />
@@ -1381,10 +1387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hahiehhahha</text>
+        <text>O</text>
       </register>
       <register name="-" type="4">
-        <text>hahiehhahha</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text>readFile</text>
@@ -1396,13 +1402,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3MK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQuCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1411,13 +1417,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3MK</text>
+        <text encoding="base64">ICAgIGFic3RyYWN0IGFzeW5jIGdldFRva2VuKCk6IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZm91bmQgPSBhdwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
