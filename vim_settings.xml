@@ -135,6 +135,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="8" column="1" />
       </file>
+      <file name="G:/projects/stacktop-auth-server/app/stores/client-store-redis.ts" timestamp="1523494725391">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/projects/SmartElective/Server/app/model/system.ts" timestamp="1519914519832">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="1" column="13" />
@@ -292,6 +297,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="G:/projects/stacktop-auth-server/app/stores/user-store.ts" timestamp="1523494914587" />
       <file name="$USER_HOME$/projects/SmartElective/package.json" timestamp="1516528259702">
         <mark key="[" line="30" column="34" />
         <mark key="]" line="30" column="34" />
@@ -418,7 +424,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="G:/projects/StackTopAuthServer/stack-top-auth-server/package-lock.json" timestamp="1523437063013" />
       <file name="D:/projects/SmartElective/Server/config/config.default.js" timestamp="1520177270172">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="17" />
@@ -1324,7 +1329,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;@types/node&quot;</text>
@@ -1336,31 +1341,31 @@
         <text encoding="base64">ICAgICJsb2Rhc2giOiAiXjQuMTcuNCIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICBmcy5yZWFkZGlyU3luYygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlLmZzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZzID0gcmVxdWlyZSgnZnMnKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBub2RlLmZzCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGZzID0gcmVxdWlyZSgnZnMnKTsKaW1wb3J0IHV0aWwgPSByZXF1aXJlKCd1dGlsJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZzID0gcmVxdWlyZSgnZnMnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNhdmVDbGllbnQoY2xpZW50OiBDbGllbnRFbnRyeSwgY2xpZW50U2VjcmV0OiBTdHJpbmcpIHsKICAgICAgICBsZXQga2V5ID0gWyJjbGllbnQiLCB0aGlzLnByZWZpeCwgY2xpZW50LmlkLCBjbGllbnRTZWNyZXRdLmpvaW4oIjoiKTsKCgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvbm9kZSI6ICJeOC45LjMiLAo=</text>
+        <text encoding="base64">aW1wb3J0IGZzID0gcmVxdWlyZSgnZnMnKTsKaW1wb3J0IHV0aWwgPSByZXF1aXJlKCd1dGlsJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmcy5yZWFkRmlsZQo=</text>
+        <text encoding="base64">ICAgIHNhdmVDbGllbnQoY2xpZW50OiBDbGllbnRFbnRyeSwgY2xpZW50U2VjcmV0OiBTdHJpbmcpIHsKICAgICAgICBsZXQga2V5ID0gWyJjbGllbnQiLCB0aGlzLnByZWZpeCwgY2xpZW50LmlkLCBjbGllbnRTZWNyZXRdLmpvaW4oIjoiKTsKCgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
