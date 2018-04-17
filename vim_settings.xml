@@ -385,17 +385,23 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="G:/projects/stacktop-auth-server/app/router.js" timestamp="1523940784643">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="G:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1523932222028">
         <mark key="[" line="43" column="106" />
         <mark key="]" line="43" column="105" />
         <mark key="^" line="43" column="105" />
         <mark key="." line="43" column="105" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2.test.js" timestamp="1523937786939">
-        <mark key="[" line="62" column="45" />
-        <mark key="]" line="62" column="48" />
-        <mark key="^" line="62" column="48" />
-        <mark key="." line="62" column="48" />
+      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2.test.js" timestamp="1523940593805">
+        <mark key="'" line="63" column="6" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="63" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/index.d.ts" timestamp="1517488039933">
         <mark key="[" line="5" column="0" />
@@ -463,7 +469,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523863042666">
+      <file name="/Dummy.txt" timestamp="1523940637631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -522,11 +528,10 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/doc/api/oauth.md" timestamp="1523937703129">
-        <mark key="[" line="52" column="13" />
-        <mark key="]" line="52" column="58" />
-        <mark key="." line="52" column="58" />
-        <mark key="^" line="52" column="58" />
+      <file name="G:/projects/stacktop-auth-server/doc/api/oauth.md" timestamp="1523940712550">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.js" timestamp="1515044531533">
         <mark key="[" line="44" column="0" />
@@ -624,7 +629,7 @@
         <mark key="^" line="86" column="30" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/model.test.js" timestamp="1523862743677">
+      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/model.test.js" timestamp="1523940189926">
         <mark key="'" line="45" column="18" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -871,11 +876,11 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/router.ts" timestamp="1523936929486">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="14" />
-        <mark key="." line="14" column="14" />
-        <mark key="^" line="14" column="14" />
+      <file name="G:/projects/stacktop-auth-server/app/router.ts" timestamp="1523940793427">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/utils/request_options.ts" timestamp="1517666172479">
         <mark key="[" line="11" column="27" />
@@ -1202,7 +1207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1598" column="40" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="1601" column="30" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="1643" column="37" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
       <jump line="1896" column="7" filename="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/@types/sequelize/index.d.ts" />
@@ -1302,46 +1306,47 @@
       <jump line="104" column="4" filename="G:/projects/stacktop-auth-server/app/oauth-server/oauth2.ts" />
       <jump line="38" column="18" filename="G:/projects/stacktop-auth-server/test/app/oauth-server/model.test.js" />
       <jump line="144" column="34" filename="G:/projects/stacktop-auth-server/node_modules/@types/oauth2-server/index.d.ts" />
+      <jump line="62" column="6" filename="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>errAuth</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>errAuth</text>
+        <text>res.body</text>
       </register>
       <register name="/" type="4">
         <text>readFile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBhcHAuaHR0cFJlcXVlc3QoKQogICAgICAgICAgICAucG9zdCgnL3VzZXIvdG9rZW4nKQogICAgICAgICAgICAuc2V0KCdBdXRob3JpemF0aW9uJywgJ0Jhc2ljICcgKyBlcnJBdXRoKQogICAgICAgICAgICAudHlwZSgnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkJykKICAgICAgICAgICAgLnNlbmQoewogICAgICAgICAgICAgICAgZ3JhbnRfdHlwZTogJ3Bhc3N3b3JkJywKICAgICAgICAgICAgICAgIHVzZXJuYW1lOiAnc2Vjb25kX3VzZXInLAogICAgICAgICAgICAgICAgcGFzc3dvcmQ6ICdoYWhpZWhhaGhhJywKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmV4cGVjdCg0MDEpCiAgICAgICAgICAgIC50aGVuKHJlcyA9PiB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShyZXMuYm9keSkpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzLmhlYWRlcnMpOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHJlcy5ib2R5LCBudWxsLCA0KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyJlcnJvciI6ImludmFsaWRfY2xpZW50IiwiZXJyb3JfZGVzY3JpcHRpb24iOiJJbnZhbGlkIGNsaWVudDogY2xpZW50IGlzIGludmFsaWQifQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewoKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">W10oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgILPJuaa3xbvYCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJlcnJvciI6ImludmFsaWRfY2xpZW50IiwiZXJyb3JfZGVzY3JpcHRpb24iOiJJbnZhbGlkIGNsaWVudDogY2Fubm90IHJldHJpZXZlIGNsaWVudCBjcmVkZW50aWFscyJ9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4ocmVzID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5ib2R5KTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5oZWFkZXJzKTsKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImVycm9yIjogImludmFsaWRfZ3JhbnQiLAogICAgICAgICAgICAgICAgImVycm9yX2Rlc2NyaXB0aW9uIjogIkludmFsaWQgZ3JhbnQ6IHVzZXIgY3JlZGVudGlhbHMgYXJlIGludmFsaWQiCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4ocmVzID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5ib2R5KTsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcy5oZWFkZXJzKTsKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyJlcnJvciI6ImludmFsaWRfY2xpZW50IiwiZXJyb3JfZGVzY3JpcHRpb24iOiJJbnZhbGlkIGNsaWVudDogY2xpZW50IGlzIGludmFsaWQifQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAiYWNjZXNzX3Rva2VuIjogIjgwNWU0MjM3YzY4ZjQ3ZTg1YjliY2IzZTY1OGMxYjI2YjkxNGUzMmUiLAogICAgICAgICAgICAgICAgICAidG9rZW5fdHlwZSI6ICJCZWFyZXIiLAogICAgICAgICAgICAgICAgICAiZXhwaXJlc19pbiI6IDM1OTksCiAgICAgICAgICAgICAgICAgICJyZWZyZXNoX3Rva2VuIjogImRmMTc0OGE5NWI0NTk3NjZhNTgyNjIyNWQ1MTZjOGU4MTM3MDRjZDEiICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
