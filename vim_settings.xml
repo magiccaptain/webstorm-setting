@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/projects/stacktop-auth-server/app/oauth-server/model.ts" timestamp="1523863885783">
-        <mark key="'" line="63" column="40" />
-        <mark key="[" line="51" column="180" />
-        <mark key="]" line="51" column="179" />
-        <mark key="." line="51" column="179" />
-        <mark key="^" line="51" column="179" />
+      <file name="G:/projects/stacktop-auth-server/app/oauth-server/model.ts" timestamp="1523925406718">
+        <mark key="'" line="60" column="40" />
+        <mark key="[" line="45" column="44" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="45" column="44" />
+        <mark key="^" line="45" column="44" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1523512326754">
         <mark key="[" line="24" column="24" />
@@ -16,7 +16,7 @@
         <mark key="." line="24" column="37" />
         <mark key="^" line="24" column="37" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/stores/client-store-redis.ts" timestamp="1523511797327">
+      <file name="G:/projects/stacktop-auth-server/app/stores/client-store-redis.ts" timestamp="1523925245917">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="32" />
@@ -48,6 +48,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2.test.js" timestamp="1523925212712" />
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/database.yml" timestamp="1523511864376">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="25" />
@@ -110,6 +111,9 @@
       <file name="G:/projects/stacktop-auth-server/test/app/stores/client-store-redis.test.js" timestamp="1523860173520">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="82" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1523925408754">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="G:/projects/stacktop-auth-server/package.json" timestamp="1523515581989">
         <mark key="'" line="44" column="3" />
@@ -221,8 +225,8 @@
       <jump line="38" column="18" filename="G:/projects/stacktop-auth-server/test/app/oauth-server/model.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2018年4月12日16:55:21</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICBpZDogY2xpZW50LmlkLAogICAgICAgICAgICByZWRpcmVjdFVyaXM6IGNsaWVudCEhLnJlZGlyZWN0VXJpcywKICAgICAgICAgICAgZ3JhbnRzOiBjbGllbnQhIS5ncmFudHMhISwKICAgICAgICAgICAgYWNjZXNzVG9rZW5MaWZldGltZTogY2xpZW50ISEuYWNjZXNzVG9rZW5MaWZldGltZSwKICAgICAgICAgICAgcmVmcmVzaFRva2VuTGlmZXRpbWU6IGNsaWVudCEhLnJlZnJlc2hUb2tlbkxpZmV0aW1lCiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>2018年4月12日16:55:21</text>
@@ -234,7 +238,7 @@
         <text encoding="base64">aW1wb3J0IE9BdXRoMlNlcnZlciA9cmVxdWlyZSgib2F1dGgyLXNlcnZlciIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICBpZDogY2xpZW50LmlkLAogICAgICAgICAgICByZWRpcmVjdFVyaXM6IGNsaWVudCEhLnJlZGlyZWN0VXJpcywKICAgICAgICAgICAgZ3JhbnRzOiBjbGllbnQhIS5ncmFudHMhISwKICAgICAgICAgICAgYWNjZXNzVG9rZW5MaWZldGltZTogY2xpZW50ISEuYWNjZXNzVG9rZW5MaWZldGltZSwKICAgICAgICAgICAgcmVmcmVzaFRva2VuTGlmZXRpbWU6IGNsaWVudCEhLnJlZnJlc2hUb2tlbkxpZmV0aW1lCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -243,13 +247,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -258,7 +262,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50OiBjbGllbnQsCiAgICAgICAgICAgIHVzZXI6IHVzZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
