@@ -21,8 +21,10 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/test/app/stores/client-store-redis.test.js" timestamp="1523804450993">
+      <file name="D:/projects/stacktop-auth-server/test/app/stores/client-store-redis.test.js" timestamp="1523895280605">
         <mark key="'" line="9" column="30" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="28" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514441149895">
         <mark key="[" line="14" column="11" />
@@ -60,6 +62,12 @@
         <mark key="]" line="52" column="51" />
         <mark key="." line="52" column="51" />
         <mark key="^" line="52" column="51" />
+      </file>
+      <file name="D:/projects/stacktop-auth-server/config/config.default.js" timestamp="1523895463115">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_students.ts" timestamp="1517300254148">
         <mark key="[" line="11" column="0" />
@@ -203,10 +211,11 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2.test.js" timestamp="1523891929752">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2.test.js" timestamp="1523895457735">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+        <mark key="^" line="17" column="36" />
       </file>
       <file name="D:/projects/stacktop-auth-server/test/app/controller/home.test.js" timestamp="1523891771527">
         <mark key="[" line="2" column="0" />
@@ -224,7 +233,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/oauth-server/oauth2.ts" timestamp="1523891335133">
+      <file name="D:/projects/stacktop-auth-server/app/oauth-server/oauth2.ts" timestamp="1523895558395">
         <mark key="[" line="106" column="17" />
         <mark key="]" line="106" column="17" />
         <mark key="^" line="106" column="17" />
@@ -372,12 +381,12 @@
         <mark key="." line="35" column="41" />
         <mark key="^" line="35" column="41" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/oauth-server/model.ts" timestamp="1523802903023">
+      <file name="D:/projects/stacktop-auth-server/app/oauth-server/model.ts" timestamp="1523896341345">
         <mark key="'" line="8" column="14" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="45" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="14" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/init_db.ts" timestamp="1517275576922">
         <mark key="[" line="8" column="19" />
@@ -551,7 +560,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523806919986">
+      <file name="/Dummy.txt" timestamp="1523896019579">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -587,7 +596,7 @@
         <mark key="^" line="11" column="26" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/stores/client-store-redis.ts" timestamp="1523799666896">
+      <file name="D:/projects/stacktop-auth-server/app/stores/client-store-redis.ts" timestamp="1523896045932">
         <mark key="'" line="32" column="72" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="45" />
@@ -695,6 +704,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="D:/projects/stacktop-auth-server/node_modules/oauth2-server/lib/server.js" timestamp="1523895620245" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedAuth.tsx" timestamp="1517593633520">
         <mark key="[" line="14" column="27" />
         <mark key="]" line="14" column="30" />
@@ -966,6 +976,7 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="10" />
       </file>
+      <file name="D:/projects/stacktop-auth-server/app/oauth-server/oauth2.js" timestamp="1523895505745" />
       <file name="D:/projects/stacktop-auth-server/node_modules/@types/redis/index.d.ts" timestamp="1523720695910" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/department.ts" timestamp="1517274051463">
         <mark key="[" line="2" column="56" />
@@ -1117,6 +1128,7 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/projects/stacktop-auth-server/node_modules/oauth2-server/lib/handlers/token-handler.js" timestamp="1523896273138" />
       <file name="$USER_HOME$/projects/egg-example/app/controller/auth.ts" timestamp="1516521875668">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="3" column="9" />
@@ -1165,6 +1177,9 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
+      <file name="/JavaScript Console" timestamp="1523896312216">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student_info.ts" timestamp="1517762865500">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -1199,6 +1214,14 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
+      </file>
+      <file name="D:/projects/stacktop-auth-server/test/app/stores/user-store-sql.test.js" timestamp="1523895397740">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="48" />
+      </file>
+      <file name="vm:1787" timestamp="1523895781977">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517762859075">
         <mark key="[" line="5" column="35" />
@@ -1347,40 +1370,41 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>2018年4月15日23:42:04</text>
       </register>
       <register name="/" type="4">
         <text>readFile</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgeyBhcHAsIGFzc2VydCB9ID0gcmVxdWlyZSgnZWdnLW1vY2svYm9vdHN0cmFwJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>hahiehahha</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBhcHAuaHR0cFJlcXVlc3QoKQogICAgICAgICAgICAuZ2V0KCcvdXNlci90b2tlbicpCiAgICAgICAgICAgIC5leHBlY3QoMjAwKQo=</text>
+      <register name="2" type="4">
+        <text>{
+    }</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgbW9jayA9IHJlcXVpcmUoJ2VnZy1tb2NrJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRpbWVvdXQoMTUwMDAwKTsKICAgICAgICBsZXQgYXV0aCA9IG5ldyBCdWZmZXIoJ3Rlc3Q6MTIzNDU2JykudG9TdHJpbmcoJ2Jhc2U2NCcpOwoKICAgICAgICBhd2FpdCBhcHAuaHR0cFJlcXVlc3QoKQogICAgICAgICAgICAucG9zdCgnL3VzZXIvdG9rZW4nKQogICAgICAgICAgICAuc2V0KCdBdXRob3JpemF0aW9uJywgJ0Jhc2ljICcgKyBhdXRoKQogICAgICAgICAgICAudHlwZSgnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkJykKICAgICAgICAgICAgLmV4cGVjdCgyMDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBhcHA7CgogICAgYmVmb3JlKCgpID0+IHsKICAgICAgICBhcHAgPSBtb2NrLmFwcCgpOwogICAgICAgIHJldHVybiBhcHAucmVhZHkoKTsKICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lb3V0KCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
