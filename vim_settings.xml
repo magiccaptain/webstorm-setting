@@ -964,12 +964,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/doc/api/oauth.yaml" timestamp="1524020471337">
-        <mark key="'" line="101" column="25" />
-        <mark key="[" line="58" column="10" />
-        <mark key="]" line="51" column="60" />
-        <mark key="." line="51" column="60" />
-        <mark key="^" line="51" column="60" />
+      <file name="G:/projects/stacktop-auth-server/doc/api/oauth.yaml" timestamp="1524023042596">
+        <mark key="'" line="135" column="25" />
+        <mark key="[" line="125" column="16" />
+        <mark key="]" line="125" column="17" />
+        <mark key="^" line="125" column="17" />
+        <mark key="." line="125" column="17" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/base_data/roles.yml" timestamp="1521689741093">
         <mark key="[" line="57" column="0" />
@@ -1295,115 +1295,44 @@
       <jump line="86" column="25" filename="G:/projects/stacktop-auth-server/doc/api/oauth.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>用户验证失败</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9CYXNlR3JhbnRQYXJhbXMnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>用户验证失败</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>readFile</text>
       </register>
-      <register name="0" type="4">
-        <text>Authorization</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9BdXRoRXJyb3InCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAtICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9CYXNlR3JhbnRQYXJhbXMnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldCgnQXV0aG9yaXphdGlvbicsICdCYXNpYyAnICsgJ3NhYnYnKQo=</text>
+        <text encoding="base64">ICAgICAgYWxsT2Y6CiAgICAgICAgLSAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvQmFzZUdyYW50UGFyYW1zJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIGdyYW50X3R5cGUKICAgICAgcHJvcGVydGllczoKICAgICAgICBncmFudF90eXBlOgogICAgICAgICAgdHlwZTogc3RyaW5nCiAgICAgICAgICBlbnVtOiBbcGFzc3dvcmQsIHJlZnJlc2hdCgogICAgUGFzc3dvcmRHcmFudFBhcmFtczoKICAgICAgYWxsT2Y6CiAgICAgICAgLSAkcmVmOiAnI2NvbXBvbmVudHMvc2NoZW1hcy9CYXNlR3JhbnRQYXJhbXMnCiAgICAgICAgLSB0eXBlOiBvYmplY3QKICAgICAgICAgIHJlcXVpcmVkOgogICAgICAgICAgICAtIHVzZXJuYW1lCiAgICAgICAgICAgIC0gcGFzc3dvcmQKICAgICAgICAgIHByb3BlcnRpZXM6CiAgICAgICAgICAgIHVzZXJuYW1lOgogICAgICAgICAgICAgIHR5cGU6IHN0cmluZwogICAgICAgICAgICBwYXNzd29yZDoKICAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>openapi: 3.0.0
-
-info:
-  version: 1.0.0
-  title: Stacktop 用户验证 API
-
-servers:
-  - url: http://auth.stacktop.cn
-    description: 公网发布地址
-  - url: http://localhost:8222
-    description: 内部访问地址
-
-paths:
-  /oauth/token:
-    post:
-      summary: 授权赋予Token
-      decription: 用户通过不同的授权方式获取访问口令
-      requestBody:
-        description: token 获取参数
-        content:
-          application/x-www-form-urlencoded:
-            schema:
-              oneOf:
-                - $ref: '#components/schemas/PasswordGrantParams'
-            example:
-              PasswordGrant:
-                value:
-                  grant_type: 'password'
-                  username: 'second_user'
-                  password: 'hahiehahha'
-      responses:
-        '200':
-          description: OK
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/TokenResp'
-              example:
-                access_token: '2cb5e8d715d963aa83043f710c89a7bde3ef24d7'
-                token_type: 'Bearer'
-                expires_in: '3599'
-                refresh_token: '0ec3fdad211bb48a82d14dde86e68eb404aa58bf'
-
-components:
-  schemas:
-    TokenResp:
-      type: object
-      required:
-        - access_token
-        - token_type
-        - expires_in
-        - refresh_token
-      properties:
-        access_token:
-          type: string
-          description: 用户的访问token
-        token_type:
-          type: string
-          description: token 类型
-        expires_in:
-          type: integer
-          description: token有效期（秒）
-        refresh_token:
-          type: string
-          description: 刷新token
-
-    BaseGrantParams:
-      type: object
-      required:</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBQYXNzd29yZEdyYW50OgogICAgICAgICAgICAgICAgdmFsdWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-        cors: {
-            enable: false
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludmFsaWRDbGllbnQ6CiAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBjbGllbnQg0enWpMqnsNwKICAgICAgICAgICAgICAgICAgdmFsdWU6IAogICAgICAgICAgICAgICAgICAgIGVycm9yOiBpbnZhbGlkX2NsaWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
