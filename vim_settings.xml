@@ -138,11 +138,11 @@
         <mark key="." line="12" column="80" />
         <mark key="^" line="12" column="80" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/router.ts" timestamp="1523978411363">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
+      <file name="D:/projects/stacktop-auth-server/app/router.ts" timestamp="1523980043947">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="36" />
+        <mark key="^" line="17" column="36" />
+        <mark key="." line="17" column="36" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/model/system.ts" timestamp="1519914519832">
         <mark key="[" line="5" column="39" />
@@ -533,7 +533,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523863042666">
+      <file name="/Dummy.txt" timestamp="1523979576897">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -639,11 +639,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/doc/api/oauth.yaml" timestamp="1523978020925">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="102" column="23" />
+      <file name="D:/projects/stacktop-auth-server/doc/api/oauth.yaml" timestamp="1523979341425">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="50" column="7" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/constants/error_codes.ts" timestamp="1521619196613">
         <mark key="[" line="2" column="29" />
@@ -669,11 +669,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1523978522975">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="31" />
-        <mark key="^" line="4" column="48" />
-        <mark key="." line="4" column="31" />
+      <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1523980108592">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="58" />
+        <mark key="^" line="14" column="58" />
+        <mark key="." line="14" column="58" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/NeedAuth.tsx" timestamp="1517593633520">
         <mark key="[" line="14" column="27" />
@@ -1153,6 +1153,12 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="D:/projects/stacktop-auth-server/gendoc.cmd" timestamp="1523979153157">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="82" />
+        <mark key="^" line="0" column="82" />
+        <mark key="." line="0" column="82" />
+      </file>
       <file name="D:/projects/SmartElective/Server/app/middleware/need_login.ts" timestamp="1520177196466">
         <mark key="[" line="27" column="1" />
         <mark key="]" line="27" column="1" />
@@ -1323,8 +1329,8 @@
       <jump line="144" column="34" filename="G:/projects/stacktop-auth-server/node_modules/@types/oauth2-server/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1332,35 +1338,35 @@
       <register name="/" type="4">
         <text>readFile</text>
       </register>
-      <register name="0" type="4">
-        <text>Invalid grant: user credentials are invalid</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC5zZXQoJ0NvbnRlbnQtVHlwZScsICd0ZXh0L2h0bWwnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmN0eC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmN0eC5hcHAuY29uZmlnLnN0YXRpYy5kaXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLmN0eC5yZW5kZXIoJ2luZGV4Lmh0bWwnLCB7fSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
