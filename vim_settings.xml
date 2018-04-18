@@ -466,7 +466,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523956228526">
+      <file name="/Dummy.txt" timestamp="1524015075506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -626,11 +626,11 @@
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-authenticate.test.js" timestamp="1523947756085">
+      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-authenticate.test.js" timestamp="1524015139239">
         <mark key="[" line="32" column="24" />
-        <mark key="]" line="33" column="7" />
-        <mark key="." line="33" column="7" />
-        <mark key="^" line="33" column="7" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
+        <mark key="^" line="32" column="24" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/LoginPage.tsx" timestamp="1517503343102">
         <mark key="[" line="9" column="0" />
@@ -1302,7 +1302,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImVycm9yIjogInVuYXV0aG9yaXplZF9yZXF1ZXN0IiwKICAgICAgICAgICAgICAgICJlcnJvcl9kZXNjcmlwdGlvbiI6ICJVbmF1dGhvcml6ZWQgcmVxdWVzdDogbm8gYXV0aGVudGljYXRpb24gZ2l2ZW4iCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>200</text>
@@ -1314,28 +1314,28 @@
         <text encoding="base64">KyBSZXNwb25zZSA0MDEgKGFwcGxpY2F0aW9uL2pzb24pCgogICAgyLHJ2UF1dGhvcml6YXRpb24gtcQgdG9rZW4g1rUKCiAgICArIEJvZHkKCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJlcnJvciI6ICJ1bmF1dGhvcml6ZWRfcmVxdWVzdCIsCiAgICAgICAgICAgICAgICAiZXJyb3JfZGVzY3JpcHRpb24iOiAiVW5hdXRob3JpemVkIHJlcXVlc3Q6IG5vIGF1dGhlbnRpY2F0aW9uIGdpdmVuIgogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImVycm9yIjogInVuYXV0aG9yaXplZF9yZXF1ZXN0IiwKICAgICAgICAgICAgICAgICJlcnJvcl9kZXNjcmlwdGlvbiI6ICJVbmF1dGhvcml6ZWQgcmVxdWVzdDogbm8gYXV0aGVudGljYXRpb24gZ2l2ZW4iCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIMixydlBdXRob3JpemF0aW9uILXEIHRva2VuINa1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInN0YXR1cyI6ICJPSyIsCiAgICAgICAgICAgICAgICAidXNlciI6IHsKICAgICAgICAgICAgICAgICAgICAiaWQiOiAiMyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgImVycm9yIjogInVuYXV0aG9yaXplZF9yZXF1ZXN0IiwKICAgICAgICAgICAgICAgICJlcnJvcl9kZXNjcmlwdGlvbiI6ICJVbmF1dGhvcml6ZWQgcmVxdWVzdDogbm8gYXV0aGVudGljYXRpb24gZ2l2ZW4iCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgILe1u9jR6dakdG9rZW4gVXNlcrbU06a1xElECg==</text>
+        <text encoding="base64">ICAgIMixydlBdXRob3JpemF0aW9uILXEIHRva2VuINa1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInN0YXR1cyI6ICJPSyIsCiAgICAgICAgICAgICAgICAidXNlciI6IHsKICAgICAgICAgICAgICAgICAgICAiaWQiOiAiMyIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgILe1u9jR6dakdG9rZW4gVXNlcrbU06a1xElECg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICsgQm9keQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
