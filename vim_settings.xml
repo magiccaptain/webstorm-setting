@@ -383,12 +383,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="6" column="3" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/test/app/stores/user-store-sql.test.js" timestamp="1523860237819">
-        <mark key="'" line="19" column="10" />
-        <mark key="[" line="35" column="52" />
-        <mark key="]" line="35" column="61" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/services/elective.ts" timestamp="1517650194409">
         <mark key="[" line="9" column="27" />
         <mark key="]" line="9" column="27" />
@@ -462,12 +456,6 @@
         <mark key="." line="8" column="23" />
       </file>
       <file name="D:/projects/stacktop-auth-server/node_modules/@types/superagent/index.d.ts" timestamp="1524237498564" />
-      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/User.ts" timestamp="1523511424530">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="G:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1523932222028">
         <mark key="[" line="43" column="106" />
         <mark key="]" line="43" column="105" />
@@ -551,12 +539,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="27" />
-      </file>
-      <file name="G:/projects/stacktop-auth-server/app/oauth-server/oauth2.ts" timestamp="1523927220292">
-        <mark key="'" line="104" column="4" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_student.ts" timestamp="1517321785473">
         <mark key="[" line="49" column="0" />
@@ -1035,19 +1017,13 @@
         <mark key="." line="39" column="49" />
         <mark key="^" line="39" column="49" />
       </file>
-      <file name="D:/projects/SC/openapi-parser/test/fixtures/dereference/oauth.yaml" timestamp="1524241170787">
+      <file name="D:/projects/SC/openapi-parser/test/fixtures/dereference/oauth.yaml" timestamp="1524241709686">
         <mark key="[" line="131" column="19" />
         <mark key="]" line="131" column="39" />
         <mark key="." line="131" column="39" />
         <mark key="^" line="131" column="39" />
       </file>
       <file name="D:/projects/SC/openapi-parser/lib/visitors/path.visitor.ts" timestamp="1524148355302" />
-      <file name="G:/projects/stacktop-auth-server/app/stores/token-store-redis.ts" timestamp="1523862831540">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="D:/projects/SC/openapi-parser/test/@types/karma-read-json/index.d.ts" timestamp="1524065630541">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1095,11 +1071,12 @@
         <mark key="." line="144" column="23" />
         <mark key="^" line="144" column="23" />
       </file>
-      <file name="D:/projects/SC/openapi-parser/lib/library.utils.ts" timestamp="1524241513145">
-        <mark key="'" line="34" column="26" />
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="." line="201" column="0" />
+      <file name="D:/projects/SC/openapi-parser/lib/library.utils.ts" timestamp="1524242127689">
+        <mark key="'" line="34" column="17" />
+        <mark key="[" line="199" column="39" />
+        <mark key="]" line="199" column="39" />
+        <mark key="." line="199" column="39" />
+        <mark key="^" line="199" column="39" />
       </file>
       <file name="D:/projects/stacktop-auth-server/node_modules/json-schema-ref-parser/lib/index.d.ts" timestamp="1524231157906">
         <mark key="'" line="155" column="0" />
@@ -1249,12 +1226,6 @@
         <mark key="]" line="9" column="29" />
         <mark key="." line="9" column="29" />
         <mark key="^" line="9" column="29" />
-      </file>
-      <file name="G:/projects/stacktop-auth-server/package.json" timestamp="1523515581989">
-        <mark key="'" line="44" column="3" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/projects/stacktop-auth-server/gendoc.cmd" timestamp="1524238790607">
         <mark key="[" line="0" column="0" />
@@ -1438,11 +1409,11 @@
       <jump line="97" column="32" filename="D:/projects/SC/openapi-parser/test/empty-document.test.ts" />
       <jump line="29" column="13" filename="D:/projects/SC/openapi-parser/lib/models/3.0/document.model.ts" />
       <jump line="198" column="32" filename="D:/projects/SC/openapi-parser/lib/library.utils.ts" />
-      <jump line="34" column="26" filename="D:/projects/SC/openapi-parser/lib/library.utils.ts" />
+      <jump line="34" column="17" filename="D:/projects/SC/openapi-parser/lib/library.utils.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF8ubWVyYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN1Yik7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>dubn</text>
@@ -1454,31 +1425,31 @@
         <text>schema['$ref']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF8ubWVyYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN1Yik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHsuLi5zdWIsIC4uLnJldH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvanNvbi1zY2hlbWEiOiAiXjYuMC4xIiwKICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0LjEwNyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN1Yik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF8ubWVyYWdlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHsuLi5zdWIsIC4uLnJldH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvanNvbi1zY2hlbWEiOiAiXjYuMC4xIiwKICAgICJAdHlwZXMvbG9kYXNoIjogIl40LjE0LjEwNyIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2NoZW1hIGluc3RhbmNlb2YgT2FzU2NoZW1hKSB7CgogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzY2gpCg==</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
