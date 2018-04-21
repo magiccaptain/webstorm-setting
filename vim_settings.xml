@@ -74,6 +74,7 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
+      <file name="D:/projects/SC/openapi-parser/lib/models/common/operation.model.ts" timestamp="1524318778678" />
       <file name="D:/projects/SC/openapi-parser/lib/visitors/visitor.utils.ts" timestamp="1524146566479" />
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1523512326754">
         <mark key="[" line="24" column="24" />
@@ -360,7 +361,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/package.json" timestamp="1524315916735">
+      <file name="D:/projects/stacktop-auth-server/package.json" timestamp="1524317898511">
         <mark key="'" line="21" column="27" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -379,11 +380,10 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524238633207">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="24" />
+      <file name="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524318890754">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="D:/projects/stacktop-auth-server/node_modules/egg-mock/app.js" timestamp="1524236211009" />
       <file name="D:/projects/SmartElective/Server/app/controller/teachers.ts" timestamp="1519743299442">
@@ -606,11 +606,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="D:/projects/github/ReDoc-master/demo/openapi.yaml" timestamp="1524312610351">
-        <mark key="'" line="913" column="16" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="152" column="12" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_student.ts" timestamp="1517321785473">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
@@ -747,18 +742,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/doc/api/oauth.yaml" timestamp="1524317574402">
+      <file name="D:/projects/stacktop-auth-server/doc/api/oauth.yaml" timestamp="1524318113537">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="161" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="D:/projects/SC/openapi-parser/test/fixtures/full-io/3.0/components/components-examples.json" timestamp="1524066708941" />
-      <file name="D:/projects/stacktop-auth-server/node_modules/egg-mock/index.d.ts" timestamp="1524237069834">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="94" column="34" />
-        <mark key="]" line="94" column="78" />
-      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/constants/error_codes.ts" timestamp="1521619196613">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="30" />
@@ -850,18 +840,18 @@
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
       </file>
-      <file name="D:/projects/SC/openapi-parser/lib/models/3.0/media-type.model.ts" timestamp="1524239331744" />
+      <file name="D:/projects/SC/openapi-parser/lib/models/3.0/media-type.model.ts" timestamp="1524317856273" />
       <file name="D:/projects/SmartElective/Server/app/errors.ts" timestamp="1519913711460">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/test/app/packages/magic-open-api.test.ts" timestamp="1524239422169">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="48" column="44" />
-        <mark key="^" line="48" column="44" />
+      <file name="D:/projects/stacktop-auth-server/test/app/packages/magic-open-api.test.ts" timestamp="1524318809483">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/router.js" timestamp="1520177911752">
         <mark key="[" line="12" column="36" />
@@ -1226,7 +1216,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="D:/projects/SC/openapi-parser/lib/readers/js2model.reader.ts" timestamp="1524063638127" />
+      <file name="D:/projects/SC/openapi-parser/lib/readers/js2model.reader.ts" timestamp="1524318619660" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1517673018679">
         <mark key="[" line="199" column="33" />
         <mark key="]" line="199" column="49" />
@@ -1444,6 +1434,7 @@
       <file name="D:/projects/stacktop-auth-server/app/stores/user-store-sql.ts" timestamp="1523975996465" />
       <file name="D:/projects/open-api-redoc/front-end/src/redoc/services/HistoryService.ts" timestamp="1524300515928" />
       <file name="D:/projects/SC/openapi-parser/test/fixtures/partial-write/3.0/example.json" timestamp="1524066679613" />
+      <file name="D:/projects/SC/openapi-parser/lib/models/3.0/operation.model.ts" timestamp="1524318709015" />
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1514361160978">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="7" />
@@ -1464,7 +1455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="G:/projects/StackTopAuthServer/stack-top-auth-server/package.json" />
       <jump line="12" column="0" filename="G:/projects/stacktop-auth-server/app/stores/user-store.ts" />
       <jump line="21" column="0" filename="G:/projects/stacktop-auth-server/app/stores/user-store-sql.ts" />
       <jump line="30" column="6" filename="G:/projects/stacktop-auth-server/app/stores/user-store.ts" />
@@ -1564,46 +1554,47 @@
       <jump line="22" column="27" filename="D:/projects/stacktop-auth-server/package.json" />
       <jump line="9" column="6" filename="D:/projects/stacktop-auth-server/app/public/doc/index.html" />
       <jump line="0" column="0" filename="D:/projects/stacktop-auth-server/app/public/doc/index.html" />
+      <jump line="47" column="0" filename="D:/projects/stacktop-auth-server/test/app/packages/magic-open-api.test.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGggPSByZXF1aXJlKCJwYXRoIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>spec</text>
+        <text>Doc</text>
       </register>
       <register name="/" type="4">
         <text>redoc</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBzcGVjID0gYXdhaXQgcGFyc2VyLmJ1bmRsZShzcGVjVXJsT3JPYmplY3QsIHsKICAgIHJlc29sdmU6IHsgaHR0cDogeyB3aXRoQ3JlZGVudGlhbHM6IGZhbHNlIH0gfSwKICB9IGFzIG9iamVjdCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PE9hczMwT3BlcmF0aW9uPiBkb2N1bWVudC5wYXRocy5wYXRoSXRlbSgnL29hdXRoL3Rva2VuJykucG9zdA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGggPSByZXF1aXJlKCJwYXRoIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgSnNvblNjaGVtYVJlZlBhcnNlciBmcm9tICdqc29uLXNjaGVtYS1yZWYtcGFyc2VyJzsK</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZXNEb2MuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwYXJzZXIgPSBuZXcgSnNvblNjaGVtYVJlZlBhcnNlcigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzcGVjID0gYXdhaXQgcGFyc2VyLmRlcmVmZXJlbmNlKGpzb24sIHsKICAgICAgICAgICAgcmVzb2x2ZToge2h0dHA6IHt3aXRoQ3JlZGVudGlhbHM6IGZhbHNlfX0sCiAgICAgICAgfSBhcyBvYmplY3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzcGVjKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQganNvbiA9IHlhbWwuc2FmZUxvYWQoZnMucmVhZEZpbGVTeW5jKCIuL2RvYy9hcGkvb2F1dGgueWFtbCIsICd1dGY4JykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYXV0aFRva2VuLnJlc3BvbnNlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYXV0aFRva2VuRG9jLnJlc3BvbnNlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
