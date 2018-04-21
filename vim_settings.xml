@@ -379,6 +379,12 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
       </file>
+      <file name="D:/projects/open-api-redoc/front-end/libs/redoc/services/SearchStore.js" timestamp="1524302574099">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/services/versions.js" timestamp="1514876050732">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="8" column="0" />
@@ -504,6 +510,7 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/projects/open-api-redoc/front-end/libs/redoc/components/RedocStandalone.d.ts" timestamp="1524302359416" />
       <file name="$USER_HOME$/projects/egg-example/app/model/student.ts" timestamp="1516985720659">
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="9" />
@@ -539,6 +546,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/projects/open-api-redoc/front-end/libs/redoc/services/SearchWorker.worker.js" timestamp="1524302845792">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="34" column="13" />
+        <mark key="^" line="34" column="13" />
+        <mark key="." line="34" column="13" />
+      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/extend/application.ts" timestamp="1521534879282">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -569,6 +582,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
+      </file>
+      <file name="D:/projects/open-api-redoc/front-end/libs/redoc/components/ErrorBoundary.js" timestamp="1524302473575">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="16" />
+        <mark key="." line="31" column="16" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
         <mark key="[" line="24" column="20" />
@@ -1003,6 +1021,7 @@
         <mark key="^" line="4" column="0" />
       </file>
       <file name="D:/projects/stacktop-auth-server/node_modules/egg-mock/bootstrap.js" timestamp="1524236357015" />
+      <file name="D:/projects/open-api-redoc/front-end/libs/redoc/components/RedocStandalone.js" timestamp="1524302411865" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_session.ts" timestamp="1517394990020">
         <mark key="[" line="39" column="31" />
         <mark key="]" line="39" column="49" />
@@ -1051,11 +1070,10 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="7" column="68" />
       </file>
-      <file name="D:/projects/open-api-redoc/front-end/src/index.js" timestamp="1524300731942">
-        <mark key="[" line="15" column="46" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="45" />
+      <file name="D:/projects/open-api-redoc/front-end/src/index.js" timestamp="1524302944433">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/middleware/check_role.ts" timestamp="1520252177488">
         <mark key="[" line="32" column="0" />
@@ -1220,9 +1238,6 @@
         <mark key="]" line="10" column="10" />
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1524241295382">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student_info.ts" timestamp="1517762865500">
         <mark key="[" line="9" column="29" />
@@ -1422,11 +1437,11 @@
       <jump line="170" column="6" filename="D:/projects/SC/openapi-parser/lib/library.utils.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, SearchBox</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUmVkb2NTdGFuZGFsb25lIH0gZnJvbSAnLi4vbGlicy9yZWRvYy9jb21wb25lbnRzL1JlZG9jU3RhbmRhbG9uZSc7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, SearchBox</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Content</text>
@@ -1435,31 +1450,41 @@
         <text encoding="base64">ICAgICAgdHlwZTogb2JqZWN0CiAgICAgIHJlcXVpcmVkOgogICAgICAgIC0gZ3JhbnRfdHlwZQogICAgICBwcm9wZXJ0aWVzOgogICAgICAgIGdyYW50X3R5cGU6CiAgICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICAgIGVudW06IFtwYXNzd29yZCwgcmVmcmVzaF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJleHBlcmltZW50YWxEZWNvcmF0b3JzIjogdHJ1ZSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVkb2NTdGFuZGFsb25lIH0gZnJvbSAnLi4vbGlicy9yZWRvYy9jb21wb25lbnRzL1JlZG9jU3RhbmRhbG9uZSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzbWFsbD4gUmVEb2MgVmVyc2lvbjoge19fUkVET0NfVkVSU0lPTl9ffTwvc21hbGw+IDxiciAvPgogICAgICAgICAgPHNtYWxsPiBDb21taXQ6IHtfX1JFRE9DX1JFVklTSU9OX199PC9zbWFsbD4K</text>
+        <text encoding="base64">ICAgIHNwZWNVcmw9Imh0dHA6Ly9sb2NhbGhvc3Q6NzAwMS9kb2Mvb3BlbmFwaSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJyZWRvYyI6ICJeMi4wLjAtYWxwaGEuMTciLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSVNfQlJPV1NFUiB9IGZyb20gJy4uL3V0aWxzLyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtSZWRvY1N0YW5kYWxvbmV9IGZyb20gJ3JlZG9jJzsK</text>
+        <text encoding="base64">bGV0IHdvcmtlcjsKaWYgKElTX0JST1dTRVIpIHsKICAgIHRyeSB7CiAgICAgICAgLy8gdHNsaW50OmRpc2FibGUtbmV4dC1saW5lCiAgICAgICAgd29ya2VyID0gcmVxdWlyZSgnd29ya2VyaXplLWxvYWRlcj9pbmxpbmUmZmFsbGJhY2s9ZmFsc2UhLi9TZWFyY2hXb3JrZXIud29ya2VyJyk7CiAgICB9CiAgICBjYXRjaCAoZSkgewogICAgICAgIHdvcmtlciA9IHJlcXVpcmUoJy4vU2VhcmNoV29ya2VyLndvcmtlcicpLmRlZmF1bHQ7CiAgICB9Cn0KZWxzZSB7CiAgICB3b3JrZXIgPSByZXF1aXJlKCcuL1NlYXJjaFdvcmtlci53b3JrZXInKS5kZWZhdWx0Owp9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>React.createElement(&quot;br&quot;, null),
+                React.createElement(&quot;small&quot;, null,
+                    &quot; Commit: &quot;,
+                    __REDOC_REVISION__)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlYWN0LmNyZWF0ZUVsZW1lbnQoInNtYWxsIiwgbnVsbCwKICAgICAgICAgICAgICAgICAgICAiIFJlRG9jIFZlcnNpb246ICIsCiAgICAgICAgICAgICAgICAgICAgX19SRURPQ19WRVJTSU9OX18pLAogICAgICAgICAgICAgICAgIiAiLAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ewogICJjb21waWxlck9wdGlvbnMiOiB7CiAgICAibW9kdWxlIjogImNvbW1vbmpzIiwKICAgICJ0YXJnZXQiOiAiZXM1IiwKICAgICJzb3VyY2VNYXAiOiB0cnVlCiAgfSwKICAiZXhjbHVkZSI6IFsKICAgICJub2RlX21vZHVsZXMiCiAgXQp9ClYK</text>
+      <register name="7" type="4">
+        <text>React.createElement(&quot;small&quot;, null,
+                    &quot; ReDoc Version: &quot;,
+                    __REDOC_VERSION__),
+                &quot; &quot;,
+                React.createElement(&quot;br&quot;, null),
+                React.createElement(&quot;small&quot;, null,
+                    &quot; Commit: &quot;,
+                    __REDOC_REVISION__))</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjguMyIK</text>
+        <text encoding="base64">ICAgICJleHBlcmltZW50YWxEZWNvcmF0b3JzIjogdHJ1ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ0eXBlc2NyaXB0IjogIl4yLjguMyIK</text>
+        <text encoding="base64">ICAgICAgICAgIDxzbWFsbD4gUmVEb2MgVmVyc2lvbjoge19fUkVET0NfVkVSU0lPTl9ffTwvc21hbGw+IDxiciAvPgogICAgICAgICAgPHNtYWxsPiBDb21taXQ6IHtfX1JFRE9DX1JFVklTSU9OX199PC9zbWFsbD4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
