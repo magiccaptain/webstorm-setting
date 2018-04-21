@@ -340,11 +340,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="0" column="38" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/package.json" timestamp="1524229735878">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="12" column="27" />
+      <file name="D:/projects/stacktop-auth-server/package.json" timestamp="1524315916735">
+        <mark key="'" line="21" column="27" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/TeacherLoginForm/TeacherLoginForm.ts" timestamp="1517485751970">
         <mark key="[" line="1" column="2" />
@@ -1051,7 +1052,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/public/doc/index.html" timestamp="1524315446510">
+      <file name="D:/projects/stacktop-auth-server/app/public/doc/index.html" timestamp="1524315882934">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="22" column="69" />
@@ -1217,11 +1218,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="D:/projects/open-api-redoc/front-end/src/index.ejs" timestamp="1524299661218">
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="7" column="88" />
-        <mark key="^" line="7" column="88" />
-        <mark key="." line="7" column="88" />
+      <file name="D:/projects/open-api-redoc/front-end/src/index.ejs" timestamp="1524315814307">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_class_place.ts" timestamp="1517394096107">
         <mark key="[" line="47" column="68" />
@@ -1390,7 +1390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="828" column="33" filename="G:/projects/StackTopAuthServer/stack-top-auth-server/node_modules/@types/node/index.d.ts" />
       <jump line="829" column="32" filename="G:/projects/StackTopAuthServer/stack-top-auth-server/node_modules/@types/node/index.d.ts" />
       <jump line="830" column="32" filename="G:/projects/StackTopAuthServer/stack-top-auth-server/node_modules/@types/node/index.d.ts" />
       <jump line="15" column="0" filename="G:/projects/StackTopAuthServer/stack-top-auth-server/package.json" />
@@ -1490,33 +1489,34 @@
       <jump line="0" column="0" filename="D:/projects/github/ReDoc-master/demo/oauth.yaml" />
       <jump line="10" column="15300" filename="D:/projects/stacktop-auth-server/app/view/index.html" />
       <jump line="0" column="0" filename="D:/projects/stacktop-auth-server/app/view/index.html" />
+      <jump line="22" column="27" filename="D:/projects/stacktop-auth-server/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWRvYyI6ICJeMi4wLjAtYWxwaGEuMTciLAo=</text>
       </register>
       <register name="-" type="4">
         <text>https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js</text>
       </register>
       <register name="/" type="4">
-        <text>Place an order for a pet</text>
+        <text>redoc</text>
       </register>
       <register name="0" type="4">
         <text>redoc-container</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWRvYyI6ICJeMi4wLjAtYWxwaGEuMTciLAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>, {
-        scrollYOffset: 50
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICA8JSAlPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>, {
+        scrollYOffset: 50
+    }</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1525,28 +1525,27 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHJlZG9jIHNwZWMtdXJsPScvZG9jL29wZW5hcGknPjwvcmVkb2M+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Im5vZGVfbW9kdWxlcy9yZWRvYy9idW5kbGVzL3JlZG9jLnN0YW5kYWxvbmUuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGRvYygpIHsKICAgICAgICBsZXQgZG9jUGF0aCA9IHBhdGguam9pbih0aGlzLmN0eC5hcHAuY29uZmlnLnN0YXRpYy5kaXIsICdkb2MnLCAnaW5kZXguaHRtbCcpOwogICAgICAgIHRoaXMuY3R4LnNldCgnQ29udGVudC1UeXBlJywgJ3RleHQvaHRtbCcpOwogICAgICAgIHRoaXMuY3R4LmJvZHkgPSBmcy5yZWFkRmlsZVN5bmMoZG9jUGF0aCkKICAgIH0K</text>
+        <text encoding="base64">PHJlZG9jIHNwZWMtdXJsPScvZG9jL29wZW5hcGknPjwvcmVkb2M+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Place an order for a pet</last-search>
+      <last-search>redoc</last-search>
       <last-offset />
-      <last-pattern>Place an order for a pet</last-pattern>
+      <last-pattern>redoc</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>use</entry>
         <entry>local</entry>
         <entry>UserProjectId</entry>
         <entry>fs</entry>
@@ -1566,6 +1565,7 @@
         <entry>php</entry>
         <entry>PHP</entry>
         <entry>Place an order for a pet</entry>
+        <entry>redoc</entry>
       </history-search>
       <history-cmd />
       <history-expr />
