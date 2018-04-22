@@ -364,12 +364,12 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="D:/projects/SC/egg-dit-apis/lib/dit-apis.ts" timestamp="1524407016266">
+      <file name="D:/projects/SC/egg-dit-apis/lib/dit-apis.ts" timestamp="1524408360366">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="78" column="16" />
-        <mark key="]" line="78" column="35" />
-        <mark key="^" line="78" column="35" />
-        <mark key="." line="78" column="35" />
+        <mark key="[" line="88" column="30" />
+        <mark key="]" line="88" column="39" />
+        <mark key="^" line="88" column="39" />
+        <mark key="." line="88" column="39" />
       </file>
       <file name="G:/projects/stacktop-auth-server/user-store-db.yml" timestamp="1523512301724">
         <mark key="[" line="4" column="11" />
@@ -1537,7 +1537,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>(...[1, 2])</text>
+        <text encoding="base64">OiBzdXBlcnRlc3QuUmVzcG9uc2Ug</text>
       </register>
       <register name="/" type="4">
         <text>x-code</text>
@@ -1549,13 +1549,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -1567,10 +1567,10 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
