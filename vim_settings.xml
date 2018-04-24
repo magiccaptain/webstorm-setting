@@ -777,11 +777,11 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/stores/scope-store-redis.ts" timestamp="1524496256995">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="65" />
+      <file name="D:/projects/stacktop-auth-server/app/stores/scope-store-redis.ts" timestamp="1524578405480">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="68" column="28" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/UserGroup.ts" timestamp="1520315893632">
         <mark key="[" line="3" column="15" />
@@ -1305,6 +1305,12 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
+      <file name="D:/projects/stacktop-auth-server/app/stores/redis-client.ts" timestamp="1524577493859">
+        <mark key="[" line="41" column="67" />
+        <mark key="]" line="41" column="67" />
+        <mark key="." line="41" column="67" />
+        <mark key="^" line="41" column="67" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1517673018679">
         <mark key="[" line="199" column="33" />
         <mark key="]" line="199" column="49" />
@@ -1656,40 +1662,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>stacktop:auth-server</text>
+        <text>await this.validateSingleScope(user, client, s)</text>
       </register>
       <register name="/" type="4">
         <text>x-code</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IE9BdXRoMlNlcnZlciA9cmVxdWlyZSgib2F1dGgyLXNlcnZlciIpOwoKdHlwZSBUb2tlbiA9IE9BdXRoMlNlcnZlci5Ub2tlbjsKdHlwZSBDbGllbnQgPSBPQXV0aDJTZXJ2ZXIuQ2xpZW50Owp0eXBlIFVzZXIgPSBPQXV0aDJTZXJ2ZXIuVXNlcjsKdHlwZSBGYWxzZXkgPSBPQXV0aDJTZXJ2ZXIuRmFsc2V5Owo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQga2V5ID0gW3RoaXMucHJlZml4LCAnc2NvcGVzJywgY2xpZW50LmlkLCBzY29wZV0uam9pbignOicpOwoKICAgICAgICAvLyBzY29wZSCyu7Tm1NoKICAgICAgICBsZXQgbGVuZ3RoID0gYXdhaXQgc2NhcmRBc3luYyhrZXkpOwogICAgICAgIGlmIChsZW5ndGggPCAxKSB7ICAgICAgICAgICAvLyDDu9PQc2NvcGUKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0gZWxzZSBpZiAobGVuZ3RoID09IDEpIHsgICAvLyDL+dPQ08O7p7a8v8nS1Mq508O4w3Njb3BlCiAgICAgICAgICAgIHJldHVybiBzY29wZTsKICAgICAgICB9IGVsc2UgeyAgICAgICAgICAgICAgICAgICAgLy8g1ri2qNPDu6e/ydLUyrnTw3Njb3BlCiAgICAgICAgICAgIHJldHVybiBhd2FpdCBzaXNtZW1iZXJBc3luYyhrZXksIHVzZXIuaWQpID09IDEgPyBzY29wZSA6IGZhbHNlCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3MuZmluCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGtleVByZWZpeCBkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
