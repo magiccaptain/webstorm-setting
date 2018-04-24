@@ -62,6 +62,7 @@
         <mark key="." line="39" column="18" />
         <mark key="^" line="39" column="18" />
       </file>
+      <file name="D:/projects/stacktop-auth-server/app/stores/token-store-redis.ts" timestamp="1524495349393" />
       <file name="D:/projects/stacktop-auth-server/config/config.default.js" timestamp="1524485951197">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="25" column="5" />
@@ -659,10 +660,10 @@
         <mark key="^" line="86" column="30" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/stores/scope-store.ts" timestamp="1524495254800">
+      <file name="D:/projects/stacktop-auth-server/app/stores/scope-store.ts" timestamp="1524495277000">
         <mark key="'" line="9" column="32" />
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="14" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="33" />
         <mark key="." line="11" column="14" />
         <mark key="^" line="11" column="14" />
       </file>
@@ -679,10 +680,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524413144783">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1524496293469">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="D:/projects/open-api-redoc/front-end/libs/redoc/components/ErrorBoundary.js" timestamp="1524302473575">
         <mark key="[" line="31" column="16" />
@@ -776,11 +777,11 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/stores/scope-store-redis.ts" timestamp="1524495245961">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
+      <file name="D:/projects/stacktop-auth-server/app/stores/scope-store-redis.ts" timestamp="1524496256995">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="18" column="65" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/UserGroup.ts" timestamp="1520315893632">
         <mark key="[" line="3" column="15" />
@@ -1446,9 +1447,6 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="/JavaScript Console" timestamp="1524487236328">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student_info.ts" timestamp="1517762865500">
         <mark key="[" line="9" column="29" />
         <mark key="]" line="9" column="29" />
@@ -1658,40 +1656,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>为client 分配一个 scope, scope 名为 client id</text>
+        <text>stacktop:auth-server</text>
       </register>
       <register name="/" type="4">
         <text>x-code</text>
       </register>
-      <register name="0" type="4">
-        <text>如果一个scope没有指定User，则表示该scope可以被所有用户申请</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IE9BdXRoMlNlcnZlciA9cmVxdWlyZSgib2F1dGgyLXNlcnZlciIpOwoKdHlwZSBUb2tlbiA9IE9BdXRoMlNlcnZlci5Ub2tlbjsKdHlwZSBDbGllbnQgPSBPQXV0aDJTZXJ2ZXIuQ2xpZW50Owp0eXBlIFVzZXIgPSBPQXV0aDJTZXJ2ZXIuVXNlcjsKdHlwZSBGYWxzZXkgPSBPQXV0aDJTZXJ2ZXIuRmFsc2V5Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHlwbwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFwcC5nZXQoJy9kb2Mvb3BlbmFwaScsICdkb2Mub3BlbmFwaScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvb2F1dGgvYXV0aGVudGljYXRlOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtleVByZWZpeCBkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
