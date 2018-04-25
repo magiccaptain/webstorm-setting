@@ -9,12 +9,6 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="44" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/controller/doc.ts" timestamp="1524019243107">
-        <mark key="[" line="9" column="56" />
-        <mark key="]" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-        <mark key="^" line="9" column="56" />
-      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514441149895">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="20" />
@@ -50,14 +44,6 @@
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
-      </file>
-      <file name="G:/projects/stacktop-auth-server/app/oauth-server/model.ts" timestamp="1523932383650">
-        <mark key="'" line="59" column="40" />
-        <mark key="j" line="39" column="29" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="21" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1523512326754">
         <mark key="[" line="24" column="24" />
@@ -368,6 +354,12 @@
         <mark key="]" line="10" column="9" />
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
+      </file>
+      <file name="G:/projects/stacktop-auth-server/test/app/stores/scope-store-redis.test.ts" timestamp="1524625469035">
+        <mark key="[" line="35" column="43" />
+        <mark key="]" line="35" column="43" />
+        <mark key="." line="35" column="43" />
+        <mark key="^" line="36" column="7" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/extend/application.ts" timestamp="1516986826457">
         <mark key="[" line="17" column="0" />
@@ -795,6 +787,7 @@
         <mark key="." line="25" column="14" />
         <mark key="^" line="25" column="14" />
       </file>
+      <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/node_modules/egg-passport/lib/passport.js" timestamp="1524625472605" />
       <file name="D:/projects/SmartElective/Server/package.json" timestamp="1519220716024">
         <mark key="[" line="1" column="11" />
         <mark key="]" line="1" column="23" />
@@ -883,7 +876,7 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-        <mark key="^" line="16" column="42" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/utils/request_options.ts" timestamp="1517666172479">
         <mark key="[" line="11" column="27" />
@@ -970,11 +963,7 @@
         <mark key="." line="0" column="24" />
       </file>
       <file name="G:/projects/stacktop-auth-server/doc/api/oauth.yaml" timestamp="1524023042596">
-        <mark key="'" line="135" column="25" />
-        <mark key="[" line="125" column="16" />
-        <mark key="]" line="125" column="17" />
-        <mark key="^" line="125" column="17" />
-        <mark key="." line="125" column="17" />
+        <mark key="'" line="0" column="25" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/base_data/roles.yml" timestamp="1521689741093">
         <mark key="[" line="57" column="0" />
@@ -1104,9 +1093,6 @@
         <mark key="]" line="10" column="10" />
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1523931386653">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StudentMainPage.tsx" timestamp="1517505685956">
         <mark key="[" line="28" column="56" />
@@ -1302,11 +1288,11 @@
       <jump line="86" column="25" filename="G:/projects/stacktop-auth-server/doc/api/oauth.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9CYXNlR3JhbnRQYXJhbXMnCg==</text>
+      <register name="&quot;" type="4">
+        <text>secrect</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>secrect</text>
       </register>
       <register name="/" type="4">
         <text>readFile</text>
@@ -1315,31 +1301,35 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9BdXRoRXJyb3InCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9CYXNlR3JhbnRQYXJhbXMnCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyID0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWxsT2Y6CiAgICAgICAgLSAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvQmFzZUdyYW50UGFyYW1zJwo=</text>
+      <register name="2" type="4">
+        <text>await userStore.saveUser({
+            username: '18637869365',
+            provider: 'local',
+            password: bcrypt.hashSync('101019', bcrypt.genSaltSync(10)),
+        });</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHMK</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtICRyZWY6ICcjL2NvbXBvbmVudHMvc2NoZW1hcy9CYXNlR3JhbnRQYXJhbXMnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWxsT2Y6CiAgICAgICAgLSAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvQmFzZUdyYW50UGFyYW1zJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludmFsaWRDbGllbnQ6CiAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBjbGllbnQg0enWpMqnsNwKICAgICAgICAgICAgICAgICAgdmFsdWU6IAogICAgICAgICAgICAgICAgICAgIGVycm9yOiBpbnZhbGlkX2NsaWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHMK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
