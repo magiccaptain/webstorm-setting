@@ -249,11 +249,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524642959125">
-        <mark key="'" line="51" column="24" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524646027985">
+        <mark key="'" line="71" column="24" />
+        <mark key="[" line="88" column="49" />
+        <mark key="]" line="90" column="20" />
+        <mark key="." line="90" column="20" />
+        <mark key="^" line="90" column="20" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517452825689">
         <mark key="[" line="52" column="37" />
@@ -577,6 +578,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524646056279">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/services/auth.ts" timestamp="1517649488140">
         <mark key="[" line="2" column="0" />
@@ -1214,6 +1220,11 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
+      <file name="G:/projects/stacktop-auth-server/test/app/stores/user-store-redis.test.js" timestamp="1523513898218">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/allow_course_major.ts" timestamp="1517821545039">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="28" />
@@ -1511,37 +1522,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>awi</text>
       </register>
       <register name="/" type="4">
         <text>x-code</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVkaWFUeXBlOiAnYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudDogJ2V4YW1wbGUtY2xpZW50Jwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFkZFNjb3Blc1RvQ2xpZW50ID0gYXN5bmMgKGNsaWVudElkOiBzdHJpbmcsIHNjb3Blczogc3RyaW5nW10pID0+IHsKICAgICAgICBsZXQgc3M6IG9iamVjdFtdID0gW107CgogICAgICAgIGZvciAobGV0IHMgb2Ygc2NvcGVzKSB7CiAgICAgICAgICAgIGF3YWl0IG9hdXRoTW9kZWwuc2NvcGVTdG9yZS5hZGRDbGllbnRTY29wZShjbGllbnRJZCwgcyk7CiAgICAgICAgICAgIHNzLnB1c2goewogICAgICAgICAgICAgICAgY2xpZW50SWQ6IGNsaWVudElkLAogICAgICAgICAgICAgICAgc2NvcGU6IHMsCiAgICAgICAgICAgIH0pCiAgICAgICAgfQogICAgICAgIHJldHVybiBzczsKICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgb2F1dGhNb2RlbC5zY29wZVN0b3JlLmFkZFVzZXJUb1Njb3BlKGNsaWVudCwgbmFtZSwgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2kK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
