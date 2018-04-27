@@ -62,7 +62,13 @@
         <mark key="." line="2" column="27" />
         <mark key="^" line="2" column="27" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/oauth-server/model.ts" timestamp="1524721651472" />
+      <file name="G:/projects/stacktop-auth-server/app/oauth-server/model.ts" timestamp="1524794172921">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="39" column="42" />
+        <mark key="]" line="40" column="45" />
+        <mark key="." line="40" column="45" />
+        <mark key="^" line="40" column="45" />
+      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1523512326754">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="37" />
@@ -159,12 +165,12 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/stores/client-store-redis.ts" timestamp="1524791409434">
-        <mark key="'" line="6" column="26" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="73" column="32" />
+      <file name="G:/projects/stacktop-auth-server/app/stores/client-store-redis.ts" timestamp="1524793574443">
+        <mark key="'" line="73" column="8" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="73" column="7" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/model/system.ts" timestamp="1519914519832">
         <mark key="[" line="5" column="39" />
@@ -444,11 +450,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/cli/oauth-cli.ts" timestamp="1524790989497">
-        <mark key="'" line="79" column="16" />
+      <file name="G:/projects/stacktop-auth-server/cli/oauth-cli.ts" timestamp="1524793335082">
+        <mark key="'" line="234" column="4" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
-        <mark key="^" line="51" column="11" />
+        <mark key="^" line="50" column="36" />
         <mark key="." line="50" column="0" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/userinfo.ts" timestamp="1520299513885">
@@ -480,12 +486,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1524641142663">
+      <file name="G:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1524792913820">
         <mark key="'" line="15" column="17" />
-        <mark key="[" line="61" column="44" />
-        <mark key="]" line="61" column="66" />
-        <mark key="." line="61" column="58" />
-        <mark key="^" line="61" column="58" />
+        <mark key="[" line="63" column="32" />
+        <mark key="]" line="63" column="45" />
+        <mark key="." line="63" column="45" />
+        <mark key="^" line="63" column="45" />
       </file>
       <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2.test.js" timestamp="1523931722808">
         <mark key="[" line="23" column="7" />
@@ -510,6 +516,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="12" />
+      </file>
+      <file name="G:/projects/stacktop-auth-server/app/stores/scope-store.ts" timestamp="1524793058964">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="69" column="15" />
+        <mark key="." line="69" column="15" />
+        <mark key="^" line="69" column="15" />
       </file>
       <file name="D:/projects/SmartElective/Server/config/config.default.js" timestamp="1520177270172">
         <mark key="[" line="11" column="19" />
@@ -636,11 +649,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/stores/user-store-sql.ts" timestamp="1524791528387">
+      <file name="G:/projects/stacktop-auth-server/app/stores/user-store-sql.ts" timestamp="1524793946165">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="0" />
-        <mark key="." line="153" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
         <mark key="^" line="149" column="13" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/proto/constant.ts" timestamp="1519915177801">
@@ -841,11 +854,12 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/stores/scope-store-redis.ts" timestamp="1524636179907">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="54" column="24" />
+      <file name="G:/projects/stacktop-auth-server/app/stores/scope-store-redis.ts" timestamp="1524793570868">
+        <mark key="'" line="41" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="3" column="25" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/elecvive.ts" timestamp="1517762832417">
         <mark key="[" line="10" column="9" />
@@ -1090,8 +1104,12 @@
         <mark key="^" line="139" column="13" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/stores/token-store-redis.ts" timestamp="1524641688909">
-        <mark key="[" line="23" column="25" />
+      <file name="G:/projects/stacktop-auth-server/app/stores/token-store-redis.ts" timestamp="1524793518604">
+        <mark key="'" line="61" column="13" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="69" column="8" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="66" column="7" />
       </file>
       <file name="G:/projects/stacktop-auth-server/test/dit/dit-apis.ts" timestamp="1524731467299">
         <mark key="'" line="4" column="0" />
@@ -1448,16 +1466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="460" column="4" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="528" column="7" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="34" column="17" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="940" column="2" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="944" column="51" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="946" column="49" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="947" column="39" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="962" column="59" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="186" column="22" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="189" column="12" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="212" column="62" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="215" column="59" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="216" column="60" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
@@ -1548,46 +1556,56 @@
       <jump line="6" column="26" filename="G:/projects/stacktop-auth-server/app/stores/client-store-redis.ts" />
       <jump line="57" column="15" filename="G:/projects/stacktop-auth-server/app/stores/user-store-sql.ts" />
       <jump line="53" column="0" filename="G:/projects/stacktop-auth-server/app/stores/user-store-sql.ts" />
+      <jump line="48" column="27" filename="G:/projects/stacktop-auth-server/app/stores/token-store-redis.ts" />
+      <jump line="20" column="0" filename="G:/projects/stacktop-auth-server/app/stores/token-store-redis.ts" />
+      <jump line="40" column="0" filename="G:/projects/stacktop-auth-server/app/stores/scope-store.ts" />
+      <jump line="9" column="30" filename="G:/projects/stacktop-auth-server/app/stores/scope-store-redis.ts" />
+      <jump line="15" column="0" filename="G:/projects/stacktop-auth-server/cli/oauth-cli.ts" />
+      <jump line="30" column="4" filename="G:/projects/stacktop-auth-server/app/oauth-server/model.ts" />
+      <jump line="234" column="4" filename="G:/projects/stacktop-auth-server/cli/oauth-cli.ts" />
+      <jump line="59" column="13" filename="G:/projects/stacktop-auth-server/app/stores/token-store-redis.ts" />
+      <jump line="39" column="8" filename="G:/projects/stacktop-auth-server/app/stores/scope-store-redis.ts" />
+      <jump line="73" column="8" filename="G:/projects/stacktop-auth-server/app/stores/client-store-redis.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IF8gPSByZXF1aXJlKCJsb2Rhc2giKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Json</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQga2V5cyA9IGF3YWl0IGtleXNBc3luYyhgJHtrZXl9KmApOwo=</text>
+        <text encoding="base64">aW1wb3J0IF8gPSByZXF1aXJlKCJsb2Rhc2giKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZXlzID0gYXdhaXQga2V5c0FzeW5jKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdW5kZWZpbmVkOwo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
