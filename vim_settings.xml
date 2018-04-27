@@ -257,6 +257,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
+      <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524795089623" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517452825689">
         <mark key="[" line="52" column="37" />
         <mark key="]" line="53" column="17" />
@@ -360,11 +361,10 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/user-store-db.yml" timestamp="1524730882057">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="6" column="13" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="13" />
+      <file name="G:/projects/stacktop-auth-server/user-store-db.yml" timestamp="1524795768581">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/controller/teachers.ts" timestamp="1519743299442">
         <mark key="[" line="19" column="0" />
@@ -649,7 +649,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/app/stores/user-store-sql.ts" timestamp="1524793946165">
+      <file name="G:/projects/stacktop-auth-server/app/stores/user-store-sql.ts" timestamp="1524795817364">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
@@ -787,12 +787,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="86" column="30" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="G:/projects/stacktop-auth-server/init-data/init-data.json" timestamp="1524731395677">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="11" column="94" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519913095045">
         <mark key="[" line="29" column="0" />
@@ -1011,6 +1005,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="12" column="21" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="[stacktop_auth] CONSOLE - stacktop_auth" timestamp="1524795744693">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/proto/proto.ts" timestamp="1519904468026">
@@ -1341,7 +1341,7 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="/JavaScript Console" timestamp="1524725519114">
+      <file name="/JavaScript Console" timestamp="1524795859256">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StudentMainPage.tsx" timestamp="1517505685956">
@@ -1349,12 +1349,6 @@
         <mark key="]" line="28" column="56" />
         <mark key="^" line="28" column="55" />
         <mark key="." line="28" column="56" />
-      </file>
-      <file name="G:/projects/stacktop-auth-server/package.json" timestamp="1524725517685">
-        <mark key="[" line="66" column="34" />
-        <mark key="]" line="66" column="33" />
-        <mark key="." line="66" column="33" />
-        <mark key="^" line="66" column="33" />
       </file>
       <file name="D:/projects/stacktop-auth-server/gendoc.cmd" timestamp="1524238790607">
         <mark key="[" line="0" column="0" />
@@ -1569,7 +1563,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IF8gPSByZXF1aXJlKCJsb2Rhc2giKTsK</text>
+        <text encoding="base64">Y3JlYXRlIHRvCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1581,31 +1575,31 @@
         <text encoding="base64">aW1wb3J0IF8gPSByZXF1aXJlKCJsb2Rhc2giKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
+        <text encoding="base64">Y3JlYXRlIHRvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAndGFibGVzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
+        <text encoding="base64">bG9nZ2luZzogZmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrZXlzID0gYXdhaXQga2V5c0FzeW5jKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCBkZWxBc3luYyguLi5rZXlzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBrZXlzID0gYXdhaXQga2V5c0FzeW5jKCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
