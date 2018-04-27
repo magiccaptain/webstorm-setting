@@ -372,11 +372,11 @@
         <mark key="^" line="111" column="80" />
         <mark key="." line="111" column="80" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/user-store-db.yml" timestamp="1524799650007">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="G:/projects/stacktop-auth-server/user-store-db.yml" timestamp="1524800660362">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524664789727">
         <mark key="'" line="128" column="43" />
@@ -1656,10 +1656,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>gitlab.</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>gitlab.</text>
       </register>
       <register name="/" type="4">
         <text>x-code</text>
