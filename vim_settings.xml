@@ -234,6 +234,7 @@
         <mark key="^" line="129" column="15" />
         <mark key="." line="129" column="16" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/package.json" timestamp="1525355681362" />
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/config/config.default.js" timestamp="1520340079989">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="19" />
@@ -271,6 +272,13 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525358825642">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="120" column="33" />
+        <mark key="]" line="120" column="33" />
+        <mark key="." line="120" column="33" />
+        <mark key="^" line="108" column="1" />
+      </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceSettingModal/ServiceSettingModal.js" timestamp="1515326869866">
         <mark key="[" line="18" column="122" />
         <mark key="]" line="18" column="122" />
@@ -306,10 +314,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="28" column="31" />
-      </file>
-      <file name="D:/projects/stacktop-auth-server/doc/api/oauth.md" timestamp="1523977598947">
-        <mark key="[" line="75" column="38" />
-        <mark key="]" line="75" column="80" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515115686086">
         <mark key="[" line="57" column="37" />
@@ -688,6 +692,7 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.mock.js" timestamp="1525355035735" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.ts" timestamp="1514256261960">
         <mark key="[" line="8" column="42" />
         <mark key="]" line="8" column="42" />
@@ -1171,10 +1176,6 @@
         <mark key="^" line="139" column="13" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/node_modules/js-yaml/package.json" timestamp="1524145196581">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="24" column="3" />
-      </file>
       <file name="D:/projects/SmartElective/Server/node_modules/@types/js-yaml/index.d.ts" timestamp="1520168743460">
         <mark key="[" line="6" column="63" />
         <mark key="]" line="6" column="62" />
@@ -1280,10 +1281,6 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/app/stores/client-store.ts" timestamp="1524662968988">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="23" />
-      </file>
       <file name="D:/projects/stacktop-auth-server/test/utils.ts" timestamp="1524487919984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -1367,6 +1364,11 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" timestamp="1525358752312">
+        <mark key="'" line="185" column="37" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="13" />
+      </file>
       <file name="$USER_HOME$/projects/egg-example/app/controller/auth.ts" timestamp="1516521875668">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="3" column="9" />
@@ -1436,10 +1438,6 @@
         <mark key="^" line="0" column="82" />
         <mark key="." line="0" column="82" />
       </file>
-      <file name="D:/projects/github/ReDoc-master/src/utils/loadAndBundleSpec.ts" timestamp="1524317271189">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="14" />
-      </file>
       <file name="D:/projects/open-api-redoc/front-end/tsconfig.json" timestamp="1524300545136">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1482,10 +1480,6 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="D:/projects/stacktop-auth-server/test/app/stores/user-store-sql.test.js" timestamp="1524583268226">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="74" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517762859075">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="35" />
@@ -1498,8 +1492,12 @@
         <mark key="." line="55" column="20" />
         <mark key="^" line="55" column="20" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/react-app-rewire-less-module.js" timestamp="1525354559515">
-        <mark key="'" line="15" column="12" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/react-app-rewire-less-module.js" timestamp="1525357761062">
+        <mark key="'" line="16" column="12" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="107" />
+        <mark key="." line="28" column="58" />
+        <mark key="^" line="28" column="59" />
       </file>
       <file name="D:/projects/SmartElective/Server/pbs.cmd" timestamp="1519212459079">
         <mark key="[" line="3" column="0" />
@@ -1532,6 +1530,7 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1525354641910" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_department.ts" timestamp="1517277894169">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="97" />
@@ -1540,15 +1539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="D:/projects/SC/openapi-parser/test/partial-read.test.ts" />
-      <jump line="805" column="28" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="897" column="10" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="948" column="25" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="30" column="6" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="109" column="11" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="127" column="11" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="131" column="11" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="265" column="4" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="453" column="16" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="460" column="4" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="528" column="7" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
@@ -1640,62 +1630,69 @@
       <jump line="1" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/react-app-rewire-less-module.js" />
       <jump line="13" column="11" filename="D:/projects/zzswang/shanghaibus-admin-web/react-app-rewire-less-module.js" />
       <jump line="15" column="12" filename="D:/projects/zzswang/shanghaibus-admin-web/react-app-rewire-less-module.js" />
+      <jump line="184" column="19" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
+      <jump line="186" column="35" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
+      <jump line="187" column="12" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
+      <jump line="25" column="10" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
+      <jump line="36" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
+      <jump line="22" column="1" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
+      <jump line="53" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
+      <jump line="185" column="37" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
+      <jump line="32" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{force: true}</text>
+        <text>数</text>
       </register>
       <register name="-" type="4">
-        <text>{force: true}</text>
+        <text>数</text>
       </register>
       <register name="/" type="4">
-        <text>index</text>
+        <text>TagsInput</text>
       </register>
-      <register name="0" type="4">
-        <text>/oauth/authenticate</text>
+      <register name="0" type="2">
+        <text encoding="base64">QEZvcm0uY3JlYXRlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IGNsabXEseDQtLrNvPjIqLXEtaXUqrLiytQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZNe8sbjN6rPJIHNjb3BlIM/gudi1xLWl1Kqy4srUCg==</text>
+        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gc3RhdGUgPT4gKHt9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aExvZ2luTGF5b3V0IH0gZnJvbSAiLi4vbG9naW4tbGF5b3V0IjsKLy8gaW1wb3J0IHsgbG9naW4gfSBmcm9tICIuLi8uLi9hY3Rpb25zIjsKaW1wb3J0IHN0eWxlcyBmcm9tICIuL2luZGV4Lm1vZHVsZS5sZXNzIjsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBGb3JtLAogIEljb24sCiAgSW5wdXQsCiAgQnV0dG9uLAogIENoZWNrYm94LAogIEJyZWFkY3J1bWIsCiAgVGFicywKICBDYXJkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjdHguYm9keSA9IHsKICAgICAgICAvLyAgICAgc3RhdHVzOiAnT0snLAogICAgICAgIC8vICAgICB1c2VyOiB0b2tlbi51c2VyCiAgICAgICAgLy8gfTsK</text>
+        <text encoding="base64">ICAgICAgICDK/b7dt9bO9i25q8u+t9bO9go=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3R4LnN0YXR1cy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>index</last-search>
+      <last-search>TagsInput</last-search>
       <last-offset />
-      <last-pattern>index</last-pattern>
+      <last-pattern>TagsInput</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fs</entry>
-        <entry>readFile</entry>
         <entry>http</entry>
         <entry>httpRequest</entry>
         <entry>default</entry>
@@ -1714,6 +1711,8 @@
         <entry>redoc</entry>
         <entry>x-code</entry>
         <entry>index</entry>
+        <entry>Bread</entry>
+        <entry>TagsInput</entry>
       </history-search>
       <history-cmd />
       <history-expr />
