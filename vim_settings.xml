@@ -9,12 +9,12 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="44" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525399738728">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="65" column="2" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="66" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525405527115">
+        <mark key="'" line="199" column="33" />
+        <mark key="[" line="217" column="19" />
+        <mark key="]" line="217" column="27" />
+        <mark key="." line="217" column="27" />
+        <mark key="^" line="217" column="27" />
       </file>
       <file name="D:/projects/stacktop-auth-server/tsconfig.json" timestamp="1524145942709">
         <mark key="[" line="11" column="18" />
@@ -227,6 +227,7 @@
         <mark key="^" line="129" column="15" />
         <mark key="." line="129" column="16" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/public/fonts/iconfont.css" timestamp="1525403086491" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_class_hour.ts" timestamp="1517475198864">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="31" />
@@ -287,11 +288,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="28" column="31" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" timestamp="1525399645001">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="44" column="14" />
-        <mark key="." line="44" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" timestamp="1525405549654">
+        <mark key="'" line="54" column="21" />
+        <mark key="[" line="78" column="11" />
+        <mark key="]" line="78" column="13" />
+        <mark key="^" line="78" column="13" />
+        <mark key="." line="78" column="13" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515115686086">
         <mark key="[" line="57" column="37" />
@@ -896,7 +898,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.mock.js" timestamp="1525398908384">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.mock.js" timestamp="1525404627605">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="32" column="2" />
       </file>
@@ -1272,10 +1274,10 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" timestamp="1525399735642">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="89" column="1" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" timestamp="1525405590149">
+        <mark key="'" line="72" column="19" />
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="240" column="13" />
       </file>
       <file name="D:/projects/open-api-redoc/front-end/src/index.ejs" timestamp="1524315814307">
         <mark key="[" line="8" column="0" />
@@ -1491,9 +1493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="11" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="127" column="11" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="131" column="11" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="265" column="4" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="453" column="16" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="460" column="4" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
@@ -1591,19 +1590,22 @@
       <jump line="22" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
       <jump line="153" column="48" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
       <jump line="21" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
+      <jump line="72" column="19" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
+      <jump line="191" column="33" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
+      <jump line="54" column="21" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZ2VvbUF0dHIgPSB7CiAgY29sb3I6IFsibmFtZSIsIFsiIzM4OUVGRCIsICIjRjI2MzdCIiwgIiNGRUI0MkMiLCAiIzI0QkM2MSJdXSwKICBhZGp1c3Q6IFsKICAgIHsKICAgICAgdHlwZTogImRvZGdlIiwKICAgICAgbWFyZ2luUmF0aW86IDEgLyAzMgogICAgfQogIF0KfTsK</text>
+      <register name="&quot;" type="4">
+        <text>dateCount</text>
       </register>
       <register name="-" type="4">
-        <text>mockData</text>
+        <text>dateCount</text>
       </register>
       <register name="/" type="4">
-        <text>x-code</text>
+        <text>Tool</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZ2VvbUF0dHIgPSB7CiAgY29sb3I6IFsibmFtZSIsIFsiIzM4OUVGRCIsICIjRjI2MzdCIiwgIiNGRUI0MkMiLCAiIzI0QkM2MSJdXSwKICBhZGp1c3Q6IFsKICAgIHsKICAgICAgdHlwZTogImRvZGdlIiwKICAgICAgbWFyZ2luUmF0aW86IDEgLyAzMgogICAgfQogIF0KfTsK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnBhZ2VGb290ZXJ9PgogICAgICAgICAgPFBhZ2luYXRpb24KICAgICAgICAgICAgc2hvd1F1aWNrSnVtcGVyCiAgICAgICAgICAgIHNob3dTaXplQ2hhbmdlcgogICAgICAgICAgICBkZWZhdWx0Q3VycmVudD17MX0KICAgICAgICAgICAgdG90YWw9e2xpc3RTdGF0ZS50b3RhbH0KICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMub25QYWdlQ2hhbmdlfQogICAgICAgICAgICBvblNob3dTaXplQ2hhbmdlPXt0aGlzLm9uUGFnZVNpemVDaGFuZ2V9CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1612,7 +1614,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY29sdW1uRGF0YSk7CmNvbnNvbGUubG8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1621,13 +1623,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWx1ZVtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1637,16 +1639,14 @@
       </register>
     </registers>
     <search>
-      <last-search>x-code</last-search>
+      <last-search>Tool</last-search>
       <last-offset />
-      <last-pattern>x-code</last-pattern>
+      <last-pattern>Tool</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>UserProjectId</entry>
-        <entry>fs</entry>
         <entry>readFile</entry>
         <entry>http</entry>
         <entry>httpRequest</entry>
@@ -1665,6 +1665,8 @@
         <entry>Place an order for a pet</entry>
         <entry>redoc</entry>
         <entry>x-code</entry>
+        <entry>ToolTip</entry>
+        <entry>Tool</entry>
       </history-search>
       <history-cmd />
       <history-expr />
