@@ -9,7 +9,7 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="44" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525405527115">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525411643042">
         <mark key="'" line="199" column="33" />
         <mark key="[" line="217" column="19" />
         <mark key="]" line="217" column="27" />
@@ -288,6 +288,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="28" column="31" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/es/pagination/MiniSelect.js" timestamp="1525411810928" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" timestamp="1525405549654">
         <mark key="'" line="54" column="21" />
         <mark key="[" line="78" column="11" />
@@ -336,6 +337,9 @@
         <mark key="]" line="8" column="32" />
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/es/Pagination.js" timestamp="1525411943840">
+        <mark key="'" line="188" column="25" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/package.json" timestamp="1516528259702">
         <mark key="[" line="30" column="34" />
@@ -468,6 +472,7 @@
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/lib/pagination/Pagination.d.ts" timestamp="1525411700735" />
       <file name="G:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1523932222028">
         <mark key="[" line="43" column="106" />
         <mark key="]" line="43" column="105" />
@@ -1368,9 +1373,6 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="/JavaScript Console" timestamp="1524796836292">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StudentMainPage.tsx" timestamp="1517505685956">
         <mark key="[" line="28" column="56" />
         <mark key="]" line="28" column="56" />
@@ -1493,14 +1495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="4" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="453" column="16" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="460" column="4" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="528" column="7" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="34" column="17" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="940" column="2" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="944" column="51" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="946" column="49" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="947" column="39" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="962" column="59" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="186" column="22" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
@@ -1593,6 +1587,14 @@
       <jump line="72" column="19" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
       <jump line="191" column="33" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
       <jump line="54" column="21" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" />
+      <jump line="165" column="51" filename="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/es/Pagination.js" />
+      <jump line="178" column="46" filename="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/es/Pagination.js" />
+      <jump line="198" column="51" filename="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/es/Pagination.js" />
+      <jump line="211" column="26" filename="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/es/Pagination.js" />
+      <jump line="214" column="10" filename="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/es/Pagination.js" />
+      <jump line="220" column="12" filename="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/es/Pagination.js" />
+      <jump line="260" column="10" filename="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/es/Pagination.js" />
+      <jump line="188" column="25" filename="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/es/Pagination.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1602,7 +1604,7 @@
         <text>dateCount</text>
       </register>
       <register name="/" type="4">
-        <text>Tool</text>
+        <text>itemRender</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnBhZ2VGb290ZXJ9PgogICAgICAgICAgPFBhZ2luYXRpb24KICAgICAgICAgICAgc2hvd1F1aWNrSnVtcGVyCiAgICAgICAgICAgIHNob3dTaXplQ2hhbmdlcgogICAgICAgICAgICBkZWZhdWx0Q3VycmVudD17MX0KICAgICAgICAgICAgdG90YWw9e2xpc3RTdGF0ZS50b3RhbH0KICAgICAgICAgICAgb25DaGFuZ2U9e3RoaXMub25QYWdlQ2hhbmdlfQogICAgICAgICAgICBvblNob3dTaXplQ2hhbmdlPXt0aGlzLm9uUGFnZVNpemVDaGFuZ2V9CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2Pgo=</text>
@@ -1639,16 +1641,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Tool</last-search>
+      <last-search>itemRender</last-search>
       <last-offset />
-      <last-pattern>Tool</last-pattern>
+      <last-pattern>itemRender</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>readFile</entry>
-        <entry>http</entry>
         <entry>httpRequest</entry>
         <entry>default</entry>
         <entry>main</entry>
@@ -1667,6 +1667,8 @@
         <entry>x-code</entry>
         <entry>ToolTip</entry>
         <entry>Tool</entry>
+        <entry>page</entry>
+        <entry>itemRender</entry>
       </history-search>
       <history-cmd />
       <history-expr />
