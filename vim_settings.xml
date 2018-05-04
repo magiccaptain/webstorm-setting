@@ -619,7 +619,8 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525362028692">
+      <file name="/Dummy.txt" timestamp="1525440969571">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -715,12 +716,12 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company-next.js" timestamp="1525437926541">
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company-next.js" timestamp="1525441035282">
         <mark key="'" line="149" column="0" />
-        <mark key="[" line="70" column="28" />
-        <mark key="]" line="70" column="27" />
-        <mark key="." line="70" column="27" />
-        <mark key="^" line="70" column="27" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/tsconfig.json" timestamp="1516460799207">
         <mark key="[" line="8" column="20" />
@@ -1411,7 +1412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="946" column="49" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="947" column="39" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="962" column="59" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="186" column="22" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
@@ -1511,13 +1511,14 @@
       <jump line="236" column="19" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
       <jump line="150" column="15" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
       <jump line="149" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company-next.js" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDEwMCUjRjE4OTBGRg==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDEwMCUjRjE4OTBGRg==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>listState</text>
@@ -1526,31 +1527,31 @@
         <text encoding="base64">ICAgICAgICA8Q2FyZCB0aXRsZT0iucrVzyIgZXh0cmE9ezxhIGhyZWY9IiMiPrW8s/bVvM67PC9hPn0gY2xhc3NOYW1lPXtzdHlsZXMuY2FyZH0+CiAgICAgICAgICA8RGVsYXkgd2FpdD17MTAwfT4KICAgICAgICAgICAgPENoYXJ0IGZvcmNlRml0IGhlaWdodD17NDAwfSBkYXRhPXtjaGFydERhdGF9IHNjYWxlPXtjaGFydFNjYWxlfT4KICAgICAgICAgICAgICA8VG9vbHRpcCBjcm9zc2hhaXJzPXt7IHR5cGU6ICJ5IiB9fSAvPgogICAgICAgICAgICAgIDxBeGlzIG5hbWU9ImRhdGUiIC8+CiAgICAgICAgICAgICAgPEF4aXMgbmFtZT0iZmF1bHQiIC8+CiAgICAgICAgICAgICAgPExlZ2VuZCAvPgogICAgICAgICAgICAgIDxHZW9tIHR5cGU9ImludGVydmFsU3RhY2siIHBvc2l0aW9uPSJkYXRlKmZhdWx0IiB7Li4uZ2VvbUF0dHJ9IC8+CiAgICAgICAgICAgIDwvQ2hhcnQ+CiAgICAgICAgICA8L0RlbGF5PgogICAgICAgIDwvQ2FyZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Q29vcmQgdHlwZT0ndGhldGEnIHJhZGl1cz17MC43NX0vPgo=</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICJtb21lbnQiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHRleHRBbGlnbjogIm1pZGRsZSIsIC8vIM7Esb621Mbrt73P8qOsv8nIoda1zqqjuiBzdGFydCBtaWRkbGUgZW5kCg==</text>
+        <text encoding="base64">ICBMYXlvdXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB0ZXh0U3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgIHRleHRBbGlnbjogIm1pZGRsZSIsIC8vIM7Esb621Mbrt73P8qOsv8nIoda1zqqjuiBzdGFydCBtaWRkbGUgZW5kCiAgICAgICAgICAgICAgICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICBUYWJzLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHRleHRCYXNlbGluZTogImJvdHRvbSIgLy8gzsSxvrv517zP36Osv8nIoSB0b3AgbWlkZGxlIGJvdHRvbaOsxKzIz86qbWlkZGxlCg==</text>
+        <text encoding="base64">ICBQYWdpbmF0aW9uLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHJvdGF0ZTogMzAsCg==</text>
+        <text encoding="base64">ICBJbnB1dCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGZvbnRXZWlnaHQ6ICJib2xkIiwgLy8gzsSxvrTWz7gK</text>
+        <text encoding="base64">ICBJbnB1dCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGZvbnRTaXplOiAiMTIiLCAvLyDOxLG+tPPQoQo=</text>
+        <text encoding="base64">ICBJY29uLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGZpbGw6ICIjNDA0MDQwIiwgLy8gzsSxvrXE0dXJqwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Q29vcmQgdHlwZT0ndGhldGEnIHJhZGl1cz17MC43NX0vPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBmb3JtYXR0ZXI9eyh2YWwsIGl0ZW0pID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBpdGVtLnBvaW50LmZhdWx0ICsgIjoiICsgdmFsOwogICAgICAgICAgICAgICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIHRleHRBbGlnbjogIm1pZGRsZSIsIC8vIM7Esb621Mbrt73P8qOsv8nIoda1zqqjuiBzdGFydCBtaWRkbGUgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
