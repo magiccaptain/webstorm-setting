@@ -293,12 +293,12 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525522023369">
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525522413362">
         <mark key="'" line="44" column="4" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="109" column="35" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="126" column="15" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceSettingModal/ServiceSettingModal.js" timestamp="1515326869866">
         <mark key="[" line="18" column="122" />
@@ -1667,10 +1667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yKGxldCBqICkK</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>index</text>
       </register>
       <register name="/" type="4">
         <text>bus</text>
@@ -1679,25 +1679,27 @@
         <text>&quot;company&quot; + index</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yKGxldCBqICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHJvdyA9IHtrZXk6IH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgcm93W10K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>{
+        key: &quot;company&quot; + i
+      }</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBjb21wYW55SW5kZXggPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
