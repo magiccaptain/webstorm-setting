@@ -69,6 +69,13 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/components/charts/base-chart.js" timestamp="1525513449024">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="28" column="48" />
+      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1523512326754">
         <mark key="[" line="24" column="24" />
         <mark key="]" line="24" column="37" />
@@ -253,12 +260,12 @@
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525435957943">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="149" column="14" />
-        <mark key="." line="145" column="14" />
-        <mark key="^" line="145" column="14" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525516249598">
+        <mark key="'" line="44" column="4" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+        <mark key="^" line="137" column="37" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceSettingModal/ServiceSettingModal.js" timestamp="1515326869866">
         <mark key="[" line="18" column="122" />
@@ -375,6 +382,10 @@
         <mark key="]" line="35" column="41" />
         <mark key="." line="35" column="41" />
         <mark key="^" line="35" column="41" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/index.js" timestamp="1525513970862">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
       </file>
       <file name="D:/projects/open-api-redoc/front-end/libs/redoc/services/SearchStore.js" timestamp="1524302574099">
         <mark key="[" line="1" column="0" />
@@ -776,6 +787,12 @@
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" timestamp="1525516116573">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="53" column="12" />
       </file>
       <file name="D:/projects/github/ReDoc-master/demo/playground/hmr-playground.tsx" timestamp="1524316047518">
         <mark key="[" line="31" column="39" />
@@ -1341,6 +1358,12 @@
         <mark key="^" line="43" column="6" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/components/charts/company-faults-bar.js" timestamp="1525516287202">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/router.js" timestamp="1517822782183">
         <mark key="[" line="12" column="49" />
         <mark key="]" line="12" column="49" />
@@ -1417,9 +1440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="962" column="59" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="186" column="22" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
-      <jump line="189" column="12" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="212" column="62" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="215" column="59" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
       <jump line="216" column="60" filename="D:/projects/stacktop-auth-server/node_modules/egg/index.d.ts" />
@@ -1517,46 +1537,49 @@
       <jump line="149" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company-next.js" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="130" column="15" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company-next.js" />
+      <jump line="4" column="6" filename="D:/projects/zzswang/shanghaibus-admin-web/src/components/charts/base-chart.js" />
+      <jump line="57" column="12" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" />
+      <jump line="44" column="4" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzY2FsZTogc3RyaW5nICAgICAgIC8vIMqxvOSz37bIo6xhbGwvdG9kYXkvd2Vlay9tb250aC95ZWFyOsirsr8vvfHI1S+xvtbcL7G+1MIvyKvE6go=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Comple</text>
+        <text encoding="base64">Y29sdW1uRGF0YSwgdGFibGVEYXRhLCBjaGFydERhdGEg</text>
       </register>
       <register name="/" type="4">
         <text>listState</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZCB0aXRsZT0iucrVzyIgZXh0cmE9ezxhIGhyZWY9IiMiPrW8s/bVvM67PC9hPn0gY2xhc3NOYW1lPXtzdHlsZXMuY2FyZH0+CiAgICAgICAgICA8RGVsYXkgd2FpdD17MTAwfT4KICAgICAgICAgICAgPENoYXJ0IGZvcmNlRml0IGhlaWdodD17NDAwfSBkYXRhPXtjaGFydERhdGF9IHNjYWxlPXtjaGFydFNjYWxlfT4KICAgICAgICAgICAgICA8VG9vbHRpcCBjcm9zc2hhaXJzPXt7IHR5cGU6ICJ5IiB9fSAvPgogICAgICAgICAgICAgIDxBeGlzIG5hbWU9ImRhdGUiIC8+CiAgICAgICAgICAgICAgPEF4aXMgbmFtZT0iZmF1bHQiIC8+CiAgICAgICAgICAgICAgPExlZ2VuZCAvPgogICAgICAgICAgICAgIDxHZW9tIHR5cGU9ImludGVydmFsU3RhY2siIHBvc2l0aW9uPSJkYXRlKmZhdWx0IiB7Li4uZ2VvbUF0dHJ9IC8+CiAgICAgICAgICAgIDwvQ2hhcnQ+CiAgICAgICAgICA8L0RlbGF5PgogICAgICAgIDwvQ2FyZD4K</text>
+      <register name="0" type="4">
+        <text>CompanyFaultsBar</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzY2FsZTogc3RyaW5nICAgICAgIC8vIMqxvOSz37bIo6xhbGwvdG9kYXkvd2Vlay9tb250aC95ZWFyOsirsr8vvfHI1S+xvtbcL7G+1MIvyKvE6go=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIM3qs8nH6b/2yv2+3bjxyr0KICovCmludGVyZmFjZSBDb21wbGV0aW9uIHsKICBjb21wbGV0aW8KCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIDxDbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW51bSBDb21wbGV0aW9uU2NhbGUgewogIHRvZGF5OiAndG9kYXknCiAKfQo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW51bQo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IERlbGF5IGZyb20gInJlYWN0LWRlbGF5IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICJtb21lbnQiOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQ2hhcnQsIEdlb20sIEF4aXMsIFRvb2x0aXAsIExlZ2VuZCB9IGZyb20gImJpemNoYXJ0cyI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
