@@ -823,13 +823,6 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company-next.js" timestamp="1525603607948">
-        <mark key="'" line="105" column="15" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="^" line="110" column="56" />
-        <mark key="." line="80" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/tsconfig.json" timestamp="1516460799207">
         <mark key="[" line="8" column="20" />
         <mark key="]" line="8" column="20" />
@@ -873,10 +866,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" timestamp="1525490093758">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" timestamp="1525604572197">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="10" />
+        <mark key="." line="25" column="10" />
+        <mark key="^" line="23" column="2" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
@@ -1697,11 +1691,11 @@
       <jump line="4" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/home/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Interface</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Interface</text>
       </register>
       <register name="/" type="4">
         <text>g2</text>
