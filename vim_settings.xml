@@ -1576,11 +1576,11 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/components/charts/time-fault-bar.js" timestamp="1525539801921">
-        <mark key="[" line="49" column="36" />
-        <mark key="]" line="49" column="36" />
-        <mark key="." line="49" column="36" />
-        <mark key="^" line="49" column="36" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/components/charts/time-fault-bar.js" timestamp="1525600336889">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="10" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="10" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
@@ -1699,11 +1699,11 @@
       <jump line="58" column="11" filename="D:/projects/zzswang/shanghaibus-admin-web/node_modules/echarts/src/component/tooltip/TooltipModel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>车型-故障-饼状图</text>
       </register>
       <register name="-" type="4">
-        <text>, ticket</text>
+        <text>车型-故障-饼状图</text>
       </register>
       <register name="/" type="4">
         <text>tool</text>
