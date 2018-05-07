@@ -227,7 +227,6 @@
         <mark key="^" line="129" column="15" />
         <mark key="." line="129" column="16" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/public/fonts/iconfont.css" timestamp="1525403086491" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_class_hour.ts" timestamp="1517475198864">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="31" />
@@ -252,7 +251,11 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525420001768" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525661636238">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+      </file>
       <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524817796206">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="74" column="36" />
@@ -289,7 +292,6 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="28" column="31" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/es/pagination/MiniSelect.js" timestamp="1525411810928" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" timestamp="1525422246806">
         <mark key="'" line="68" column="21" />
         <mark key="[" line="19" column="0" />
@@ -374,7 +376,13 @@
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/es/pagination/Pagination.js" timestamp="1525412590041" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" timestamp="1525659170322">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="38" column="32" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/session.ts" timestamp="1517762847580">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="28" />
@@ -429,7 +437,6 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/rc-pagination/lib/index.js" timestamp="1525412573989" />
       <file name="$USER_HOME$/projects/egg-example/app/extend/application.ts" timestamp="1516986826457">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -482,7 +489,6 @@
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/lib/pagination/Pagination.d.ts" timestamp="1525412598645" />
       <file name="G:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1523932222028">
         <mark key="[" line="43" column="106" />
         <mark key="]" line="43" column="105" />
@@ -586,7 +592,6 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/fault.js" timestamp="1525420618728" />
       <file name="D:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1524492711036">
         <mark key="[" line="46" column="22" />
         <mark key="]" line="46" column="21" />
@@ -1290,6 +1295,13 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" timestamp="1525660057211">
+        <mark key="'" line="7" column="19" />
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="41" column="11" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/config.ts" timestamp="1517241622251">
         <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="24" />
@@ -1446,7 +1458,6 @@
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/app.js" timestamp="1525413104858" />
       <file name="$USER_HOME$/projects/SmartElective/Server/config/config.default.js" timestamp="1517741732567">
         <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="32" />
@@ -1527,8 +1538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="18" filename="D:/projects/stacktop-auth-server/node_modules/json-schema-ref-parser/lib/index.d.ts" />
-      <jump line="155" column="0" filename="D:/projects/stacktop-auth-server/node_modules/json-schema-ref-parser/lib/index.d.ts" />
       <jump line="166" column="36" filename="D:/projects/SC/openapi-parser/lib/library.utils.ts" />
       <jump line="167" column="57" filename="D:/projects/SC/openapi-parser/lib/library.utils.ts" />
       <jump line="3" column="24" filename="D:/projects/stacktop-auth-server/node_modules/egg-mock/index.d.ts" />
@@ -1627,46 +1636,48 @@
       <jump line="104" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
       <jump line="33" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company-next.js" />
       <jump line="44" column="6" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company-next.js" />
+      <jump line="30" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" />
+      <jump line="7" column="19" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICJtb21lbnQiOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>编辑器自动格式化了</text>
+        <text>rows</text>
       </register>
       <register name="/" type="4">
         <text>tailForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2FyZCBjbGFzc05hbWU9e3N0eWxlcy5jYXJkfT4KICAgICAgICAgIDxUYWJsZSBkYXRhU291cmNlPXt0YWJsZURhdGEuZGF0YUxpc3R9IHBhZ2luYXRpb249e2ZhbHNlfT4KICAgICAgICAgICAge2NvbHVtbkRhdGEgJiYKICAgICAgICAgICAgY29sdW1uRGF0YS5sZW5ndGggPiAwICYmCiAgICAgICAgICAgIGNvbHVtbkRhdGEubWFwKGVsID0+IDxUYWJsZS5Db2x1bW4gYWxpZ249e2VsLmtleSA9PT0gImRhdGUiID8gImxlZnQiIDogImNlbnRlciJ9IHsuLi5lbH0gLz4pfQogICAgICAgICAgPC9UYWJsZT4KICAgICAgICA8L0NhcmQ+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3dzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICJtb21lbnQiOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBtb2NrIGRhdGEKICBmYXVsdHM6IFsKICBdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgZmF1bHQ6ICJCTVMgv9jWxsb3ucrVz6OoMjR2uam157Gj1c+jqSIsCiAgICAgIGNvdW50OiAxMgogICAgfSwKICAgIHsKICAgICAgZmF1bHQ6ICLX3LXnwfe8q7jfo6jRz9bYo6kiLAogICAgICBjb3VudDogMjMKICAgIH0sCiAgICB7CiAgICAgIGZhdWx0OiAi19y7+tHP1ti5ytXPIiwKICAgICAgY291bnQ6IDIzCiAgICB9LAogICAgewogICAgICBmYXVsdDogIr741LW159fovKu1zbnK1c8iLAogICAgICBjb3VudDogMTIKICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb2x1bW5zLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2EK</text>
+        <text encoding="base64">ICAgIGNvbHVtbnMucHVzaCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZihlbC5rZXk9PSdkYXRlJyl7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
