@@ -368,12 +368,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/order-fault-bar.js" timestamp="1525678687118">
-        <mark key="'" line="62" column="5" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-        <mark key="^" line="20" column="8" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/order-fault-bar.js" timestamp="1525680755843">
+        <mark key="'" line="80" column="5" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="56" column="21" />
       </file>
       <file name="G:/projects/stacktop-auth-server/user-store-db.yml" timestamp="1524796519590">
         <mark key="[" line="4" column="11" />
@@ -934,11 +934,11 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" timestamp="1525421569601">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" timestamp="1525680898101">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
         <mark key="^" line="25" column="24" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/utils/request.js" timestamp="1516504250413">
         <mark key="[" line="5" column="0" />
@@ -1320,7 +1320,7 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" timestamp="1525677539900">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" timestamp="1525681273385">
         <mark key="'" line="149" column="0" />
         <mark key="[" line="164" column="16" />
         <mark key="]" line="164" column="16" />
@@ -1458,6 +1458,12 @@
         <mark key="]" line="27" column="1" />
         <mark key="." line="27" column="1" />
         <mark key="^" line="27" column="1" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/response-time-line.js" timestamp="1525681330261">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.js" timestamp="1524235776896">
         <mark key="[" line="1" column="0" />
@@ -1666,43 +1672,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>let</text>
+        <text>现状图</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>现状图</text>
       </register>
       <register name="/" type="4">
         <text>tailForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3R5bGUgPSB7CiAgICAgIGhlaWdodDogNDUwCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246ICJyaWdodCIsCiAgICAgICAgICAgIGNvbG9yOiAiIzAwMCIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMTM1MHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCByZXZlcnNlZERhdGEgPSBfLnJldmVyc2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZhdWx0RGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbG9ycyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcnZhbDogMTAwLAogICAgICAgIG1pbkludGVydmFsOiA1MAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbG9ycyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1pbkludGVydmFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
