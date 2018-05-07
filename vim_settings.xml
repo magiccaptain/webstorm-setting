@@ -252,10 +252,11 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525663884728">
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525665509809">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="^" line="214" column="1" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524817796206">
         <mark key="[" line="74" column="24" />
@@ -1644,11 +1645,11 @@
       <jump line="7" column="19" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>包</text>
       </register>
       <register name="/" type="4">
         <text>tailForm</text>
@@ -1657,16 +1658,16 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhyb3dzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gemhEaWdpdFRvQXJhYmljKGRpZ2l0KSB7CiAgY29uc3QgemggPSBbIsHjIiwgItK7IiwgIrb+IiwgIsj9IiwgIsvEIiwgIs7lIiwgIsH5IiwgIsbfIiwgIrDLIiwgIr7FIl07CiAgY29uc3QgdW5pdCA9IFsix6ciLCAisNkiLCAiyq4iXTsKICBjb25zdCBxdW90ID0gWyLN8iIsICLS2iIsICLV1yIsICK+qSIsICLb8iIsICLv9iIsICLwpiIsICK5tSIsICK9pyIsICLV/SIsICLU2CIsICK8qyIsICK647rTybMiLCAisKLJruzzIiwgIsTH08nL+yIsICKyu7/Jy7zS6SIsICLO3sG/IiwgIrTzyv0iXTsKICBsZXQgcmVzdWx0ID0gMCwgcXVvdEZsYWc7CgogIGZvciAobGV0IGkgPSBkaWdpdC5sZW5ndGggLSAxOyBpID49IDA7IGktLSkgewogICAgaWYgKHpoLmluZGV4T2YoZGlnaXRbaV0pID4gLTEpIHsgLy8gyv3X1gogICAgICBpZiAocXVvdEZsYWcpIHsKICAgICAgICByZXN1bHQgKz0gcXVvdEZsYWcgKiBnZXROdW1iZXIoZGlnaXRbaV0pOwogICAgICB9IGVsc2UgewogICAgICAgIHJlc3VsdCArPSBnZXROdW1iZXIoZGlnaXRbaV0pOwogICAgICB9CiAgICB9IGVsc2UgaWYgKHVuaXQuaW5kZXhPZihkaWdpdFtpXSkgPiAtMSkgeyAvLyDKrrfWzrsKICAgICAgaWYgKHF1b3RGbGFnKSB7CiAgICAgICAgcmVzdWx0ICs9IHF1b3RGbGFnICogZ2V0VW5pdChkaWdpdFtpXSkgKiBnZXROdW1iZXIoZGlnaXRbaSAtIDFdKTsKICAgICAgfSBlbHNlIHsKICAgICAgICByZXN1bHQgKz0gZ2V0VW5pdChkaWdpdFtpXSkgKiBnZXROdW1iZXIoZGlnaXRbaSAtIDFdKTsKICAgICAgfQogICAgICAtLWk7CiAgICB9IGVsc2UgaWYgKHF1b3QuaW5kZXhPZihkaWdpdFtpXSkgPiAtMSkgeyAvLyDN8rfWzrsKICAgICAgaWYgKHVuaXQuaW5kZXhPZihkaWdpdFtpIC0gMV0pID4gLTEpIHsKICAgICAgICBpZiAoZ2V0TnVtYmVyKGRpZ2l0W2kgLSAxXSkpIHsKICAgICAgICAgIHJlc3VsdCArPSBnZXRRdW90KGRpZ2l0W2ldKSAqIGdldE51bWJlcihkaWdpdFtpIC0gMV0pOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICByZXN1bHQgKz0gZ2V0UXVvdChkaWdpdFtpXSkgKiBnZXRVbml0KGRpZ2l0W2kgLSAxXSkgKiBnZXROdW1iZXIoZGlnaXRbaSAtIDJdKTsKICAgICAgICAgIHF1b3RGbGFnID0gZ2V0UXVvdChkaWdpdFtpXSk7CiAgICAgICAgICAtLWk7CiAgICAgICAgfQogICAgICB9IGVsc2UgewogICAgICAgIHJlc3VsdCArPSBnZXRRdW90KGRpZ2l0W2ldKSAqIGdldE51bWJlcihkaWdpdFtpIC0gMV0pOwogICAgICAgIHF1b3RGbGFnID0gZ2V0UXVvdChkaWdpdFtpXSk7CiAgICAgIH0KICAgICAgLS1pOwogICAgfQogIH0KCiAgcmV0dXJuIHJlc3VsdDsKCiAgLy8gt7W72NbQzsS089C0yv3X1rbU06a1xLCiwK2yrsr919YKICBmdW5jdGlvbiBnZXROdW1iZXIobnVtKSB7CiAgICBmb3IgKGxldCBpID0gMDsgaSA8IHpoLmxlbmd0aDsgaSsrKSB7CiAgICAgIGlmICh6aFtpXSA9PSBudW0pIHsKICAgICAgICByZXR1cm4gaTsKICAgICAgfQogICAgfQogIH0KCiAgLy8gyKG1pc67CiAgZnVuY3Rpb24gZ2V0VW5pdChudW0pIHsKICAgIGZvciAobGV0IGkgPSB1bml0Lmxlbmd0aDsgaSA+IDA7IGktLSkgewogICAgICBpZiAobnVtID09IHVuaXRbaSAtIDFdKSB7CiAgICAgICAgcmV0dXJuIE1hdGgucG93KDEwLCA0IC0gaSk7CiAgICAgIH0KICAgIH0KICB9CgogIC8vIMiht9a2zgogIGZ1bmN0aW9uIGdldFF1b3QocSkgewogICAgZm9yICh2YXIgaSA9IDA7IGkgPCBxdW90Lmxlbmd0aDsgaSsrKSB7CiAgICAgIGlmIChxID09IHF1b3RbaV0pIHsKICAgICAgICByZXR1cm4gTWF0aC5wb3coMTAsIChpICsgMSkgKiA0KTsKICAgICAgfQogICAgfQogIH0KfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnMgPSBfLnVuaXEoY29sdW1ucyk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAK</text>
@@ -1675,13 +1676,13 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhncm91cGVkQnlGYXVsdCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwogIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhuemhjbi5kZWNvZGVTKCK5/rn+IikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
