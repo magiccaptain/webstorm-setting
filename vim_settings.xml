@@ -9,10 +9,10 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="79" column="44" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525422379083">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="156" column="14" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" timestamp="1525768531873">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="84" />
         <mark key="." line="154" column="84" />
         <mark key="^" line="154" column="84" />
       </file>
@@ -258,11 +258,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525762730637">
-        <mark key="[" line="246" column="45" />
-        <mark key="]" line="246" column="42" />
-        <mark key="." line="246" column="42" />
-        <mark key="^" line="246" column="42" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525770029272">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
+        <mark key="^" line="271" column="19" />
       </file>
       <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524817796206">
         <mark key="[" line="74" column="24" />
@@ -300,8 +301,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="28" column="31" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" timestamp="1525422246806">
-        <mark key="'" line="68" column="21" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" timestamp="1525768411529">
+        <mark key="'" line="58" column="10" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -932,12 +933,12 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" timestamp="1525749387437">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" timestamp="1525768203567">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="45" column="16" />
-        <mark key="^" line="45" column="16" />
-        <mark key="." line="45" column="16" />
+        <mark key="[" line="61" column="15" />
+        <mark key="]" line="61" column="20" />
+        <mark key="." line="61" column="20" />
+        <mark key="^" line="61" column="20" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/utils/request.js" timestamp="1516504250413">
         <mark key="[" line="5" column="0" />
@@ -1513,12 +1514,12 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525761393525">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525767588248">
         <mark key="'" line="48" column="21" />
-        <mark key="[" line="113" column="48" />
-        <mark key="]" line="113" column="57" />
-        <mark key="^" line="113" column="57" />
-        <mark key="." line="113" column="57" />
+        <mark key="[" line="101" column="42" />
+        <mark key="]" line="101" column="59" />
+        <mark key="^" line="101" column="59" />
+        <mark key="." line="101" column="59" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
@@ -1582,14 +1583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="40" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
-      <jump line="60" column="14" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
-      <jump line="62" column="41" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
-      <jump line="67" column="58" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
-      <jump line="923" column="24" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
-      <jump line="795" column="16" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
-      <jump line="657" column="14" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
-      <jump line="647" column="14" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="653" column="14" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="642" column="32" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="764" column="22" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
@@ -1682,28 +1675,36 @@
       <jump line="200" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
       <jump line="207" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
       <jump line="230" column="4" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
+      <jump line="250" column="28" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
+      <jump line="244" column="11" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
+      <jump line="58" column="10" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" />
+      <jump line="225" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
+      <jump line="147" column="20" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
+      <jump line="19" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
+      <jump line="0" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
+      <jump line="13" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>e.key</text>
       </register>
       <register name="/" type="4">
-        <text>tailForm</text>
+        <text>DatePicker</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICBuYW1lOiAiyKuyvyIsCiAgICBzY2FsZTogImFsbCIKICB9LAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjdXJyZW50OiBlLmtleQogICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNjYWxlcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uRGF0ZUNoYW5nZShzY2FsZSl7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1712,31 +1713,30 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghc2hvd0FsbCkgewoKICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGVTdHJpbmdzKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>tailForm</last-search>
+      <last-search>DatePicker</last-search>
       <last-offset />
-      <last-pattern>tailForm</last-pattern>
+      <last-pattern>DatePicker</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>default</entry>
         <entry>main</entry>
         <entry>Content</entry>
         <entry>redoc-demo</entry>
@@ -1756,6 +1756,7 @@
         <entry>page</entry>
         <entry>itemRender</entry>
         <entry>tailForm</entry>
+        <entry>DatePicker</entry>
       </history-search>
       <history-cmd />
       <history-expr />
