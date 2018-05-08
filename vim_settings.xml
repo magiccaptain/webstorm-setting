@@ -366,7 +366,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/order-fault-bar.js" timestamp="1525682732542">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/order-fault-bar.js" timestamp="1525761400803">
         <mark key="'" line="81" column="5" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="52" column="14" />
@@ -1094,11 +1094,11 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/echart-themes.js" timestamp="1525745339001">
-        <mark key="[" line="473" column="13" />
-        <mark key="]" line="473" column="13" />
-        <mark key="." line="473" column="13" />
-        <mark key="^" line="473" column="13" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/echart-themes.js" timestamp="1525760822796">
+        <mark key="[" line="477" column="0" />
+        <mark key="]" line="477" column="0" />
+        <mark key="." line="477" column="0" />
+        <mark key="^" line="475" column="66" />
       </file>
       <file name="G:/projects/stacktop-auth-server/app/router.ts" timestamp="1524817622366">
         <mark key="[" line="15" column="13" />
@@ -1321,12 +1321,11 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" timestamp="1525743141738">
-        <mark key="a" line="30" column="14" />
-        <mark key="[" line="41" column="21" />
-        <mark key="]" line="41" column="21" />
-        <mark key="." line="41" column="21" />
-        <mark key="^" line="41" column="21" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" timestamp="1525759588390">
+        <mark key="a" line="32" column="14" />
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/config.ts" timestamp="1517241622251">
         <mark key="[" line="13" column="24" />
@@ -1514,10 +1513,12 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525755029608">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525761393525">
+        <mark key="'" line="48" column="21" />
+        <mark key="[" line="113" column="48" />
+        <mark key="]" line="113" column="57" />
+        <mark key="^" line="113" column="57" />
+        <mark key="." line="113" column="57" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
@@ -1581,7 +1582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="D:/projects/stacktop-auth-server/doc/api/oauth.yaml" />
       <jump line="645" column="20" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="927" column="28" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="34" column="21" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
@@ -1681,48 +1681,47 @@
       <jump line="99" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" />
       <jump line="65" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/response-time-line.js" />
       <jump line="1" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" />
+      <jump line="48" column="21" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>finished</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>finished</text>
       </register>
       <register name="/" type="4">
         <text>tailForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZmluaXNoZWQsIHVuZmluaXNoZWQgfSA9IGRhdGE7CiAgICBjb25zdCBhbGwgPSBmaW5pc2hlZCArIHVuZmluaXNoZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e2NvdW50VGV4dFN0eWxlfT57ZmluaXNoZWR9PC9zcGFuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3t9fT48L3NwYW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDb2wgc3Bhbj17MTJ9Lz4KCiAgICAgICAgICAKCiAgICAgICAgICA8Q29sLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAge3VuZmluaXNoZWRQZXJjZW50fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdj48L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdj48L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBzdHlsZT17bGF5ZXJTdHlsZX0+CiAgICAgICAgPFJvdyB0eXBlPSJmbGV4IiBhbGlnbj0ibWlkZGxlIiBzdHlsZT17ewogICAgICAgICAgaGVpZ2h0OiAiMTAwJSIKICAgICAgICB9fT4KICAgICAgICAgIDxDb2wgc3Bhbj17MTJ9PgogICAgICAgICAgICA8Q2FyZAogICAgICAgICAgICAgIGJvcmRlcmVkPXtmYWxzZX0KICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAidHJhbnNwYXJlbnQiLAogICAgICAgICAgICAgICAgdGV4dEFsaWduOiAiY2VudGVyIgogICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgIDxwIHN0eWxlPXt7IGZvbnRTaXplOiAxNCB9fT7S0c3qs8k8L3A+CiAgICAgICAgICAgICAgPHAgc3R5bGU9e3sgZm9udFNpemU6IDI0IH19Pntjb21wbGV0aW9uUGVyY2VudH08L3A+CiAgICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgIDwvQ29sPgogICAgICAgIDwvUm93PgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBjb21wbGV0aW9uUGVyY2VudCA9IChkYXQpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBlcgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>style={{
-            height: &quot;100%&quot;
-          }}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
