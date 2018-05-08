@@ -1513,11 +1513,10 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525745635375">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="45" column="24" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525746481617">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
@@ -1684,7 +1683,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdG9vbHRpcDogewogICAgICAgIHRyaWdnZXI6ICJpdGVtIiwKICAgICAgICBmb3JtYXR0ZXI6ICJ7YX0gPGJyLz57Yn06IHtjfSAoe2R9JSkiCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>finished</text>
@@ -1696,31 +1695,31 @@
         <text encoding="base64">ICAgICAgewogICAgICAgIHZhbHVlOiAoZmluaXNoZWQgLyBhbGwpICogMTAwLAogICAgICAgIG5hbWU6ICfS0c3qs8knCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdG9vbHRpcDogewogICAgICAgIHRyaWdnZXI6ICJpdGVtIiwKICAgICAgICBmb3JtYXR0ZXI6ICJ7YX0gPGJyLz57Yn06IHtjfSAoe2R9JSkiCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVtcGhhc2lzOiB7CiAgICAgICAgICAgIHNob3c6IHRydWUsCiAgICAgICAgICAgIHRleHRTdHlsZTogewogICAgICAgICAgICAgIGZvbnRTaXplOiAiMzAiLAogICAgICAgICAgICAgIGZvbnRXZWlnaHQ6ICJib2xkIgogICAgICAgICAgICB9CiAgICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiAodiAvIGFsbCkgKiAxMDAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">W2ZpbmlzaGVkLCB1bmZpbmlzaGVkXS5tYXAodiA9PiB7CiAgICAgIHJldHVybiB7CiAgICAgIH07CiAgICB9KTs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdG9vbHRpcDogewogICAgICAgIHRyaWdnZXI6ICJpdGVtIiwKICAgICAgICBmb3JtYXR0ZXI6ICJ7YX0gPGJyLz57Yn06IHtjfSAoe2R9JSkiCiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWx1ZTogKHYgLyBhbGwpICogMTAwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbHVlOiAodiAvIGFsbCkgKiAxMDAsCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">W2ZpbmlzaGVkLCB1bmZpbmlzaGVkXS5tYXAodiA9PiB7CiAgICAgIHJldHVybiB7CiAgICAgIH07CiAgICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
