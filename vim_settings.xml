@@ -258,11 +258,11 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525745176759">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="92" column="38" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525762730637">
+        <mark key="[" line="246" column="45" />
+        <mark key="]" line="246" column="42" />
+        <mark key="." line="246" column="42" />
+        <mark key="^" line="246" column="42" />
       </file>
       <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524817796206">
         <mark key="[" line="74" column="24" />
@@ -1582,9 +1582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="645" column="20" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
-      <jump line="927" column="28" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
-      <jump line="34" column="21" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="55" column="40" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="60" column="14" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="62" column="41" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
@@ -1682,46 +1679,49 @@
       <jump line="65" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/response-time-line.js" />
       <jump line="1" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" />
       <jump line="48" column="21" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" />
+      <jump line="200" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
+      <jump line="207" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
+      <jump line="230" column="4" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>finished</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>finished</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>tailForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e2NvdW50VGV4dFN0eWxlfT57ZmluaXNoZWR9PC9zcGFuPgo=</text>
+        <text encoding="base64">ICB7CiAgICBuYW1lOiAiyKuyvyIsCiAgICBzY2FsZTogImFsbCIKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3t9fT48L3NwYW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNjYWxlcy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAge3VuZmluaXNoZWRQZXJjZW50fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdj48L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGRpdj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGlmICghc2hvd0FsbCkgewoKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
