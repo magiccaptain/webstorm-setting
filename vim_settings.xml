@@ -748,7 +748,7 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/company-fault-detail-pie.js" timestamp="1525745107853">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/company-fault-detail-pie.js" timestamp="1525749735279">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="32" />
       </file>
@@ -932,11 +932,12 @@
         <mark key="^" line="21" column="33" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" timestamp="1525682412905">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="59" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" timestamp="1525749387437">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="45" column="15" />
+        <mark key="]" line="45" column="16" />
+        <mark key="^" line="45" column="16" />
+        <mark key="." line="45" column="16" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/utils/request.js" timestamp="1516504250413">
         <mark key="[" line="5" column="0" />
@@ -1513,10 +1514,11 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525747131125">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525750510200">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
@@ -1580,7 +1582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="859" column="10" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="43" column="0" filename="D:/projects/stacktop-auth-server/doc/api/oauth.yaml" />
       <jump line="645" column="20" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="927" column="28" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
@@ -1680,43 +1681,64 @@
       <jump line="45" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" />
       <jump line="99" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" />
       <jump line="65" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/response-time-line.js" />
+      <jump line="1" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1waGFzaXM6IHsKICAgICAgICAgICAgICBzaG93OiB0cnVlLAogICAgICAgICAgICAgIHRleHRTdHlsZTogewogICAgICAgICAgICAgICAgZm9udFNpemU6ICIzMCIsCiAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiAiYm9sZCIKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>{
+        position: &quot;absolute&quot;,
+        left: 0,
+        width: &quot;100%&quot;,
+        height: this.style.height
+      }</text>
       </register>
       <register name="-" type="4">
-        <text>finished</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>tailForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHZhbHVlOiAoZmluaXNoZWQgLyBhbGwpICogMTAwLAogICAgICAgIG5hbWU6ICfS0c3qs8knCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgIGxlZnQ6IDAsCiAgICAgIGhlaWdodDogdGhpcy5zdHlsZS5oZWlnaHQsCiAgICAgIHdpZHRoOiAiMTAwJSIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1waGFzaXM6IHsKICAgICAgICAgICAgICBzaG93OiB0cnVlLAogICAgICAgICAgICAgIHRleHRTdHlsZTogewogICAgICAgICAgICAgICAgZm9udFNpemU6ICIzMCIsCiAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiAiYm9sZCIKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text>{
+        position: &quot;absolute&quot;,
+        left: 0,
+        width: &quot;100%&quot;,
+        height: this.style.height
+      }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+        position: &quot;absolute&quot;,
+        left: 0,
+        width: &quot;100%&quot;,
+        height: this.style.height
+      }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVtcGhhc2lzOiB7CiAgICAgICAgICAgIHNob3c6IHRydWUsCiAgICAgICAgICAgIHRleHRTdHlsZTogewogICAgICAgICAgICAgIGZvbnRTaXplOiAiMzAiLAogICAgICAgICAgICAgIGZvbnRXZWlnaHQ6ICJib2xkIgogICAgICAgICAgICB9CiAgICAgICAgICB9LAo=</text>
+      <register name="3" type="4">
+        <text>{
+      position: &quot;absolute&quot;,
+      left: 0,
+      height: this.style.height,
+      width: &quot;100%&quot;
+    }</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdG9vbHRpcDogewogICAgICAgIHRyaWdnZXI6ICJpdGVtIiwKICAgICAgICBmb3JtYXR0ZXI6ICJ7YX0gPGJyLz57Yn06IHtjfSAoe2R9JSkiCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbHVlOiAodiAvIGFsbCkgKiAxMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtzdXBlci5yZW5kZXIoKX0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
