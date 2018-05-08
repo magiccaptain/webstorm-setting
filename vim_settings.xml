@@ -1514,11 +1514,10 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525750510200">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="27" />
-        <mark key="." line="39" column="27" />
-        <mark key="^" line="39" column="27" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525755029608">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
@@ -1684,13 +1683,8 @@
       <jump line="1" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.module.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-        position: &quot;absolute&quot;,
-        left: 0,
-        width: &quot;100%&quot;,
-        height: this.style.height
-      }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1699,49 +1693,36 @@
         <text>tailForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246ICJhYnNvbHV0ZSIsCiAgICAgIGxlZnQ6IDAsCiAgICAgIGhlaWdodDogdGhpcy5zdHlsZS5oZWlnaHQsCiAgICAgIHdpZHRoOiAiMTAwJSIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZmluaXNoZWQsIHVuZmluaXNoZWQgfSA9IGRhdGE7CiAgICBjb25zdCBhbGwgPSBmaW5pc2hlZCArIHVuZmluaXNoZWQ7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        position: &quot;absolute&quot;,
-        left: 0,
-        width: &quot;100%&quot;,
-        height: this.style.height
-      }</text>
-      </register>
-      <register name="2" type="4">
-        <text>{
-        position: &quot;absolute&quot;,
-        left: 0,
-        width: &quot;100%&quot;,
-        height: this.style.height
-      }</text>
-      </register>
-      <register name="3" type="4">
-        <text>{
-      position: &quot;absolute&quot;,
-      left: 0,
-      height: this.style.height,
-      width: &quot;100%&quot;
-    }</text>
-      </register>
-      <register name="4" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxDb2wgc3Bhbj17MTJ9Lz4KCiAgICAgICAgICAKCiAgICAgICAgICA8Q29sLz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPGRpdiBzdHlsZT17bGF5ZXJTdHlsZX0+CiAgICAgICAgPFJvdyB0eXBlPSJmbGV4IiBhbGlnbj0ibWlkZGxlIiBzdHlsZT17ewogICAgICAgICAgaGVpZ2h0OiAiMTAwJSIKICAgICAgICB9fT4KICAgICAgICAgIDxDb2wgc3Bhbj17MTJ9PgogICAgICAgICAgICA8Q2FyZAogICAgICAgICAgICAgIGJvcmRlcmVkPXtmYWxzZX0KICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAidHJhbnNwYXJlbnQiLAogICAgICAgICAgICAgICAgdGV4dEFsaWduOiAiY2VudGVyIgogICAgICAgICAgICAgIH19PgogICAgICAgICAgICAgIDxwIHN0eWxlPXt7IGZvbnRTaXplOiAxNCB9fT7S0c3qs8k8L3A+CiAgICAgICAgICAgICAgPHAgc3R5bGU9e3sgZm9udFNpemU6IDI0IH19Pntjb21wbGV0aW9uUGVyY2VudH08L3A+CiAgICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgIDwvQ29sPgogICAgICAgIDwvUm93PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtzdXBlci5yZW5kZXIoKX0K</text>
+        <text encoding="base64">ICAgIGxldCBjb21wbGV0aW9uUGVyY2VudCA9IChkYXQpCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>style={{
+            height: &quot;100%&quot;
+          }}</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
