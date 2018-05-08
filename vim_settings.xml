@@ -258,6 +258,12 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525745176759">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="92" column="38" />
+      </file>
       <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524817796206">
         <mark key="[" line="74" column="24" />
         <mark key="]" line="74" column="36" />
@@ -373,17 +379,14 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/home/index.js" timestamp="1525421062344">
-        <mark key="^" line="14" column="56" />
-      </file>
       <file name="D:/projects/SmartElective/Server/app/controller/teachers.ts" timestamp="1519743299442">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="45" />
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" timestamp="1525742882204">
-        <mark key="'" line="29" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" timestamp="1525744634461">
+        <mark key="'" line="99" column="0" />
         <mark key="[" line="25" column="22" />
         <mark key="]" line="25" column="33" />
         <mark key="^" line="25" column="33" />
@@ -745,6 +748,10 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/company-fault-detail-pie.js" timestamp="1525745107853">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="32" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_sessions.ts" timestamp="1517330344570">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="17" />
@@ -1086,10 +1093,11 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/echart-themes.js" timestamp="1525743980756">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/echart-themes.js" timestamp="1525745339001">
+        <mark key="[" line="473" column="13" />
+        <mark key="]" line="473" column="13" />
+        <mark key="." line="473" column="13" />
+        <mark key="^" line="473" column="13" />
       </file>
       <file name="G:/projects/stacktop-auth-server/app/router.ts" timestamp="1524817622366">
         <mark key="[" line="15" column="13" />
@@ -1456,9 +1464,10 @@
         <mark key="." line="27" column="1" />
         <mark key="^" line="27" column="1" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/response-time-line.js" timestamp="1525743843695">
-        <mark key="[" line="45" column="25" />
-        <mark key="]" line="45" column="25" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/response-time-line.js" timestamp="1525744744657">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="2" />
         <mark key="." line="45" column="25" />
         <mark key="^" line="45" column="25" />
       </file>
@@ -1503,6 +1512,12 @@
         <mark key="]" line="12" column="49" />
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525745635375">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="45" column="24" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
@@ -1566,11 +1581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="170" column="6" filename="D:/projects/SC/openapi-parser/lib/library.utils.ts" />
-      <jump line="23" column="5" filename="D:/projects/github/ReDoc-master/demo/webpack.config.ts" />
-      <jump line="12" column="0" filename="D:/projects/github/ReDoc-master/demo/oauth.yaml" />
-      <jump line="117" column="0" filename="D:/projects/stacktop-auth-server/doc/api/oauth.yaml" />
-      <jump line="241" column="0" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="859" column="10" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
       <jump line="43" column="0" filename="D:/projects/stacktop-auth-server/doc/api/oauth.yaml" />
       <jump line="645" column="20" filename="D:/projects/github/ReDoc-master/demo/openapi.yaml" />
@@ -1666,43 +1676,48 @@
       <jump line="40" column="5" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/order-fault-bar.js" />
       <jump line="20" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/clissify-fault-bar.js" />
       <jump line="37" column="11" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/clissify-fault-bar.js" />
+      <jump line="37" column="7" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/response-time-line.js" />
+      <jump line="10" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/response-time-line.js" />
+      <jump line="45" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" />
+      <jump line="99" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" />
+      <jump line="65" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/response-time-line.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIjMzg5ZWZkIiwK</text>
+        <text encoding="base64">ICAgICAgdG9vbHRpcDogewogICAgICAgIHRyaWdnZXI6ICJpdGVtIiwKICAgICAgICBmb3JtYXR0ZXI6ICJ7YX0gPGJyLz57Yn06IHtjfSAoe2R9JSkiCiAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>finished</text>
       </register>
       <register name="/" type="4">
         <text>tailForm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdG9vbHRpcDogewogICAgICAgIHRyaWdnZXI6ICJheGlzIiwKICAgICAgICBheGlzUG9pbnRlcjogewogICAgICAgICAgdHlwZTogInNoYWRvdyIKICAgICAgICB9CiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHZhbHVlOiAoZmluaXNoZWQgLyBhbGwpICogMTAwLAogICAgICAgIG5hbWU6ICfS0c3qs8knCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIjMzg5ZWZkIiwK</text>
+        <text encoding="base64">ICAgICAgdG9vbHRpcDogewogICAgICAgIHRyaWdnZXI6ICJpdGVtIiwKICAgICAgICBmb3JtYXR0ZXI6ICJ7YX0gPGJyLz57Yn06IHtjfSAoe2R9JSkiCiAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBib3VuZGFyeUdhcDogdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF4aXNMYWJlbDogewogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbHVlOiAodiAvIGFsbCkgKiAxMDAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9ybWF0dGVyOiAie3ZhbHVlfSUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF4aXNMYWJlbDogewogICAgICAgICAgICBmb3JtYXR0ZXI6ICJ7dmFsdWV9JSIKICAgICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">W2ZpbmlzaGVkLCB1bmZpbmlzaGVkXS5tYXAodiA9PiB7CiAgICAgIHJldHVybiB7CiAgICAgIH07CiAgICB9KTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGludGVydmFsOiAwLAogICAgICAgICAgcm90YXRlOiA2MCwK</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZTogKHYgLyBhbGwpICogMTAwLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF4aXNMYWJlbDogewogICAgICAgICAgICBmb3JtYXR0ZXI6ICJ7dmFsdWV9JSIKICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
