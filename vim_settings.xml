@@ -260,10 +260,6 @@
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525770029272">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="287" column="0" />
-        <mark key="." line="287" column="0" />
-        <mark key="^" line="271" column="19" />
       </file>
       <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524817796206">
         <mark key="[" line="74" column="24" />
@@ -367,18 +363,21 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/order-fault-bar.js" timestamp="1525761400803">
-        <mark key="'" line="81" column="5" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="52" column="14" />
-        <mark key="." line="52" column="14" />
-        <mark key="^" line="52" column="14" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/order-fault-bar.js" timestamp="1525825101066">
+        <mark key="'" line="83" column="5" />
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="40" />
       </file>
       <file name="G:/projects/stacktop-auth-server/user-store-db.yml" timestamp="1524796519590">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="30" />
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/home/index.js" timestamp="1525421062344">
+        <mark key="^" line="14" column="56" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/controller/teachers.ts" timestamp="1519743299442">
         <mark key="[" line="19" column="0" />
@@ -1096,9 +1095,6 @@
         <mark key="^" line="7" column="21" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/echart-themes.js" timestamp="1525760822796">
-        <mark key="[" line="477" column="0" />
-        <mark key="]" line="477" column="0" />
-        <mark key="." line="477" column="0" />
         <mark key="^" line="475" column="66" />
       </file>
       <file name="G:/projects/stacktop-auth-server/app/router.ts" timestamp="1524817622366">
@@ -1323,7 +1319,7 @@
         <mark key="^" line="8" column="48" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" timestamp="1525759588390">
-        <mark key="a" line="32" column="14" />
+        <mark key="a" line="30" column="14" />
         <mark key="[" line="20" column="25" />
         <mark key="]" line="20" column="25" />
         <mark key="." line="20" column="25" />
@@ -1514,13 +1510,7 @@
         <mark key="^" line="12" column="49" />
         <mark key="." line="12" column="49" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525767588248">
-        <mark key="'" line="48" column="21" />
-        <mark key="[" line="101" column="42" />
-        <mark key="]" line="101" column="59" />
-        <mark key="^" line="101" column="59" />
-        <mark key="." line="101" column="59" />
-      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/completion-pie.js" timestamp="1525767588248" />
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
         <mark key="]" line="11" column="9" />
@@ -1685,11 +1675,11 @@
       <jump line="13" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>asc</text>
       </register>
       <register name="-" type="4">
-        <text>e.key</text>
+        <text>asc</text>
       </register>
       <register name="/" type="4">
         <text>DatePicker</text>
@@ -1704,10 +1694,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9uRGF0ZUNoYW5nZShzY2FsZSl7CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9uRGF0ZUNoYW5nZShzY2FsZSl7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1716,13 +1706,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGVTdHJpbmdzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGVTdHJpbmdzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
