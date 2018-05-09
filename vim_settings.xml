@@ -254,8 +254,10 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525833627277">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" timestamp="1525845301049">
         <mark key="'" line="4" column="0" />
+        <mark key="[" line="293" column="43" />
+        <mark key="]" line="293" column="54" />
       </file>
       <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524817796206">
         <mark key="[" line="74" column="24" />
@@ -546,6 +548,12 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="16" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/@types/react/index.d.ts" timestamp="1525844789379">
+        <mark key="[" line="307" column="81" />
+        <mark key="]" line="307" column="80" />
+        <mark key="^" line="307" column="80" />
+        <mark key="." line="307" column="80" />
+      </file>
       <file name="D:/projects/dva-electron-boilerplate/src/renderer/components/Test.ts" timestamp="1516117057444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -795,10 +803,10 @@
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1525840444023">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1525844896178">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="6" column="13" />
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/LoginPage.tsx" timestamp="1517503343102">
@@ -1343,10 +1351,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" timestamp="1525841296704">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" timestamp="1525845209571">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="20" column="2" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="13" column="4" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/user.ts" timestamp="1524668470308">
         <mark key="[" line="27" column="0" />
@@ -1511,10 +1521,11 @@
         <mark key="." line="39" column="18" />
         <mark key="^" line="39" column="18" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" timestamp="1525841302346">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" timestamp="1525845460092">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="7" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/tsconfig.json" timestamp="1517743837874">
         <mark key="[" line="4" column="15" />
@@ -1591,8 +1602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="0" filename="D:/projects/SC/egg-dit-apis/lib/dit-apis.ts" />
-      <jump line="112" column="37" filename="D:/projects/SC/egg-dit-apis/lib/dit-apis.ts" />
       <jump line="29" column="7" filename="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" />
       <jump line="61" column="13" filename="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" />
       <jump line="68" column="9" filename="D:/projects/stacktop-auth-server/app/oauth-server/model.ts" />
@@ -1691,43 +1700,45 @@
       <jump line="7" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/charts/analysis-fault-bar.js" />
       <jump line="74" column="36" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
       <jump line="47" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
+      <jump line="24" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" />
+      <jump line="14" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>DatePicker</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
+      <register name="0" type="4">
+        <text>selectedKeys</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgdG9wTWVudXMKICAgIH0gPSB0aGlzLnByb3BzOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvcE1lbnVzWzBdLm5hbQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
