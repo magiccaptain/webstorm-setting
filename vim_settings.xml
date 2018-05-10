@@ -88,12 +88,12 @@
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="32" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.js" timestamp="1525876652877">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
-        <mark key="^" line="6" column="24" />
-        <mark key="." line="6" column="24" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.js" timestamp="1525957256230">
+        <mark key="'" line="8" column="20" />
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/config/config.default.js" timestamp="1523512326754">
         <mark key="[" line="24" column="24" />
@@ -288,6 +288,12 @@
         <mark key="]" line="53" column="17" />
         <mark key="." line="53" column="17" />
         <mark key="^" line="53" column="17" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" timestamp="1525956929069">
+        <mark key="[" line="220" column="14" />
+        <mark key="]" line="220" column="23" />
+        <mark key="^" line="220" column="23" />
+        <mark key="." line="220" column="23" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/package.json" timestamp="1517673564167">
         <mark key="[" line="4" column="43" />
@@ -508,10 +514,10 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1525956066362">
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1525956555385">
         <mark key="'" line="56" column="2" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="179" column="11" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="137" column="6" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/major.ts" timestamp="1517762836162">
         <mark key="[" line="10" column="9" />
@@ -657,6 +663,13 @@
         <mark key="]" line="29" column="9" />
         <mark key="." line="29" column="9" />
         <mark key="^" line="5" column="10" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/home/index.js" timestamp="1525956820031">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="90" column="57" />
+        <mark key="]" line="90" column="66" />
+        <mark key="." line="90" column="66" />
+        <mark key="^" line="90" column="66" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_json.ts" timestamp="1517743956368">
         <mark key="[" line="8" column="28" />
@@ -973,11 +986,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/all-warnings.js" timestamp="1525956146654">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="5" />
-        <mark key="." line="25" column="5" />
-        <mark key="^" line="25" column="5" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/all-warnings.js" timestamp="1525957242226">
+        <mark key="[" line="78" column="29" />
+        <mark key="]" line="78" column="42" />
+        <mark key="." line="78" column="42" />
+        <mark key="^" line="78" column="42" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/router.js" timestamp="1520177911752">
         <mark key="[" line="12" column="36" />
@@ -1456,6 +1469,12 @@
         <mark key="." line="43" column="29" />
         <mark key="^" line="43" column="29" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.module.less" timestamp="1525957234622">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+      </file>
       <file name="D:/projects/open-api-redoc/front-end/src/index.ejs" timestamp="1524315814307">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -1743,7 +1762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
       <jump line="150" column="10" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
       <jump line="22" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.js" />
       <jump line="153" column="48" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
@@ -1843,46 +1861,47 @@
       <jump line="127" column="3" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
       <jump line="75" column="5" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.const.js" />
       <jump line="56" column="2" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
+      <jump line="8" column="20" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+      <register name="&quot;" type="4">
+        <text>warning</text>
       </register>
       <register name="-" type="4">
-        <text>警报</text>
+        <text>warning</text>
       </register>
       <register name="/" type="4">
         <text>antd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJyZWFkY3J1bWIuSXRlbT6+r7GoPC9CcmVhZGNydW1iLkl0ZW0+Cg==</text>
+        <text encoding="base64">ICAuaGVhZGVyLW5vLXRhYnMgewogICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZjsKICAgIHBhZGRpbmc6IDI0cHg7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6IDI0cHg7CiAgICBwYWRkaW5nLWxlZnQ6IDI0cHg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICJwcm9wLXR5cGVzIjsK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJvd09wZXJhdGlvbnMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnJlbmRlckhhbmRsZWRCcmllZlRhYmxlUGFuZWwoKX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt0aGlzLnJlbmRlclVuaGFuZGxlZEJyaWVmVGFibGVQYW5lbCgpfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTZWFyY2hQYW5lbCBvbkZpbHRlckNoYW5nZT17dGhpcy5vbkZpbHRlckNoYW5nZX0gLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBhbGxXYXJuaW5nc0hhbmRsZWQ6IF8uY2hhaW4od2FybmluZ3MpCiAgLy8gICAuZmlsdGVyKHcgPT4gdy5zdGF0dXMgPT09IDApCiAgLy8gICAub3JkZXJCeSgic3RhcnRUaW1lIiwgImRlc2MiKQogIC8vICAgLnZhbHVlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
