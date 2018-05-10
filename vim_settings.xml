@@ -833,6 +833,11 @@
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1525916068581">
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
+        <mark key="." line="317" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/LoginPage.tsx" timestamp="1517503343102">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -845,7 +850,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="30" column="57" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1514361160978">
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1525915579783">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
@@ -1232,7 +1237,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.const.js" timestamp="1525913128010" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.const.js" timestamp="1525916089123">
+        <mark key="'" line="103" column="2" />
+        <mark key="[" line="118" column="5" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/utils/request_options.ts" timestamp="1519743645078">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="11" column="26" />
@@ -1621,7 +1631,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="23" filename="D:/projects/stacktop-auth-server/test/app/stores/scope-store-redis.test.ts" />
       <jump line="74" column="0" filename="D:/projects/stacktop-auth-server/app/oauth-server/model.ts" />
       <jump line="136" column="8" filename="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" />
       <jump line="135" column="43" filename="D:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" />
@@ -1721,48 +1730,47 @@
       <jump line="65" column="20" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
       <jump line="70" column="11" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" />
       <jump line="52" column="13" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.const.js" />
+      <jump line="103" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.const.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>Unhandled</text>
       </register>
       <register name="/" type="4">
         <text>antd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbmRlcjogZnVuY3Rpb24oXywgcmVjb3JkKSB7CiAgICAgIHJldHVybiBtb21lbnQocmVjb3JkWyJzdGFydFRpbWUiXSkuZm9ybWF0KCJZWVlZLU1NLUREIGhoOm1tOnNzIik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICBhbGxXYXJuaW5nc1VuaGFuZGxlZDogUHJvcFR5cGVzLmFycmF5LmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlY29yZFsnbGV2ZWwnXQo=</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-        
-      }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
