@@ -396,13 +396,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="43" column="18" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.const.js" timestamp="1525876890613">
-        <mark key="'" line="75" column="5" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="93" column="28" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="[stacktop.cn] CONSOLE - stacktop.cn" timestamp="1517654556202">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -518,12 +511,6 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1525877982859">
-        <mark key="'" line="127" column="3" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/major.ts" timestamp="1517762836162">
         <mark key="[" line="10" column="9" />
@@ -1169,12 +1156,7 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" timestamp="1525867332290">
-        <mark key="[" line="73" column="24" />
-        <mark key="]" line="73" column="34" />
-        <mark key="." line="73" column="34" />
-        <mark key="^" line="73" column="34" />
-      </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" timestamp="1525867332290" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/models.ts" timestamp="1517274358175">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="6" column="21" />
@@ -1864,11 +1846,11 @@
       <jump line="75" column="5" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.const.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>FIXME</text>
       </register>
       <register name="-" type="4">
-        <text>: defaultColumns</text>
+        <text>FIXME</text>
       </register>
       <register name="/" type="4">
         <text>antd</text>
@@ -1877,25 +1859,25 @@
         <text encoding="base64">ICAgIC8vIEZJWE1FILSmwO2y2df3Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIEZJWE1FINLRzeqzybXEd2FybmluZ8rHt/HQ6M/Uyr6y2df3Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+tKYgwO08L2Rpdj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPrSmwO08L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXY+tKYgwO08L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHNpemU9InNtYWxsIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPrSmwO08L3NwYW4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHNpemU9InNtYWxsIgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
