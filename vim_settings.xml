@@ -371,11 +371,11 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.d.ts" timestamp="1526001637849">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="33" column="32" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.d.ts" timestamp="1526003392496">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/user.js" timestamp="1516550085377">
         <mark key="[" line="1" column="26" />
@@ -784,12 +784,12 @@
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1526002216192">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1526003373418">
         <mark key="'" line="87" column="41" />
-        <mark key="[" line="87" column="9" />
-        <mark key="]" line="87" column="21" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
         <mark key="^" line="87" column="21" />
-        <mark key="." line="87" column="21" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/LoginPage.tsx" timestamp="1517503343102">
         <mark key="[" line="9" column="0" />
@@ -1437,12 +1437,10 @@
         <mark key="^" line="43" column="6" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.js" timestamp="1526002229841">
-        <mark key="'" line="78" column="18" />
-        <mark key="[" line="78" column="34" />
-        <mark key="]" line="78" column="42" />
-        <mark key="^" line="78" column="42" />
-        <mark key="." line="78" column="42" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.js" timestamp="1526003375097">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="D:/projects/SC/openapi-parser/test/reader.test.ts" timestamp="1524065005185">
         <mark key="[" line="2" column="29" />
@@ -1552,7 +1550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="35" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
       <jump line="216" column="11" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
       <jump line="77" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
       <jump line="53" column="15" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/components/tags-input.js" />
@@ -1652,10 +1649,11 @@
       <jump line="62" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/lib/request.js" />
       <jump line="87" column="41" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
       <jump line="77" column="18" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.js" />
+      <jump line="30" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://test.api/warnings</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>http://test.api/warnings</text>
@@ -1667,34 +1665,34 @@
         <text>http://test.api/warnings</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmpzb24oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;get&quot;, function(options) {
-  console.log(options);
-  return warnings;
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgTW9ja2pzIH0gZnJvbSAiLi9pbmRleCI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQK</text>
+        <text encoding="base64">Y29uc3Qgd2FybmluZ01vY2tTZXJ2ZXI6IE1vY2tqczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2FybmluZ01vY2tTZXJ2ZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgRmV0Y2hNb2NrLmdldCgiL2FwaS93YXJuaW5ncyIsIHdhcm5pbmdzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBmZXRjaCgiL2FwaS93YXJuaW5ncyIpLnRoZW4ocmVzcG9uc2UgPT4gewogICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwogICAgcmVzcG9uc2UuanNvbigpLnRoZW4oanNvbiA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGpzb24pOwogICAgfSk7CiAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmpzb24oKSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text>&quot;get&quot;, function(options) {
+  console.log(options);
+  return warnings;
+}</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
