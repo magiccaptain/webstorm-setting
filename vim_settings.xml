@@ -277,12 +277,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1526130586154">
-        <mark key="'" line="116" column="6" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="6" />
-        <mark key="." line="32" column="6" />
-        <mark key="^" line="32" column="6" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1526132968408">
+        <mark key="'" line="107" column="6" />
+        <mark key="[" line="89" column="15" />
+        <mark key="]" line="89" column="25" />
+        <mark key="." line="89" column="25" />
+        <mark key="^" line="89" column="25" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/adapters/ele_flowmeter_table.js" timestamp="1498703613026">
         <mark key="[" line="1" column="8" />
@@ -319,10 +319,11 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/actions/component/warnings-table-panel.js" timestamp="1526130894045">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/actions/component/warnings-table-panel.js" timestamp="1526132495216">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_hour.ts" timestamp="1517214292127">
         <mark key="[" line="27" column="14" />
@@ -773,7 +774,7 @@
         <mark key="]" line="5" column="59" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" timestamp="1526129176115">
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" timestamp="1526133034972">
         <mark key="[" line="388" column="0" />
         <mark key="]" line="388" column="71" />
         <mark key="^" line="423" column="20" />
@@ -849,11 +850,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1526131384174">
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1526133081251">
         <mark key="'" line="131" column="18" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
+        <mark key="[" line="139" column="70" />
+        <mark key="]" line="139" column="77" />
+        <mark key="." line="139" column="77" />
+        <mark key="^" line="139" column="77" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/sagas/saga-warnings.js" timestamp="1526128200213">
         <mark key="[" line="12" column="41" />
@@ -1034,11 +1036,11 @@
       <jump line="166" column="19" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/node_modules/redux/index.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>HANDLED</text>
       </register>
       <register name="-" type="4">
-        <text>HANDLING</text>
+        <text>HANDLED</text>
       </register>
       <register name="/" type="4">
         <text>dispatch</text>
@@ -1047,39 +1049,31 @@
         <text>WARN_TYPE_HANDLING</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2x1bW5zOiBbXSwK</text>
       </register>
-      <register name="2" type="4">
-        <text>,
-      table: {
-        columns: [],
-        tableData: [],
-        total: 0,
-        page: 1,
-        pageSize: 10,
-        loading: false
-      },</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGU6IHsKICAgICAgICAgICAgICAuLi50YWJsZSwKICAgICAgICAgICAgICBjb2x1bW5zOiBuZXdDb2x1bW5zCiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIOiuoeeulyB0YWJsZSDnmoQgY29sdW1ucwogICAgICAgICAgbGV0IG5ld0NvbHVtbnMgPSBmaWx0ZXIoY29sdW1ucywgYyA9PiB7CiAgICAgICAgICAgIHJldHVybiBmaWx0ZXJzLmluZGV4T2YoYy5rZXkpICE9PSAtMSB8fCBjLmtleSA9PT0gImhhbmRsZXIiOwogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3VycmVudFR5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHsgY29sdW1ucyB9ID0gdGFibGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdFR5cGU6IAo=</text>
+        <text encoding="base64">ICAgIGNvbHVtbnM6IFtdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGluaXRTdGF0ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtkaXNwYXRjaH0gZnJvbSAncmVkdXgnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMuZGlzcGF0Y2goaW5pdGlhbCgpKQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
     </registers>
     <search>
