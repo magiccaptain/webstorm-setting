@@ -277,12 +277,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1526129324286">
-        <mark key="'" line="87" column="26" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="98" column="35" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1526130059270">
+        <mark key="'" line="116" column="6" />
+        <mark key="[" line="121" column="24" />
+        <mark key="]" line="122" column="12" />
+        <mark key="." line="122" column="12" />
+        <mark key="^" line="122" column="12" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/adapters/ele_flowmeter_table.js" timestamp="1498703613026">
         <mark key="[" line="1" column="8" />
@@ -631,6 +631,13 @@
         <mark key="." line="20" column="1" />
         <mark key="^" line="20" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/index.js" timestamp="1526129984336">
+        <mark key="'" line="11" column="1" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/projects/smart-meter-dva/src/plugins/sync-state.ts" timestamp="1509634891074">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -698,9 +705,9 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/tables.js" timestamp="1526127486336">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="34" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/tables.js" timestamp="1526129412939">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="43" column="58" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/AuthRouter.tsx" timestamp="1505733412859">
         <mark key="[" line="22" column="17" />
@@ -764,6 +771,12 @@
         <mark key="]" line="27" column="1" />
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
+      </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/index.js" timestamp="1526129927068">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+        <mark key="^" line="7" column="25" />
       </file>
       <file name="/Dummy.txt" timestamp="1517236475131">
         <mark key="[" line="0" column="0" />
@@ -905,13 +918,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="2" filename="G:/projects/smart_meter_fullstack/auth/mongo_model.ts" />
-      <jump line="55" column="0" filename="G:/projects/smart_meter_fullstack/server/app.ts" />
-      <jump line="12" column="58" filename="G:/projects/smart_meter_dva/.roadhogrc" />
-      <jump line="63" column="0" filename="G:/projects/smart_meter_dva/node_modules/dva/fetch.d.ts" />
-      <jump line="21" column="2" filename="G:/projects/smart_meter_dva/node_modules/dva/fetch.d.ts" />
-      <jump line="24" column="2" filename="G:/projects/smart_meter_dva/node_modules/dva/fetch.d.ts" />
-      <jump line="80" column="36" filename="G:/projects/smart_meter_dva/node_modules/@types/node/index.d.ts" />
       <jump line="54" column="22" filename="G:/projects/smart_meter_dva/src/components/Users/Users.js" />
       <jump line="26" column="20" filename="G:/projects/smart_meter_dva/src/components/Users/Users.js" />
       <jump line="48" column="0" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
@@ -1000,51 +1006,58 @@
       <jump line="65" column="18" filename="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" />
       <jump line="2" column="53" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/containers/login/index.js" />
       <jump line="47" column="3" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
       <jump line="42" column="20" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
       <jump line="2" column="12" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
       <jump line="59" column="26" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
       <jump line="85" column="26" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
+      <jump line="21" column="7" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/index.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
+      <jump line="116" column="6" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
+      <jump line="11" column="1" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>export</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>export</text>
       </register>
       <register name="/" type="4">
         <text>**</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGNvbHVtbkZpbHRlcnMuaW5kZXhPZihjLmtleSkgIT09IC0xIHx8IGMua2V5ID09PSAiaGFuZGxlciI7Cg==</text>
+        <text encoding="base64">V0kK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHdhcm5pbmdUYWJsZVBhbmVscyBmcm9tICIuL2NvbXBvbmVudHMvd2FybmluZy10YWJsZS1wYW5lbCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHdhcm5pbmdUYWJsZVBhbmVscyBmcm9tICIuL2NvbXBvbmVudHMvd2FybmluZy10YWJsZS1wYW5lbCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">WwogIEJSSUVGX1VOSEFORExFRF9XQVJOSU5HUywKICBCUklFRl9IQU5ETEVEX1dBUk5JTkdTLAogIEFMTF9XQVJOSU5HUwpdLnJlZHVjZSgoYWNjLCByZCkgPT4gewogIGFjY1tyZF0gPSByZWR1Y2VyKHJkKTsKfSwge30p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb2x1bW5zRmlsdGVyczogW10sCg==</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
     </registers>
     <search>
