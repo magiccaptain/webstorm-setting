@@ -4,5 +4,9 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/mockjs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
   </component>
 </application>
