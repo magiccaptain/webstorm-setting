@@ -45,6 +45,12 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/models/warning.js" timestamp="1526371318503">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="44" />
+      </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/webpack.config.js" timestamp="1502163470262">
         <mark key="[" line="12" column="54" />
         <mark key="]" line="12" column="54" />
@@ -117,7 +123,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/warning.js" timestamp="1526355828323" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/warning.js" timestamp="1526370948142" />
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/containers/all-warnings.js" timestamp="1526218232340">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -228,11 +234,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="24" column="51" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/company.js" timestamp="1526364366554">
-        <mark key="[" line="9" column="23" />
-        <mark key="]" line="9" column="24" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="9" column="24" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/company.js" timestamp="1526370108181">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/selectors/index.js" timestamp="1526217667396">
         <mark key="[" line="19" column="41" />
@@ -270,6 +276,11 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/original-data/faults.csv" timestamp="1526369546871">
+        <mark key="'" line="128" column="0" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="28" />
+      </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" timestamp="1526212073002">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="31" column="21" />
@@ -294,10 +305,11 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/index.js" timestamp="1526365709139">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/index.js" timestamp="1526370227946">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/major.ts" timestamp="1517066450094">
         <mark key="[" line="20" column="1" />
@@ -305,11 +317,12 @@
         <mark key="." line="20" column="1" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/faults.js" timestamp="1526365595638">
-        <mark key="[" line="43" column="19" />
-        <mark key="]" line="43" column="18" />
-        <mark key="." line="43" column="18" />
-        <mark key="^" line="43" column="18" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/faults.js" timestamp="1526369633046">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="26" />
+        <mark key="." line="5" column="26" />
+        <mark key="^" line="5" column="26" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/utils/ace-helper.ts" timestamp="1504676685454">
         <mark key="[" line="6" column="16" />
@@ -504,7 +517,7 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1526362673374">
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1526370028194">
         <mark key="'" line="112" column="35" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="43" />
@@ -630,6 +643,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="11" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1526371885084">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="28" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/Login.jsx" timestamp="1499048631636">
         <mark key="[" line="39" column="53" />
         <mark key="]" line="39" column="64" />
@@ -666,7 +683,7 @@
         <mark key="^" line="15" column="5" />
         <mark key="." line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1526350877939" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1526370977149" />
       <file name="$USER_HOME$/projects/dva-electron-boilerplate/README.md" timestamp="1514963837422">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="27" column="7" />
@@ -757,12 +774,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/lib/origin-data.js" timestamp="1526367008223">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/lib/origin-data.js" timestamp="1526369403519">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/line.js" timestamp="1526365719636">
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/line.js" timestamp="1526369608675">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -810,12 +828,19 @@
         <mark key="^" line="6" column="107" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/lib/orgin-data.test.js" timestamp="1526369603661">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/redux/reducers/DashBoard.js" timestamp="1499158599907">
         <mark key="[" line="5" column="45" />
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/上海巴士.postman_collection.json" timestamp="1526371841872" />
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="14" column="1" />
@@ -848,10 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="G:/projects/smart_meter_dva/src/utils/oauth.ts" />
-      <jump line="71" column="13" filename="G:/projects/smart_meter_dva/src/models/authorities.ts" />
-      <jump line="14" column="14" filename="G:/projects/smart_meter_dva/src/router.tsx" />
-      <jump line="51" column="24" filename="G:/projects/smart_meter_dva/src/router.tsx" />
       <jump line="35" column="25" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
       <jump line="52" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
       <jump line="53" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
@@ -948,52 +969,92 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/line.js" />
       <jump line="0" column="14" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/fault-code.js" />
       <jump line="24" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/line.js" />
+      <jump line="2" column="7" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/original-data/faults.csv" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/original-data/faults.csv" />
+      <jump line="128" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/original-data/faults.csv" />
+      <jump line="46" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/faults.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbGV0ZWRBdDogRGF0ZSwgLy8g5Yig6Zmk5pe26Ze0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>, &quot;巴士六&quot;</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
       </register>
-      <register name="0" type="4">
-        <text>10131C02</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlbGV0ZWRBdDogRGF0ZSwgLy8g5Yig6Zmk5pe26Ze0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZigpIHsKICAKfQo=</text>
+        <text encoding="base64">Ly8gRklYTUUg5oyJ54Wn5a6e6ZmF6ZyA6KaB57yW6L6RCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>[
+  {
+    code: &quot;100A0A03&quot;,
+    name: &quot;BMS控制器故障（24V供电故障）&quot;
+  },
+  {
+    code: &quot;10C29202&quot;,
+    name: &quot;总电流极高（严重）&quot;
+  },
+  {
+    code: &quot;10101003&quot;,
+    name: &quot;电机严重故障&quot;
+  },
+  {
+    code: &quot;10D10801&quot;,
+    name: &quot;绝缘电阻极低故障（严重）&quot;
+  },
+  {
+    code: &quot;10103D02&quot;,
+    name: &quot;电池互锁故障&quot;
+  },
+  {
+    code: &quot;10140A02&quot;,
+    name: &quot;绝缘报警&quot;
+  },
+  {
+    code: &quot;10130303&quot;,
+    name: &quot;单体超温（严重）&quot;
+  },
+  {
+    code: &quot;10130703&quot;,
+    name: &quot;车辆急停&quot;
+  },
+  {
+    code: &quot;10130F01&quot;,
+    name: &quot;高压互锁状态报警&quot;
+  },
+  {
+    code: &quot;10131C02&quot;,
+    name: &quot;车载储能系统不匹配报警&quot;
+  }
+
+]</text>
       </register>
-      <register name="4" type="4">
-        <text>故障分级,分级,损害,后果,
-,严重故障(三级),火灾、触电、车辆失控,人身损害,
-,一般故障(二级),元器件故障,影响运营,
-,轻微故障(一级),故障征兆,加强观察,
-,,,,
-故障分类,故障名称,故障等级,Uniform fault Code,
-,,,(HEX十六进制),</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gRklYTUUg5oyJ54Wn5a6e6ZmF6ZyA6KaB57yW6L6RCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgZmF1bHRzTmFtZXMgPSBbCiAgIkJNU+aOp+WItuWZqOaVhemanO+8iDI0VuS+m+eUteaVhemanO+8iSIsCiAgIuaAu+eUtea1geaegemrmO+8iOS4pemHje+8iSIsCiAgIueUteacuuS4pemHjeaVhemanCIsCiAgIue7nee8mOeUtemYu+aegeS9juaVhemanO+8iOS4pemHje+8iSIsCiAgIueUteaxoOS6kumUgeaVhemanCIsCiAgIue7nee8mOaKpeitpiIsCiAgIuWNleS9k+i2hea4qe+8iOS4pemHje+8iSIsCiAgIui9pui+huaApeWBnCIsCiAgIumrmOWOi+S6kumUgeeKtuaAgeaKpeitpiIsCiAgIui9pui9veWCqOiDveezu+e7n+S4jeWMuemFjeaKpeitpiIKXTsKCmNvbnN0IGZhdWx0c0NvZGVzID0gWwogICIxMDBBMEEwMyIsCiAgIjEwQzI5MjAyIiwKICAiMTAxMDEwMDMiLAogICIxMEQxMDgwMSIsCiAgIjEwMTAzRDAyIiwKICAiMTAxNDBBMDIiLAogICIxMDEzMDMwMyIsCiAgIjEwMTMwNzAzIiwKICAiMTAxMzBGMDEiLAogICIxMDEzMUMwMiIKXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGZhdWx0Q29kZXMgZnJvbSAiLi9mYXVsdC1jb2RlIjsK</text>
+        <text encoding="base64">aW1wb3J0IF8gZnJvbSAibG9kYXNoIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcGkudXNlKCIvZmF1bHQtY29kZXMiLCBqd3RNaWRkbGV3YXJlLCBmYXVsdENvZGVzKTsK</text>
+        <text encoding="base64">ICAgIGxldCB0ZjEgPSBfLmZpbmRJbmRleChmYXVsdHMsIGYgPT4gZi5jb2RlID09PSAiMTAxMDBGMDIiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiMTAwQTBBMDMiLAogICIxMEMyOTIwMiIsCiAgIjEwMTAxMDAzIiwKICAiMTBEMTA4MDEiLAogICIxMDEwM0QwMiIsCiAgIjEwMTQwQTAyIiwKICAiMTAxMzAzMDMiLAogICIxMDEzMDcwMyIsCiAgIjEwMTMwRjAxIiwKICAiMTAxMzFDMDIiCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZhdWx0c1t0ZjFdKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBbIjHot68iLCAiNTc56LevIiwgIjE5Mui3ryIsICIyM+i3ryIsICIxOei3ryIsICIyOOi3ryJdOwo=</text>
+        <text encoding="base64">ICAgIGZhdWx0cy5maQo=</text>
       </register>
     </registers>
     <search>
