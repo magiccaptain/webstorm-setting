@@ -87,7 +87,11 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1526354567416" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1526355343431">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="G:/projects/smart_meter_dva/node_modules/dva/index.d.ts" timestamp="1505266118248">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="38" />
@@ -271,6 +275,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/warning.js" timestamp="1526355828323" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/adapters/ele_flowmeter_table.js" timestamp="1498703613026">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="12" />
@@ -988,11 +993,11 @@
       <jump line="10" column="3" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/sagas/components/warning-search-dialog.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>locahost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudmVoaWNsZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>locahost</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
@@ -1001,19 +1006,19 @@
         <text>warningSearchFetchOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBwLnVzZSgpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudmVoaWNsZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSwgcGF5bG9hZCB9ID0gYWN0aW9uOwo=</text>
+        <text encoding="base64">YXBwLnVzZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSwgcGF5bG9hZCB9ID0gYWN0aW9uOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc2FnZXMgPSAK</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2FnZXMgPSAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1022,10 +1027,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
