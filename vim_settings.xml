@@ -840,7 +840,9 @@
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/上海巴士.postman_collection.json" timestamp="1526371841872" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/上海巴士.postman_collection.json" timestamp="1526373456632">
+        <mark key="'" line="1123" column="42" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="14" column="1" />
@@ -873,11 +875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="25" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
-      <jump line="52" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
-      <jump line="53" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
-      <jump line="54" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
-      <jump line="55" column="12" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
       <jump line="31" column="11" filename="$USER_HOME$/projects/dva-electron-boilerplate/package.json" />
       <jump line="24" column="18" filename="$USER_HOME$/projects/fri-rep-server-shell/package.json" />
       <jump line="21" column="17" filename="$USER_HOME$/projects/fri-rep-server-shell/package.json" />
@@ -973,6 +970,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/original-data/faults.csv" />
       <jump line="128" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/original-data/faults.csv" />
       <jump line="46" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/faults.js" />
+      <jump line="436" column="31" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/上海巴士.postman_collection.json" />
+      <jump line="625" column="50" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/上海巴士.postman_collection.json" />
+      <jump line="700" column="182" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/上海巴士.postman_collection.json" />
+      <jump line="706" column="102" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/上海巴士.postman_collection.json" />
+      <jump line="1123" column="42" filename="$USER_HOME$/projects/zzswang/shanghaibus-core/上海巴士.postman_collection.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -982,7 +984,7 @@
         <text>, &quot;巴士六&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>valid</text>
+        <text>all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlbGV0ZWRBdDogRGF0ZSwgLy8g5Yig6Zmk5pe26Ze0Cg==</text>
@@ -1058,16 +1060,14 @@
       </register>
     </registers>
     <search>
-      <last-search>valid</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern>valid</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0UGFnZVNpemVkZWZhdWx0cGFnZVNpemVcPg==</entry>
-        <entry>media</entry>
         <entry>Stepper</entry>
         <entry>defaultValue</entry>
         <entry>getMui</entry>
@@ -1086,6 +1086,8 @@
         <entry>fetch</entry>
         <entry>columns</entry>
         <entry>valid</entry>
+        <entry>example</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd />
       <history-expr />
