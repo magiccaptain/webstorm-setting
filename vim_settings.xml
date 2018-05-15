@@ -112,7 +112,7 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1526347176794" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1526349526330" />
       <file name="G:/projects/smart_meter_dva/node_modules/dva/index.d.ts" timestamp="1505266118248">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="38" />
@@ -240,6 +240,12 @@
         <mark key="." line="72" column="52" />
         <mark key="^" line="72" column="52" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1526351678089">
+        <mark key="[" line="42" column="86" />
+        <mark key="]" line="42" column="90" />
+        <mark key="." line="42" column="90" />
+        <mark key="^" line="42" column="90" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/redux/store.js" timestamp="1499047055465">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="10" />
@@ -342,6 +348,7 @@
         <mark key="." line="49" column="13" />
         <mark key="^" line="49" column="13" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/models/base.test.js" timestamp="1526350310638" />
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_hour.ts" timestamp="1517214292127">
         <mark key="[" line="27" column="14" />
         <mark key="]" line="28" column="18" />
@@ -526,6 +533,7 @@
         <mark key="^" line="19" column="40" />
         <mark key="." line="19" column="40" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1526350877939" />
       <file name="$USER_HOME$/projects/dva-electron-boilerplate/README.md" timestamp="1514963837422">
         <mark key="[" line="26" column="7" />
         <mark key="]" line="27" column="7" />
@@ -664,6 +672,7 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="79" column="24" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/api/index.js" timestamp="1526350551064" />
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/components/dialogs/index.module.less" timestamp="1526262086351">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="14" column="16" />
@@ -746,7 +755,7 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/models/driver.js" timestamp="1526347757713" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/models/driver.js" timestamp="1526349443553" />
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" timestamp="1526288278377">
         <mark key="'" line="11" column="30" />
         <mark key="[" line="77" column="18" />
@@ -868,7 +877,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/swagger.json" timestamp="1526347420715" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/swagger.json" timestamp="1526349728141" />
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/sagas/components/warning-search-dialog.js" timestamp="1526288404768">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
@@ -903,6 +912,11 @@
         <mark key="]" line="46" column="32" />
         <mark key="^" line="46" column="32" />
         <mark key="." line="46" column="32" />
+      </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/index.js" timestamp="1526348899683">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/projects/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1514535305499">
         <mark key="[" line="7" column="3" />
@@ -1138,11 +1152,11 @@
       <jump line="10" column="3" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/sagas/components/warning-search-dialog.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSwgcGF5bG9hZCB9ID0gYWN0aW9uOwo=</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>type</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>valid</text>
@@ -1151,16 +1165,16 @@
         <text>warningSearchFetchOptions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSwgcGF5bG9hZCB9ID0gYWN0aW9uOwo=</text>
+        <text encoding="base64">YXBwLnVzZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdHlwZSwgcGF5bG9hZCB9ID0gYWN0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgc2FnZXMgPSAK</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2FnZXMgPSAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1169,13 +1183,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
     </registers>
     <search>
