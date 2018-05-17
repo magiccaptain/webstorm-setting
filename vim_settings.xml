@@ -93,6 +93,10 @@
         <mark key="." line="73" column="37" />
         <mark key="^" line="73" column="37" />
       </file>
+      <file name="D:/projects/SC/egg-dit-apis/tsconfig.json" timestamp="1526479282202">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="4" />
+      </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/electron-builder.yml" timestamp="1515334535795">
         <mark key="[" line="35" column="11" />
         <mark key="]" line="35" column="14" />
@@ -267,13 +271,6 @@
         <mark key="." line="4" column="43" />
         <mark key="^" line="4" column="43" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/tables.js" timestamp="1526026327981">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="40" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_hour.ts" timestamp="1517766145978">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="26" />
@@ -352,7 +349,12 @@
         <mark key="^" line="52" column="36" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.test.ts" timestamp="1526469259307" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.test.ts" timestamp="1526483934967">
+        <mark key="[" line="110" column="13" />
+        <mark key="]" line="113" column="19" />
+        <mark key="." line="113" column="19" />
+        <mark key="^" line="113" column="19" />
+      </file>
       <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/runner/newman.ts" timestamp="1526470235177">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -400,18 +402,15 @@
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/sample-collection.json" timestamp="1526477833785">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="86" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1515033225576">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="3" column="27" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.d.ts" timestamp="1526009599765">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="31" column="56" />
-        <mark key="." line="31" column="56" />
-        <mark key="^" line="31" column="56" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/UserInfo.ts" timestamp="1521535661858">
         <mark key="[" line="35" column="39" />
@@ -419,11 +418,16 @@
         <mark key="." line="35" column="41" />
         <mark key="^" line="35" column="41" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/base.ts" timestamp="1526469350375">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="29" />
-        <mark key="^" line="12" column="29" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/tsconfig.json" timestamp="1526483889038">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/base.ts" timestamp="1526480327650">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
       </file>
       <file name="D:/projects/open-api-redoc/front-end/libs/redoc/services/SearchStore.js" timestamp="1524302574099">
         <mark key="[" line="1" column="0" />
@@ -479,6 +483,7 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/dist/src/fastman.d.ts" timestamp="1526479326100" />
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/major.ts" timestamp="1517762836162">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="9" />
@@ -664,12 +669,11 @@
         <mark key="." line="23" column="6" />
         <mark key="^" line="23" column="6" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" timestamp="1526472208409">
-        <mark key="'" line="104" column="22" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="100" column="23" />
-        <mark key="." line="100" column="23" />
-        <mark key="^" line="100" column="23" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" timestamp="1526484306658">
+        <mark key="'" line="28" column="26" />
+        <mark key="[" line="258" column="0" />
+        <mark key="]" line="258" column="0" />
+        <mark key="." line="258" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/LoginPage.tsx" timestamp="1517503343102">
         <mark key="[" line="9" column="0" />
@@ -677,12 +681,12 @@
         <mark key="^" line="86" column="30" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526469081399">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="388" column="0" />
-        <mark key="]" line="388" column="0" />
-        <mark key="^" line="388" column="15" />
-        <mark key="." line="388" column="0" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526480172275">
+        <mark key="'" line="47" column="19" />
+        <mark key="[" line="396" column="40" />
+        <mark key="]" line="396" column="63" />
+        <mark key="." line="396" column="63" />
+        <mark key="^" line="396" column="63" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_course_session.ts" timestamp="1517762786351">
         <mark key="[" line="41" column="16" />
@@ -696,7 +700,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525683150640">
+      <file name="/Dummy.txt" timestamp="1526484275022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -782,6 +786,12 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/postman.ts" timestamp="1526484012488">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="70" column="8" />
+        <mark key="." line="8" column="8" />
+      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/service/user.ts" timestamp="1521686159875">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="41" />
@@ -823,13 +833,6 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/selectors/index.js" timestamp="1526028445654">
-        <mark key="'" line="12" column="87" />
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/src/services/auth.ts" timestamp="1516462231642">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -854,11 +857,10 @@
         <mark key="." line="40" column="26" />
         <mark key="^" line="40" column="26" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/demo-server/server.ts" timestamp="1526473398778">
-        <mark key="[" line="9" column="9" />
-        <mark key="]" line="9" column="9" />
-        <mark key="." line="9" column="9" />
-        <mark key="^" line="21" column="22" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/demo-server/server.ts" timestamp="1526484153722">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Accesses/Accesses.css" timestamp="1515032820691">
         <mark key="[" line="3" column="1" />
@@ -877,9 +879,6 @@
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/actions/index.js" timestamp="1526022954099">
-        <mark key="'" line="19" column="2" />
       </file>
       <file name="D:/projects/github/ReDoc-master/demo/playground/hmr-playground.tsx" timestamp="1524316047518">
         <mark key="[" line="31" column="39" />
@@ -916,13 +915,6 @@
         <mark key="]" line="20" column="9" />
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1526028960607">
-        <mark key="'" line="30" column="22" />
-        <mark key="[" line="89" column="34" />
-        <mark key="]" line="90" column="15" />
-        <mark key="^" line="90" column="15" />
-        <mark key="." line="90" column="15" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519913095045">
         <mark key="[" line="29" column="0" />
@@ -1239,11 +1231,11 @@
         <mark key="." line="78" column="41" />
         <mark key="^" line="78" column="41" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/postman.d.ts" timestamp="1526475176264">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="18" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="17" column="7" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/postman.d.ts" timestamp="1526477959117">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+        <mark key="^" line="26" column="25" />
       </file>
       <file name="D:/projects/SmartElective/Server/node_modules/@types/js-yaml/index.d.ts" timestamp="1520168743460">
         <mark key="[" line="6" column="63" />
@@ -1263,11 +1255,11 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/package.json" timestamp="1526472696258">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="12" column="48" />
-        <mark key="^" line="12" column="48" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/package.json" timestamp="1526479046309">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="15" column="48" />
       </file>
       <file name="D:/projects/github/ReDoc-master/demo/index.tsx" timestamp="1524313614922">
         <mark key="[" line="21" column="22" />
@@ -1324,9 +1316,10 @@
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/runner/newman.test.ts" timestamp="1526475308865">
-        <mark key="[" line="26" column="61" />
-        <mark key="]" line="26" column="67" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/runner/newman.test.ts" timestamp="1526478784661">
+        <mark key="'" line="13" column="15" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="32" />
         <mark key="^" line="26" column="67" />
         <mark key="." line="26" column="67" />
       </file>
@@ -1366,6 +1359,12 @@
         <mark key="^" line="10" column="9" />
       </file>
       <file name="D:/projects/36node/node-js-sketch/packages/fastman/lib/openapi-parser/factories/document.factory.ts" timestamp="1526468913961" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/runner/newman-runner.ts" timestamp="1526484055080">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="31" column="29" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="D:/projects/stacktop-auth-server/test/utils.ts" timestamp="1524487919984">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -1561,9 +1560,6 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="38" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.js" timestamp="1526028830215">
-        <mark key="'" line="88" column="23" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/router.js" timestamp="1517822782183">
         <mark key="[" line="12" column="49" />
         <mark key="]" line="12" column="49" />
@@ -1605,9 +1601,6 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/javascript/extLibs/global-types/node_modules/@types/lodash/common/array.d.ts" timestamp="1526006959359">
-        <mark key="'" line="88" column="9" />
-      </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514989789995">
         <mark key="[" line="55" column="20" />
         <mark key="]" line="55" column="20" />
@@ -1644,9 +1637,6 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/request.js" timestamp="1526016532551">
-        <mark key="'" line="62" column="0" />
-      </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Users.tsx" timestamp="1514269423868">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="22" column="46" />
@@ -1667,18 +1657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
-      <jump line="147" column="20" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
-      <jump line="19" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
-      <jump line="0" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
-      <jump line="13" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
-      <jump line="88" column="36" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/home/index.js" />
-      <jump line="64" column="29" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" />
-      <jump line="85" column="40" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/home/index.js" />
-      <jump line="0" column="23" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.js" />
-      <jump line="11" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.js" />
-      <jump line="122" column="10" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
-      <jump line="314" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
       <jump line="20" column="5" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/login-layout.js" />
       <jump line="338" column="13" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.js" />
       <jump line="149" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.js" />
@@ -1767,61 +1745,72 @@
       <jump line="58" column="0" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
       <jump line="0" column="0" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" />
       <jump line="103" column="22" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
+      <jump line="14" column="10" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
+      <jump line="13" column="15" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/runner/newman.test.ts" />
+      <jump line="28" column="0" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/runner/newman-runner.ts" />
+      <jump line="47" column="19" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" />
+      <jump line="206" column="12" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
+      <jump line="195" column="37" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
+      <jump line="200" column="0" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
+      <jump line="193" column="4" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
+      <jump line="51" column="15" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
+      <jump line="255" column="22" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
+      <jump line="6" column="14" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
+      <jump line="28" column="26" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>reference</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXEuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>reference</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>dispatch</text>
+        <text encoding="base64">XDx1cmxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>originalRequest</text>
+        <text>query-string</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXEuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoc3VtbWFyeS5ydW4uZXhlY3V0aW9uc1swXSwgbnVsbCwgMikpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZTxvYmplY3Q+KCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29sbGVjdGlvbik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbGxlY3Rpb24pOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1bW1hcnkpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHtQcm9taXNlfSBmcm9tICdlczYtcHJvbWlzZSc7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgImVzMjAxNSIsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>dispatch</last-search>
+      <last-search encoding="base64">XDx1cmxcPg==</last-search>
       <last-offset />
-      <last-pattern>dispatch</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx1cmxcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Update an ex</entry>
         <entry>cat</entry>
         <entry>dog</entry>
         <entry>Guru</entry>
@@ -1841,6 +1830,7 @@
         <entry>antd</entry>
         <entry>console</entry>
         <entry>dispatch</entry>
+        <entry encoding="base64">XDx1cmxcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
