@@ -64,7 +64,7 @@
         <mark key="^" line="39" column="18" />
       </file>
       <file name="D:/projects/36node/node-js-sketch/packages/fastman/example/example_tested.yaml" timestamp="1526558796551">
-        <mark key="." line="245" column="0" />
+        <mark key="." line="437" column="0" />
       </file>
       <file name="D:/projects/stacktop-auth-server/config/config.default.js" timestamp="1524485951197">
         <mark key="[" line="23" column="0" />
@@ -286,6 +286,11 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" timestamp="1526570868460">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+      </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceSettingModal/ServiceSettingModal.js" timestamp="1515326869866">
         <mark key="[" line="18" column="122" />
         <mark key="]" line="18" column="122" />
@@ -352,10 +357,10 @@
         <mark key="^" line="52" column="36" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.test.ts" timestamp="1526565675269">
-        <mark key="'" line="197" column="26" />
-        <mark key="[" line="41" column="57" />
-        <mark key="]" line="41" column="62" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.test.ts" timestamp="1526569996291">
+        <mark key="'" line="60" column="19" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="70" />
         <mark key="." line="41" column="62" />
         <mark key="^" line="41" column="62" />
       </file>
@@ -681,12 +686,12 @@
         <mark key="^" line="86" column="30" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526566374667">
-        <mark key="'" line="315" column="2" />
-        <mark key="[" line="172" column="15" />
-        <mark key="]" line="172" column="27" />
-        <mark key="^" line="172" column="27" />
-        <mark key="." line="172" column="27" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526569608130">
+        <mark key="'" line="30" column="27" />
+        <mark key="[" line="378" column="0" />
+        <mark key="]" line="378" column="0" />
+        <mark key="." line="378" column="0" />
+        <mark key="^" line="378" column="31" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_course_session.ts" timestamp="1517762786351">
         <mark key="[" line="41" column="16" />
@@ -1471,11 +1476,12 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/base-restful-template.ts" timestamp="1526566928223">
-        <mark key="[" line="201" column="10" />
-        <mark key="]" line="202" column="46" />
-        <mark key="." line="202" column="46" />
-        <mark key="^" line="202" column="46" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/base-restful-template.ts" timestamp="1526570722632">
+        <mark key="'" line="278" column="30" />
+        <mark key="[" line="247" column="28" />
+        <mark key="]" line="247" column="28" />
+        <mark key="." line="247" column="28" />
+        <mark key="^" line="245" column="56" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/controller/auth.ts" timestamp="1516521875668">
         <mark key="[" line="2" column="41" />
@@ -1675,10 +1681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="6" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
-      <jump line="101" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
-      <jump line="61" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
-      <jump line="7" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
       <jump line="128" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
       <jump line="339" column="11" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
       <jump line="147" column="8" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
@@ -1775,112 +1777,64 @@
       <jump line="176" column="27" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.test.ts" />
       <jump line="188" column="26" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.test.ts" />
       <jump line="315" column="2" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" />
+      <jump line="30" column="27" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" />
+      <jump line="60" column="19" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.test.ts" />
+      <jump line="87" column="0" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" />
+      <jump line="278" column="30" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/base-restful-template.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQlkZXNjcmlwdGlvbjogIiIsCg==</text>
+        <text encoding="base64">CQljb25zdCB3YXJuaW5nc01vZGVsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>User</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQlkZXNjcmlwdGlvbjogIiIsCg==</text>
+        <text encoding="base64">Y29uc3Qgc3BlY1BhdGggPSBwYXRoLmpvaW4oX19kaXJuYW1lLCAiLi4iLCAiZXhhbXBsZSIsICJleGFtcGxlLnlhbWwiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3JlYXRlT3BlcmF0aW9uCg==</text>
+        <text encoding="base64">CQljb25zdCB3YXJuaW5nc01vZGVsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQljb25zdCBsaXN0UGF0aCA9IGAvJHt0aGlzLm5hbWUudG9Mb3dlckNhc2UoKX1gCg==</text>
+        <text encoding="base64">aW1wb3J0IEZhc3RtYW4gZnJvbSAiLi4vZmFzdG1hbiI7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-							&quot;type&quot;: &quot;object&quot;,
-							&quot;properties&quot;: {
-								&quot;name&quot;: {
-									&quot;type&quot;: &quot;string&quot;,
-								},
-							},
-						}</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>[
-							&quot;newUser&quot;,
-						],</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1hZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0aAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJImV4YW1wbGVzIjogewoJCQkJCQkJIm5ld1VzZXIiOiB7CgkJCQkJCQkJInN1bW1hcnkiOiAi0MK9qNPDu6fKvsD9IiwKCQkJCQkJCQkidmFsdWUiOiB7CgkJCQkJCQkJCSJuYW1lIjogIk5ldyBVc2VyIiwKCQkJCQkJCQl9LAoJCQkJCQkJfSwKCQkJCQkJfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-			&quot;tags&quot;: [
-				&quot;User&quot;,
-			],
-			&quot;summary&quot;: &quot;Create user&quot;,
-			&quot;description&quot;: &quot;新建用户&quot;,
-			&quot;operationId&quot;: &quot;createUser&quot;,
-			&quot;requestBody&quot;: {
-				&quot;description&quot;: &quot;用户&quot;,
-				&quot;content&quot;: {
-					&quot;application/json&quot;: {
-						&quot;schema&quot;: {
-							&quot;type&quot;: &quot;object&quot;,
-							&quot;properties&quot;: {
-								&quot;name&quot;: {
-									&quot;type&quot;: &quot;string&quot;,
-								},
-							},
-						},
-						&quot;examples&quot;: {
-							&quot;newUser&quot;: {
-								&quot;summary&quot;: &quot;新建用户示例&quot;,
-								&quot;value&quot;: {
-									&quot;name&quot;: &quot;New User&quot;,
-								},
-							},
-						},
-					},
-				},
-				&quot;required&quot;: true,
-			},
-			&quot;responses&quot;: {
-				&quot;200&quot;: {
-					&quot;content&quot;: {
-						&quot;application/json&quot;: {
-							&quot;schema&quot;: {
-								&quot;$ref&quot;: &quot;#/components/schemas/User&quot;,
-							},
-						},
-					},
-				},
-			},
-		};</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1hZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>User</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>User</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Guru</entry>
         <entry>examples</entry>
         <entry>php</entry>
         <entry>PHP</entry>
@@ -1900,6 +1854,7 @@
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>Users</entry>
         <entry>name</entry>
+        <entry>User</entry>
       </history-search>
       <history-cmd />
       <history-expr />
