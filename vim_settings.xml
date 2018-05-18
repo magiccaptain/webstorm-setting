@@ -236,11 +236,11 @@
         <mark key="." line="13" column="11" />
         <mark key="^" line="13" column="11" />
       </file>
-      <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/shanghaibus.test.ts" timestamp="1526615877443">
-        <mark key="[" line="194" column="28" />
-        <mark key="]" line="195" column="7" />
-        <mark key="." line="195" column="7" />
-        <mark key="^" line="195" column="7" />
+      <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/shanghaibus.test.ts" timestamp="1526617950453">
+        <mark key="[" line="201" column="8" />
+        <mark key="]" line="201" column="17" />
+        <mark key="." line="201" column="17" />
+        <mark key="^" line="201" column="17" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/MuiReactTable.jsx" timestamp="1499392319816">
         <mark key="[" line="27" column="46" />
@@ -369,6 +369,9 @@
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/openapi_tested.yaml" timestamp="1526617433892">
+        <mark key="'" line="90" column="23" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/utils/ace-helper.ts" timestamp="1504676685454">
         <mark key="[" line="6" column="16" />
@@ -971,11 +974,11 @@
         <mark key="^" line="45" column="3" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526611620804">
-        <mark key="[" line="527" column="0" />
-        <mark key="]" line="527" column="0" />
-        <mark key="^" line="525" column="53" />
-        <mark key="." line="527" column="0" />
+      <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526617767111">
+        <mark key="[" line="503" column="0" />
+        <mark key="]" line="503" column="0" />
+        <mark key="." line="503" column="0" />
+        <mark key="^" line="504" column="56" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/routes/AuthRouter.tsx" timestamp="1505733412859">
         <mark key="[" line="22" column="17" />
@@ -1086,7 +1089,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="13" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
       <jump line="114" column="18" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
       <jump line="117" column="12" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
       <jump line="118" column="17" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
@@ -1186,40 +1188,41 @@
       <jump line="258" column="0" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/openapi.yaml" />
       <jump line="176" column="16" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/openapi.yaml" />
       <jump line="298" column="13" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/openapi.yaml" />
+      <jump line="90" column="23" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/openapi_tested.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>get</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>{vehic</text>
+        <text>500</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBhdGgoIi92ZWhpY2xlcy97dmVoaWNsZUlkfSIpCiAgICAgICAgICAgIC5vcGVyYXRpb24oImdldCIpCiAgICAgICAgICAgIC5yZXNwb25zZSgiMjAwIikK</text>
+      <register name="0" type="4">
+        <text>responsesNode.getItem(status)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBhdGgoIi8iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDmm7TmlrDkuYvlkI7nmoQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnBhdGgoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1229,15 +1232,14 @@
       </register>
     </registers>
     <search>
-      <last-search>{vehic</last-search>
+      <last-search>500</last-search>
       <last-offset />
-      <last-pattern>{vehic</last-pattern>
+      <last-pattern>500</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fetch</entry>
         <entry>columns</entry>
         <entry>valid</entry>
         <entry>example</entry>
@@ -1257,6 +1259,7 @@
         <entry>ref_em</entry>
         <entry>ref_ve</entry>
         <entry>{vehic</entry>
+        <entry>500</entry>
       </history-search>
       <history-cmd />
       <history-expr />
