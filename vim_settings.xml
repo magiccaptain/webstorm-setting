@@ -271,6 +271,7 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/line.js" timestamp="1526724266683" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517452825689">
         <mark key="[" line="52" column="37" />
         <mark key="]" line="53" column="17" />
@@ -302,11 +303,11 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" timestamp="1526723345938">
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
-        <mark key="^" line="293" column="22" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" timestamp="1526724157530">
+        <mark key="[" line="289" column="9" />
+        <mark key="]" line="289" column="9" />
+        <mark key="." line="289" column="9" />
+        <mark key="^" line="289" column="9" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceSettingModal/ServiceSettingModal.js" timestamp="1515326869866">
         <mark key="[" line="18" column="122" />
@@ -1049,6 +1050,7 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/fault.js" timestamp="1526724256321" />
       <file name="$USER_HOME$/projects/SmartElective/Server/app/view/index.html" timestamp="1517674699560">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="22" />
@@ -1156,12 +1158,6 @@
         <mark key="]" line="7" column="14" />
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="21" />
-      </file>
-      <file name="D:/projects/36node/sketch/packages/fastman/example/example.yaml" timestamp="1526652582828">
-        <mark key="'" line="103" column="17" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="139" column="0" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/course.ts" timestamp="1516985742352">
         <mark key="[" line="6" column="4" />
@@ -1297,6 +1293,7 @@
         <mark key="^" line="285" column="133" />
         <mark key="." line="285" column="133" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/fault-code.js" timestamp="1526724250954" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515912566005">
         <mark key="[" line="144" column="23" />
         <mark key="]" line="144" column="23" />
@@ -1723,11 +1720,11 @@
       <jump line="131" column="0" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>站</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>站</text>
       </register>
       <register name="/" type="4">
         <text>工单</text>
