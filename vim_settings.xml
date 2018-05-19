@@ -271,8 +271,6 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/warning.js" timestamp="1526726494070" />
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/line.js" timestamp="1526724266683" />
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517452825689">
         <mark key="[" line="52" column="37" />
         <mark key="]" line="53" column="17" />
@@ -376,12 +374,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="50" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1526736439012">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1526736985338">
         <mark key="'" line="47" column="20" />
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="48" column="34" />
-        <mark key="." line="48" column="34" />
-        <mark key="^" line="48" column="34" />
+        <mark key="[" line="49" column="24" />
+        <mark key="]" line="49" column="30" />
+        <mark key="." line="49" column="30" />
+        <mark key="^" line="49" column="30" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517481072671">
         <mark key="[" line="64" column="0" />
@@ -759,7 +757,6 @@
         <mark key="^" line="86" column="30" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/projects/36node/sketch/packages/fastman/dist/index.js" timestamp="1526653264472" />
       <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526569608130">
         <mark key="'" line="30" column="27" />
         <mark key="[" line="378" column="0" />
@@ -851,12 +848,12 @@
         <mark key="^" line="70" column="8" />
         <mark key="." line="8" column="8" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle-performance.js" timestamp="1526736382539">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle-performance.js" timestamp="1526736926036">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="53" column="73" />
+        <mark key="[" line="53" column="38" />
+        <mark key="]" line="53" column="48" />
+        <mark key="." line="53" column="48" />
+        <mark key="^" line="53" column="48" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/service/user.ts" timestamp="1521686159875">
         <mark key="[" line="1" column="0" />
@@ -1422,7 +1419,6 @@
         <mark key="^" line="285" column="133" />
         <mark key="." line="285" column="133" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/fault-code.js" timestamp="1526724250954" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515912566005">
         <mark key="[" line="144" column="23" />
         <mark key="]" line="144" column="23" />
@@ -1617,7 +1613,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/lib/origin-data.js" timestamp="1526696082873" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.css" timestamp="1514942461169">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="10" />
@@ -1863,11 +1858,11 @@
       <jump line="47" column="20" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Boolean</text>
       </register>
       <register name="-" type="4">
-        <text>vehicleOperationSchema</text>
+        <text>Boolean</text>
       </register>
       <register name="/" type="4">
         <text>ref_2</text>
