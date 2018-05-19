@@ -302,11 +302,11 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" timestamp="1526700285889">
-        <mark key="[" line="164" column="6" />
-        <mark key="]" line="164" column="6" />
-        <mark key="." line="164" column="6" />
-        <mark key="^" line="164" column="12" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" timestamp="1526721444397">
+        <mark key="[" line="276" column="8" />
+        <mark key="]" line="276" column="53" />
+        <mark key="." line="276" column="53" />
+        <mark key="^" line="276" column="53" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceSettingModal/ServiceSettingModal.js" timestamp="1515326869866">
         <mark key="[" line="18" column="122" />
@@ -367,6 +367,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="50" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1526720285175">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="53" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517481072671">
         <mark key="[" line="64" column="0" />
@@ -501,6 +506,9 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="32" />
+      </file>
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/example.yaml" timestamp="1526719818005">
+        <mark key="'" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/major.ts" timestamp="1517762836162">
         <mark key="[" line="10" column="9" />
@@ -1266,6 +1274,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="7" column="68" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/driver.js" timestamp="1526720455963">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="26" column="57" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="D:/projects/SmartElective/Server/app/middleware/check_role.ts" timestamp="1520252177488">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="37" column="8" />
@@ -1608,10 +1621,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
-      <jump line="60" column="27" filename="G:/projects/zzswang/shanghaibus-admin-web/src/lib/request.js" />
-      <jump line="6" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/lib/request.js" />
-      <jump line="62" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/lib/request.js" />
       <jump line="87" column="41" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
       <jump line="77" column="18" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.js" />
       <jump line="30" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.d.ts" />
@@ -1708,62 +1717,64 @@
       <jump line="74" column="3" filename="D:/projects/36node/node-js-sketch/packages/fastman/shanghaibus/openapi.yaml" />
       <jump line="378" column="16" filename="D:/projects/36node/node-js-sketch/packages/fastman/shanghaibus/openapi.yaml" />
       <jump line="260" column="20" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/base-restful-template.ts" />
+      <jump line="9" column="27" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/example.yaml" />
+      <jump line="33" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="43" column="4" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="131" column="0" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>should</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="-" type="4">
-        <text>should</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>User</text>
+        <text>工单</text>
       </register>
-      <register name="0" type="4">
-        <text>#/components/schemas/Error</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQljb25zdCBkcml2ZXJSZXN0ZnVsID0gbmV3IEJhc2VSZXN0ZnVsVGVtcGxhdGUoCgkJCSJEcml2ZXIiLAoJCQkivN3Ku9SxIiwKCQkJc3BlYywKCQkJZHJpdmVyTW9kZWwsCgkJKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewoJCQkJCgkJCX0KCQkJ</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQl0aWNrZXRNb2RlbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdHlwZTogIm9iamVjdCIsCg==</text>
+        <text encoding="base64">Y29uc3QgdGlja2V0TW9kZWw6IE9wZW5BcGkzLlNjaGVtYU9iamVjdCA9IHsKCXR5cGU6ICJvYmplY3QiLAoJcHJvcGVydGllczogewoJCW5vOiB7dHlwZTogInN0cmluZyIsIGRlc2NyaXB0aW9uOiAiuaS1pbHgusUifSwKCQl0aW1lOiB7dHlwZTogInN0cmluZyIsIGRlc2NyaXB0aW9uOiAiuaS1pczhvbvKsbzkIn0sCgkJb3Blbjoge3R5cGU6ICJib29sZWFuIiwgZGVzY3JpcHRpb246ICK5pLWl17TMrKOsIHRydWU6v6rG9KOsIGZhbHNlOrnYsdUifSwKCQlpbmZvOiB7dHlwZTogInN0cmluZyIsIGRlc2NyaXB0aW9uOiAiuaS1pdDFz6IowbS90ykifSwKCX0sCn07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJcHJvcGVydGllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWdldCBtb2RlbFNjaGFlbWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>User</last-search>
+      <last-search>工单</last-search>
       <last-offset />
-      <last-pattern>User</last-pattern>
+      <last-pattern>工单</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>examples</entry>
-        <entry>php</entry>
         <entry>PHP</entry>
         <entry>Place an order for a pet</entry>
         <entry>redoc</entry>
@@ -1782,6 +1793,8 @@
         <entry>Users</entry>
         <entry>name</entry>
         <entry>User</entry>
+        <entry>delete</entry>
+        <entry>工单</entry>
       </history-search>
       <history-cmd />
       <history-expr />
