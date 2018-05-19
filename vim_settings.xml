@@ -302,11 +302,11 @@
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" timestamp="1526721444397">
-        <mark key="[" line="276" column="8" />
-        <mark key="]" line="276" column="53" />
-        <mark key="." line="276" column="53" />
-        <mark key="^" line="276" column="53" />
+      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/template.test.ts" timestamp="1526723345938">
+        <mark key="[" line="293" column="0" />
+        <mark key="]" line="293" column="0" />
+        <mark key="." line="293" column="0" />
+        <mark key="^" line="293" column="22" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceSettingModal/ServiceSettingModal.js" timestamp="1515326869866">
         <mark key="[" line="18" column="122" />
@@ -1724,19 +1724,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>工单</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQljb25zdCBkcml2ZXJSZXN0ZnVsID0gbmV3IEJhc2VSZXN0ZnVsVGVtcGxhdGUoCgkJCSJEcml2ZXIiLAoJCQkivN3Ku9SxIiwKCQkJc3BlYywKCQkJZHJpdmVyTW9kZWwsCgkJKTsK</text>
+        <text encoding="base64">CQkJCWNSYXRlVHlwZToge3R5cGU6ICJzdHJpbmciLCBlbnVtOiBbIkZBU1QiLCAiU0xPVyIsICJBTEwiXSwgZGVzY3JpcHRpb246ICKz5LXnwODQzS2/7ML9s+Qgv+yz5C/C/bPkL7/swv2z5CJ9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1745,22 +1745,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0aWNrZXRNb2RlbAo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgdGlja2V0TW9kZWw6IE9wZW5BcGkzLlNjaGVtYU9iamVjdCA9IHsKCXR5cGU6ICJvYmplY3QiLAoJcHJvcGVydGllczogewoJCW5vOiB7dHlwZTogInN0cmluZyIsIGRlc2NyaXB0aW9uOiAiuaS1pbHgusUifSwKCQl0aW1lOiB7dHlwZTogInN0cmluZyIsIGRlc2NyaXB0aW9uOiAiuaS1pczhvbvKsbzkIn0sCgkJb3Blbjoge3R5cGU6ICJib29sZWFuIiwgZGVzY3JpcHRpb246ICK5pLWl17TMrKOsIHRydWU6v6rG9KOsIGZhbHNlOrnYsdUifSwKCQlpbmZvOiB7dHlwZTogInN0cmluZyIsIGRlc2NyaXB0aW9uOiAiuaS1pdDFz6IowbS90ykifSwKCX0sCn07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0aWNrZXRNb2RlbAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
