@@ -87,10 +87,6 @@
         <mark key="." line="24" column="37" />
         <mark key="^" line="24" column="37" />
       </file>
-      <file name="D:/projects/36node/sketch/packages/fastman/src/fastman.test.ts" timestamp="1526654181226">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="38" />
-      </file>
       <file name="D:/projects/SC/openapi-parser/lib/schame.ts" timestamp="1524061904934">
         <mark key="[" line="79" column="7" />
         <mark key="]" line="73" column="37" />
@@ -831,6 +827,12 @@
         <mark key="." line="68" column="37" />
         <mark key="^" line="68" column="37" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/driver.js" timestamp="1526781156434">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517408429647">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -1065,10 +1067,10 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1526745338022">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1526781151160">
         <mark key="'" line="75" column="2" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="160" column="21" />
         <mark key="." line="86" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/fastman.js" timestamp="1526747151930">
@@ -1405,10 +1407,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="7" column="68" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/driver.js" timestamp="1526720455963">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="26" column="57" />
-        <mark key="." line="27" column="0" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/driver.js" timestamp="1526780781235">
+        <mark key="'" line="65" column="7" />
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="9" />
+        <mark key="." line="64" column="8" />
+        <mark key="^" line="68" column="10" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/middleware/check_role.ts" timestamp="1520252177488">
         <mark key="[" line="32" column="0" />
@@ -1465,12 +1469,12 @@
         <mark key="." line="41" column="67" />
         <mark key="^" line="41" column="67" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/openapi.yaml" timestamp="1526746601535">
-        <mark key="'" line="1023" column="16" />
-        <mark key="[" line="1633" column="0" />
-        <mark key="]" line="1633" column="0" />
-        <mark key="." line="1633" column="0" />
-        <mark key="^" line="29" column="48" />
+      <file name="D:/projects/zzswang/shanghaibus-core/test/api/openapi.yaml" timestamp="1526780875296">
+        <mark key="'" line="1194" column="18" />
+        <mark key="[" line="1973" column="0" />
+        <mark key="]" line="1973" column="0" />
+        <mark key="^" line="1185" column="40" />
+        <mark key="." line="1973" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/CourseTable/CourseTable.tsx" timestamp="1517673018679">
         <mark key="[" line="199" column="33" />
@@ -1520,10 +1524,6 @@
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/node_modules/fastman/src/spec/openapi-3.ts" timestamp="1526733791725">
-        <mark key="[" line="49" column="8" />
-        <mark key="]" line="49" column="18" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/line.test.js" timestamp="1526747623533">
         <mark key="[" line="6" column="26" />
@@ -1779,9 +1779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="30" filename="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/base-restful-template.ts" />
-      <jump line="21" column="0" filename="D:/projects/36node/sketch/packages/fastman/demo-server/server.ts" />
-      <jump line="103" column="17" filename="D:/projects/36node/sketch/packages/fastman/example/example.yaml" />
       <jump line="97" column="26" filename="D:/projects/36node/sketch/packages/fastman/example/example.test.js" />
       <jump line="324" column="42" filename="D:/projects/36node/sketch/packages/fastman/src/fastman.ts" />
       <jump line="172" column="32" filename="D:/projects/36node/sketch/packages/fastman/READEME.md" />
@@ -1879,46 +1876,49 @@
       <jump line="105" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
       <jump line="59" column="25" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
       <jump line="0" column="6" filename="D:/projects/zzswang/shanghaibus-core/test/api/faults.test.js" />
+      <jump line="65" column="7" filename="D:/projects/zzswang/shanghaibus-core/src/models/driver.js" />
+      <jump line="1194" column="18" filename="D:/projects/zzswang/shanghaibus-core/test/api/openapi.yaml" />
+      <jump line="104" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/api/driver.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLmpzb24oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGFzc2VydCBmcm9tICJhc3NlcnQiOwppbXBvcnQgZmFzdG1hbiwgeyBhZnRlclRlc3QgfSBmcm9tICIuL2Zhc3RtYW4iOwoKZGVzY3JpYmUoIlRlc3QgZmF1bHRzIiwgZnVuY3Rpb24gKCkgewoKICAgIGJlZm9yZUFsbCgoKSA9PiB7CiAgICAgICAgZmFzdG1hbi5yZXNvdXJjZSgiRmF1bHQiKTsKICAgIH0pOwoKICAgIGFmdGVyQWxsKCgpID0+IHsKICAgICAgICBhZnRlclRlc3QoKTsKICAgIH0pOwoKICAgIGl0KCJUZXN0IGxpc3QgZmF1bHRzIiwgYXN5bmMgZnVuY3Rpb24gKCkgewoKICAgICAgICBsZXQgcmVzcCA9IGF3YWl0IGZhc3RtYW4KICAgICAgICAgICAgLnBhdGgoIi9mYXVsdHMiKQogICAgICAgICAgICAub3BlcmF0aW9uKCJnZXQiKQogICAgICAgICAgICAucmVzcG9uc2UoMjAwKQogICAgICAgICAgICAudGVzdENhc2UoewogICAgICAgICAgICAgICAgbmFtZTogIkxpc3QgZmF1bHRzIG9rIiwKICAgICAgICAgICAgICAgIHNhdmU6IHRydWUsCiAgICAgICAgICAgIH0pLnJ1bigpOwoKICAgICAgICBhc3NlcnQocmVzcC5qc29uKCkubGVuZ3RoID4gMCk7CgogICAgfSk7Cn0pOwo=</text>
+        <text encoding="base64">cm91dGVyLnBhcmFtKCJpZCIsIGxvYWQpOwpyb3V0ZXIuZ2V0KCIvOmlkIiwgZ2V0KTsKcm91dGVyLnB1dCgiLzppZCIsIHVwZGF0ZSk7CnJvdXRlci5kZWxldGUoIi86aWQiLCBkZXN0b3J5KTsKcm91dGVyLmdldCgiLyIsIGxpc3QpOwpyb3V0ZXIucG9zdCgiLyIsIGNyZWF0ZSk7CgpleHBvcnQgZGVmYXVsdCByb3V0ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwLmpzb24oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29udCBnZXQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Q29tcGFueSA9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb21wYW55LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBubywKICAgICAgICBjYXJkTm8sCiAgICAgICAgbGluZSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXMsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbWlzc2lvbiwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVzcCA9IGF3YWl0IGZhc3RtYW4KICAgICAgICAgICAgLnJlc291cmNlKCJWZWhpY2xlIikKICAgICAgICAgICAgLnBhdGgoIi92ZWhpY2xlcyIpCiAgICAgICAgICAgIC5vcGVyYXRpb24oImdldCIpCiAgICAgICAgICAgIC5yZXNwb25zZSgyMDApCiAgICAgICAgICAgIC50ZXN0Q2FzZSh7CiAgICAgICAgICAgICAgICBuYW1lOiAiTGlzdCBvayIsCiAgICAgICAgICAgICAgICBxdWVyeTogewogICAgICAgICAgICAgICAgICAgIGxpbWl0OiAxMCwKICAgICAgICAgICAgICAgICAgICBvZmZzZXQ6IDAsCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9KS5ydW4oKTsKCiAgICAgICAgbGV0IHZlaGljbGVzID0gcmVzcC5qc29uKCkubWFwKHYgPT4gdi5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3dlckJ5LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0eXBlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
