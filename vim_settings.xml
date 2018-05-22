@@ -277,12 +277,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1526997950359">
-        <mark key="'" line="72" column="17" />
-        <mark key="[" line="92" column="36" />
-        <mark key="]" line="92" column="40" />
-        <mark key="." line="92" column="40" />
-        <mark key="^" line="92" column="40" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1527001230129">
+        <mark key="'" line="73" column="17" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle-performance.js" timestamp="1526738037653">
         <mark key="'" line="12" column="0" />
@@ -413,10 +412,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbHMgPSAxMjsKICAgIGNvbnN0IHhHcmlkID0gMzsK</text>
+        <text encoding="base64">Y29uc3QgUmVzcAo=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">Y29uc3QgbGF5b3V0cyA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>ref_6</text>
@@ -425,31 +424,31 @@
         <text>waitingForChildren</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbHMgPSAxMjsKICAgIGNvbnN0IHhHcmlkID0gMzsK</text>
+        <text encoding="base64">Y29uc3QgUmVzcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxheW91dHMgPSB7fTsKICAgIE9iamVjdC5rZXlzKGNvbHMpLmZvckVhY2goYyA9PiB7CiAgICAgIAoKICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChsb2FkaW5nKSB7CiAgICAvLyAgIHJldHVybiA8TG9hZGluZy8+OwogICAgLy8gfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbGF5b3V0c1tjXSA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29sc1tdCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxveW91dHMgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxheW91dHM9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
