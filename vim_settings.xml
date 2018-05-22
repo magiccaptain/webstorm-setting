@@ -226,11 +226,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1526961453225">
-        <mark key="[" line="32" column="30" />
-        <mark key="]" line="33" column="33" />
-        <mark key="." line="33" column="33" />
-        <mark key="^" line="33" column="33" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1526977802668">
+        <mark key="'" line="113" column="27" />
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="76" column="20" />
+        <mark key="." line="76" column="20" />
+        <mark key="^" line="67" column="23" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517408429647">
         <mark key="[" line="12" column="18" />
@@ -1355,12 +1356,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1526961165564">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="29" />
-        <mark key="." line="38" column="29" />
-        <mark key="^" line="38" column="29" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1526977812796">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="47" column="61" />
+        <mark key="]" line="47" column="62" />
+        <mark key="." line="47" column="62" />
+        <mark key="^" line="47" column="62" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/class_hour.ts" timestamp="1517766145978">
         <mark key="[" line="10" column="0" />
@@ -1734,7 +1735,9 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="7" column="68" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/package.json" timestamp="1526959837690" />
+      <file name="G:/projects/zzswang/adventurer-web/package.json" timestamp="1526974436218">
+        <mark key="'" line="12" column="20" />
+      </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/projects.js" timestamp="1514989789995">
         <mark key="[" line="55" column="20" />
         <mark key="]" line="55" column="20" />
@@ -1794,10 +1797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
-      <jump line="75" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
-      <jump line="57" column="29" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
-      <jump line="7" column="22" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
       <jump line="101" column="17" filename="D:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" />
       <jump line="29" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" />
       <jump line="123" column="29" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
@@ -1894,61 +1893,64 @@
       <jump line="1152" column="8" filename="D:/projects/zzswang/shanghaibus-core/openapi.yaml" />
       <jump line="30" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="10" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
+      <jump line="75" column="13" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="83" column="27" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="34" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
+      <jump line="12" column="20" filename="G:/projects/zzswang/adventurer-web/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
-        <text>ref_6</text>
+        <text>react</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6IHZlaGljbGVObwogICAgICAgICAgaW46IHF1ZXJ5CiAgICAgICAgICBkZXNjcmlwdGlvbjogs7XBvrHgusUKICAgICAgICAgIHJlcXVpcmVkOiBmYWxzZQogICAgICAgICAgc2NoZW1hOgogICAgICAgICAgICB0eXBlOiBzdHJpbmcK</text>
+      <register name="0" type="4">
+        <text>waitingForChildren</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhbmQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygicmVuZGVyIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxheW91dCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvc250IHJhbmRvbUhlaWdodAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBncmlkV2lkdGg9ezIwMH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBVTktOT1dOCiAgICAgICAgICAgIC0gUkVQQUlSSU5HCiAgICAgICAgICAgIC0gTUFJTlRFTkFOQ0UKICAgICAgICAgICAgLSBET1dOR1JBREUKICAgICAgICAgICAgLSBIQU5ETElORwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBJTklUCiAgICAgICAgICAgIC0gRE9JTkcKICAgICAgICAgICAgLSBET05FCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ref_6</last-search>
+      <last-search>react</last-search>
       <last-offset />
-      <last-pattern>ref_6</last-pattern>
+      <last-pattern>react</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Update an ex</entry>
         <entry>cat</entry>
         <entry>dog</entry>
         <entry>Guru</entry>
@@ -1968,6 +1970,7 @@
         <entry>antd</entry>
         <entry>console</entry>
         <entry>dispatch</entry>
+        <entry>react</entry>
       </history-search>
       <history-cmd />
       <history-expr />
