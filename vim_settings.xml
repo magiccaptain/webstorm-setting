@@ -168,6 +168,9 @@
         <mark key="^" line="90" column="15" />
         <mark key="." line="90" column="15" />
       </file>
+      <file name="/Dummy.txt" timestamp="1527003489472">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/pile.js" timestamp="1526809735630">
         <mark key="'" line="47" column="9" />
         <mark key="[" line="18" column="0" />
@@ -277,12 +280,6 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1527001230129">
-        <mark key="'" line="73" column="17" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle-performance.js" timestamp="1526738037653">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="33" column="0" />
@@ -309,7 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="29" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
       <jump line="7" column="22" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
       <jump line="101" column="17" filename="D:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" />
       <jump line="29" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" />
@@ -409,46 +405,47 @@
       <jump line="24" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="55" column="18" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="75" column="17" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="44" column="52" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgUmVzcAo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgbGF5b3V0cyA9IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>ref_6</text>
       </register>
-      <register name="0" type="4">
-        <text>waitingForChildren</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlYWR5ID0gaXNzdWVzLnJlZHVjZSgociwgaSkgPT4gKHIgJiYgdGhpcy5oZWlnaHRzLmhhc093blByb3BlcnR5KGkuaWQpKSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgUmVzcAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0eWxlID0gd2FpdGluZ0ZvckNoaWxkcmVuID8geyB2aXNpYmlsaXR5OiAiaGlkZGVuIiB9IDogbnVsbDsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxheW91dHMgPSB7fTsKICAgIE9iamVjdC5rZXlzKGNvbHMpLmZvckVhY2goYyA9PiB7CiAgICAgIAoKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHhHcmFkcyA9IHsgbGc6IDIsIG1kOiAyLCBzbTogMiwgeHM6IDIsIHh4czogMiB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHR5cGVvZiB5ICE9PSAibnVtYmVyIikgewogICAgICAgIGNvbnNvbGUubG9nKGNvbHNHcmlkKTsKICAgICAgICBjb25zb2xlLmxvZyhjb2wpOwogICAgICAgIGNvbnNvbGUubG9nKHkpOwogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGF5b3V0c1tjXSA9IAo=</text>
+        <text encoding="base64">ICAgICAgY29uc28K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29sc1tdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxveW91dHMgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxheW91dHM9IAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhlaWdodHMK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
