@@ -746,7 +746,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526979886935">
+      <file name="/Dummy.txt" timestamp="1527064834671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1405,12 +1405,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1527062618100">
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1527064338902">
         <mark key="'" line="106" column="3" />
-        <mark key="[" line="136" column="19" />
-        <mark key="]" line="136" column="29" />
-        <mark key="." line="136" column="29" />
-        <mark key="^" line="136" column="29" />
+        <mark key="[" line="146" column="13" />
+        <mark key="]" line="146" column="38" />
+        <mark key="." line="146" column="13" />
+        <mark key="^" line="146" column="13" />
       </file>
       <file name="D:/projects/SC/egg-dit-apis/package.json" timestamp="1524398838312">
         <mark key="[" line="8" column="32" />
@@ -2003,44 +2003,44 @@
       <jump line="106" column="3" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>style={{ marginTop: 10 }}</text>
       </register>
       <register name="-" type="4">
-        <text>.locale(&quot;zh-cn&quot;).</text>
+        <text>clientHeight</text>
       </register>
       <register name="/" type="4">
         <text>里程碑</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiA4cHg7Cg==</text>
+      <register name="0" type="4">
+        <text>style={{ marginTop: 10 }}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZyb21Ob3cpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAodGhpcy5wcm9wcy5pc3N1ZUlkID09ICIzMjA1NzczMzEiKSB7CiAgICAgICAgLy8gICBjb25zb2xlLmxvZyhoZWlnaHQpOwogICAgICAgIC8vIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZyb21Ob3cpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhoZWlnaHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bW9tZW50LmxvY2FsZSgiemhfY24iKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudC5sb2NhbGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgRWxlbWVudCdzIHNpemU6ICR7IHdpZHRoIH1weCB4ICR7IGhlaWdodCB9cHhgKTsKICAgICAgICBjb25zb2xlLmxvZyhgRWxlbWVudCdzIHBhZGRpbmdzOiAkeyB0b3AgfXB4IDsgJHsgbGVmdCB9cHhgKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudC5sb2NhbGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygiRWxlbWVudDoiLCBlbnRyeS50YXJnZXQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vbWVudC5sb2NhbGUoInpoLWNuIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
