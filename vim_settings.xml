@@ -1405,12 +1405,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1527056482139">
-        <mark key="'" line="77" column="31" />
-        <mark key="[" line="79" column="37" />
-        <mark key="]" line="79" column="50" />
-        <mark key="." line="79" column="50" />
-        <mark key="^" line="79" column="50" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1527059733117">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="111" column="15" />
       </file>
       <file name="D:/projects/SC/egg-dit-apis/package.json" timestamp="1524398838312">
         <mark key="[" line="8" column="32" />
@@ -1700,11 +1700,12 @@
         <mark key="." line="100" column="24" />
         <mark key="^" line="100" column="24" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" timestamp="1527055719789">
-        <mark key="'" line="95" column="9" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" timestamp="1527058688999">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="18" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="133" column="1" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseNameSearch/CourseNameSearch.tsx" timestamp="1519660862304">
         <mark key="[" line="0" column="0" />
@@ -1900,9 +1901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
-      <jump line="223" column="28" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
-      <jump line="0" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
       <jump line="8" column="4" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
       <jump line="236" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
       <jump line="22" column="1" filename="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" />
@@ -2000,46 +1998,49 @@
       <jump line="119" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/style.css" />
       <jump line="80" column="9" filename="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" />
       <jump line="77" column="31" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
+      <jump line="106" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" />
+      <jump line="103" column="15" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
+      <jump line="33" column="4" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaG91cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>里程碑</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB3b3JkLWJyZWFrOiBicmVhay1hbGw7Cg==</text>
+        <text encoding="base64">ICBtYXJnaW4tdG9wOiA4cHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaG91cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB0b3BpY3MubWFwKHQgPT4gKAogICAgICAgICAgICA8VGFnIGNvbG9yPSJvcmFuZ2UiIGtleT17dH0+CiAgICAgICAgICAgICAge3R9CiAgICAgICAgICAgIDwvVGFnPgogICAgICAgICAgKSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgdGltZURpZmZUZXh0Lgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJY29uIHN0eWxlPXt7IGZvbnRTaXplOiAyMiB9fSB0eXBlPSJ0YWdzIi8+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuaGVpZ2h0c1tpZF0gPSBoZWlnaHQ7CiAgICAvLyAvL7zssunL+dPQtcRpc3N1ZXMgyseyu8rHtrzS0b6tzeqzybvm1sYKICAgIC8vIGNvbnN0IHsgaXNzdWVzIH0gPSB0aGlzLnByb3BzOwogICAgLy8gY29uc3QgcmVhZHkgPSBpc3N1ZXMucmVkdWNlKChyLCBpKSA9PiByICYmIHRoaXMuaGVpZ2h0cy5oYXNPd25Qcm9wZXJ0eShpLmlkKSwgdHJ1ZSk7CiAgICAvLyBpZiAocmVhZHkgJiYgdGhpcy5zdGF0ZS53YWl0aW5nRm9yQ2hpbGRyZW4pIHsKICAgIC8vICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAvLyAgICAgd2FpdGluZ0ZvckNoaWxkcmVuOiBmYWxzZQogICAgLy8gICB9KTsKICAgIC8vIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGRheURpZmYK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHQK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgaGVpZ2h0ID0gdGhpcy5oZWlnaHRzW2lzc3VlLmlkXSB8fCAyNTA7Cg==</text>
+        <text encoding="base64">ICAgIGlmKHRpbWVEaWZmID4gMjQgKiA2MCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
