@@ -71,7 +71,7 @@
         <mark key="^" line="26" column="67" />
         <mark key="." line="26" column="67" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" timestamp="1526823039940">
+      <file name="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" timestamp="1527084809132">
         <mark key="'" line="1" column="45" />
         <mark key="[" line="86" column="18" />
         <mark key="]" line="86" column="25" />
@@ -99,7 +99,7 @@
         <mark key="^" line="1257" column="24" />
         <mark key="." line="1257" column="24" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/mock-data.js" timestamp="1526822872198">
+      <file name="D:/projects/zzswang/shanghaibus-core/test/api/mock-data.js" timestamp="1527084732328">
         <mark key="[" line="97" column="23" />
         <mark key="]" line="97" column="23" />
         <mark key="." line="97" column="23" />
@@ -125,12 +125,12 @@
         <mark key="." line="100" column="15" />
         <mark key="^" line="100" column="15" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/driver.test.js" timestamp="1526827031298">
-        <mark key="'" line="159" column="33" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="25" column="0" />
+      <file name="D:/projects/zzswang/shanghaibus-core/test/api/driver.test.js" timestamp="1527085237338">
+        <mark key="'" line="158" column="33" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/openapi.yaml" timestamp="1526827593680">
         <mark key="'" line="1152" column="8" />
@@ -232,7 +232,7 @@
         <mark key="." line="378" column="0" />
         <mark key="^" line="378" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527003489472">
+      <file name="/Dummy.txt" timestamp="1527084072561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/warning.test.js" timestamp="1526827065964">
@@ -297,12 +297,11 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1527079330146">
-        <mark key="'" line="112" column="21" />
-        <mark key="[" line="48" column="27" />
-        <mark key="]" line="48" column="27" />
-        <mark key="." line="48" column="27" />
-        <mark key="^" line="48" column="27" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1527084331474">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle-performance.js" timestamp="1526738037653">
         <mark key="'" line="12" column="0" />
@@ -313,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="9" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
       <jump line="138" column="39" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
       <jump line="139" column="37" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
       <jump line="152" column="37" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
@@ -413,22 +411,23 @@
       <jump line="123" column="10" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="110" column="3" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="118" column="21" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="52" column="27" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1vY2sgZnJvbSAibW9ja2pzIjsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>ref_6</text>
       </register>
-      <register name="0" type="4">
-        <text>waitingForChildren</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgeyBjYXJkc1N0YXRlIH0gPSB0aGlzLnN0YXRlOwogICAgICBjb25zdCBzdGF0ZSA9IGNhcmRzU3RhdGVbaWRdOwoKICAgICAgbGV0IG5ld1N0YXRlID0gbnVsbDsKICAgICAgLy/XtMyssru05tTaLCC78tXf17TMrNbQtcRoZWlnaHS3osn6seS7rwogICAgICBpZiAoIXN0YXRlIHx8IHN0YXRlLmhlaWdodCAhPT0gaGVpZ2h0KSB7CiAgICAgICAgbmV3U3RhdGUgPSBtZXJnZSh7fSwgY2FyZHNTdGF0ZSk7CiAgICAgICAgbmV3U3RhdGVbaWRdID0gewogICAgICAgICAgaGVpZ2h0CiAgICAgICAgfTsKICAgICAgfQogICAgICAvLyDT0NDC17TMrLL6yfoKICAgICAgaWYgKG5ld1N0YXRlKSB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSgKICAgICAgICAgIHsKICAgICAgICAgICAgLi4udGhpcy5zdGF0ZSwKICAgICAgICAgICAgLi4uewogICAgICAgICAgICAgIGNhcmRzU3RhdGU6IG5ld1N0YXRlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICApOwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1vY2sgZnJvbSAibW9ja2pzIjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -437,22 +436,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uSGVpZ2h0Q2hhbmdlKGlzc3VlSWQsIGhlaWdodCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY291bnQgPSAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY291bnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMuaGVpZ2h0c1tpZF0gPSBoZWlnaHQ7CiAgICAvLyAvL7zssunL+dPQtcRpc3N1ZXMgyseyu8rHtrzS0b6tzeqzybvm1sYKICAgIC8vIGNvbnN0IHsgaXNzdWVzIH0gPSB0aGlzLnByb3BzOwogICAgLy8gY29uc3QgcmVhZHkgPSBpc3N1ZXMucmVkdWNlKChyLCBpKSA9PiByICYmIHRoaXMuaGVpZ2h0cy5oYXNPd25Qcm9wZXJ0eShpLmlkKSwgdHJ1ZSk7CiAgICAvLyBpZiAocmVhZHkgJiYgdGhpcy5zdGF0ZS53YWl0aW5nRm9yQ2hpbGRyZW4pIHsKICAgIC8vICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAvLyAgICAgd2FpdGluZ0ZvckNoaWxkcmVuOiBmYWxzZQogICAgLy8gICB9KTsKICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMuY291bnQrKzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY291bnQgPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbCA9IAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud2lkdGhDaGFuZ2VDb3VudCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
