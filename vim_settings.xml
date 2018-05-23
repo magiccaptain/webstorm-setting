@@ -1405,12 +1405,12 @@
         <mark key="." line="21" column="26" />
         <mark key="^" line="21" column="26" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1527059733117">
-        <mark key="'" line="33" column="4" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
-        <mark key="^" line="111" column="15" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1527062618100">
+        <mark key="'" line="106" column="3" />
+        <mark key="[" line="136" column="19" />
+        <mark key="]" line="136" column="29" />
+        <mark key="." line="136" column="29" />
+        <mark key="^" line="136" column="29" />
       </file>
       <file name="D:/projects/SC/egg-dit-apis/package.json" timestamp="1524398838312">
         <mark key="[" line="8" column="32" />
@@ -1901,7 +1901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
       <jump line="236" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
       <jump line="22" column="1" filename="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" />
       <jump line="31" column="21" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
@@ -2001,13 +2000,14 @@
       <jump line="106" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" />
       <jump line="103" column="15" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="33" column="4" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
+      <jump line="106" column="3" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaG91cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>.locale(&quot;zh-cn&quot;).</text>
       </register>
       <register name="/" type="4">
         <text>里程碑</text>
@@ -2016,31 +2016,31 @@
         <text encoding="base64">ICBtYXJnaW4tdG9wOiA4cHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgaG91cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZyb21Ob3cpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGltZURpZmZUZXh0Lgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZyb21Ob3cpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRheURpZmYK</text>
+        <text encoding="base64">bW9tZW50LmxvY2FsZSgiemhfY24iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudC5sb2NhbGUoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vbWVudC5sb2NhbGUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKHRpbWVEaWZmID4gMjQgKiA2MCkK</text>
+        <text encoding="base64">ICAgIG1vbWVudC5sb2NhbGUoInpoLWNuIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
