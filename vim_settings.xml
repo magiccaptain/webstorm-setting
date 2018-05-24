@@ -232,7 +232,7 @@
         <mark key="." line="378" column="0" />
         <mark key="^" line="378" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527084072561">
+      <file name="/Dummy.txt" timestamp="1527086966212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/warning.test.js" timestamp="1526827065964">
@@ -242,10 +242,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="0" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1527079488694">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1527086961798">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
         <mark key="^" line="37" column="37" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1526814044619">
@@ -415,7 +415,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IE1vY2sgZnJvbSAibW9ja2pzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -427,31 +427,31 @@
         <text encoding="base64">ICAgICAgY29uc3QgeyBjYXJkc1N0YXRlIH0gPSB0aGlzLnN0YXRlOwogICAgICBjb25zdCBzdGF0ZSA9IGNhcmRzU3RhdGVbaWRdOwoKICAgICAgbGV0IG5ld1N0YXRlID0gbnVsbDsKICAgICAgLy/XtMyssru05tTaLCC78tXf17TMrNbQtcRoZWlnaHS3osn6seS7rwogICAgICBpZiAoIXN0YXRlIHx8IHN0YXRlLmhlaWdodCAhPT0gaGVpZ2h0KSB7CiAgICAgICAgbmV3U3RhdGUgPSBtZXJnZSh7fSwgY2FyZHNTdGF0ZSk7CiAgICAgICAgbmV3U3RhdGVbaWRdID0gewogICAgICAgICAgaGVpZ2h0CiAgICAgICAgfTsKICAgICAgfQogICAgICAvLyDT0NDC17TMrLL6yfoKICAgICAgaWYgKG5ld1N0YXRlKSB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSgKICAgICAgICAgIHsKICAgICAgICAgICAgLi4udGhpcy5zdGF0ZSwKICAgICAgICAgICAgLi4uewogICAgICAgICAgICAgIGNhcmRzU3RhdGU6IG5ld1N0YXRlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICApOwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IE1vY2sgZnJvbSAibW9ja2pzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CiAgICAvLyBjb25zdCB7IG9uSGVpZ2h0Q2hhbmdlLCBpc3N1ZUlkIH0gPSB0aGlzLnByb3BzOwogICAgLy8gY29uc3QgeyBjbGllbnRIZWlnaHQgfSA9IHRoaXMuY2FyZFJlZi5jb250YWluZXI7CiAgICAvLyBpZiAob25IZWlnaHRDaGFuZ2UpIHsKICAgIC8vICAgb25IZWlnaHRDaGFuZ2UoaXNzdWVJZCwgY2xpZW50SGVpZ2h0KTsKICAgIC8vIH0KICAgIC8vIGlmICghbG9hZGluZykgewogICAgLy8gfQogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1vY2sgZnJvbSAibW9ja2pzIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY291bnQgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY291bnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY291bnQrKzsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHRoaXMuY291bnQgPSAwOwo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY291bnQpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMud2lkdGhDaGFuZ2VDb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY291bnQrKzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY291bnQgPSAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
