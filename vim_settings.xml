@@ -23,6 +23,11 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" timestamp="1527165416540">
+        <mark key="'" line="81" column="30" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="20" />
+      </file>
       <file name="D:/projects/zzswang/adventurer-web/src/components/water-flow/water-flow.js" timestamp="1526993181435">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="44" />
@@ -70,6 +75,12 @@
         <mark key="]" line="15" column="32" />
         <mark key="^" line="26" column="67" />
         <mark key="." line="26" column="67" />
+      </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527165035188">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="19" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" timestamp="1527084809132">
         <mark key="'" line="1" column="45" />
@@ -149,6 +160,7 @@
         <mark key="." line="15" column="48" />
         <mark key="^" line="15" column="48" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/app.js" timestamp="1527161909852" />
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/company.test.js" timestamp="1526827023997">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -232,6 +244,12 @@
         <mark key="." line="378" column="0" />
         <mark key="^" line="378" column="31" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1527165799337">
+        <mark key="'" line="47" column="5" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1527086966212">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,18 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="39" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
-      <jump line="139" column="37" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
-      <jump line="152" column="37" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
-      <jump line="164" column="39" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
-      <jump line="169" column="31" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
-      <jump line="43" column="6" filename="D:/projects/zzswang/shanghaibus-core/test/api/fastman.js" />
-      <jump line="204" column="14" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
-      <jump line="60" column="11" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
-      <jump line="65" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
-      <jump line="223" column="28" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
-      <jump line="0" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" />
-      <jump line="8" column="4" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
       <jump line="236" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
       <jump line="22" column="1" filename="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" />
       <jump line="31" column="21" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
@@ -412,62 +418,72 @@
       <jump line="110" column="3" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="118" column="21" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="52" column="27" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="18" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" />
+      <jump line="8" column="22" filename="D:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" />
+      <jump line="86" column="39" filename="D:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" />
+      <jump line="0" column="2" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="19" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" />
+      <jump line="41" column="18" filename="D:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" />
+      <jump line="24" column="10" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="81" column="30" filename="D:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" />
+      <jump line="39" column="19" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="48" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="66" column="14" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="52" column="5" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhbnQtbGF5b3V0LXNpZGVyIGFudC1sYXlvdXQtc2lkZXItY29sbGFwc2VkIjsKICAgICJhbnQtbGF5b3V0LXNpZGVyLWNoaWxkcmVuIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>ref_6</text>
+        <text>Layout</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBjYXJkc1N0YXRlIH0gPSB0aGlzLnN0YXRlOwogICAgICBjb25zdCBzdGF0ZSA9IGNhcmRzU3RhdGVbaWRdOwoKICAgICAgbGV0IG5ld1N0YXRlID0gbnVsbDsKICAgICAgLy/XtMyssru05tTaLCC78tXf17TMrNbQtcRoZWlnaHS3osn6seS7rwogICAgICBpZiAoIXN0YXRlIHx8IHN0YXRlLmhlaWdodCAhPT0gaGVpZ2h0KSB7CiAgICAgICAgbmV3U3RhdGUgPSBtZXJnZSh7fSwgY2FyZHNTdGF0ZSk7CiAgICAgICAgbmV3U3RhdGVbaWRdID0gewogICAgICAgICAgaGVpZ2h0CiAgICAgICAgfTsKICAgICAgfQogICAgICAvLyDT0NDC17TMrLL6yfoKICAgICAgaWYgKG5ld1N0YXRlKSB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSgKICAgICAgICAgIHsKICAgICAgICAgICAgLi4udGhpcy5zdGF0ZSwKICAgICAgICAgICAgLi4uewogICAgICAgICAgICAgIGNhcmRzU3RhdGU6IG5ld1N0YXRlCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICApOwogICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;ant-layout-sider-children&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhbnQtbGF5b3V0LXNpZGVyIGFudC1sYXlvdXQtc2lkZXItY29sbGFwc2VkIjsKICAgICJhbnQtbGF5b3V0LXNpZGVyLWNoaWxkcmVuIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CiAgICAvLyBjb25zdCB7IG9uSGVpZ2h0Q2hhbmdlLCBpc3N1ZUlkIH0gPSB0aGlzLnByb3BzOwogICAgLy8gY29uc3QgeyBjbGllbnRIZWlnaHQgfSA9IHRoaXMuY2FyZFJlZi5jb250YWluZXI7CiAgICAvLyBpZiAob25IZWlnaHRDaGFuZ2UpIHsKICAgIC8vICAgb25IZWlnaHRDaGFuZ2UoaXNzdWVJZCwgY2xpZW50SGVpZ2h0KTsKICAgIC8vIH0KICAgIC8vIGlmICghbG9hZGluZykgewogICAgLy8gfQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IE1vY2sgZnJvbSAibW9ja2pzIjsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2dvIi8+CiAgICAgICAgICA8TWVudSB0aGVtZT0iZGFyayIgZGVmYXVsdFNlbGVjdGVkS2V5cz17WyIxIl19IG1vZGU9ImlubGluZSI+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBhcHBzLm1hcCgoYXBwLCBpbmRleCkgPT4gewogICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9e2luZGV4LnRvU3RyaW5nKCl9PgogICAgICAgICAgICAgICAgICAgIDxOYXZMaW5rIHRvPXthcHAucm91dGVyfT4KICAgICAgICAgICAgICAgICAgICAgIDxJY29uIHR5cGU9e2FwcC5pY29ufS8+CiAgICAgICAgICAgICAgICAgICAgPC9OYXZMaW5rPgogICAgICAgICAgICAgICAgICA8L01lbnUuSXRlbT4KICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQogICAgICAgICAgPC9NZW51Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2dvIi8+CiAgICAgICAgICA8TWVudSB0aGVtZT0iZGFyayIgZGVmYXVsdFNlbGVjdGVkS2V5cz17WyIxIl19IG1vZGU9ImlubGluZSI+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBhcHBzLm1hcCgoYXBwLCBpbmRleCkgPT4gewogICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9e2luZGV4LnRvU3RyaW5nKCl9PgogICAgICAgICAgICAgICAgICAgIDxOYXZMaW5rIHRvPXthcHAucm91dGVyfT4KICAgICAgICAgICAgICAgICAgICAgIDxJY29uIHR5cGU9e2FwcC5pY29ufS8+CiAgICAgICAgICAgICAgICAgICAgPC9OYXZMaW5rPgogICAgICAgICAgICAgICAgICA8L01lbnUuSXRlbT4KICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY291bnQgPSAwOwo=</text>
+        <text encoding="base64">ICB7CiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuY291bnQpOwo=</text>
+        <text encoding="base64">ICAgIG5hbWU6ICLIzs7xtPPM/CIsCiAgICBpY29uOiAiaG9tZSIsCiAgICByb3V0ZXI6ICIvdGFzayIsCiAgICB0aXRsZTogIiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY291bnQrKzsK</text>
+        <text encoding="base64">Y29uc3QgeyBTaWRlciwgQ29udGVudCB9ID0gTGF5b3V0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY291bnQgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>ref_6</last-search>
+      <last-search>Layout</last-search>
       <last-offset />
-      <last-pattern>ref_6</last-pattern>
+      <last-pattern>Layout</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">JnJlZg==</entry>
-        <entry>*ref</entry>
         <entry>emission</entry>
         <entry>ref_0</entry>
         <entry>ref_1</entry>
@@ -486,6 +502,8 @@
         <entry>ref_</entry>
         <entry>ref_5</entry>
         <entry>ref_6</entry>
+        <entry>Query</entry>
+        <entry>Layout</entry>
       </history-search>
       <history-cmd />
       <history-expr />
