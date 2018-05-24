@@ -76,11 +76,11 @@
         <mark key="^" line="26" column="67" />
         <mark key="." line="26" column="67" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527165035188">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="21" column="19" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527167643686">
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="38" column="54" />
+        <mark key="." line="38" column="54" />
+        <mark key="^" line="38" column="54" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" timestamp="1527084809132">
         <mark key="'" line="1" column="45" />
@@ -244,11 +244,12 @@
         <mark key="." line="378" column="0" />
         <mark key="^" line="378" column="31" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1527165799337">
-        <mark key="'" line="47" column="5" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1527167595629">
+        <mark key="'" line="45" column="5" />
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="36" />
+        <mark key="^" line="35" column="36" />
+        <mark key="." line="35" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1527086966212">
         <mark key="[" line="0" column="0" />
@@ -327,6 +328,12 @@
         <mark key="]" line="49" column="18" />
         <mark key="." line="53" column="48" />
         <mark key="^" line="53" column="48" />
+      </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/style.css" timestamp="1527166989118">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
       </file>
     </filemarks>
     <jumps>
@@ -432,11 +439,11 @@
       <jump line="52" column="5" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJhbnQtbGF5b3V0LXNpZGVyIGFudC1sYXlvdXQtc2lkZXItY29sbGFwc2VkIjsKICAgICJhbnQtbGF5b3V0LXNpZGVyLWNoaWxkcmVuIjsK</text>
+      <register name="&quot;" type="4">
+        <text>issues</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>issues</text>
       </register>
       <register name="/" type="4">
         <text>Layout</text>
@@ -445,31 +452,31 @@
         <text>&quot;ant-layout-sider-children&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJhbnQtbGF5b3V0LXNpZGVyIGFudC1sYXlvdXQtc2lkZXItY29sbGFwc2VkIjsKICAgICJhbnQtbGF5b3V0LXNpZGVyLWNoaWxkcmVuIjsK</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMHZoOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2dvIi8+CiAgICAgICAgICA8TWVudSB0aGVtZT0iZGFyayIgZGVmYXVsdFNlbGVjdGVkS2V5cz17WyIxIl19IG1vZGU9ImlubGluZSI+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBhcHBzLm1hcCgoYXBwLCBpbmRleCkgPT4gewogICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9e2luZGV4LnRvU3RyaW5nKCl9PgogICAgICAgICAgICAgICAgICAgIDxOYXZMaW5rIHRvPXthcHAucm91dGVyfT4KICAgICAgICAgICAgICAgICAgICAgIDxJY29uIHR5cGU9e2FwcC5pY29ufS8+CiAgICAgICAgICAgICAgICAgICAgPC9OYXZMaW5rPgogICAgICAgICAgICAgICAgICA8L01lbnUuSXRlbT4KICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQogICAgICAgICAgPC9NZW51Pgo=</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJsb2dvIi8+CiAgICAgICAgICA8TWVudSB0aGVtZT0iZGFyayIgZGVmYXVsdFNlbGVjdGVkS2V5cz17WyIxIl19IG1vZGU9ImlubGluZSI+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBhcHBzLm1hcCgoYXBwLCBpbmRleCkgPT4gewogICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgPE1lbnUuSXRlbSBrZXk9e2luZGV4LnRvU3RyaW5nKCl9PgogICAgICAgICAgICAgICAgICAgIDxOYXZMaW5rIHRvPXthcHAucm91dGVyfT4KICAgICAgICAgICAgICAgICAgICAgIDxJY29uIHR5cGU9e2FwcC5pY29ufS8+CiAgICAgICAgICAgICAgICAgICAgPC9OYXZMaW5rPgogICAgICAgICAgICAgICAgICA8L01lbnUuSXRlbT4KICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB7Y2hpbGRyZW59Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICLIzs7xtPPM/CIsCiAgICBpY29uOiAiaG9tZSIsCiAgICByb3V0ZXI6ICIvdGFzayIsCiAgICB0aXRsZTogIiIK</text>
+        <text encoding="base64">ICB3aWR0aDogYXV0bzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBTaWRlciwgQ29udGVudCB9ID0gTGF5b3V0Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiYWNrCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
