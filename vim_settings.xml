@@ -264,13 +264,13 @@
         <mark key="." line="170" column="0" />
         <mark key="^" line="151" column="20" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1527212428382">
-        <mark key="'" line="22" column="24" />
-        <mark key="[" line="42" column="18" />
-        <mark key="m" line="23" column="13" />
-        <mark key="]" line="42" column="43" />
-        <mark key="." line="42" column="43" />
-        <mark key="^" line="42" column="43" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1527219171858">
+        <mark key="'" line="32" column="3" />
+        <mark key="[" line="78" column="51" />
+        <mark key="m" line="47" column="13" />
+        <mark key="]" line="79" column="21" />
+        <mark key="^" line="79" column="21" />
+        <mark key="." line="79" column="21" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_department.ts" timestamp="1517277894169">
         <mark key="[" line="10" column="0" />
@@ -961,11 +961,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527212257435">
-        <mark key="[" line="26" column="13" />
-        <mark key="]" line="26" column="13" />
-        <mark key="." line="26" column="13" />
-        <mark key="^" line="26" column="13" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527220828724">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
@@ -1229,7 +1229,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" timestamp="1527210348440" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" timestamp="1527218476562">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="32" />
+      </file>
       <file name="G:/projects/zzswang/adventurer-web/src/app.js" timestamp="1526959868047" />
       <file name="$USER_HOME$/projects/SmartElective/tsconfig.json" timestamp="1516460799207">
         <mark key="[" line="8" column="20" />
@@ -1290,10 +1293,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/style.css" timestamp="1527053648189">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/style.css" timestamp="1527218201051">
+        <mark key="'" line="155" column="1" />
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="1" />
+        <mark key="^" line="29" column="1" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_json.ts" timestamp="1517743956368">
         <mark key="[" line="8" column="28" />
@@ -1916,9 +1921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="1" filename="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" />
-      <jump line="31" column="21" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
-      <jump line="202" column="12" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
       <jump line="232" column="20" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
       <jump line="68" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
       <jump line="471" column="22" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
@@ -2016,61 +2018,63 @@
       <jump line="33" column="4" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="106" column="3" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="22" column="24" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="129" column="1" filename="G:/projects/zzswang/adventurer-web/src/containers/style.css" />
+      <jump line="40" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="31" column="3" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text>里程碑</text>
+        <text>logo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29udGVudCBzdHlsZT17eyBvdmVyZmxvd1k6ICJzY3JvbGwiLCBvdmVyZmxvd1g6ICJoaWRkZW4iIH19Pgo=</text>
+      <register name="0" type="4">
+        <text>style={{ fontSize: 28 }}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvQ29sPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPENvbnRlbnQgc3R5bGU9e3sgb3ZlcmZsb3dZOiAic2Nyb2xsIiwgb3ZlcmZsb3dYOiAiaGlkZGVuIiB9fT4KICAgICAgICA8U3dpdGNoPgogICAgICAgICAgPFJlZGlyZWN0IGZyb209Ii90YXNrIiB0bz0iL3Rhc2svd2F0ZXItZmxvdyIgZXhhY3QvPgogICAgICAgICAgey8qPFJvdXRlIHBhdGg9Ii90YXNrL2lzc3Vlcy86aWQ/IiBjb21wb25lbnQ9e0lzc3VlTGlzdH0vPiovfQogICAgICAgICAgPFJvdXRlIHBhdGg9Ii90YXNrL3dhdGVyLWZsb3ciIGNvbXBvbmVudD17SXNzdWVXYXRlckZsb3d9Lz4KICAgICAgICA8L1N3aXRjaD4KICAgICAgPC9Db250ZW50Pgo=</text>
+        <text encoding="base64">ICAgIDxDb2wgc3Bhbj17MX0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9MYXlvdXQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPExheW91dCBzdHlsZT17eyBoZWlnaHQ6ICIxMDAlIiB9fT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvQ29udGVudD4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDb250ZW50Pgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPEljb24gc3R5bGU9e3sgZm9udFNpemU6IDI4IH19IHR5cGU9ImJhcnMiLz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPEljb24K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA8CiAgICBIZWFkZXIKICA8L1JvdXRlPgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8U3dpdGNoPgogICAgICAgICAgPFJlZGlyZWN0IGZyb209Ii90YXNrIiB0bz0iL3Rhc2svd2F0ZXItZmxvdyIgZXhhY3QvPgogICAgICAgICAgey8qPFJvdXRlIHBhdGg9Ii90YXNrL2lzc3Vlcy86aWQ/IiBjb21wb25lbnQ9e0lzc3VlTGlzdH0vPiovfQogICAgICAgICAgPFJvdXRlIHBhdGg9Ii90YXNrL3dhdGVyLWZsb3ciIGNvbXBvbmVudD17SXNzdWVXYXRlckZsb3d9Lz4KICAgICAgICA8L1N3aXRjaD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Q29udGVudD48L0NvbnRlbnQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>里程碑</last-search>
+      <last-search>logo</last-search>
       <last-offset />
-      <last-pattern>里程碑</last-pattern>
+      <last-pattern>logo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>examples</entry>
         <entry>php</entry>
         <entry>PHP</entry>
         <entry>Place an order for a pet</entry>
@@ -2090,6 +2094,7 @@
         <entry>auto</entry>
         <entry>tag</entry>
         <entry>里程碑</entry>
+        <entry>logo</entry>
       </history-search>
       <history-cmd />
       <history-expr />
