@@ -226,7 +226,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1527056006774" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1527233246716">
+        <mark key="'" line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517408429647">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -494,6 +496,18 @@
         <mark key="]" line="35" column="41" />
         <mark key="." line="35" column="41" />
         <mark key="^" line="35" column="41" />
+      </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/selectors/index.js" timestamp="1527233602971">
+        <mark key="[" line="13" column="58" />
+        <mark key="]" line="13" column="58" />
+        <mark key="^" line="13" column="58" />
+        <mark key="." line="13" column="58" />
+      </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/reducers/index.js" timestamp="1527233407679">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="54" />
+        <mark key="^" line="24" column="54" />
+        <mark key="." line="24" column="54" />
       </file>
       <file name="D:/projects/open-api-redoc/front-end/libs/redoc/services/SearchStore.js" timestamp="1524302574099">
         <mark key="[" line="1" column="0" />
@@ -961,11 +975,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527229803340">
-        <mark key="[" line="37" column="26" />
-        <mark key="]" line="37" column="26" />
-        <mark key="." line="37" column="26" />
-        <mark key="^" line="37" column="34" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527234198018">
+        <mark key="'" line="63" column="42" />
+        <mark key="[" line="73" column="22" />
+        <mark key="]" line="73" column="31" />
+        <mark key="." line="73" column="31" />
+        <mark key="^" line="73" column="31" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
@@ -1520,6 +1535,13 @@
         <mark key="^" line="285" column="133" />
         <mark key="." line="285" column="133" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/actions/index.js" timestamp="1527233190747">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="56" column="19" />
+      </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515912566005">
         <mark key="[" line="144" column="23" />
         <mark key="]" line="144" column="23" />
@@ -1636,6 +1658,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/reducers/paginate.js" timestamp="1527231697794" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" timestamp="1526027885288">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -1666,6 +1689,7 @@
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/reducers/fetching.js" timestamp="1527233393874" />
       <file name="$USER_HOME$/projects/SmartElective/Server/config/plugin.js" timestamp="1517675505742">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="30" />
@@ -1832,6 +1856,13 @@
         <mark key="." line="95" column="33" />
         <mark key="^" line="95" column="33" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/reducers/menu.js" timestamp="1527233431885">
+        <mark key="'" line="26" column="3" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="18" />
+        <mark key="^" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/tsconfig.json" timestamp="1517743837874">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="22" />
@@ -1921,11 +1952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="471" column="22" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
-      <jump line="68" column="1" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" />
-      <jump line="37" column="14" filename="D:/projects/zzswang/shanghaibus-core/test/api/driver.test.js" />
-      <jump line="60" column="18" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" />
-      <jump line="54" column="18" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" />
       <jump line="29" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/driver.test.js" />
       <jump line="1" column="6" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock-data.js" />
       <jump line="1633" column="21" filename="D:/projects/zzswang/shanghaibus-core/openapi.yaml" />
@@ -2021,19 +2047,24 @@
       <jump line="31" column="3" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
       <jump line="78" column="61" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
       <jump line="17" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="16" column="1" filename="G:/projects/zzswang/adventurer-web/src/reducers/menu.js" />
+      <jump line="26" column="3" filename="G:/projects/zzswang/adventurer-web/src/reducers/menu.js" />
+      <jump line="1" column="0" filename="G:/projects/zzswang/adventurer-web/src/actions/index.js" />
+      <jump line="77" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="63" column="42" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxNZW51Lkl0ZW0KICAgICAgICAgICAgICAgICAga2V5PXtwLmtleX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgPEljb24gdHlwZT0iY29kZSIvPgogICAgICAgICAgICAgICAgICA8c3Bhbj57cC5uYW1lfTwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvTWVudS5JdGVtPgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">SVNTVUVfU1RBVFVTX01FTlUg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2042,13 +2073,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBzdGEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0dXNTZWxlY3RlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0dXNTZWxlY3RlZCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2057,10 +2088,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0eXBlOiBJU1NVRV9TVEFUVVNfTUVOVSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
