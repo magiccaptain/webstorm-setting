@@ -264,13 +264,13 @@
         <mark key="." line="170" column="0" />
         <mark key="^" line="151" column="20" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1527219171858">
-        <mark key="'" line="32" column="3" />
-        <mark key="[" line="78" column="51" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1527227529939">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="56" column="0" />
         <mark key="m" line="47" column="13" />
-        <mark key="]" line="79" column="21" />
-        <mark key="^" line="79" column="21" />
-        <mark key="." line="79" column="21" />
+        <mark key="]" line="57" column="42" />
+        <mark key="^" line="78" column="61" />
+        <mark key="." line="78" column="61" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_department.ts" timestamp="1517277894169">
         <mark key="[" line="10" column="0" />
@@ -961,11 +961,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527220828724">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="32" />
-        <mark key="." line="18" column="32" />
-        <mark key="^" line="18" column="32" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527228190667">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
@@ -1721,11 +1721,11 @@
         <mark key="." line="100" column="24" />
         <mark key="^" line="100" column="24" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" timestamp="1527058688999">
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" timestamp="1527228042135">
         <mark key="'" line="106" column="0" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="18" />
-        <mark key="." line="135" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/components/CourseNameSearch/CourseNameSearch.tsx" timestamp="1519660862304">
         <mark key="[" line="0" column="0" />
@@ -1921,8 +1921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="20" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
-      <jump line="68" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
       <jump line="471" column="22" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
       <jump line="68" column="1" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" />
       <jump line="37" column="14" filename="D:/projects/zzswang/shanghaibus-core/test/api/driver.test.js" />
@@ -2021,43 +2019,45 @@
       <jump line="129" column="1" filename="G:/projects/zzswang/adventurer-web/src/containers/style.css" />
       <jump line="40" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
       <jump line="31" column="3" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="78" column="61" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="17" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>维</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>维</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
       </register>
-      <register name="0" type="4">
-        <text>style={{ fontSize: 28 }}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB7bmFtZTogItDCzsW45yIsIGtleTogInhpbndlbmdlIn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwvQ29sPgo=</text>
+        <text encoding="base64">ICBjbG8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxDb2wgc3Bhbj17MX0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPEljb24gc3R5bGU9e3sgZm9udFNpemU6IDI4IH19IHR5cGU9ImJhcnMiLz4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEljb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8CiAgICBIZWFkZXIKICA8L1JvdXRlPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qge0lzc3VlVHl9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
