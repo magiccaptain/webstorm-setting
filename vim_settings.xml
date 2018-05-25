@@ -961,11 +961,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527228190667">
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="32" />
-        <mark key="." line="29" column="32" />
-        <mark key="^" line="29" column="32" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527229803340">
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+        <mark key="^" line="37" column="34" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
@@ -2024,19 +2024,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>维</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>维</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>logo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7bmFtZTogItDCzsW45yIsIGtleTogInhpbndlbmdlIn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxNZW51Lkl0ZW0KICAgICAgICAgICAgICAgICAga2V5PXtwLmtleX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgPEljb24gdHlwZT0iY29kZSIvPgogICAgICAgICAgICAgICAgICA8c3Bhbj57cC5uYW1lfTwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvTWVudS5JdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjbG8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -2045,22 +2045,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qge0lzc3VlVHl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
