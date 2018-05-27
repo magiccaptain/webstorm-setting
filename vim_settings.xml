@@ -149,7 +149,7 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527384934863">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527391209806">
         <mark key="'" line="18" column="12" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -183,6 +183,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/pile.js" timestamp="1527391232866">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+      </file>
       <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/base-restful-template.ts" timestamp="1526726758867">
         <mark key="'" line="262" column="24" />
         <mark key="[" line="336" column="25" />
@@ -197,8 +201,11 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/record.js" timestamp="1527384931064">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/record.js" timestamp="1527391235321">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/projects/36node/sketch/packages/fastman/package.json" timestamp="1526655388186">
         <mark key="'" line="33" column="20" />
@@ -440,7 +447,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gvajBosv30v0KcmVjb3JkU2NoZW1hLmluZGV4KHtpZDogMX0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyIH0gZnJvbSAiZXhwcmVzcyI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -449,7 +456,7 @@
         <text>Layout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsaW5lcyA9IGxpbmVzLnNsaWNlKDcpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyIH0gZnJvbSAiZXhwcmVzcyI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gvajBosv30v0KcmVjb3JkU2NoZW1hLmluZGV4KHtpZDogMX0pOwo=</text>
