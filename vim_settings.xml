@@ -74,6 +74,12 @@
         <mark key="^" line="26" column="67" />
         <mark key="." line="26" column="67" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/original-data/CATL-6.0-V1.3.csv" timestamp="1527351682388">
+        <mark key="'" line="1" column="6" />
+        <mark key="[" line="244" column="0" />
+        <mark key="]" line="244" column="0" />
+        <mark key="." line="244" column="0" />
+      </file>
       <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527324703383">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -94,10 +100,10 @@
         <mark key="^" line="90" column="15" />
         <mark key="." line="90" column="15" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/pile.js" timestamp="1526809735630">
-        <mark key="'" line="47" column="9" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="59" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/pile.js" timestamp="1527349227973">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="28" column="5" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="61" column="47" />
       </file>
@@ -146,6 +152,13 @@
         <mark key="]" line="68" column="0" />
         <mark key="^" line="20" column="19" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527352199357">
+        <mark key="'" line="37" column="30" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="39" column="51" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/fastman.js" timestamp="1526811405303">
         <mark key="'" line="45" column="6" />
@@ -202,12 +215,22 @@
         <mark key="." line="38" column="14" />
         <mark key="^" line="32" column="24" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/lib/origin-data.js" timestamp="1527352117006">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="82" column="9" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/tables.js" timestamp="1526026327981">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="40" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1527351188918">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" timestamp="1526561944262">
         <mark key="'" line="352" column="20" />
@@ -222,6 +245,12 @@
         <mark key="]" line="33" column="42" />
         <mark key="." line="33" column="42" />
         <mark key="^" line="33" column="42" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/lib/orgin-data.test.js" timestamp="1527352155932">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526569608130">
         <mark key="'" line="30" column="27" />
@@ -309,11 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
-      <jump line="22" column="1" filename="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" />
-      <jump line="31" column="21" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
-      <jump line="202" column="12" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
-      <jump line="232" column="20" filename="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" />
       <jump line="68" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
       <jump line="471" column="22" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
       <jump line="68" column="1" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" />
@@ -409,46 +433,51 @@
       <jump line="48" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
       <jump line="66" column="14" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
       <jump line="52" column="5" filename="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="45" column="4" filename="D:/projects/zzswang/shanghaibus-core/src/models/pile.js" />
+      <jump line="10" column="16" filename="D:/projects/zzswang/shanghaibus-core/original-data/CATL-6.0-V1.3.csv" />
+      <jump line="1" column="6" filename="D:/projects/zzswang/shanghaibus-core/original-data/CATL-6.0-V1.3.csv" />
+      <jump line="63" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/lib/origin-data.js" />
+      <jump line="38" column="30" filename="D:/projects/zzswang/shanghaibus-core/src/models/record.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlSGlkZGVuIGZyb20gIm1vbmdvb3NlLWhpZGRlbiI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>Layout</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;ant-layout-sider-children&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBsaW5lcyA9IGxpbmVzLnNsaWNlKDcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlSGlkZGVuIGZyb20gIm1vbmdvb3NlLWhpZGRlbiI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5LnBvcHVsYXRlKHBvbHVsYXRlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGxldCBwIG9mIHBvbHVsYXRlcykgewogICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkucG9wdWxhdGUocCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNhdGwsIG51bGwsIDIpKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8SGVhZGVyIGNsYXNzTmFtZT0iaGVhZGVyLW5hdiI+Ki99CiAgICAgICAgey8qPE5hdkxpbmsgdG89Ii90YXNrL2lzc3VlcyIgYWN0aXZlQ2xhc3NOYW1lPSJhY3RpdmUiPiovfQogICAgICAgIHsvKklTU1VFUyovfQogICAgICAgIHsvKjwvTmF2TGluaz4qL30KICAgICAgICB7Lyo8RGl2aWRlciB0eXBlPSJ2ZXJ0aWNhbCIgc3R5bGU9e3sgbWFyZ2luOiAiMCAxM3B4IiB9fS8+Ki99CiAgICAgICAgey8qPE5hdkxpbmsgdG89Ii90YXNrL3Byb2plY3RzIiBhY3RpdmVDbGFzc05hbWU9ImFjdGl2ZSI+Ki99CiAgICAgICAgey8qUFJPSkVDVFMqL30KICAgICAgICB7Lyo8L05hdkxpbms+Ki99CiAgICAgICAgey8qPC9IZWFkZXI+Ki99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9MYXlvdXQ+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPExheW91dCBzdHlsZT17eyBoZWlnaHQ6ICIxMDB2aCIgfX0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Rm9vdGVyIGNsYXNzTmFtZT0iZm9vdGVyLW5hdiI+U291dGhmYXJtID8yMDE4PC9Gb290ZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
