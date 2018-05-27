@@ -153,12 +153,12 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527352199357">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527384892944">
         <mark key="'" line="37" column="30" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="39" column="51" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/fastman.js" timestamp="1526811405303">
         <mark key="'" line="45" column="6" />
@@ -441,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlSGlkZGVuIGZyb20gIm1vbmdvb3NlLWhpZGRlbiI7Cg==</text>
+        <text encoding="base64">Ly8gvajBosv30v0KcmVjb3JkU2NoZW1hLmluZGV4KHtpZDogMX0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>Layout</text>
@@ -453,31 +453,31 @@
         <text encoding="base64">ICBsaW5lcyA9IGxpbmVzLnNsaWNlKDcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlSGlkZGVuIGZyb20gIm1vbmdvb3NlLWhpZGRlbiI7Cg==</text>
+        <text encoding="base64">Ly8gvajBosv30v0KcmVjb3JkU2NoZW1hLmluZGV4KHtpZDogMX0pOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlSGlkZGVuIGZyb20gIm1vbmdvb3NlLWhpZGRlbiI7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNhdGwsIG51bGwsIDIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGNhdGwsIG51bGwsIDIpKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
