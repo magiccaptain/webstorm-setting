@@ -22,10 +22,6 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/basic-layout.js" timestamp="1527165416540">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="20" />
-      </file>
       <file name="D:/projects/zzswang/adventurer-web/src/components/water-flow/water-flow.js" timestamp="1526993181435">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="44" />
@@ -153,8 +149,8 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527384892944">
-        <mark key="'" line="37" column="30" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527384934863">
+        <mark key="'" line="18" column="12" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -200,6 +196,9 @@
         <mark key="]" line="19" column="35" />
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/record.js" timestamp="1527384931064">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/36node/sketch/packages/fastman/package.json" timestamp="1526655388186">
         <mark key="'" line="33" column="20" />
@@ -338,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
       <jump line="471" column="22" filename="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" />
       <jump line="68" column="1" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" />
       <jump line="37" column="14" filename="D:/projects/zzswang/shanghaibus-core/test/api/driver.test.js" />
@@ -438,6 +436,7 @@
       <jump line="1" column="6" filename="D:/projects/zzswang/shanghaibus-core/original-data/CATL-6.0-V1.3.csv" />
       <jump line="63" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/lib/origin-data.js" />
       <jump line="38" column="30" filename="D:/projects/zzswang/shanghaibus-core/src/models/record.js" />
+      <jump line="18" column="12" filename="D:/projects/zzswang/shanghaibus-core/src/models/record.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
