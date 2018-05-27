@@ -10,7 +10,8 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1527421744940">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1527430445868">
+        <mark key="'" line="31" column="15" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -63,11 +64,10 @@
         <mark key="." line="64" column="8" />
         <mark key="^" line="68" column="10" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/calt-data.js" timestamp="1527427282702">
-        <mark key="[" line="248" column="28" />
-        <mark key="]" line="248" column="28" />
-        <mark key="." line="248" column="28" />
-        <mark key="^" line="248" column="28" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/calt-data.js" timestamp="1527430433764">
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="248" column="0" />
+        <mark key="." line="248" column="0" />
       </file>
       <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/runner/newman.test.ts" timestamp="1526478784661">
         <mark key="'" line="13" column="15" />
@@ -136,6 +136,12 @@
         <mark key="." line="43" column="66" />
         <mark key="^" line="43" column="66" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record-data.js" timestamp="1527430694000">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+      </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/line.test.js" timestamp="1527327492850">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -162,12 +168,12 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527428601368">
-        <mark key="'" line="36" column="11" />
-        <mark key="[" line="11" column="63" />
-        <mark key="]" line="11" column="62" />
-        <mark key="." line="11" column="62" />
-        <mark key="^" line="11" column="62" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527429900335">
+        <mark key="'" line="28" column="11" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="17" column="21" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/openapi.yaml" timestamp="1527403992428">
         <mark key="[" line="5154" column="14" />
@@ -216,11 +222,12 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/record.js" timestamp="1527428036433">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/record.js" timestamp="1527430093877">
         <mark key="'" line="3" column="13" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="27" />
       </file>
       <file name="D:/projects/36node/sketch/packages/fastman/package.json" timestamp="1526655388186">
         <mark key="'" line="33" column="20" />
@@ -347,8 +354,8 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/node_modules/@types/mongoose/index.d.ts" timestamp="1527425325711" />
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/record.test.js" timestamp="1527426826811">
+      <file name="D:/projects/zzswang/shanghaibus-core/node_modules/@types/mongoose/index.d.ts" timestamp="1527429816052" />
+      <file name="D:/projects/zzswang/shanghaibus-core/test/api/record.test.js" timestamp="1527430881670">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -369,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="10" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" />
       <jump line="123" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" />
       <jump line="67" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock-data.js" />
       <jump line="4" column="0" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" />
@@ -469,46 +475,47 @@
       <jump line="506" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/calt-data.js" />
       <jump line="224" column="25" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock-data.js" />
       <jump line="168" column="26" filename="D:/projects/zzswang/shanghaibus-core/test/api/mock-data.js" />
+      <jump line="31" column="15" filename="D:/projects/zzswang/shanghaibus-core/src/models/base.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>discriminator(&quot;CALT&quot;, caltDataSchema)</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>caltDataSchema</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>delta</text>
       </register>
-      <register name="0" type="4">
-        <text>discriminator(&quot;CALT&quot;, caltDataSchema)</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIm1vbmdvb3NlIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGNhbHRTY2hlbWEgPSBkYXRhU2NoZW1hLmRpc2NyaW1pbmF0b3IoIkNBTFQiLCBjYWx0RGF0YVNjaGVtYSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IG1vZGVsID0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IENhbHREYXRhID0gUmVjb3JkRGF0YS5kaXNjcmltaW5hdG9yKCJDQUxUIiwgY2FsdERhdGFTY2hlbWEpOwo=</text>
+        <text encoding="base64">ICAgIF9pZDogZmFsc2UsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFJlY29yZERhdGEgPSBtb25nb29zZS5tb2RlbCgiUmVjb3JkRGF0YSIsIGRhdGFTY2hlbWEpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRpc2NyaW1pbmF0b3JLZXk6ICJ0eXBlIiwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG5leHQoKTsK</text>
+        <text encoding="base64">ZXhlY09wdGlvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ2FsdERhdGEuZmluZEJ5SWQocmVjb3JkLmRhdGEuX2lkKS5leGVjKCkudGhlbigoY2FsdCkgPT4gewogICAgICAgIAoKICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV4dCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
