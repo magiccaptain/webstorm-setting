@@ -315,6 +315,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="28" column="31" />
       </file>
+      <file name="G:/projects/zzswang/harvest/src/config.js" timestamp="1527666878929">
+        <mark key="[" line="19" column="57" />
+        <mark key="]" line="19" column="63" />
+        <mark key="." line="19" column="63" />
+        <mark key="^" line="19" column="63" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ServiceCtrlPanel/ServiceCtrlPanel.js" timestamp="1515115686086">
         <mark key="[" line="57" column="37" />
         <mark key="]" line="57" column="37" />
@@ -351,9 +357,9 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-rdb/src/config.js" timestamp="1527579145419">
-        <mark key="[" line="47" column="24" />
-        <mark key="]" line="47" column="24" />
+      <file name="G:/projects/zzswang/shanghaibus-rdb/src/config.js" timestamp="1527666245794">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="1" />
         <mark key="." line="47" column="24" />
         <mark key="^" line="47" column="24" />
       </file>
@@ -535,6 +541,11 @@
         <mark key="]" line="35" column="30" />
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
+      </file>
+      <file name="G:/projects/zzswang/harvest/src/ali-log/index.js" timestamp="1527666944698">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="G:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1523932222028">
         <mark key="[" line="43" column="106" />
@@ -1854,37 +1865,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uICgpIHsKICAKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3Qgam9iID0g</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>record</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdGFydCI6ICJub2RlbW9uIHNyYy9pbmRleC5qcyAtLXdhdGNoIHNyYyAtLWV4ZWMgXCJucG0gdGVzdCAmJiBiYWJlbC1ub2RlXCIiLAo=</text>
+      <register name="0" type="4">
+        <text>ALI_SIS_LOGSTORE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uICgpIHsKICAKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqCg==</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGYoKSB7CiAgCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2NoZWR1bGUuc2NoZWR1bGVkSm9icwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
