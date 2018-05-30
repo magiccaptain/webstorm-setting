@@ -465,11 +465,11 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="D:/projects/zzswang/harvest/src/harvests/ali-log-harvest.test.js" timestamp="1527681293849">
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="46" />
+      <file name="D:/projects/zzswang/harvest/src/harvests/ali-log-harvest.test.js" timestamp="1527683493521">
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="13" column="63" />
+        <mark key="." line="13" column="63" />
+        <mark key="^" line="13" column="63" />
       </file>
       <file name="[stacktop.cn] CONSOLE - stacktop.cn" timestamp="1517654556202">
         <mark key="[" line="17" column="0" />
@@ -580,11 +580,11 @@
         <mark key="." line="22" column="17" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="D:/projects/zzswang/harvest/src/harvests/ali-log-harvest.js" timestamp="1527681473039">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="44" column="33" />
-        <mark key="." line="44" column="33" />
-        <mark key="^" line="44" column="33" />
+      <file name="D:/projects/zzswang/harvest/src/harvests/ali-log-harvest.js" timestamp="1527682632332">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="43" column="33" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/teacher.ts" timestamp="1517762869894">
         <mark key="[" line="7" column="28" />
@@ -836,11 +836,11 @@
         <mark key="^" line="86" column="30" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/projects/zzswang/harvest/src/index.js" timestamp="1527679182281">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="24" />
+      <file name="D:/projects/zzswang/harvest/src/index.js" timestamp="1527683700042">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526569608130">
         <mark key="'" line="30" column="27" />
@@ -1077,11 +1077,11 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="D:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527680962301">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="D:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527683067487">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527324703383">
         <mark key="[" line="26" column="0" />
@@ -1348,6 +1348,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="12" column="21" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/projects/zzswang/harvest/src/config.js" timestamp="1527682832290">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_course_session.ts" timestamp="1517475155383">
         <mark key="[" line="4" column="0" />
@@ -2131,11 +2136,11 @@
       <jump line="37" column="5" filename="D:/projects/zzswang/harvest/src/harvests/ali-log-harvest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lastFrom + 1</text>
       </register>
       <register name="-" type="4">
-        <text>1527609600</text>
+        <text>lastFrom + 1</text>
       </register>
       <register name="/" type="4">
         <text>record</text>
@@ -2147,7 +2152,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9mZnNldCwgbG9nQ291bnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2156,19 +2161,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdCgic2hvdWxkIHJlY2VpdmUgYWxsIGxvZ3MiLCBhc3luYyBmdW5jdGlvbiAoKSB7CgogIH0pOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhhcnZlc3QgPSBuZXcgQWxpTG9nSGFydmVzdCgKICAgICAgQUxJX1NJU19QUk9KRUNULCBBTElfU0lTX0xPR1NUT1JFLAogICAgKTsKCiAgICBsZXQgbG9ncyA9IGF3YWl0IGhhcnZlc3QuZ2V0TG9ncygxNTI3NjA5NjAwLCBtb21lbnQoKS51bml4KCkpOwogICAgY29uc29sZS5sb2cobG9ncyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
