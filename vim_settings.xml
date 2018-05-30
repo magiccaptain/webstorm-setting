@@ -542,10 +542,11 @@
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
       </file>
-      <file name="G:/projects/zzswang/harvest/src/ali-log/index.js" timestamp="1527666944698">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="G:/projects/zzswang/harvest/src/ali-log/index.js" timestamp="1527668704880">
+        <mark key="[" line="38" column="45" />
+        <mark key="]" line="38" column="45" />
+        <mark key="." line="38" column="45" />
+        <mark key="^" line="38" column="45" />
       </file>
       <file name="G:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1523932222028">
         <mark key="[" line="43" column="106" />
@@ -723,6 +724,12 @@
         <mark key="]" line="5" column="10" />
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
+      </file>
+      <file name="G:/projects/zzswang/harvest/src/ali-log/index.test.js" timestamp="1527669279586">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="32" column="18" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/index.ts" timestamp="1514338756276">
         <mark key="[" line="15" column="0" />
@@ -1100,9 +1107,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-rdb/package.json" timestamp="1527664264689">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="81" />
+      <file name="G:/projects/zzswang/shanghaibus-rdb/package.json" timestamp="1527667915955">
+        <mark key="'" line="45" column="3" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="47" column="3" />
         <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/tsconfig.json" timestamp="1516460799207">
@@ -1552,10 +1560,10 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="G:/projects/zzswang/harvest/package.json" timestamp="1527664284763">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="56" />
+      <file name="G:/projects/zzswang/harvest/package.json" timestamp="1527667967211">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="29" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="12" column="68" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/index.js" timestamp="1514338780504">
@@ -1762,10 +1770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2549" column="20" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
-      <jump line="2652" column="16" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
-      <jump line="2691" column="20" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
-      <jump line="2794" column="16" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
       <jump line="2833" column="20" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
       <jump line="2936" column="16" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
       <jump line="2975" column="20" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
@@ -1862,40 +1866,44 @@
       <jump line="388" column="19" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
       <jump line="1327" column="34" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/openapi.yaml" />
       <jump line="55" column="0" filename="G:/projects/zzswang/shanghaibus-rdb/src/index.js" />
+      <jump line="62" column="23" filename="G:/projects/zzswang/shanghaibus-rdb/package.json" />
+      <jump line="16" column="13" filename="G:/projects/zzswang/shanghaibus-rdb/package.json" />
+      <jump line="23" column="5" filename="G:/projects/zzswang/shanghaibus-rdb/package.json" />
+      <jump line="45" column="3" filename="G:/projects/zzswang/shanghaibus-rdb/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uICgpIHsKICAKfQo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>f</text>
-      </register>
-      <register name="/" type="4">
-        <text>record</text>
-      </register>
-      <register name="0" type="4">
-        <text>ALI_SIS_LOGSTORE</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uICgpIHsKICAKfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIGYoKSB7CiAgCn0K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="/" type="4">
+        <text>jest</text>
+      </register>
+      <register name="0" type="4">
+        <text>listLogStores</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1908,9 +1916,9 @@
       </register>
     </registers>
     <search>
-      <last-search>record</last-search>
+      <last-search>jest</last-search>
       <last-offset />
-      <last-pattern>record</last-pattern>
+      <last-pattern>jest</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1931,11 +1939,11 @@
         <entry>logo</entry>
         <entry>http</entry>
         <entry>path</entry>
-        <entry>jest</entry>
         <entry>babel-node</entry>
         <entry>babel</entry>
         <entry>host</entry>
         <entry>record</entry>
+        <entry>jest</entry>
       </history-search>
       <history-cmd />
       <history-expr />
