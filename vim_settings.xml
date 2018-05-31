@@ -501,11 +501,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="G:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527737940487">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="25" />
-        <mark key="." line="27" column="0" />
+      <file name="G:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527742112377">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="^" line="24" column="29" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/extend/application.ts" timestamp="1516986826457">
         <mark key="[" line="17" column="0" />
@@ -1478,11 +1478,11 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
-      <file name="G:/projects/zzswang/harvest/src/harvests/ali-log-harvest.js" timestamp="1527737164790">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="38" column="25" />
+      <file name="G:/projects/zzswang/harvest/src/harvests/ali-log-harvest.js" timestamp="1527742098493">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/line.test.js" timestamp="1526827039351">
         <mark key="[" line="3" column="0" />
@@ -1785,7 +1785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2833" column="20" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
       <jump line="2936" column="16" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
       <jump line="2975" column="20" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
       <jump line="3079" column="16" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
@@ -1885,13 +1884,14 @@
       <jump line="16" column="13" filename="G:/projects/zzswang/shanghaibus-rdb/package.json" />
       <jump line="23" column="5" filename="G:/projects/zzswang/shanghaibus-rdb/package.json" />
       <jump line="45" column="3" filename="G:/projects/zzswang/shanghaibus-rdb/package.json" />
+      <jump line="38" column="0" filename="G:/projects/zzswang/harvest/src/harvests/ali-log-harvest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
@@ -1900,31 +1900,31 @@
         <text>LOGIO_SERVER_HOST</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dzLmZvckVhY2gobCA9PiBjb25zb2xlLmxvZyhsLnN0cmVhbSwgbC5ub2RlLCBsLm1lc3NhZ2UpKTsKICAgICAgICBhd2FpdCB0aGlzLnNlbmRUb0xvZ2lvKGxvZ3MpOwogICAgICAgIHRoaXMubGFzdEZyb20gPSB0bzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZyb20sIHRvKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihBcnJheS5pcykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dzLmZvckVhY2gobCA9PiBjb25zb2xlLmxvZyhsLnN0cmVhbSwgbC5ub2RlLCBsLm1lc3NhZ2UpKTsKICAgICAgICBhd2FpdCB0aGlzLnNlbmRUb0xvZ2lvKGxvZ3MpOwogICAgICAgIHRoaXMubGFzdEZyb20gPSB0bzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZihBcnJheS5pcykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJoYWhhIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmcm9tLCB0byk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
