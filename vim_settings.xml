@@ -219,6 +219,12 @@
         <mark key="." line="97" column="23" />
         <mark key="^" line="97" column="23" />
       </file>
+      <file name="G:/projects/zzswang/harvest/src/harvests/ali-log-harvest.test.js" timestamp="1527738634617">
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/README.md" timestamp="1515032200548">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -230,6 +236,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="26" />
+      </file>
+      <file name="G:/projects/zzswang/harvest/.env" timestamp="1527736316247">
+        <mark key="[" line="0" column="29" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517408429647">
         <mark key="[" line="12" column="18" />
@@ -309,8 +321,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="28" column="31" />
       </file>
-      <file name="G:/projects/zzswang/harvest/src/config.js" timestamp="1527729241348">
-        <mark key="]" line="13" column="0" />
+      <file name="G:/projects/zzswang/harvest/src/config.js" timestamp="1527736311402">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="29" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
@@ -487,6 +500,12 @@
         <mark key="]" line="1" column="14" />
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
+      </file>
+      <file name="G:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527737940487">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/extend/application.ts" timestamp="1516986826457">
         <mark key="[" line="17" column="0" />
@@ -718,7 +737,7 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="G:/projects/zzswang/harvest/src/ali-log/index.test.js" timestamp="1527729170314">
+      <file name="G:/projects/zzswang/harvest/src/ali-log/index.test.js" timestamp="1527736436282">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -1459,6 +1478,12 @@
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
       </file>
+      <file name="G:/projects/zzswang/harvest/src/harvests/ali-log-harvest.js" timestamp="1527737164790">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="38" column="25" />
+      </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/line.test.js" timestamp="1526827039351">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1553,7 +1578,7 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="G:/projects/zzswang/harvest/package.json" timestamp="1527667967211">
+      <file name="G:/projects/zzswang/harvest/package.json" timestamp="1527736331883">
         <mark key="^" line="12" column="68" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/index.js" timestamp="1514338780504">
@@ -1862,44 +1887,44 @@
       <jump line="45" column="3" filename="G:/projects/zzswang/shanghaibus-rdb/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>jest</text>
       </register>
       <register name="0" type="4">
-        <text>listLogStores</text>
+        <text>LOGIO_SERVER_HOST</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dzLmZvckVhY2gobCA9PiBjb25zb2xlLmxvZyhsLnN0cmVhbSwgbC5ub2RlLCBsLm1lc3NhZ2UpKTsKICAgICAgICBhd2FpdCB0aGlzLnNlbmRUb0xvZ2lvKGxvZ3MpOwogICAgICAgIHRoaXMubGFzdEZyb20gPSB0bzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZihBcnJheS5pcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJoYWhhIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmcm9tLCB0byk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
