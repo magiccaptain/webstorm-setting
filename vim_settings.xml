@@ -237,11 +237,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="G:/projects/zzswang/harvest/.env" timestamp="1527736316247">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="21" />
+      <file name="G:/projects/zzswang/harvest/.env" timestamp="1527747375910">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="1" column="19" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_teachers.ts" timestamp="1517408429647">
         <mark key="[" line="12" column="18" />
@@ -501,7 +501,7 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="G:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527745913560">
+      <file name="G:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527747203523">
         <mark key="[" line="24" column="29" />
         <mark key="]" line="24" column="29" />
         <mark key="." line="24" column="29" />
@@ -1887,14 +1887,14 @@
       <jump line="38" column="0" filename="G:/projects/zzswang/harvest/src/harvests/ali-log-harvest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text>jest</text>
+        <text encoding="base64">XDxzdGFja3RvcFw+</text>
       </register>
       <register name="0" type="4">
         <text>LOGIO_SERVER_HOST</text>
@@ -1931,15 +1931,14 @@
       </register>
     </registers>
     <search>
-      <last-search>jest</last-search>
+      <last-search encoding="base64">XDxzdGFja3RvcFw+</last-search>
       <last-offset />
-      <last-pattern>jest</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxzdGFja3RvcFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>page</entry>
         <entry>itemRender</entry>
         <entry>tailForm</entry>
         <entry>DatePicker</entry>
@@ -1959,6 +1958,7 @@
         <entry>host</entry>
         <entry>record</entry>
         <entry>jest</entry>
+        <entry encoding="base64">XDxzdGFja3RvcFw+</entry>
       </history-search>
       <history-cmd />
       <history-expr />
