@@ -501,11 +501,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="G:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527747203523">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="^" line="24" column="29" />
+      <file name="G:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527748679880">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="44" column="27" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/extend/application.ts" timestamp="1516986826457">
         <mark key="[" line="17" column="0" />
@@ -1887,8 +1887,8 @@
       <jump line="38" column="0" filename="G:/projects/zzswang/harvest/src/harvests/ali-log-harvest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -1897,34 +1897,34 @@
         <text encoding="base64">XDxzdGFja3RvcFw+</text>
       </register>
       <register name="0" type="4">
-        <text>LOGIO_SERVER_HOST</text>
+        <text>`+log|${l.stream}|${l.node}|info|${l.message}\r\n`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zbwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZyb20sIHRvKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBsb2dNc2cgPSBsb2dzLnJlZHVjZSgobXNnLCBsKSA9PiB7CiAgICAgICAgICByZXR1cm4gbXNnICsgYCtsb2d8JHtsLnN0cmVhbX18JHtsLm5vZGV9fGluZm98JHtsLm1lc3NhZ2V9XHJcbmA7CiAgICAgICAgfSwgIiIpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dzLmZvckVhY2gobCA9PiBjb25zb2xlLmxvZyhsLnN0cmVhbSwgbC5ub2RlLCBsLm1lc3NhZ2UpKTsKICAgICAgICBhd2FpdCB0aGlzLnNlbmRUb0xvZ2lvKGxvZ3MpOwogICAgICAgIHRoaXMubGFzdEZyb20gPSB0bzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihBcnJheS5pcykK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNvY2tldC53cml0ZShsb2dNc2csICJ1dGY4IiwgZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
