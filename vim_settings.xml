@@ -501,10 +501,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="G:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527748679880">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="G:/projects/zzswang/harvest/src/harvests/harvest.js" timestamp="1527754134950">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="22" />
+        <mark key="^" line="27" column="22" />
+        <mark key="." line="27" column="22" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/extend/application.ts" timestamp="1516986826457">
         <mark key="[" line="17" column="0" />
@@ -1890,7 +1891,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFja3RvcFw+</text>
@@ -1905,25 +1906,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsb2dNc2cgPSBsb2dzLnJlZHVjZSgobXNnLCBsKSA9PiB7CiAgICAgICAgICByZXR1cm4gbXNnICsgYCtsb2d8JHtsLnN0cmVhbX18JHtsLm5vZGV9fGluZm98JHtsLm1lc3NhZ2V9XHJcbmA7CiAgICAgICAgfSwgIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCsrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgbG9ncyA9IFt7CiAgICAgICAgfV07Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNvY2tldC53cml0ZShsb2dNc2csICJ1dGY4IiwgZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN0cmVhbTogInNoYW5naGFpYnVzIiwKICAgICAgICAgIG5vZGU6ICJkZWZhdWx0IiwKICAgICAgICAgIG1lc3NhZ2U6ICJ0aGlzIGlzIGEgbG9nICIgKyBjb3VudCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
