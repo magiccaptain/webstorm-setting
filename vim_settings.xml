@@ -591,6 +591,13 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="D:/projects/zzswang/wali-web/src/mock-server.js" timestamp="1527864904806">
+        <mark key="'" line="26" column="9" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="35" column="26" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/package.json" timestamp="1523515580040">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="31" />
@@ -1892,7 +1899,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4080" column="20" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
       <jump line="4180" column="16" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
       <jump line="4213" column="20" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
       <jump line="4310" column="16" filename="G:/projects/zzswang/shanghaibus-core/test/上海巴士.postman_collection.json" />
@@ -1992,46 +1998,47 @@
       <jump line="98" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/login/index.js" />
       <jump line="70" column="16" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/login/index.js" />
       <jump line="17" column="7" filename="D:/projects/zzswang/wali-web/src/reducers/screens.js" />
+      <jump line="26" column="9" filename="D:/projects/zzswang/wali-web/src/mock-server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fsas.SCREENS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>fsas.SCREENS</text>
+        <text>core</text>
       </register>
       <register name="/" type="4">
         <text>record</text>
       </register>
-      <register name="0" type="4">
-        <text>style={{ overflowY: &quot;scroll&quot;, overflowX: &quot;hidden&quot; }}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAga2V5OiAic2hhbmdoYWlidXMtY29yZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJTQ1JFRU5TIjogc2NyZWVucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpc1NjcmVlbkZ1bGw6IHNlbGVjdFNjcmVlbnMoc3RhdGUpLmxlbmd0aCA9PT0gNDsK</text>
+        <text encoding="base64">ICAgICJTQ1JFRU5TIjogc2NyZWVucwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgQnV0dG9uR3JvdXAgPSBCdXR0b24uR3JvdXA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpc1NjcmVlbkZ1bGw6IHNlbGVjdFNjcmVlbnMoc3RhdGUpLmxlbmd0aCA9PT0gNDsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
