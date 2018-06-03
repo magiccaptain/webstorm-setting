@@ -1422,11 +1422,11 @@
         <mark key="." line="10" column="9" />
         <mark key="^" line="10" column="9" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/src/app.js" timestamp="1527863008185">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="32" />
-        <mark key="." line="24" column="32" />
-        <mark key="^" line="24" column="32" />
+      <file name="D:/projects/zzswang/wali-web/src/app.js" timestamp="1528018702139">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-admin-web/src/reducers/entities.js" timestamp="1527865796237" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/ipc.ts" timestamp="1514256261960">
@@ -2136,14 +2136,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>key={s.key}
-                         level={s.level}
-                         keyFilter={s.keyFilter}
-                         title={s.key}
-                         topics={s.topics}</text>
+        <text>, &quot;screens&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>, &quot;screens&quot;</text>
       </register>
       <register name="/" type="4">
         <text>record</text>
