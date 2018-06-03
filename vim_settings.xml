@@ -1007,11 +1007,11 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/src/reducers/list.js" timestamp="1528029342304">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="0" />
+      <file name="D:/projects/zzswang/wali-web/src/reducers/list.js" timestamp="1528030563058">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="G:/projects/zzswang/harvest/src/ali-log/index.test.js" timestamp="1527736436282">
         <mark key="[" line="29" column="0" />
@@ -1880,6 +1880,13 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="20" />
       </file>
+      <file name="D:/projects/zzswang/wali-web/src/actions/index.js" timestamp="1528030378453">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="127" column="3" />
+        <mark key="]" line="127" column="14" />
+        <mark key="." line="127" column="14" />
+        <mark key="^" line="127" column="14" />
+      </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/user.ts" timestamp="1524668470308">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -2141,7 +2148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
       <jump line="77" column="12" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
       <jump line="18" column="13" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
       <jump line="25" column="5" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
@@ -2241,46 +2247,47 @@
       <jump line="15" column="11" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" />
       <jump line="160" column="16" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
       <jump line="77" column="19" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
+      <jump line="94" column="0" filename="D:/projects/zzswang/wali-web/src/actions/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>ter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8TGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSBsaXN0VHlwZXMoYmFzZVR5cGUpWyJBREQiXTp7CiAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGluaXRTdGF0ZSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xheW91dD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8TGF5b3V0Pgo=</text>
+        <text encoding="base64">ICB0eXBlOiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHlIZWlnaHQgLSA0MCk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
