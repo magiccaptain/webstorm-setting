@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/projects/zzswang/wali-web/src/lib/sdk.js" timestamp="1527815554182">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="10" column="42" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="10" column="25" />
-      </file>
       <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1520174331960">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -62,6 +56,12 @@
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
+      </file>
+      <file name="G:/projects/zzswang/wali-web/src/reducers/logs.js" timestamp="1528072579664">
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="27" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/README.md" timestamp="1516982095786">
         <mark key="[" line="10" column="15" />
@@ -179,6 +179,7 @@
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
       </file>
+      <file name="G:/projects/zzswang/wali-web/src/sagas/mock-logs.js" timestamp="1528072424456" />
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_session.ts" timestamp="1518445587440">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="9" />
@@ -301,10 +302,8 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="G:/projects/zzswang/wali-web/src/app.js" timestamp="1527816583082">
-        <mark key="'" line="20" column="62" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="46" />
-        <mark key="^" line="20" column="62" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/oauth-server/oauth2.ts" timestamp="1524667885934">
@@ -993,7 +992,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" timestamp="1527844887382" />
+      <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" timestamp="1528072361088" />
       <file name="G:/projects/zzswang/wali-web/public/fonts/iconfont.css" timestamp="1527818860455">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="7" column="0" />
@@ -1170,7 +1169,6 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
-        <mark key="^" line="47" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1525915579783">
         <mark key="[" line="2" column="4" />
