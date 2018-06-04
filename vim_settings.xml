@@ -57,10 +57,11 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="G:/projects/zzswang/wali-web/src/reducers/logs.js" timestamp="1528087340017">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="G:/projects/zzswang/wali-web/src/reducers/logs.js" timestamp="1528093230789">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/README.md" timestamp="1516982095786">
         <mark key="[" line="10" column="15" />
@@ -177,6 +178,12 @@
         <mark key="]" line="9" column="48" />
         <mark key="." line="9" column="48" />
         <mark key="^" line="9" column="48" />
+      </file>
+      <file name="G:/projects/zzswang/wali-web/src/sagas/mock-logs.js" timestamp="1528093556796">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="15" column="28" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/course_session.ts" timestamp="1518445587440">
         <mark key="[" line="9" column="9" />
@@ -638,11 +645,12 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" timestamp="1528086473892">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="23" />
-        <mark key="^" line="20" column="23" />
-        <mark key="." line="20" column="23" />
+      <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" timestamp="1528093335117">
+        <mark key="'" line="82" column="6" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="83" column="17" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="G:/projects/zzswang/wali-web/public/index.html" timestamp="1527817585407">
         <mark key="[" line="17" column="78" />
@@ -1168,10 +1176,10 @@
         <mark key="^" line="30" column="57" />
       </file>
       <file name="G:/projects/zzswang/wali-web/package.json" timestamp="1527831717415">
-        <mark key="'" line="34" column="14" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="'" line="35" column="14" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1525915579783">
         <mark key="[" line="2" column="4" />
@@ -1719,11 +1727,12 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528090275952">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528093458696">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="19" column="90" />
+        <mark key="]" line="19" column="89" />
+        <mark key="." line="19" column="89" />
+        <mark key="^" line="19" column="89" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/pile.js" timestamp="1527402166448">
         <mark key="'" line="37" column="10" />
@@ -2121,7 +2130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="12" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
       <jump line="18" column="13" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
       <jump line="25" column="5" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
       <jump line="47" column="3" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
@@ -2221,43 +2229,44 @@
       <jump line="160" column="16" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
       <jump line="77" column="19" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
       <jump line="2" column="0" filename="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
+      <jump line="83" column="6" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvCg==</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>ter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHByZSBrZXk9e2luZGV4fSBjbGFzc05hbWU9ImxvZy10ZXJtaW5hbC1saW5lIj57aW5kZXh9LXtsLm1lc3NhZ2V9PC9wcmU+Cg==</text>
+        <text encoding="base64">ICAgICAgPHByZSBjbGFzc05hbWU9ImxvZy10ZXJtaW5hbC1saW5lIj57aW5kZXh9LXtsb2cubWVzc2FnZX08L3ByZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvCg==</text>
+        <text encoding="base64">ICAgIGxvZ3M6IHN0YXRlLmZzYXMubG9ncy5sb2dzLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXlTY3JvbGxlZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cHJlIGtleT17aW5kZXh9IGNsYXNzTmFtZT0ibG9nLXRlcm1pbmFsLWxpbmUiPntpbmRleH0te2wubWVzc2FnZX08L3ByZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubG9ncyAmJgogICAgICAgICAgICAgICAgdGhpcy5sb2dzLm1hcCgobCkgPT4gewogICAgICAgICAgICAgICAgICBpZiAoIWwpIHJldHVybiBudWxsOwogICAgICAgICAgICAgICAgICByZXR1cm4gKDxwcmUga2V5PXtsLmluZGV4fSBjbGFzc05hbWU9ImxvZy10ZXJtaW5hbC1saW5lIj48L3ByZT4pOwogICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIGxvZ3MgJiYKICAgICAgICAgICAgICBsb2dzLm1hcCgobCwgaW5kZXgpID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgIDxwcmUga2V5PXtpbmRleH0gY2xhc3NOYW1lPSJsb2ctdGVybWluYWwtbGluZSI+e2luZGV4fS17bC5tZXNzYWdlfTwvcHJlPgogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubG9ncy5wdXNoKGxvZyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
