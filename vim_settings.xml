@@ -1105,11 +1105,12 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528121536863">
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="90" column="29" />
-        <mark key="^" line="90" column="29" />
-        <mark key="." line="90" column="29" />
+      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528123595531">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="90" column="56" />
+        <mark key="]" line="91" column="52" />
+        <mark key="^" line="91" column="52" />
+        <mark key="." line="91" column="52" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.js" timestamp="1515044531533">
         <mark key="[" line="44" column="0" />
@@ -1662,11 +1663,11 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/src/sagas/mock-logs.js" timestamp="1528121123600">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+      <file name="D:/projects/zzswang/wali-web/src/sagas/mock-logs.js" timestamp="1528123651130">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="10" />
+        <mark key="." line="36" column="10" />
+        <mark key="^" line="36" column="10" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/user.ts" timestamp="1516549412075">
         <mark key="[" line="35" column="25" />
@@ -2183,8 +2184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" />
-      <jump line="2" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" />
       <jump line="272" column="3" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" />
       <jump line="261" column="3" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" />
       <jump line="110" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock.js" />
@@ -2283,46 +2282,48 @@
       <jump line="42" column="18" filename="D:/projects/zzswang/wali-web/package.json" />
       <jump line="48" column="11" filename="D:/projects/zzswang/wali-web/package.json" />
       <jump line="105" column="2" filename="D:/projects/zzswang/wali-web/src/actions/index.js" />
+      <jump line="50" column="16" filename="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
+      <jump line="65" column="0" filename="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB7IGRhdGEgfSA9IGw7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxMaW5lIHk9e2luZGV4ICogMzB9IGtleT17ZGF0YS5pbmRleH0gbG9nPXtkYXRhfS8+Owo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB7IGRhdGEgfSA9IGw7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxMaW5lIHk9e2luZGV4ICogMzB9IGtleT17ZGF0YS5pbmRleH0gbG9nPXtkYXRhfS8+Owo=</text>
+        <text encoding="base64">ICAgIC8vICAgdGhpcy5mb3JjZVVwZGF0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMucwo=</text>
+        <text encoding="base64">ICAgIC8vIGlmICh0aGlzLmF1dG9TdG9wKSB7CiAgICAvLyAgIHRoaXMuZm9yY2VVcGRhdGUoKTsKICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHRoaXMuYXV0b1N0b3AgPSB0cnVlOwogICAgLy8gfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYXV0b0JvdHRvbSA9IGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChsb2cpIHsKICAgIC8vICAgdGhpcy5sb2dzLnB1c2goCiAgICAvLyAgICAgPFdheXBvaW50IGtleT17bG9nLmluZGV4fQogICAgLy8gICAgICAgICAgICAgICBvbkxlYXZlPXt0aGlzLm9uTGluZUxlYXZlKGxvZyl9CiAgICAvLyAgICAgICAgICAgICAgIG9uRW50ZXI9e3RoaXMub25MaW5lRW50ZXIobG9nKX0KICAgIC8vICAgICA+CiAgICAvLyAgICAgICA8TGluZSBsb2c9e2xvZ30vPgogICAgLy8gICAgIDwvV2F5cG9pbnQ+CiAgICAvLyAgICk7CiAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5sb2dzLnB1c2goewogICAgICAgIGRpc3BsYXk6IHRydWUsCiAgICAgICAgZGF0YTogbG9nCiAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZm9yY2VVcGRhdGUoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
