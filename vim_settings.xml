@@ -1177,9 +1177,9 @@
       </file>
       <file name="G:/projects/zzswang/wali-web/package.json" timestamp="1527831717415">
         <mark key="'" line="35" column="14" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1525915579783">
         <mark key="[" line="2" column="4" />
@@ -1727,12 +1727,10 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528093458696">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="19" column="90" />
-        <mark key="]" line="19" column="89" />
-        <mark key="." line="19" column="89" />
-        <mark key="^" line="19" column="89" />
+      <file name="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528096836157">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/pile.js" timestamp="1527402166448">
         <mark key="'" line="37" column="10" />
@@ -2130,7 +2128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="13" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
       <jump line="25" column="5" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
       <jump line="47" column="3" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
       <jump line="15" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/fastman.js" />
@@ -2230,46 +2227,47 @@
       <jump line="77" column="19" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
       <jump line="2" column="0" filename="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
       <jump line="83" column="6" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" />
+      <jump line="9" column="13" filename="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>logs</text>
       </register>
       <register name="/" type="4">
         <text>ter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHByZSBjbGFzc05hbWU9ImxvZy10ZXJtaW5hbC1saW5lIj57aW5kZXh9LXtsb2cubWVzc2FnZX08L3ByZT4K</text>
+        <text encoding="base64">ICAgICAgICA8cHJlIGtleT17bG9nLmluZGV4fSBjbGFzc05hbWU9ImxvZy10ZXJtaW5hbC1saW5lIj57bG9nLmluZGV4fS17bG9nLm1lc3NhZ2V9PC9wcmU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZ3M6IHN0YXRlLmZzYXMubG9ncy5sb2dzLAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubG9ncyAmJgogICAgICAgICAgICAgICAgdGhpcy5sb2dzLm1hcCgobCkgPT4gewogICAgICAgICAgICAgICAgICBpZiAoIWwpIHJldHVybiBudWxsOwogICAgICAgICAgICAgICAgICByZXR1cm4gKDxwcmUga2V5PXtsLmluZGV4fSBjbGFzc05hbWU9ImxvZy10ZXJtaW5hbC1saW5lIj48L3ByZT4pOwogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMubG9ncy5wdXNoKGxvZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvZ3MgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
