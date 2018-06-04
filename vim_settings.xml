@@ -588,11 +588,11 @@
         <mark key="^" line="57" column="35" />
         <mark key="." line="57" column="35" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/style.less" timestamp="1528115398623">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="14" />
-        <mark key="." line="18" column="14" />
-        <mark key="^" line="18" column="14" />
+      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/style.less" timestamp="1528119857107">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="16" column="24" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/main/services/fri-rep/client.js" timestamp="1515033225576">
         <mark key="[" line="12" column="0" />
@@ -1105,11 +1105,11 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528118260408">
-        <mark key="[" line="86" column="18" />
-        <mark key="]" line="86" column="32" />
-        <mark key="." line="86" column="32" />
-        <mark key="^" line="86" column="32" />
+      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528121536863">
+        <mark key="[" line="90" column="29" />
+        <mark key="]" line="90" column="29" />
+        <mark key="^" line="90" column="29" />
+        <mark key="." line="90" column="29" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.js" timestamp="1515044531533">
         <mark key="[" line="44" column="0" />
@@ -1662,7 +1662,7 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/src/sagas/mock-logs.js" timestamp="1528115659220">
+      <file name="D:/projects/zzswang/wali-web/src/sagas/mock-logs.js" timestamp="1528121123600">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
@@ -2286,43 +2286,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB7IGRhdGEgfSA9IGw7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxMaW5lIHk9e2luZGV4ICogMzB9IGtleT17ZGF0YS5pbmRleH0gbG9nPXtkYXRhfS8+Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>={}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zY3JvbGxiYXJzLmdldFNjcm9sbEhlaWdodCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCB7IGRhdGEgfSA9IGw7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDxMaW5lIHk9e2luZGV4ICogMzB9IGtleT17ZGF0YS5pbmRleH0gbG9nPXtkYXRhfS8+Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7dGhpcy5sb2dzICYmCiAgICAgICAgICAgICAgdGhpcy5sb2dzLm1hcCgobCwgaW5kZXgpID0+IHsKICAgICAgICAgICAgICAgIGNvbnN0IHsgZGF0YSB9ID0gbDsKICAgICAgICAgICAgICAgIHJldHVybiA8TGluZSBrZXk9e2RhdGEuaW5kZXh9IGxvZz17ZGF0YX0vPjsKICAgICAgICAgICAgICAgIC8vIGlmIChpbmRleCA+IHRoaXMubG9ncy5sZW5ndGggLSAxMDApIHsKICAgICAgICAgICAgICAgIC8vICAgY29uc3QgeyBkYXRhIH0gPSBsOwogICAgICAgICAgICAgICAgLy8gfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICAvLyB9CiAgICAgICAgICAgICAgfSl9Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5hCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXV0b0hlaWdodAogICAgICAgICAgICAgICAgICAgICAgICBhdXRvSGVpZ2h0TWF4PXtoZWlnaHR9Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXV0b0hlaWdodE1pbj17aGVpZ2h0fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhlaWdodCA9IHRoaXMubG9ncy5sZW5ndGggKiAzMDsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2Nyb2xsYmFycy5nZXRTY3JvbGxIZWlnaHQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJlbmQiKTsK</text>
+        <text encoding="base64">ICAgIC8vIGlmIChsb2cpIHsKICAgIC8vICAgdGhpcy5sb2dzLnB1c2goCiAgICAvLyAgICAgPFdheXBvaW50IGtleT17bG9nLmluZGV4fQogICAgLy8gICAgICAgICAgICAgICBvbkxlYXZlPXt0aGlzLm9uTGluZUxlYXZlKGxvZyl9CiAgICAvLyAgICAgICAgICAgICAgIG9uRW50ZXI9e3RoaXMub25MaW5lRW50ZXIobG9nKX0KICAgIC8vICAgICA+CiAgICAvLyAgICAgICA8TGluZSBsb2c9e2xvZ30vPgogICAgLy8gICAgIDwvV2F5cG9pbnQ+CiAgICAvLyAgICk7CiAgICAvLyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2Nyb2xsYmFycy5nZXRIZWlnaHQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZm9yY2VVcGRhdGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
