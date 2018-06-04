@@ -1719,12 +1719,11 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528088120781">
+      <file name="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528090275952">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="8" column="16" />
-        <mark key="." line="8" column="16" />
-        <mark key="^" line="8" column="16" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/pile.js" timestamp="1527402166448">
         <mark key="'" line="37" column="10" />
@@ -2225,7 +2224,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YXlTY3JvbGxlZCgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -2237,22 +2236,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPHByZSBrZXk9e2luZGV4fSBjbGFzc05hbWU9ImxvZy10ZXJtaW5hbC1saW5lIj57aW5kZXh9LXtsLm1lc3NhZ2V9PC9wcmU+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXlTY3JvbGxlZCgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cHJlIGtleT17aW5kZXh9IGNsYXNzTmFtZT0ibG9nLXRlcm1pbmFsLWxpbmUiPntpbmRleH0te2wubWVzc2FnZX08L3ByZT4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0YXlTY3JvbGxlZCgpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIGxvZ3MgJiYKICAgICAgICAgICAgICBsb2dzLm1hcCgobCwgaW5kZXgpID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgIDxwcmUga2V5PXtpbmRleH0gY2xhc3NOYW1lPSJsb2ctdGVybWluYWwtbGluZSI+e2luZGV4fS17bC5tZXNzYWdlfTwvcHJlPgogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cHJlIGtleT17aW5kZXh9IGNsYXNzTmFtZT0ibG9nLXRlcm1pbmFsLWxpbmUiPntpbmRleH0te2wubWVzc2FnZX08L3ByZT4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIGxvZ3MgJiYKICAgICAgICAgICAgICBsb2dzLm1hcCgobCwgaW5kZXgpID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiAoCiAgICAgICAgICAgICAgICAgIDxwcmUga2V5PXtpbmRleH0gY2xhc3NOYW1lPSJsb2ctdGVybWluYWwtbGluZSI+e2luZGV4fS17bC5tZXNzYWdlfTwvcHJlPgogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICB9KQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
