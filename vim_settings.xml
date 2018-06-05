@@ -253,11 +253,11 @@
         <mark key="^" line="185" column="105" />
         <mark key="." line="185" column="105" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528206630329">
+      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528209488531">
         <mark key="'" line="51" column="37" />
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="32" />
-        <mark key="." line="32" column="32" />
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
         <mark key="^" line="32" column="32" />
       </file>
       <file name="D:/projects/zzswang/wali-web/node_modules/redux-saga/index.d.ts" timestamp="1528036456759" />
@@ -547,10 +547,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Right</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Right</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
