@@ -853,6 +853,12 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
+      <file name="G:/projects/magiccaptain/react-happy-scrollbars/package.json" timestamp="1528185638725">
+        <mark key="[" line="3" column="44" />
+        <mark key="]" line="3" column="60" />
+        <mark key="." line="3" column="60" />
+        <mark key="^" line="3" column="60" />
+      </file>
       <file name="D:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1524492711036">
         <mark key="[" line="46" column="22" />
         <mark key="]" line="46" column="21" />
@@ -1391,6 +1397,7 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
+      <file name="G:/projects/magiccaptain/react-happy-scrollbars/src/Scrollbars/index.js" timestamp="1528186190336" />
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/user_info.ts" timestamp="1520299679915">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="25" />
@@ -2226,11 +2233,11 @@
       <jump line="73" column="35" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1sYXp5bG9hZCI6ICIyLjMuMCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>4.2.1</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>4.2.1</text>
       </register>
       <register name="/" type="4">
         <text>ter</text>
