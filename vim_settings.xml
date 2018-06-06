@@ -224,8 +224,10 @@
         <mark key="." line="378" column="0" />
         <mark key="^" line="378" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528126382551">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1528209767092">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="D:/projects/zzswang/wali-web/src/app.js" timestamp="1528038545587">
         <mark key="[" line="19" column="0" />
@@ -547,10 +549,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>使用saga eventChanel缓存logs，mocklogs</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>使用saga eventChanel缓存logs，mocklogs</text>
       </register>
       <register name="/" type="4">
         <text>mock</text>
