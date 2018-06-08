@@ -3,237 +3,62 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1528032563112">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/projects/zzswang/wali-web/package.json" timestamp="1528463379892">
+        <mark key="'" line="13" column="21" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/package.json" timestamp="1528037869414">
-        <mark key="'" line="53" column="11" />
-      </file>
-      <file name="D:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" timestamp="1528205638228" />
-      <file name="D:/projects/zzswang/shanghaibus-core/original-data/CATL-6.0-V1.3.csv" timestamp="1527422347543">
-        <mark key="'" line="1" column="6" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="134" column="63" />
-        <mark key="." line="134" column="63" />
-        <mark key="^" line="134" column="63" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/mock.js" timestamp="1527399446387">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="102" column="26" />
-        <mark key="]" line="102" column="26" />
-        <mark key="." line="102" column="26" />
-        <mark key="^" line="102" column="26" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/mock-data.js" timestamp="1526822872198">
-        <mark key="'" line="168" column="26" />
-        <mark key="[" line="97" column="23" />
-        <mark key="]" line="97" column="23" />
-        <mark key="." line="97" column="23" />
-        <mark key="^" line="97" column="23" />
+      <file name="D:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" timestamp="1528464705783">
+        <mark key="[" line="140" column="18" />
+        <mark key="]" line="140" column="20" />
+        <mark key="." line="140" column="20" />
+        <mark key="^" line="140" column="20" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1527842725306">
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/record.js" timestamp="1527429900335">
-        <mark key="'" line="28" column="11" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="17" column="21" />
-        <mark key="." line="9" column="0" />
+      <file name="D:/projects/zzswang/wali-web/node_modules/@types/socket.io/index.d.ts" timestamp="1528463072053">
+        <mark key="'" line="695" column="0" />
       </file>
-      <file name="G:/projects/zzswang/wali-web/src/app.js" timestamp="1527816583082">
-        <mark key="'" line="70" column="62" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="46" />
-        <mark key="^" line="70" column="62" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/warning.js" timestamp="1527325857633">
-        <mark key="'" line="35" column="11" />
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="35" />
-      </file>
-      <file name="D:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" timestamp="1528032972841">
-        <mark key="[" line="184" column="28" />
-        <mark key="]" line="184" column="48" />
-        <mark key="." line="184" column="48" />
-        <mark key="^" line="184" column="48" />
-      </file>
-      <file name="G:/projects/zzswang/wali-web/src/containers/login/index.js" timestamp="1527817000649">
-        <mark key="'" line="16" column="37" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="37" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="78" column="51" />
-      </file>
-      <file name="D:/projects/36node/sketch/packages/fastman/package.json" timestamp="1526655388186">
-        <mark key="'" line="33" column="20" />
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/tables.js" timestamp="1526026327981">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="40" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/warning.test.js" timestamp="1527327513589">
-        <mark key="'" line="178" column="12" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1526814044619">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="49" column="24" />
-        <mark key="]" line="49" column="30" />
-        <mark key="." line="49" column="30" />
-        <mark key="^" line="49" column="30" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/vehicle.test.js" timestamp="1527327508060">
-        <mark key="'" line="471" column="22" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="^" line="101" column="0" />
-      </file>
-      <file name="D:/projects/36node/sketch/packages/fastman/example/example.test.js" timestamp="1526654427413">
-        <mark key="'" line="84" column="26" />
-        <mark key="[" line="45" column="62" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-      </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.test.ts" timestamp="1526569996291">
-        <mark key="'" line="60" column="19" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="70" />
-        <mark key="." line="41" column="62" />
-        <mark key="^" line="41" column="62" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/ticket.test.js" timestamp="1527327504083">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/package.json" timestamp="1527694013239">
-        <mark key="'" line="20" column="14" />
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="38" />
+      <file name="D:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" timestamp="1528465891153">
+        <mark key="'" line="188" column="42" />
+        <mark key="[" line="188" column="41" />
+        <mark key="]" line="188" column="41" />
+        <mark key="." line="188" column="41" />
+        <mark key="^" line="188" column="41" />
       </file>
       <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/style.less" timestamp="1528205823478">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.d.ts" timestamp="1526009599765">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="31" column="56" />
-        <mark key="." line="31" column="56" />
-        <mark key="^" line="31" column="56" />
+      <file name="D:/projects/zzswang/wali-web/src/sagas/index.js" timestamp="1528464919465">
+        <mark key="[" line="48" column="28" />
+        <mark key="]" line="48" column="28" />
+        <mark key="." line="48" column="28" />
       </file>
       <file name="G:/projects/zzswang/wali-web/src/mock-server.js" timestamp="1527820187606">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" timestamp="1527842428054">
-        <mark key="'" line="15" column="11" />
-        <mark key="[" line="45" column="51" />
-        <mark key="]" line="45" column="51" />
-        <mark key="." line="45" column="51" />
-        <mark key="^" line="45" column="51" />
-      </file>
-      <file name="G:/projects/zzswang/wali-web/public/index.html" timestamp="1527817585407">
-        <mark key="[" line="17" column="78" />
-      </file>
       <file name="D:/projects/zzswang/wali-web/src/reducers/fetching.js" timestamp="1528040398168" />
-      <file name="G:/projects/zzswang/wali-web/src/index.less" timestamp="1527819073534">
-        <mark key="'" line="34" column="30" />
-        <mark key="[" line="52" column="20" />
-        <mark key="]" line="52" column="35" />
-        <mark key="^" line="52" column="35" />
-        <mark key="." line="52" column="35" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" timestamp="1526812852294">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/pile.test.js" timestamp="1527402031918">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/record.js" timestamp="1527430093877">
-        <mark key="'" line="3" column="13" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="27" />
-      </file>
-      <file name="D:/projects/36node/sketch/packages/fastman/demo-server/server.ts" timestamp="1526649668440">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="14" />
-        <mark key="." line="38" column="14" />
-        <mark key="^" line="32" column="24" />
-      </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/fastman.ts" timestamp="1526561944262">
-        <mark key="'" line="352" column="20" />
-        <mark key="[" line="345" column="12" />
-        <mark key="]" line="345" column="39" />
-        <mark key="^" line="345" column="39" />
-        <mark key="." line="345" column="39" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/lib/orgin-data.test.js" timestamp="1527423225869">
-        <mark key="'" line="18" column="18" />
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="22" />
-        <mark key="^" line="29" column="22" />
-        <mark key="." line="29" column="22" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/index.js" timestamp="1527398927772">
-        <mark key="'" line="12" column="25" />
-        <mark key="[" line="35" column="44" />
-        <mark key="]" line="35" column="44" />
-        <mark key="." line="35" column="44" />
-        <mark key="^" line="35" column="44" />
-      </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/spec/openapi-3.ts" timestamp="1526569608130">
-        <mark key="'" line="30" column="27" />
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="." line="378" column="0" />
-        <mark key="^" line="378" column="31" />
+      <file name="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" timestamp="1528464727811">
+        <mark key="'" line="736" column="143" />
       </file>
       <file name="/Dummy.txt" timestamp="1528209767092">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="D:/projects/zzswang/wali-web/src/app.js" timestamp="1528038545587">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="37" column="32" />
-        <mark key="." line="19" column="0" />
+      <file name="D:/projects/zzswang/wali-web/src/app.js" timestamp="1528463197701">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="39" column="32" />
+        <mark key="^" line="39" column="32" />
+        <mark key="." line="39" column="32" />
       </file>
       <file name="D:/projects/zzswang/wali-web/src/reducers/list.js" timestamp="1528032860322">
         <mark key="[" line="7" column="0" />
@@ -241,103 +66,32 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/driver.js" timestamp="1527401954382">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="108" column="24" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="20" column="19" />
-      </file>
-      <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" timestamp="1527842713526">
-        <mark key="'" line="76" column="19" />
-        <mark key="[" line="185" column="88" />
-        <mark key="]" line="185" column="105" />
-        <mark key="^" line="185" column="105" />
-        <mark key="." line="185" column="105" />
-      </file>
-      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528209488531">
-        <mark key="'" line="51" column="37" />
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="29" />
-        <mark key="." line="5" column="29" />
-        <mark key="^" line="32" column="32" />
+      <file name="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528464707927">
+        <mark key="'" line="33" column="31" />
+        <mark key="[" line="67" column="28" />
+        <mark key="]" line="67" column="28" />
+        <mark key="." line="67" column="28" />
+        <mark key="^" line="67" column="28" />
       </file>
       <file name="D:/projects/zzswang/wali-web/node_modules/redux-saga/index.d.ts" timestamp="1528036456759" />
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/faults.test.js" timestamp="1527327488095">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/selectors/index.js" timestamp="1526028445654">
-        <mark key="'" line="12" column="87" />
-        <mark key="[" line="12" column="62" />
-        <mark key="]" line="13" column="1" />
-        <mark key="^" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-      </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/example/example.yaml" timestamp="1526565502462">
-        <mark key="'" line="71" column="18" />
-        <mark key="[" line="183" column="6" />
-        <mark key="]" line="183" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" timestamp="1526812397222">
-        <mark key="'" line="22" column="1" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="40" column="8" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="49" column="51" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle-operation.js" timestamp="1526738382057">
-        <mark key="'" line="7" column="21" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="42" column="10" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-      </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527842535821">
         <mark key="'" line="96" column="18" />
         <mark key="[" line="130" column="0" />
         <mark key="]" line="130" column="15" />
         <mark key="." line="130" column="16" />
       </file>
-      <file name="G:/projects/zzswang/wali-web/package.json" timestamp="1527831717415">
-        <mark key="'" line="33" column="14" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="47" column="35" />
+      <file name="D:/projects/zzswang/wali-web/src/mock-server.js" timestamp="1528465680247">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1527395134775">
-        <mark key="'" line="101" column="17" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="100" column="15" />
+      <file name="D:/projects/zzswang/wali-web/node_modules/socket.io-client/lib/index.js" timestamp="1528463547241">
+        <mark key="'" line="31" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/fastman.js" timestamp="1526811405303">
-        <mark key="'" line="45" column="6" />
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="48" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1526823567099">
-        <mark key="'" line="31" column="15" />
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-        <mark key="^" line="44" column="25" />
-      </file>
-      <file name="D:/projects/zzswang/harvest/src/harvests/harvest.test.js" timestamp="1527692043045">
-        <mark key="'" line="19" column="36" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="77" />
-        <mark key="." line="32" column="43" />
-        <mark key="^" line="32" column="43" />
+      <file name="D:/projects/zzswang/wali-web/src/lib/sdk.js" timestamp="1528464869606">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/projects/zzswang/wali-web/src/sagas/mock-logs.js" timestamp="1528124674663">
         <mark key="[" line="36" column="9" />
@@ -350,138 +104,32 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/driver.js" timestamp="1526813735785">
-        <mark key="'" line="65" column="7" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="71" column="16" />
-        <mark key="." line="64" column="8" />
-        <mark key="^" line="68" column="10" />
+      <file name="D:/projects/zzswang/wali-web/src/sagas/logs.js" timestamp="1528465857398">
+        <mark key="'" line="48" column="18" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/runner/newman.test.ts" timestamp="1526478784661">
-        <mark key="'" line="13" column="15" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="32" />
-        <mark key="^" line="26" column="67" />
-        <mark key="." line="26" column="67" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-rdb/src/index.js" timestamp="1527578911628">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/pile.js" timestamp="1527402166448">
-        <mark key="'" line="37" column="10" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="9" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="61" column="47" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/test/api/openapi.yaml" timestamp="1526782220943">
-        <mark key="'" line="1266" column="18" />
-        <mark key="[" line="1183" column="0" />
-        <mark key="]" line="1260" column="23" />
-        <mark key="^" line="1257" column="24" />
-        <mark key="." line="1257" column="24" />
-      </file>
-      <file name="D:/projects/zzswang/wali-web/src/sagas/logs.js" timestamp="1528115080611">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="22" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="D:/projects/36node/sketch/packages/fastman/READEME.md" timestamp="1526654950018">
-        <mark key="'" line="222" column="0" />
-        <mark key="[" line="43" column="60" />
-        <mark key="]" line="43" column="66" />
-        <mark key="." line="43" column="66" />
-        <mark key="^" line="43" column="66" />
-      </file>
-      <file name="D:/projects/zzswang/wali-web/src/actions/index.js" timestamp="1528039225653">
+      <file name="D:/projects/zzswang/wali-web/src/actions/index.js" timestamp="1528465547235">
         <mark key="'" line="105" column="2" />
-        <mark key="[" line="131" column="41" />
-        <mark key="]" line="133" column="7" />
-        <mark key="." line="133" column="7" />
-        <mark key="^" line="133" column="7" />
-      </file>
-      <file name="D:/projects/36node/sketch/packages/fastman/src/fastman.ts" timestamp="1526654781682">
-        <mark key="'" line="329" column="42" />
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="16" />
-        <mark key="^" line="41" column="16" />
-        <mark key="." line="41" column="16" />
-      </file>
-      <file name="D:/projects/36node/node-js-sketch/packages/fastman/src/templates/base-restful-template.ts" timestamp="1526726758867">
-        <mark key="'" line="262" column="24" />
-        <mark key="[" line="336" column="25" />
-        <mark key="]" line="336" column="34" />
-        <mark key="." line="336" column="34" />
-        <mark key="^" line="336" column="34" />
+        <mark key="[" line="134" column="11" />
+        <mark key="]" line="134" column="11" />
+        <mark key="^" line="134" column="11" />
+        <mark key="." line="134" column="11" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" timestamp="1527824089143">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="24" />
         <mark key="." line="129" column="24" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/lib/origin-data.js" timestamp="1527352117006">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="82" column="9" />
-      </file>
-      <file name="G:/projects/zzswang/wali-web/src/containers/style.css" timestamp="1527816886903">
-        <mark key="'" line="40" column="1" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="21" column="0" />
-      </file>
-      <file name="D:/projects/zzswang/wali-web/src/reducers/index.js" timestamp="1528039846279">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="19" column="8" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="19" column="8" />
+      <file name="D:/projects/zzswang/wali-web/src/reducers/index.js" timestamp="1528465509013">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="10" filename="G:/projects/zzswang/shanghaibus-core/openapi.yaml" />
-      <jump line="5598" column="0" filename="G:/projects/zzswang/shanghaibus-core/openapi.yaml" />
-      <jump line="5614" column="0" filename="G:/projects/zzswang/shanghaibus-core/openapi.yaml" />
-      <jump line="2" column="0" filename="G:/projects/zzswang/shanghaibus-core/openapi.yaml" />
-      <jump line="23" column="21" filename="G:/projects/zzswang/shanghaibus-core/openapi.yaml" />
-      <jump line="3827" column="8" filename="G:/projects/zzswang/shanghaibus-core/openapi.yaml" />
-      <jump line="3812" column="0" filename="G:/projects/zzswang/shanghaibus-core/openapi.yaml" />
-      <jump line="76" column="26" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
-      <jump line="35" column="15" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
-      <jump line="52" column="5" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
-      <jump line="10" column="29" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
-      <jump line="15" column="68" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
-      <jump line="16" column="13" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
-      <jump line="17" column="64" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
-      <jump line="26" column="5" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
-      <jump line="30" column="3" filename="G:/projects/zzswang/shanghaibus-core/package.json" />
-      <jump line="101" column="17" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="140" column="31" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="143" column="15" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="141" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="170" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="263" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="290" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="376" column="31" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="378" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="405" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="492" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="523" column="35" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="524" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="619" column="31" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="620" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="656" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="14" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="42" column="35" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="135" column="31" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
-      <jump line="164" column="35" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
       <jump line="257" column="31" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
       <jump line="284" column="35" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
       <jump line="371" column="31" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/上海巴士.postman_collection.json" />
@@ -546,65 +194,96 @@
       <jump line="28" column="16" filename="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
       <jump line="147" column="61" filename="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
       <jump line="51" column="37" filename="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
+      <jump line="20" column="0" filename="D:/projects/zzswang/wali-web/node_modules/@types/socket.io/index.d.ts" />
+      <jump line="695" column="0" filename="D:/projects/zzswang/wali-web/node_modules/@types/socket.io/index.d.ts" />
+      <jump line="12" column="21" filename="D:/projects/zzswang/wali-web/package.json" />
+      <jump line="31" column="0" filename="D:/projects/zzswang/wali-web/node_modules/socket.io-client/lib/index.js" />
+      <jump line="53" column="0" filename="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
+      <jump line="33" column="31" filename="D:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
+      <jump line="41" column="0" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="62" column="13" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="70" column="132" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="176" column="17" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="177" column="36" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="178" column="67" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="179" column="35" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="180" column="65" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="181" column="37" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="182" column="69" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="183" column="38" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="184" column="71" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="185" column="37" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="186" column="69" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="187" column="38" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="188" column="71" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="728" column="118" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="729" column="40" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="730" column="116" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="731" column="35" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="732" column="158" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="733" column="46" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="734" column="138" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="735" column="46" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="736" column="143" filename="D:/projects/zzswang/wali-web/node_modules/react-custom-scrollbars/lib/Scrollbars/index.js" />
+      <jump line="157" column="18" filename="D:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
+      <jump line="56" column="19" filename="D:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
+      <jump line="83" column="33" filename="D:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
+      <jump line="47" column="18" filename="D:/projects/zzswang/wali-web/src/sagas/logs.js" />
+      <jump line="187" column="42" filename="D:/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>使用saga eventChanel缓存logs，mocklogs</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>使用saga eventChanel缓存logs，mocklogs</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>mock</text>
+        <text>dispatch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPHAKICAgICAgICBzdHlsZT17eyB0cmFuc2Zvcm06IGB0cmFuc2xhdGUoMHB4LCAke3l9cHgpYCB9fQogICAgICAgIGtleT17bG9nLmluZGV4fQogICAgICAgIHJlZj17aW5uZXJSZWZ9CiAgICAgICAgY2xhc3NOYW1lPSJsb2ctdGVybWluYWwtbGluZSIKICAgICAgPgogICAgICAgIDxzcGFuIHN0eWxlPXt7IGNvbG9yIH19Pntsb2cubGV2ZWx9PC9zcGFuPiB7bG9nLm1lc3NhZ2V9CiAgICAgIDwvcD4K</text>
+      <register name="0" type="4">
+        <text>terminalRef</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGVvZiB0b3BpY3MgPT09ICJhciIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChyZW5kZXJEZXRhaWwpIHsKICAgIC8vIH0gZWxzZSB7CiAgICAvLyAgIHJldHVybiBsaW5lOwogICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBjdXJzb3I6ICJwb2ludGVyIiwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLnRvcGljcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvcGljcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDxzcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRvcGljcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc3QgOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDxwcmUKICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICBjdXJzb3I6ICJwb2ludGVyIiwKICAgICAgICAgICAgICAgICAgICAgICB3b3JkV3JhcDogImJyZWFrLXdvcmQiLAogICAgICAgICAgICAgICAgICAgICAgIHdoaXRlU3BhY2U6ICJwcmUtd3JhcCIKICAgICAgICAgICAgICAgICAgICAgfX0+IHtKU09OLnN0cmluZ2lmeShsb2csIG51bGwsIDIpfSA8L3ByZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd29yZC1icmVhazogYnJlYWstYWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhLnRvcGljcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9TcGluPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>mock</last-search>
+      <last-search>dispatch</last-search>
       <last-offset />
-      <last-pattern>mock</last-pattern>
+      <last-pattern>dispatch</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>DatePicker</entry>
-        <entry>active</entry>
-        <entry>antd</entry>
-        <entry>console</entry>
-        <entry>dispatch</entry>
         <entry>react</entry>
         <entry>auto</entry>
         <entry>tag</entry>
@@ -620,6 +299,11 @@
         <entry encoding="base64">XDxzdGFja3RvcFw+</entry>
         <entry>ter</entry>
         <entry>mock</entry>
+        <entry>socket</entry>
+        <entry>ref</entry>
+        <entry>listTopics</entry>
+        <entry>list</entry>
+        <entry>dispatch</entry>
       </history-search>
       <history-cmd />
       <history-expr />
