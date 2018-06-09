@@ -432,6 +432,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" timestamp="1528552594874">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1526956335421">
         <mark key="'" line="25" column="42" />
         <mark key="[" line="25" column="43" />
@@ -649,6 +654,10 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/sagas/mock-logs.js" timestamp="1528551949893">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="32" />
+      </file>
       <file name="G:/projects/smart_meter_dva/node_modules/dva/index.d.ts" timestamp="1505266118248">
         <mark key="[" line="9" column="12" />
         <mark key="]" line="9" column="38" />
@@ -748,6 +757,12 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528553289250">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="47" />
+        <mark key="^" line="30" column="18" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/tests/tsconfig.json" timestamp="1505116630498">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="26" />
@@ -814,6 +829,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/sagas/logs.js" timestamp="1528551965288">
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="65" column="36" />
+        <mark key="^" line="65" column="36" />
+        <mark key="." line="65" column="36" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.d.ts" timestamp="1526143221581">
         <mark key="'" line="30" column="0" />
@@ -975,6 +996,12 @@
         <mark key="]" line="21" column="20" />
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/reducers/logs.js" timestamp="1528552911089">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="15" column="38" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/lib/origin-data.js" timestamp="1526369403519">
         <mark key="[" line="20" column="0" />
@@ -1201,43 +1228,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Component</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>level</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0YWtpbmc6IHN0YXRlLmZzYXNbVVBEQVRFX0lTU1VFX01FVEFdLmxvYWRpbmcK</text>
+        <text encoding="base64">ICAgICAgeWllbGQgcHV0KHJlY2VpdmVMb2cobG9nKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ1cGRhdGVkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9nKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJ1cGRhdGVkIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IExhenlMb2FkIGZyb20gInJlYWN0LWxhenlsb2FkIjsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9nLmxldmVsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvZyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaWYgKGludGVyc2VjdGlvbihsb2cudG9waWNzLCBsaXN0ZW5lZFRvcGljcykubGVuZ3RoIDwgMSkgewogICAgICAvLyAgIGJyZWFrOwogICAgICAvLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRVcGRhdGUoKSB7CiAgIAogIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvZyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPC9MYXp5TG9hZD4K</text>
+        <text encoding="base64">ICAgICAgaWYobG9nLikK</text>
       </register>
     </registers>
     <search>
