@@ -353,6 +353,7 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/reducers/list.js" timestamp="1528555826394" />
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/major.ts" timestamp="1517066450094">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="1" />
@@ -432,11 +433,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" timestamp="1528552594874">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1526956335421">
         <mark key="'" line="25" column="42" />
         <mark key="[" line="25" column="43" />
@@ -493,7 +489,7 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526959182232">
+      <file name="/Dummy.txt" timestamp="1528558567514">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -757,17 +753,22 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528553289250">
-        <mark key="[" line="18" column="47" />
-        <mark key="]" line="18" column="47" />
-        <mark key="." line="18" column="47" />
-        <mark key="^" line="30" column="18" />
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1528558004290">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="25" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/tsconfig.json" timestamp="1505116630498">
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/projects/zzswang/wali-web/README.md" timestamp="1528558565556">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/.gitignore" timestamp="1526346520700">
         <mark key="[" line="47" column="0" />
@@ -830,11 +831,11 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/wali-web/src/sagas/logs.js" timestamp="1528551965288">
-        <mark key="[" line="65" column="29" />
-        <mark key="]" line="65" column="36" />
-        <mark key="^" line="65" column="36" />
-        <mark key="." line="65" column="36" />
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/sagas/logs.js" timestamp="1528556994340">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="69" column="30" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.d.ts" timestamp="1526143221581">
         <mark key="'" line="30" column="0" />
@@ -997,11 +998,11 @@
         <mark key="." line="21" column="20" />
         <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/wali-web/src/reducers/logs.js" timestamp="1528552911089">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="15" column="38" />
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/reducers/logs.js" timestamp="1528557515202">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="22" column="45" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/lib/origin-data.js" timestamp="1526369403519">
         <mark key="[" line="20" column="0" />
@@ -1125,8 +1126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="13" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/@types/openapi-3.d.ts" />
-      <jump line="6" column="2" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/fastman.test.ts" />
       <jump line="6" column="7" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/spec/openapi-3.test.ts" />
       <jump line="3013" column="15" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/node_modules/@types/node/index.d.ts" />
       <jump line="3003" column="17" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/node_modules/@types/node/index.d.ts" />
@@ -1225,58 +1224,59 @@
       <jump line="18" column="0" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/task/issue.js" />
       <jump line="226" column="43" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/task/issue-list.js" />
       <jump line="60" column="12" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/sagas/index.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/projects/zzswang/wali-web/src/sagas/logs.js" />
+      <jump line="70" column="15" filename="$USER_HOME$/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>level</text>
+        <text>setState</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgeWllbGQgcHV0KHJlY2VpdmVMb2cobG9nKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRpbWUgPSBtb21lbnQobG9nLnRpbWVzdGFtcCkuZm9ybWF0KCJNTS1ERCBISDptbTpzcyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0b3BpY3MgJiYKICAgICAgICAgICAgICBBcnJheS5pc0FycmF5KHRvcGljcykgJiYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9nLmxldmVsKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobG9nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc28K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgKGludGVyc2VjdGlvbihsb2cudG9waWNzLCBsaXN0ZW5lZFRvcGljcykubGVuZ3RoIDwgMSkgewogICAgICAvLyAgIGJyZWFrOwogICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgIGlmKHRvcGljcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYobG9nLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>level</last-search>
+      <last-search>setState</last-search>
       <last-offset />
-      <last-pattern>level</last-pattern>
+      <last-pattern>setState</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZfMFw+</entry>
         <entry encoding="base64">XDzovabovoZpZFw+</entry>
         <entry>ref</entry>
         <entry>hreader</entry>
@@ -1296,6 +1296,7 @@
         <entry>list vehicle ok</entry>
         <entry>login</entry>
         <entry>level</entry>
+        <entry>setState</entry>
       </history-search>
       <history-cmd />
       <history-expr />
