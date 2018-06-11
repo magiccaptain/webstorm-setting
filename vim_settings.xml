@@ -330,11 +330,11 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/lib/sdk.js" timestamp="1528704435871">
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="44" />
-        <mark key="." line="17" column="44" />
-        <mark key="^" line="17" column="44" />
+      <file name="G:/projects/zzswang/adventurer-web/src/lib/sdk.js" timestamp="1528706161172">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_department.ts" timestamp="1517277894169">
         <mark key="[" line="10" column="0" />
@@ -597,11 +597,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/reducers/index.js" timestamp="1527233407679">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="54" />
-        <mark key="^" line="18" column="54" />
-        <mark key="." line="18" column="54" />
+      <file name="G:/projects/zzswang/adventurer-web/src/reducers/index.js" timestamp="1528706271703">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="16" />
+        <mark key="^" line="15" column="16" />
+        <mark key="." line="15" column="16" />
       </file>
       <file name="D:/projects/open-api-redoc/front-end/libs/redoc/services/SearchStore.js" timestamp="1524302574099">
         <mark key="[" line="1" column="0" />
@@ -1114,11 +1114,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527843049958">
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1528705606614">
         <mark key="'" line="96" column="18" />
-        <mark key="[" line="131" column="19" />
-        <mark key="]" line="131" column="70" />
-        <mark key="." line="130" column="16" />
+        <mark key="[" line="61" column="17" />
+        <mark key="]" line="61" column="17" />
+        <mark key="." line="61" column="17" />
+        <mark key="^" line="61" column="17" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
@@ -1648,7 +1649,13 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/lib/schema.js" timestamp="1528704148354" />
+      <file name="G:/projects/zzswang/adventurer-web/src/lib/schema.js" timestamp="1528706110238">
+        <mark key="'" line="63" column="1" />
+        <mark key="[" line="38" column="3" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/LoadingPage/LoadingPage.tsx" timestamp="1517638156698">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="39" />
@@ -1685,6 +1692,11 @@
         <mark key="]" line="285" column="132" />
         <mark key="^" line="285" column="133" />
         <mark key="." line="285" column="133" />
+      </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/actions/index.js" timestamp="1528706280167">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/main/services/fri-rep/server.js" timestamp="1515912566005">
         <mark key="[" line="144" column="23" />
@@ -1848,7 +1860,12 @@
         <mark key="." line="336" column="34" />
         <mark key="^" line="336" column="34" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/sagas/index.js" timestamp="1528704179230" />
+      <file name="G:/projects/zzswang/adventurer-web/src/sagas/index.js" timestamp="1528706188022">
+        <mark key="[" line="20" column="54" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517762859075">
         <mark key="[" line="5" column="35" />
         <mark key="]" line="5" column="35" />
@@ -2114,7 +2131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="3" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" />
       <jump line="261" column="3" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" />
       <jump line="110" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock.js" />
       <jump line="5" column="0" filename="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock.js" />
@@ -2214,46 +2230,50 @@
       <jump line="82" column="21" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" />
       <jump line="49" column="2" filename="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" />
       <jump line="73" column="35" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" />
+      <jump line="62" column="1" filename="G:/projects/zzswang/adventurer-web/src/lib/schema.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbGV2ZWwgPSAwIH0gPSBtZXRhOwo=</text>
+        <text encoding="base64">cmVkdXhBYwo=</text>
       </register>
       <register name="-" type="4">
-        <text>meta</text>
+        <text>ISSUES</text>
       </register>
       <register name="/" type="4">
         <text>ter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtsb2d9ID0gdGhpcy5wcm9wczsKICAgIHRoaXMudGVybWluYWwuYXBwZW5kTG9nKHRoaXMuX2ZpbHRlckxvZyhsb2cpKTsK</text>
+        <text encoding="base64">ICAgIFtMSVNUX0lTU1VFU106IHBhZ2luYXRlKExJU1RfSVNTVUVTKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbGV2ZWwgPSAwIH0gPSBtZXRhOwo=</text>
+        <text encoding="base64">cmVkdXhBYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1sYXp5bG9hZCI6ICIyLjMuMCIsCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1zdGF5LXNjcm9sbGVkIjogIjIuMS4xIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC13YXlwb2ludCI6ICI4LjAuMSIsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHByb2plY3RTY2hlbWEgPSBuZXcgc2NoZW1hLkVudGl0eSgicHJvamVjdHMiLCB7CiAgcmVwb3NpdG9yaWVzOiBbcmVwb3NpdG9yeVNjaGVtYV0KfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmVhdG9yOiB1c2VyU2NoZW1hCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJkYW5nZXIiIG9uQ2xpY2s9e3RoaXMub25DbG9zZX0gaWNvbj0iY2xvc2UiLz4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">LAogIHsg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>,
+  {
+    idAttribute: 'login'
+  }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJwcmltYXJ5IiBpY29uPSJhcnJvdy1kb3duIiBvbkNsaWNrPXt0aGlzLm9uU2Nyb2xsQm90dG9tQ2xpY2tlZH0vPgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbGV2ZWwgPSAwIH0gPSBtZXRhOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1sYXp5bG9hZCI6ICIyLjMuMCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
