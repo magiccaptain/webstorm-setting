@@ -249,10 +249,11 @@
         <mark key="^" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1527842725306">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1528766712431">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="D:/projects/zzswang/harvest/src/ali-log/index.js" timestamp="1527693451703">
         <mark key="[" line="37" column="0" />
@@ -492,7 +493,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/reducers/index.js" timestamp="1528707193524">
+      <file name="G:/projects/zzswang/adventurer-web/src/reducers/index.js" timestamp="1528765471634">
         <mark key="[" line="24" column="34" />
         <mark key="]" line="24" column="50" />
         <mark key="^" line="24" column="50" />
@@ -899,6 +900,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1528766353425" />
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="29" />
@@ -1418,7 +1420,7 @@
         <mark key="^" line="285" column="133" />
         <mark key="." line="285" column="133" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/actions/index.js" timestamp="1528764842048">
+      <file name="G:/projects/zzswang/adventurer-web/src/actions/index.js" timestamp="1528765426646">
         <mark key="[" line="42" column="17" />
         <mark key="]" line="42" column="17" />
         <mark key="." line="42" column="17" />
@@ -1544,7 +1546,7 @@
         <mark key="^" line="17" column="30" />
         <mark key="." line="17" column="30" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/sagas/index.js" timestamp="1528764734424">
+      <file name="G:/projects/zzswang/adventurer-web/src/sagas/index.js" timestamp="1528765447009">
         <mark key="[" line="71" column="51" />
         <mark key="]" line="71" column="51" />
         <mark key="^" line="71" column="51" />
@@ -1693,7 +1695,7 @@
         <mark key="." line="39" column="18" />
         <mark key="^" line="39" column="18" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/reducers/menu.js" timestamp="1528764693570">
+      <file name="G:/projects/zzswang/adventurer-web/src/reducers/menu.js" timestamp="1528765534871">
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="11" />
         <mark key="^" line="5" column="11" />
@@ -1906,10 +1908,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ci0gyM7O8cHQse3G2bK8wffP1Mq+Ci0gyrXP1tDCsry+1iBhcHAtbGF5b3V0Ci0gxtmyvMH3yrXP1iCwtCB0b2RvIGRvaW5nIGZpbHRlciDJuNGhCgotIFRPRE8KICC1yLT9djKw5rG+tcRhcGmjrM3qycbIzs7xtPPM/LmmxNw=</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ter</text>
