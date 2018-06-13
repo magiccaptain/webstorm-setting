@@ -368,9 +368,6 @@
       </file>
       <file name="D:/projects/zzswang/adventurer-web/src/selectors/index.js" timestamp="1528897957333">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_mock.ts" timestamp="1517452825689">
         <mark key="[" line="52" column="37" />
@@ -1015,7 +1012,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528817858991">
+      <file name="/Dummy.txt" timestamp="1528900462859">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -1207,13 +1204,6 @@
         <mark key="." line="370" column="45" />
         <mark key="^" line="370" column="45" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/sagas/index.js" timestamp="1528898035758">
-        <mark key="'" line="115" column="17" />
-        <mark key="[" line="72" column="63" />
-        <mark key="]" line="72" column="73" />
-        <mark key="." line="72" column="73" />
-        <mark key="^" line="72" column="73" />
-      </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="29" />
@@ -1225,13 +1215,6 @@
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
-      </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1528898096747">
-        <mark key="'" line="163" column="18" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="183" column="50" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="D:/projects/github/ReDoc-master/demo/playground/hmr-playground.tsx" timestamp="1524316047518">
         <mark key="[" line="31" column="39" />
@@ -2124,12 +2107,6 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1528894768435">
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="66" column="41" />
-        <mark key="." line="66" column="15" />
-        <mark key="^" line="66" column="15" />
-      </file>
       <file name="G:/projects/zzswang/wali-web/src/containers/style.css" timestamp="1527816886903">
         <mark key="'" line="40" column="1" />
         <mark key="[" line="38" column="0" />
@@ -2184,12 +2161,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1528898057177">
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1528900199829">
         <mark key="'" line="99" column="0" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="230" column="25" />
+        <mark key="[" line="151" column="19" />
+        <mark key="]" line="153" column="31" />
+        <mark key="." line="153" column="31" />
+        <mark key="^" line="153" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1525915579783">
         <mark key="[" line="2" column="4" />
@@ -2338,10 +2315,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFtJU1NVRV9GSUxURVJTXTogZmlsdGVycyhJU1NVRV9GSUxURVJTKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>merge({}, this.state.cardsState)</text>
       </register>
       <register name="/" type="4">
         <text>html</text>
@@ -2350,31 +2327,31 @@
         <text encoding="base64">ICAgICAgZmlsdGVyc1sic3RhdGUiXSA9ICJjbG9zZWQiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFtJU1NVRV9GSUxURVJTXTogZmlsdGVycyhJU1NVRV9GSUxURVJTKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGZpbHRlcnMgZnJvbSAiLi9maWx0ZXJzIjsK</text>
+        <text encoding="base64">ICAgIC8vIGlmICh0aGlzLndpZHRoQ2hhbmdlQ291bnQgPCAyKSB7CiAgICAvLyB9IGVsc2UgewogICAgLy8gICAvLyDKudPD0dPKsbu6tOajrMrHzqrBy73ivvZyZXNpemXKsb+ottm1xM7KzOIKICAgIC8vICAgdGhpcy5jYXJkc1N0YXRlQnVmZmVyW2lkXSA9IHsgaGVpZ2h0IH07CiAgICAvLyAgIGlmICh0aGlzLmJ1ZmZlclRpbWVyKSB7CiAgICAvLyAgICAgY2xlYXJUaW1lb3V0KHRoaXMuYnVmZmVyVGltZXIpOwogICAgLy8gICB9CiAgICAvLwogICAgLy8gICB0aGlzLmJ1ZmZlclRpbWVyID0gc2V0VGltZW91dCgoKSA9PiB7CiAgICAvLyAgICAgdGhpcy5idWZmZXJUaW1lciA9IG51bGw7CiAgICAvLyAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAvLyAgICAgICAuLi50aGlzLnN0YXRlLAogICAgLy8gICAgICAgLi4uewogICAgLy8gICAgICAgICBjYXJkc1N0YXRlOiB0aGlzLmNhcmRzU3RhdGVCdWZmZXIKICAgIC8vICAgICAgIH0KICAgIC8vICAgICB9KTsKICAgIC8vICAgfSwgMTAwMCk7CiAgICAvLyB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpc3N1ZUZpbHRlcnMK</text>
+        <text encoding="base64">ICAgIFtJU1NVRV9GSUxURVJTXTogZmlsdGVycyhJU1NVRV9GSUxURVJTKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBQVUJMSVNIX0lTU1VFLAo=</text>
+        <text encoding="base64">aW1wb3J0IGZpbHRlcnMgZnJvbSAiLi9maWx0ZXJzIjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsaXN0SXNzdWVzLAo=</text>
+        <text encoding="base64">ICBpc3N1ZUZpbHRlcnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWxlY3RJc3N1ZXNCeVN0YXR1cywK</text>
+        <text encoding="base64">ICBQVUJMSVNIX0lTU1VFLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZWxlY3RJc3N1ZXNCeUZpbHRlciwK</text>
+        <text encoding="base64">ICBsaXN0SXNzdWVzLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IElTU1VFX0ZJTFRFUlMgPSAiSVNTVUVfRklMVEVSUyI7CmV4cG9ydCBjb25zdCBpc3N1ZUZpbHRlcnMgPSBmaWx0ZXJzID0+ICh7CiAgdHlwZTogSVNTVUVfRklMVEVSUywKICBwYXlsb2FkOiB7IGZpbHRlcnMgfQp9KTsK</text>
+        <text encoding="base64">ICBzZWxlY3RJc3N1ZXNCeVN0YXR1cywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGF0Y2goaXNzdWVGaWx0ZXJzKGZpbHRlcnMpKTsK</text>
+        <text encoding="base64">ICBzZWxlY3RJc3N1ZXNCeUZpbHRlciwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
