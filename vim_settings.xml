@@ -992,11 +992,11 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1529035190866">
-        <mark key="[" line="52" column="29" />
-        <mark key="]" line="52" column="34" />
-        <mark key="." line="52" column="34" />
-        <mark key="^" line="52" column="34" />
+      <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1529038135149">
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="49" column="35" />
+        <mark key="." line="49" column="35" />
+        <mark key="^" line="49" column="35" />
       </file>
       <file name="D:/projects/dva-electron-boilerplate/package.json" timestamp="1516117635135">
         <mark key="[" line="33" column="32" />
@@ -2048,10 +2048,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text encoding="base64">IHN0eWxlPXt7IHBhZGRpbmdMZWZ0OiAwIH19</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IHN0eWxlPXt7IHBhZGRpbmdMZWZ0OiAwIH19</text>
       </register>
       <register name="/" type="4">
         <text>filter-m</text>
@@ -2060,13 +2060,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPE5hdkxpbmsgdG89e3VybH0+CiAgICAgICAgICAgICAgICAgICAgPEljb24gdHlwZT17aS5pY29ufSAvPgogICAgICAgICAgICAgICAgICAgIDxzcGFuPntpLm5hbWV9PC9zcGFuPgogICAgICAgICAgICAgICAgICA8L05hdkxpbms+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPXtpLmljb259IC8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJpbGxzKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPXtpLmljb259IC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8SWNvbiB0eXBlPXtpLmljb259IC8+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2075,16 +2075,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcGF0aG5hbWUgfSA9IGxvY2F0aW9uOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHsgcGF0aG5hbWUgfSA9IGxvY2F0aW9uOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhuYW1lLmluZGV4T2YoYXBwLnJvdXRlcikpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
