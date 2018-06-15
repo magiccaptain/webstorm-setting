@@ -993,12 +993,12 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1529049370670">
-        <mark key="'" line="22" column="2" />
-        <mark key="[" line="45" column="45" />
-        <mark key="]" line="45" column="57" />
-        <mark key="^" line="45" column="57" />
-        <mark key="." line="45" column="57" />
+      <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1529050729430">
+        <mark key="'" line="97" column="26" />
+        <mark key="[" line="97" column="27" />
+        <mark key="]" line="97" column="45" />
+        <mark key="." line="97" column="45" />
+        <mark key="^" line="97" column="45" />
       </file>
       <file name="D:/projects/dva-electron-boilerplate/package.json" timestamp="1516117635135">
         <mark key="[" line="33" column="32" />
@@ -1416,6 +1416,7 @@
         <mark key="^" line="6" column="62" />
         <mark key="." line="6" column="62" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/public/index.html" timestamp="1529050604857" />
       <file name="D:/projects/open-api-redoc/front-end/src/redoc/standalone.tsx" timestamp="1524300282405">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="29" />
@@ -1947,7 +1948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="178" column="11" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="177" column="18" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="45" column="27" filename="G:/projects/zzswang/adventurer-web/src/actions/index.js" />
@@ -2047,10 +2047,11 @@
       <jump line="512" column="32" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="49" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="98" column="13" filename="G:/projects/zzswang/adventurer-web/src/containers/manager/index.js" />
+      <jump line="97" column="26" filename="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbG9jYXRpb24gfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCB7IHBhdGhuYW1lIH0gPSBsb2NhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -2062,31 +2063,31 @@
         <text encoding="base64">ICAgICAgICA8U2lkZXIgc3R5bGU9e3sgYmFja2dyb3VuZDogIiNEOUQ5RDkiIH19PgogICAgICAgICAgPEJpbGxTZWxlY3RvciBzZWxlY3RlZEJpbGw9e3BhdGhuYW1lfS8+CiAgICAgICAgPC9TaWRlcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbG9jYXRpb24gfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCB7IHBhdGhuYW1lIH0gPSBsb2NhdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8U2lkZXIgc3R5bGU9e3sgYmFja2dyb3VuZDogIiNEOUQ5RDkiIH19PgogICAgICAgICAgPEJpbGxTZWxlY3RvciBzZWxlY3RlZEJpbGw9e3BhdGhuYW1lfS8+CiAgICAgICAgPC9TaWRlcj4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbG9jYXRpb24gfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCB7IHBhdGhuYW1lIH0gPSBsb2NhdGlvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8U2lkZXIgc3R5bGU9e3sgYmFja2dyb3VuZDogIiNEOUQ5RDkiIH19PgogICAgICAgICAgPEJpbGxTZWxlY3RvciBzZWxlY3RlZEJpbGw9e3BhdGhuYW1lfS8+CiAgICAgICAgPC9TaWRlcj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZWY9e2VsID0+IHsKICAgICAgICAgICAgICAgIGlmIChlbCkgewogICAgICAgICAgICAgICAgICBjb25zdCB7IGNvbnRhaW5lciB9ID0gZWw7CiAgICAgICAgICAgICAgICAgIHRoaXMuY29udGVudFJlZiA9IGNvbnRhaW5lcjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
