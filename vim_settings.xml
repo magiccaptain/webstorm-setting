@@ -301,7 +301,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="23" column="53" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1529041352679">
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1529042542728">
         <mark key="'" line="82" column="36" />
         <mark key="[" line="80" column="24" />
         <mark key="]" line="80" column="26" />
@@ -993,10 +993,11 @@
         <mark key="." line="2" column="7" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1529039923261">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1529043820207">
+        <mark key="'" line="19" column="2" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/projects/dva-electron-boilerplate/package.json" timestamp="1516117635135">
         <mark key="[" line="33" column="32" />
@@ -1432,11 +1433,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/style.css" timestamp="1529039840572">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
+      <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/style.css" timestamp="1529043531519">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
       </file>
       <file name="D:/projects/github/ReDoc-master/demo/index.tsx" timestamp="1524313614922">
         <mark key="[" line="21" column="22" />
@@ -1945,7 +1946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="35" filename="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" />
       <jump line="130" column="13" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="76" column="12" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="105" column="24" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
@@ -2045,46 +2045,47 @@
       <jump line="52" column="15" filename="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" />
       <jump line="426" column="19" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="82" column="36" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
+      <jump line="17" column="2" filename="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>month-select</text>
       </register>
       <register name="/" type="4">
         <text>filter-m</text>
       </register>
-      <register name="0" type="4">
-        <text>menu-item-duration</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxNb250aFBpY2tlciBmb3JtYXQ9IllZWVnE6k3UwiIgdmFsdWU9e21vbWVudC51dGModGhpcy5zdGF0ZS5kYXRlKX0gb25DaGFuZ2U9e3RoaXMub25Nb250aENoYW5nZX0vPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCh1ID0+IHUuc3BsaXQoIi8iKVsyXSlbMF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaGlzdG9yeS5wdXMgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhpc3RvcnkpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaGlzdG9yeQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibW9udGgtc2VsZWN0Ij4KICAgICAgICAgIDxNb250aFBpY2tlciBmb3JtYXQ9IllZWVnE6k3UwiIgdmFsdWU9e21vbWVudC51dGModGhpcy5zdGF0ZS5kYXRlKX0gb25DaGFuZ2U9e3RoaXMub25Nb250aENoYW5nZX0vPgogICAgICAgICAgPE1vbnRoUGlja2VyIGZvcm1hdD0iWVlZWcTqTdTCIiB2YWx1ZT17bW9tZW50LnV0Yyh0aGlzLnN0YXRlLmRhdGUpfSBvbkNoYW5nZT17dGhpcy5vbk1vbnRoQ2hhbmdlfS8+CiAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8TW9udGhQaWNrZXIgZm9ybWF0PSJZWVlZxOpN1MIiIHZhbHVlPXttb21lbnQudXRjKHRoaXMuc3RhdGUuZGF0ZSl9IG9uQ2hhbmdlPXt0aGlzLm9uTW9udGhDaGFuZ2V9Lz4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGtleSkK</text>
+        <text encoding="base64">ICAgICAgICA8TW9udGhQaWNrZXIvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
