@@ -295,6 +295,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1529397515616">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_department.ts" timestamp="1517277894169">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="97" />
@@ -904,9 +909,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1529049147772">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="54" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1529397435340">
+        <mark key="[" line="73" column="2" />
+        <mark key="]" line="73" column="9" />
+        <mark key="." line="73" column="9" />
+        <mark key="^" line="73" column="9" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
@@ -1202,11 +1209,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="3" column="34" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/lib/session.js" timestamp="1528943286105">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
-        <mark key="^" line="20" column="9" />
+      <file name="G:/projects/zzswang/adventurer-web/src/lib/session.js" timestamp="1529397307100">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="29" column="29" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/package.json" timestamp="1523515580040">
         <mark key="[" line="21" column="0" />
@@ -1957,10 +1964,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qe3Nlc3Npb24gJiYqL30KICAgICAgICAgICAgey8qc2Vzc2lvbi51c2VyICYmICgqL30KICAgICAgICAgICAgey8qPFBvcG92ZXIqL30KICAgICAgICAgICAgey8qcGxhY2VtZW50PSJ0b3BSaWdodCIqL30KICAgICAgICAgICAgey8qdGl0bGU9e3RoaXMucmVuZGVyVXNlclRpdGxlKHNlc3Npb24pfSovfQogICAgICAgICAgICB7Lypjb250ZW50PXt0aGlzLnJlbmRlclVzZXJDb250ZW50KHNlc3Npb24pfSovfQogICAgICAgICAgICB7Lyp0cmlnZ2VyPSJjbGljayIqL30KICAgICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7Lyo8QnV0dG9uIHNpemU9eyJsYXJnZSJ9IHN0eWxlPXt7IGJvcmRlcjogMCB9fSBnaG9zdCBpY29uPXsidXNlciJ9IC8+Ki99CiAgICAgICAgICAgIHsvKjwvUG9wb3Zlcj4qL30KICAgICAgICAgICAgey8qKX0qL30K</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>filter-m</text>
@@ -1969,28 +1976,28 @@
         <text encoding="base64">ICAgICAgICA8U2lkZXIgc3R5bGU9e3sgYmFja2dyb3VuZDogIiNEOUQ5RDkiIH19PgogICAgICAgICAgPEJpbGxTZWxlY3RvciBzZWxlY3RlZEJpbGw9e3BhdGhuYW1lfS8+CiAgICAgICAgPC9TaWRlcj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qe3Nlc3Npb24gJiYqL30KICAgICAgICAgICAgey8qc2Vzc2lvbi51c2VyICYmICgqL30KICAgICAgICAgICAgey8qPFBvcG92ZXIqL30KICAgICAgICAgICAgey8qcGxhY2VtZW50PSJ0b3BSaWdodCIqL30KICAgICAgICAgICAgey8qdGl0bGU9e3RoaXMucmVuZGVyVXNlclRpdGxlKHNlc3Npb24pfSovfQogICAgICAgICAgICB7Lypjb250ZW50PXt0aGlzLnJlbmRlclVzZXJDb250ZW50KHNlc3Npb24pfSovfQogICAgICAgICAgICB7Lyp0cmlnZ2VyPSJjbGljayIqL30KICAgICAgICAgICAgey8qPiovfQogICAgICAgICAgICB7Lyo8QnV0dG9uIHNpemU9eyJsYXJnZSJ9IHN0eWxlPXt7IGJvcmRlcjogMCB9fSBnaG9zdCBpY29uPXsidXNlciJ9IC8+Ki99CiAgICAgICAgICAgIHsvKjwvUG9wb3Zlcj4qL30KICAgICAgICAgICAgey8qKX0qL30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbG9jYXRpb24gfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCB7IHBhdGhuYW1lIH0gPSBsb2NhdGlvbjsK</text>
+        <text encoding="base64">ICAgIGRpc3BsYXlQdWJsaXNoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8U2lkZXIgc3R5bGU9e3sgYmFja2dyb3VuZDogIiNEOUQ5RDkiIH19PgogICAgICAgICAgPEJpbGxTZWxlY3RvciBzZWxlY3RlZEJpbGw9e3BhdGhuYW1lfS8+CiAgICAgICAgPC9TaWRlcj4K</text>
+        <text encoding="base64">ICBjb25zdCByb2xlcyA9IGdldFJvbGVzKCk7CiAgY29uc3QgZGlzcGxheVB1Ymxpc2ggPSByb2xlcy5pbmRleE9mKCJUQVNLX0FETUlOIikgIT09IC0xOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbG9jYXRpb24gfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCB7IHBhdGhuYW1lIH0gPSBsb2NhdGlvbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgICAgICA8U2lkZXIgc3R5bGU9e3sgYmFja2dyb3VuZDogIiNEOUQ5RDkiIH19PgogICAgICAgICAgPEJpbGxTZWxlY3RvciBzZWxlY3RlZEJpbGw9e3BhdGhuYW1lfS8+CiAgICAgICAgPC9TaWRlcj4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
