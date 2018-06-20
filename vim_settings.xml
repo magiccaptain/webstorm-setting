@@ -843,10 +843,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528958694708">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1529495502959">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
         <mark key="[" line="24" column="20" />
@@ -1876,11 +1876,11 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1529494574965">
-        <mark key="[" line="209" column="36" />
-        <mark key="]" line="210" column="16" />
-        <mark key="." line="210" column="16" />
-        <mark key="^" line="210" column="16" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1529495958585">
+        <mark key="[" line="211" column="56" />
+        <mark key="]" line="211" column="56" />
+        <mark key="." line="211" column="56" />
+        <mark key="^" line="211" column="56" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517762859075">
         <mark key="[" line="5" column="35" />
@@ -1937,10 +1937,6 @@
       </file>
       <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1529494387829">
         <mark key="'" line="202" column="0" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="0" />
-        <mark key="^" line="252" column="66" />
-        <mark key="." line="256" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1525915579783">
         <mark key="[" line="2" column="4" />
@@ -2082,11 +2078,11 @@
       <jump line="200" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>F</text>
       </register>
       <register name="-" type="4">
-        <text>olive</text>
+        <text>F</text>
       </register>
       <register name="/" type="4">
         <text>logout</text>
@@ -2095,31 +2091,31 @@
         <text encoding="base64">aW1wb3J0IHsgU2Nyb2xsYmFycyB9IGZyb20gInJlYWN0LWN1c3RvbS1zY3JvbGxiYXJzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5U3R5bGU9e30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93IHR5cGU9ImZsZXgiIGp1c3RpZnk9ImNlbnRlciI+CiAgICAgICAgICA8U3Bpbm5lciBmYWRlSW49ezB9IG5hbWU9ImxpbmUtc2NhbGUtcHVsc2Utb3V0IiBjb2xvcj0iIzFEQTU3QSIgLz4KICAgICAgICA8L1Jvdz4K</text>
+        <text encoding="base64">ICAgICAgICBib2R5U3R5bGU9eyFzaG93VGFrZW4gJiYgeyBtYXhIZWlnaHQ6IDYwMCB9fQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2FkaW5nKSByZXR1cm4gPExvYWRpbmcgLz47Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgZGVzY3JpcHRpb24gfSA9IHJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8U3Bpbm5lciBuYW1lPSJsaW5lLXNjYWxlLXB1bHNlLW91dCIgY29sb3I9Im9saXZlIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8Um93IHR5cGU9ImZsZXgiIGp1c3RpZnk9ImNlbnRlciI+CiAgICAgICAgICA8U3Bpbm5lciBmYWRlSW49ezB9IG5hbWU9ImxpbmUtc2NhbGUtcHVsc2Utb3V0IiBjb2xvcj0iIzFEQTU3QSIgLz4KICAgICAgICA8L1Jvdz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8R3JpZExheW91dAogICAgICAgICAgd2lkdGg9e3RoaXMucHJvcHMuc2l6ZS53aWR0aH0KICAgICAgICAgIGNvbHM9e2NvbHN9CiAgICAgICAgICBpdGVtcz17NTB9CiAgICAgICAgICByb3dIZWlnaHQ9ezF9CiAgICAgICAgICBtYXJnaW49e1sxMCwgMF19CiAgICAgICAgICBsYXlvdXRzPXtsYXlvdXRzfQogICAgICAgICAgb25XaWR0aENoYW5nZT17dGhpcy5vbldpZHRoQ2hhbmdlfQogICAgICAgID4KICAgICAgICAgIHtpc3N1ZXMubWFwKChpLCBpbmRleCkgPT4gewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxJc3N1ZUNhcmQKICAgICAgICAgICAgICAgIGluZGV4PXtpbmRleH0KICAgICAgICAgICAgICAgIGtleT17aS5pZH0KICAgICAgICAgICAgICAgIGlzc3VlSWQ9e2kuaWR9CiAgICAgICAgICAgICAgICBvbkhlaWdodENoYW5nZT17dGhpcy5vbklzc3VlQ2FyZENoYW5nZX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9HcmlkTGF5b3V0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8R3JpZExheW91dAogICAgICAgICAgd2lkdGg9e3RoaXMucHJvcHMuc2l6ZS53aWR0aH0KICAgICAgICAgIGNvbHM9e2NvbHN9CiAgICAgICAgICBpdGVtcz17NTB9CiAgICAgICAgICByb3dIZWlnaHQ9ezF9CiAgICAgICAgICBtYXJnaW49e1sxMCwgMF19CiAgICAgICAgICBsYXlvdXRzPXtsYXlvdXRzfQogICAgICAgICAgb25XaWR0aENoYW5nZT17dGhpcy5vbldpZHRoQ2hhbmdlfQogICAgICAgID4KICAgICAgICAgIHtpc3N1ZXMubWFwKChpLCBpbmRleCkgPT4gewogICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgIDxJc3N1ZUNhcmQKICAgICAgICAgICAgICAgIGluZGV4PXtpbmRleH0KICAgICAgICAgICAgICAgIGtleT17aS5pZH0KICAgICAgICAgICAgICAgIGlzc3VlSWQ9e2kuaWR9CiAgICAgICAgICAgICAgICBvbkhlaWdodENoYW5nZT17dGhpcy5vbklzc3VlQ2FyZENoYW5nZX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICApOwogICAgICAgICAgfSl9CiAgICAgICAgPC9HcmlkTGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgIGlmIChsb2FkaW5nKSByZXR1cm4gPExvYWRpbmcgLz47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
