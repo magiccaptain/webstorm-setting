@@ -831,7 +831,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529503302672">
+      <file name="/Dummy.txt" timestamp="1529508994596">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -1003,11 +1003,12 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1529504112141">
-        <mark key="[" line="176" column="41" />
-        <mark key="]" line="177" column="23" />
-        <mark key="." line="177" column="23" />
-        <mark key="^" line="177" column="23" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1529508982709">
+        <mark key="'" line="197" column="32" />
+        <mark key="[" line="616" column="21" />
+        <mark key="]" line="616" column="27" />
+        <mark key="." line="616" column="27" />
+        <mark key="^" line="616" column="27" />
       </file>
       <file name="D:/projects/github/ReDoc-master/demo/playground/hmr-playground.tsx" timestamp="1524316047518">
         <mark key="[" line="31" column="39" />
@@ -1864,10 +1865,10 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1529501144499">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="57" />
-        <mark key="." line="104" column="0" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1529509168573">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
         <mark key="^" line="102" column="9" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student.ts" timestamp="1517762859075">
@@ -1968,7 +1969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="50" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="24" column="3" filename="G:/projects/zzswang/adventurer-web/src/components/label/index.js" />
       <jump line="391" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="375" column="21" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
@@ -2068,61 +2068,61 @@
       <jump line="246" column="7" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="13" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="200" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="197" column="32" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ies</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCByZXBvVXJsID0gIiMiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ies</text>
+        <text>未发布 ISSUE</text>
       </register>
       <register name="/" type="4">
-        <text>logout</text>
+        <text>未发布</text>
       </register>
-      <register name="0" type="4">
-        <text>cardsState</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZmlsdGVyID0gbmV3IFJvdXRlUGFyc2VyKHApLm1hdGNoKHBhdGhuYW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1Ymxpc2hlZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIGxldCByZXBvVXJsID0gIiMiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyc1sicHVibGlzaGVkIl0gPSB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxHcmlkTGF5b3V0CiAgICAgICAgICAgIHdpZHRoPXt0aGlzLnByb3BzLnNpemUud2lkdGh9CiAgICAgICAgICAgIGNvbHM9e2NvbHN9CiAgICAgICAgICAgIGl0ZW1zPXs1MH0KICAgICAgICAgICAgcm93SGVpZ2h0PXsxfQogICAgICAgICAgICBtYXJnaW49e1sxMCwgMF19CiAgICAgICAgICAgIGxheW91dHM9e2xheW91dHN9CiAgICAgICAgICAgIG9uV2lkdGhDaGFuZ2U9e3RoaXMub25XaWR0aENoYW5nZX0KICAgICAgICAgID4KICAgICAgICAgICAge2lzc3Vlcy5tYXAoKGksIGluZGV4KSA9PiB7CiAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIDxJc3N1ZUNhcmQKICAgICAgICAgICAgICAgICAgaW5kZXg9e2luZGV4fQogICAgICAgICAgICAgICAgICBrZXk9e2kuaWR9CiAgICAgICAgICAgICAgICAgIGlzc3VlSWQ9e2kuaWR9CiAgICAgICAgICAgICAgICAgIG9uSGVpZ2h0Q2hhbmdlPXt0aGlzLm9uSXNzdWVDYXJkQ2hhbmdlfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICApOwogICAgICAgICAgICB9KX0KICAgICAgICAgIDwvR3JpZExheW91dD4K</text>
+        <text encoding="base64">ICAgIC8vIG1hdGhSb3V0ZXJzLmZvckVhY2gocCA9PiB7CiAgICAvLyAgIGZpbHRlciA9IG5ldyBSb3V0ZVBhcnNlcihwKS5tYXRjaChwYXRobmFtZSk7CiAgICAvLyB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZpbHRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZ2RkCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsdGVyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxsUmVhZHkgJiYK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxHcmlkTGF5b3V0CiAgICAgICAgICAgIHdpZHRoPXt0aGlzLnByb3BzLnNpemUud2lkdGh9CiAgICAgICAgICAgIGNvbHM9e2NvbHN9CiAgICAgICAgICAgIGl0ZW1zPXs1MH0KICAgICAgICAgICAgcm93SGVpZ2h0PXsxfQogICAgICAgICAgICBtYXJnaW49e1sxMCwgMF19CiAgICAgICAgICAgIGxheW91dHM9e2xheW91dHN9CiAgICAgICAgICAgIG9uV2lkdGhDaGFuZ2U9e3RoaXMub25XaWR0aENoYW5nZX0KICAgICAgICAgID4KICAgICAgICAgICAge2lzc3Vlcy5tYXAoKGksIGluZGV4KSA9PiB7CiAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgIDxJc3N1ZUNhcmQKICAgICAgICAgICAgICAgICAgaW5kZXg9e2luZGV4fQogICAgICAgICAgICAgICAgICBrZXk9e2kuaWR9CiAgICAgICAgICAgICAgICAgIGlzc3VlSWQ9e2kuaWR9CiAgICAgICAgICAgICAgICAgIG9uSGVpZ2h0Q2hhbmdlPXt0aGlzLm9uSXNzdWVDYXJkQ2hhbmdlfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICApOwogICAgICAgICAgICB9KX0KICAgICAgICAgIDwvR3JpZExheW91dD4K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZmlsdGVyKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>logout</last-search>
+      <last-search>未发布</last-search>
       <last-offset />
-      <last-pattern>logout</last-pattern>
+      <last-pattern>未发布</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jest</entry>
         <entry encoding="base64">XDxzdGFja3RvcFw+</entry>
         <entry>mock</entry>
         <entry>ter</entry>
@@ -2142,6 +2142,7 @@
         <entry>issue-filter</entry>
         <entry>filter-m</entry>
         <entry>logout</entry>
+        <entry>未发布</entry>
       </history-search>
       <history-cmd />
       <history-expr />
