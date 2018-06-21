@@ -267,8 +267,12 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" timestamp="1529582863041">
+      <file name="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" timestamp="1529589145994">
         <mark key="'" line="145" column="2" />
+        <mark key="[" line="113" column="17" />
+        <mark key="]" line="113" column="27" />
+        <mark key="^" line="111" column="28" />
+        <mark key="." line="113" column="17" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/utils/request.js" timestamp="1516504250413">
         <mark key="[" line="5" column="0" />
@@ -663,6 +667,7 @@
         <mark key="^" line="5155" column="30" />
         <mark key="." line="5155" column="30" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" timestamp="1529590780766" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -807,6 +812,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1529590159527">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
         <mark key="[" line="24" column="20" />
@@ -1006,6 +1016,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/files.js" timestamp="1529589606014">
+        <mark key="'" line="134" column="2" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519913095045">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -1156,7 +1172,9 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/alarm.js" timestamp="1529582796941" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/alarm.js" timestamp="1529589484201">
+        <mark key="'" line="68" column="14" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/view/index.html" timestamp="1517674699560">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="22" />
@@ -1349,10 +1367,10 @@
         <mark key="." line="39" column="49" />
         <mark key="^" line="39" column="49" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529580851021">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529590734196">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" timestamp="1527577365249">
         <mark key="[" line="1" column="47" />
@@ -1558,6 +1576,7 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1529588227297" />
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/controller/home.js" timestamp="1521532831759">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="13" column="1" />
@@ -1570,7 +1589,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1529577474135">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1529586303447">
         <mark key="[" line="42" column="65" />
         <mark key="]" line="42" column="74" />
       </file>
@@ -1610,10 +1629,11 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/.env" timestamp="1529580556596">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/projects/zzswang/shanghaibus-core/.env" timestamp="1529586310486">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="60" />
+        <mark key="." line="0" column="60" />
+        <mark key="^" line="0" column="60" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.js" timestamp="1525829817165">
         <mark key="[" line="0" column="21" />
@@ -1639,7 +1659,11 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/constants.js" timestamp="1529582141836" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/constants.js" timestamp="1529587310385">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="46" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/index.js" timestamp="1514338780504">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="21" />
@@ -1850,16 +1874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="285" column="8" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="360" column="47" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="184" column="50" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
-      <jump line="24" column="3" filename="G:/projects/zzswang/adventurer-web/src/components/label/index.js" />
-      <jump line="391" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="375" column="21" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="126" column="11" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
-      <jump line="33" column="60" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
-      <jump line="36" column="39" filename="G:/projects/zzswang/adventurer-web/src/selectors/index.js" />
       <jump line="89" column="19" filename="G:/projects/zzswang/adventurer-web/src/actions/index.js" />
       <jump line="47" column="25" filename="G:/projects/zzswang/adventurer-web/src/selectors/index.js" />
       <jump line="65" column="0" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
@@ -1950,63 +1964,70 @@
       <jump line="89" column="4" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
       <jump line="90" column="4" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
       <jump line="145" column="2" filename="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
+      <jump line="25" column="20" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
+      <jump line="33" column="5" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
+      <jump line="32" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
+      <jump line="28" column="20" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
+      <jump line="23" column="26" filename="D:/projects/zzswang/shanghaibus-core/src/constants.js" />
+      <jump line="122" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/constants.js" />
+      <jump line="68" column="14" filename="D:/projects/zzswang/shanghaibus-core/src/models/alarm.js" />
+      <jump line="136" column="2" filename="D:/projects/zzswang/shanghaibus-core/src/api/files.js" />
+      <jump line="59" column="9" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
+      <jump line="52" column="18" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIm1vbmdvb3NlIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>增加record create,list,get api，已完成openapi文档及postman测试</text>
       </register>
       <register name="/" type="4">
-        <text>alarm</text>
+        <text>object</text>
       </register>
-      <register name="0" type="4">
-        <text>mongodb://</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwYXlsb2FkLmFsYXJtLm4xTGlzdCwgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIm1vbmdvb3NlIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Wk9PS0VFUEVSX0hPU1Q9c3RhY2t0b3AuY246ODI4MQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEZJWE1FIGFsYXJtt9a/qrTmtKLBy6Os1PLDv7j2taW2wLXEYWxhcm3Wu7/JxNy3osn60ru0zqOsY291bnTV4rj2ss7K/crHt/G7udPQ0uLS5Qo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">S0FGS0FfSE9TVD1zdGFja3RvcC5jbjo4MDkyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQ09NUE9TRV9DT05WRVJUX1dJTkRPV1NfUEFUSFM6IDEK</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gVmVoaWNsZS51cHNlcnQoCiAgLy8gICBwYXlsb2FkLnZpbiwKICAvLyAgIGNsZWFuKHsKICAvLyAgICAgdXBkYXRlZEF0OiBwYXlsb2FkLnJlcG9ydGVkQXQsCiAgLy8gICAgIHBlcmZvcm1hbmNlOiBwYXlsb2FkLnZlaGljbGUsCiAgLy8gICAgIG1vdG9yczogcGF5bG9hZC5tb3RvciA/IHBheWxvYWQubW90b3IubW90b3JzIDogdW5kZWZpbmVkLAogIC8vICAgICBsb2NhdGlvbjogcGF5bG9hZC5sb2NhdGlvbiwKICAvLyAgICAgZXh0cmVtZTogcGF5bG9hZC5leHRyZW1lLAogIC8vICAgfSksCiAgLy8gKS50aGVuKHZlaGljbGUgPT4gewogIC8vICAgLy8g09C+r7Go0MXPogogIC8vICAgaWYgKHBheWxvYWQuYWxhcm0pIHsKICAvLwogIC8vICAgfQogIC8vIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJsb2FkLXZlaGljbGVzLWZyb20tY3ZzIjogImJhYmVsLW5vZGUgYmluL2xvYWQtdmVoaWNsZXMtZnJvbS1jc3YiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc3VjY2Vzc2VkID0gW107Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0cyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSZWRpcmVjdC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codi5pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>alarm</last-search>
+      <last-search>object</last-search>
       <last-offset />
-      <last-pattern>alarm</last-pattern>
+      <last-pattern>object</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ter</entry>
-        <entry>发布</entry>
-        <entry>onPublish</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>session</entry>
         <entry>fromNow</entry>
@@ -2024,6 +2045,9 @@
         <entry>未发布</entry>
         <entry>location</entry>
         <entry>alarm</entry>
+        <entry>all</entry>
+        <entry>ObjectId</entry>
+        <entry>object</entry>
       </history-search>
       <history-cmd />
       <history-expr />
