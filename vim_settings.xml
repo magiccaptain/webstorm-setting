@@ -267,6 +267,9 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" timestamp="1529582863041">
+        <mark key="'" line="145" column="2" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/src/utils/request.js" timestamp="1516504250413">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -398,6 +401,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="50" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529581180877">
+        <mark key="'" line="90" column="4" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517481072671">
         <mark key="[" line="64" column="0" />
@@ -995,7 +1001,11 @@
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529576803306" />
+      <file name="D:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529580496619">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519913095045">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -1146,6 +1156,7 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/alarm.js" timestamp="1529582796941" />
       <file name="$USER_HOME$/projects/SmartElective/Server/app/view/index.html" timestamp="1517674699560">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="22" />
@@ -1337,6 +1348,11 @@
         <mark key="]" line="39" column="49" />
         <mark key="." line="39" column="49" />
         <mark key="^" line="39" column="49" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529580851021">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" timestamp="1527577365249">
         <mark key="[" line="1" column="47" />
@@ -1594,11 +1610,10 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/.env" timestamp="1529577501621">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
+      <file name="D:/projects/zzswang/shanghaibus-core/.env" timestamp="1529580556596">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.js" timestamp="1525829817165">
         <mark key="[" line="0" column="21" />
@@ -1624,6 +1639,7 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/constants.js" timestamp="1529582141836" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/index.js" timestamp="1514338780504">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="21" />
@@ -1834,10 +1850,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="18" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="45" column="27" filename="G:/projects/zzswang/adventurer-web/src/actions/index.js" />
-      <jump line="88" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
-      <jump line="364" column="28" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="44" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="285" column="8" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="360" column="47" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
@@ -1934,62 +1946,64 @@
       <jump line="98" column="13" filename="G:/projects/zzswang/adventurer-web/src/containers/manager/index.js" />
       <jump line="97" column="26" filename="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" />
       <jump line="489" column="29" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="102" column="22" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="89" column="4" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="90" column="4" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="145" column="2" filename="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>filter-m</text>
+        <text>alarm</text>
       </register>
       <register name="0" type="4">
         <text>mongodb://</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsb2FkLXZlaGljbGVzLWZyb20tY3ZzIjogImJhYmVsLW5vZGUgYmluL2xvYWQtdmVoaWNsZXMtZnJvbS1jc3YiCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBheWxvYWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Wk9PS0VFUEVSX0hPU1Q9c3RhY2t0b3AuY246ODI4MQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">S0FGS0FfSE9TVD1zdGFja3RvcC5jbjo4MDkyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSZWRpcmVjdC8+Cg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQ09NUE9TRV9DT05WRVJUX1dJTkRPV1NfUEFUSFM6IDEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJsb2FkLXZlaGljbGVzLWZyb20tY3ZzIjogImJhYmVsLW5vZGUgYmluL2xvYWQtdmVoaWNsZXMtZnJvbS1jc3YiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgUHJvdGVjdGVkQnlSb2xlID0gKHsgY29tcG9uZW50OiBDb21wb25lbnQsIHJvbGUsIC4uLnJlc3QgfSkgPT4gewogIAogIAoKfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCB7Y29tcG9uZW50On0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhLnJvbGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxSZWRpcmVjdC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>filter-m</last-search>
+      <last-search>alarm</last-search>
       <last-offset />
-      <last-pattern>filter-m</last-pattern>
+      <last-pattern>alarm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFja3RvcFw+</entry>
-        <entry>mock</entry>
         <entry>ter</entry>
         <entry>发布</entry>
         <entry>onPublish</entry>
@@ -2008,6 +2022,8 @@
         <entry>filter-m</entry>
         <entry>logout</entry>
         <entry>未发布</entry>
+        <entry>location</entry>
+        <entry>alarm</entry>
       </history-search>
       <history-cmd />
       <history-expr />
