@@ -35,11 +35,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/api/files.js" timestamp="1529569288033">
-        <mark key="'" line="81" column="17" />
-        <mark key="[" line="137" column="43" />
-        <mark key="]" line="137" column="43" />
-        <mark key="." line="137" column="43" />
-        <mark key="^" line="137" column="20" />
+        <mark key="[" line="135" column="43" />
+        <mark key="]" line="135" column="43" />
+        <mark key="." line="135" column="43" />
+        <mark key="^" line="135" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1529569333767">
         <mark key="[" line="0" column="0" />
@@ -51,7 +50,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" timestamp="1529570145736" />
       <file name="G:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1529568179927">
         <mark key="'" line="85" column="11" />
         <mark key="[" line="3" column="0" />
@@ -98,11 +96,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1529564250588">
-        <mark key="'" line="188" column="15" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1529626560337">
+        <mark key="'" line="192" column="15" />
+        <mark key="[" line="141" column="20" />
+        <mark key="]" line="142" column="19" />
+        <mark key="." line="142" column="19" />
+        <mark key="^" line="142" column="19" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/index.js" timestamp="1529565344393">
         <mark key="'" line="69" column="11" />
@@ -223,10 +222,8 @@
       <jump line="81" column="17" filename="G:/projects/zzswang/shanghaibus-core/src/api/files.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.status(200).send({
-      success: 
-    })</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cmVzdWx0cy5tYXAociA9PiByLmlkKQ==</text>
@@ -237,31 +234,31 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFZlaGljbGUgZnJvbSAiLi4vbW9kZWxzL3ZlaGljbGUiOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXNzdWUpOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>.status(200).send({
       success: 
     })</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IEpXVF9UT0tFTiA9IGVudigiSldUX1RPS0VOIiwgIiIpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IEpXVF9UT0tFTiA9IGVudigiSldUX1RPS0VOIiwgIiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdHMuZmlsdGVyKHIgPT4gci5mYWlsZWQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDogIlVOS05PV04iCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdHMuZmlsdGVyKHIgPT4gci5mYWlsZWQpKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
