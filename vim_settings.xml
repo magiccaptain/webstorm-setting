@@ -575,10 +575,11 @@
         <mark key="^" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/.env" timestamp="1529560537912">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-core/.env" timestamp="1529639905145">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="48" />
+        <mark key="." line="1" column="48" />
+        <mark key="^" line="1" column="48" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/extend/application.ts" timestamp="1516986826457">
         <mark key="[" line="17" column="0" />
@@ -742,6 +743,12 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="16" column="47" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/models/alarm.js" timestamp="1529639530026">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+      </file>
       <file name="G:/projects/magiccaptain/react-happy-scrollbars/package.json" timestamp="1528185638725">
         <mark key="[" line="3" column="44" />
         <mark key="]" line="3" column="60" />
@@ -873,7 +880,6 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="G:/projects/stacktop-auth-server/node_modules/egg-mock/bootstrap.js" timestamp="1529559633859" />
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/service/user.ts" timestamp="1521686159875">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="41" />
@@ -922,9 +928,9 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="28" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1529569148265">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1529639895779">
+        <mark key="[" line="42" column="65" />
+        <mark key="]" line="42" column="95" />
         <mark key="." line="49" column="0" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/constants/error_codes.ts" timestamp="1521619196613">
@@ -1222,7 +1228,6 @@
         <mark key="." line="29" column="9" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1529568149900" />
       <file name="G:/projects/zzswang/adventurer-web/session.json" timestamp="1528943379894">
         <mark key="[" line="0" column="4091" />
         <mark key="]" line="0" column="0" />
@@ -1559,6 +1564,12 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529639924697">
+        <mark key="[" line="64" column="13" />
+        <mark key="]" line="66" column="26" />
+        <mark key="." line="66" column="26" />
+        <mark key="^" line="66" column="26" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/StudentElective/StudentElective.tsx" timestamp="1517667111141">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
@@ -1829,7 +1840,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/kafka/index.js" timestamp="1529559964753" />
       <file name="$USER_HOME$/projects/egg-example/config/config.default.js" timestamp="1516986507859">
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="32" />
@@ -1949,7 +1959,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529570959168" />
+      <file name="G:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529640023186">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1529503977359">
         <mark key="'" line="195" column="0" />
         <mark key="[" line="51" column="26" />
@@ -1989,8 +2003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="19" filename="G:/projects/zzswang/adventurer-web/src/actions/index.js" />
-      <jump line="47" column="25" filename="G:/projects/zzswang/adventurer-web/src/selectors/index.js" />
       <jump line="65" column="0" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
       <jump line="34" column="11" filename="G:/projects/zzswang/adventurer-web/src/selectors/index.js" />
       <jump line="67" column="3" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
@@ -2089,62 +2101,62 @@
       <jump line="136" column="2" filename="D:/projects/zzswang/shanghaibus-core/src/api/files.js" />
       <jump line="59" column="9" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
       <jump line="52" column="18" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
+      <jump line="18" column="24" filename="G:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
+      <jump line="159" column="0" filename="G:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIm1vbmdvb3NlIjsK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sK</text>
       </register>
       <register name="-" type="4">
-        <text>增加record create,list,get api，已完成openapi文档及postman测试</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text>object</text>
+        <text>alarm</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkLmFsYXJtLm4xTGlzdCwgCg==</text>
+      <register name="0" type="4">
+        <text>mongodb://localhost/shanghaibus</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIm1vbmdvb3NlIjsK</text>
+        <text encoding="base64">ICAgIHZvbHVtZXM6CiAgICAgIC0gL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEZJWE1FIGFsYXJtt9a/qrTmtKLBy6Os1PLDv7j2taW2wLXEYWxhcm3Wu7/JxNy3osn60ru0zqOsY291bnTV4rj2ss7K/crHt/G7udPQ0uLS5Qo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKGZvdW5kKXsKICAgICAgICAgICAgCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gVmVoaWNsZS51cHNlcnQoCiAgLy8gICBwYXlsb2FkLnZpbiwKICAvLyAgIGNsZWFuKHsKICAvLyAgICAgdXBkYXRlZEF0OiBwYXlsb2FkLnJlcG9ydGVkQXQsCiAgLy8gICAgIHBlcmZvcm1hbmNlOiBwYXlsb2FkLnZlaGljbGUsCiAgLy8gICAgIG1vdG9yczogcGF5bG9hZC5tb3RvciA/IHBheWxvYWQubW90b3IubW90b3JzIDogdW5kZWZpbmVkLAogIC8vICAgICBsb2NhdGlvbjogcGF5bG9hZC5sb2NhdGlvbiwKICAvLyAgICAgZXh0cmVtZTogcGF5bG9hZC5leHRyZW1lLAogIC8vICAgfSksCiAgLy8gKS50aGVuKHZlaGljbGUgPT4gewogIC8vICAgLy8g09C+r7Go0MXPogogIC8vICAgaWYgKHBheWxvYWQuYWxhcm0pIHsKICAvLwogIC8vICAgfQogIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3VjY2Vzc2VkID0gW107Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IEFsYXJtLmZpbmQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codi5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>object</last-search>
+      <last-search>alarm</last-search>
       <last-offset />
-      <last-pattern>object</last-pattern>
+      <last-pattern>alarm</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onPublish</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>session</entry>
         <entry>fromNow</entry>
         <entry>任务大厅</entry>
@@ -2163,6 +2175,8 @@
         <entry>loading</entry>
         <entry>status</entry>
         <entry>csv</entry>
+        <entry>alarms</entry>
+        <entry>alarm</entry>
       </history-search>
       <history-cmd />
       <history-expr />
