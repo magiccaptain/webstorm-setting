@@ -267,12 +267,12 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" timestamp="1529589145994">
-        <mark key="'" line="145" column="2" />
-        <mark key="[" line="113" column="17" />
-        <mark key="]" line="113" column="27" />
-        <mark key="^" line="111" column="28" />
-        <mark key="." line="113" column="17" />
+      <file name="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" timestamp="1529674803691">
+        <mark key="'" line="152" column="2" />
+        <mark key="[" line="108" column="10" />
+        <mark key="]" line="108" column="45" />
+        <mark key="^" line="108" column="45" />
+        <mark key="." line="108" column="45" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/utils/request.js" timestamp="1516504250413">
         <mark key="[" line="5" column="0" />
@@ -333,6 +333,13 @@
         <mark key="]" line="74" column="36" />
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/test.json" timestamp="1529675128574">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1821" />
+        <mark key="^" line="0" column="1821" />
+        <mark key="." line="0" column="1821" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceSettingModal/ServiceSettingModal.js" timestamp="1515326869866">
         <mark key="[" line="18" column="122" />
@@ -1016,12 +1023,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/files.js" timestamp="1529589606014">
-        <mark key="'" line="134" column="2" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519913095045">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -1366,11 +1367,6 @@
         <mark key="]" line="39" column="49" />
         <mark key="." line="39" column="49" />
         <mark key="^" line="39" column="49" />
-      </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529590734196">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" timestamp="1527577365249">
         <mark key="[" line="1" column="47" />
@@ -1874,8 +1870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="19" filename="G:/projects/zzswang/adventurer-web/src/actions/index.js" />
-      <jump line="47" column="25" filename="G:/projects/zzswang/adventurer-web/src/selectors/index.js" />
       <jump line="65" column="0" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
       <jump line="34" column="11" filename="G:/projects/zzswang/adventurer-web/src/selectors/index.js" />
       <jump line="67" column="3" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
@@ -1974,46 +1968,48 @@
       <jump line="136" column="2" filename="D:/projects/zzswang/shanghaibus-core/src/api/files.js" />
       <jump line="59" column="9" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
       <jump line="52" column="18" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
+      <jump line="126" column="4" filename="D:/projects/zzswang/shanghaibus-core/test.json" />
+      <jump line="0" column="0" filename="D:/projects/zzswang/shanghaibus-core/test.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIm1vbmdvb3NlIjsK</text>
+      <register name="&quot;" type="4">
+        <text>0x10140501</text>
       </register>
       <register name="-" type="4">
-        <text>增加record create,list,get api，已完成openapi文档及postman测试</text>
+        <text>0x10140501</text>
       </register>
       <register name="/" type="4">
         <text>object</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXlsb2FkLmFsYXJtLm4xTGlzdCwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsgdHlwZTogMiwgY29kZTogMHgxMDE0MDUwMSwgbGV2ZWw6IDEgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIm1vbmdvb3NlIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEZJWE1FIGFsYXJtt9a/qrTmtKLBy6Os1PLDv7j2taW2wLXEYWxhcm3Wu7/JxNy3osn60ru0zqOsY291bnTV4rj2ss7K/crHt/G7udPQ0uLS5Qo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlIGZyb20gIm1vbmdvb3NlIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEZJWE1FIGFsYXJtt9a/qrTmtKLBy6Os1PLDv7j2taW2wLXEYWxhcm3Wu7/JxNy3osn60ru0zqOsY291bnTV4rj2ss7K/crHt/G7udPQ0uLS5Qo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gVmVoaWNsZS51cHNlcnQoCiAgLy8gICBwYXlsb2FkLnZpbiwKICAvLyAgIGNsZWFuKHsKICAvLyAgICAgdXBkYXRlZEF0OiBwYXlsb2FkLnJlcG9ydGVkQXQsCiAgLy8gICAgIHBlcmZvcm1hbmNlOiBwYXlsb2FkLnZlaGljbGUsCiAgLy8gICAgIG1vdG9yczogcGF5bG9hZC5tb3RvciA/IHBheWxvYWQubW90b3IubW90b3JzIDogdW5kZWZpbmVkLAogIC8vICAgICBsb2NhdGlvbjogcGF5bG9hZC5sb2NhdGlvbiwKICAvLyAgICAgZXh0cmVtZTogcGF5bG9hZC5leHRyZW1lLAogIC8vICAgfSksCiAgLy8gKS50aGVuKHZlaGljbGUgPT4gewogIC8vICAgLy8g09C+r7Go0MXPogogIC8vICAgaWYgKHBheWxvYWQuYWxhcm0pIHsKICAvLwogIC8vICAgfQogIC8vIH0pOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3VjY2Vzc2VkID0gW107Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyByZXR1cm4gVmVoaWNsZS51cHNlcnQoCiAgLy8gICBwYXlsb2FkLnZpbiwKICAvLyAgIGNsZWFuKHsKICAvLyAgICAgdXBkYXRlZEF0OiBwYXlsb2FkLnJlcG9ydGVkQXQsCiAgLy8gICAgIHBlcmZvcm1hbmNlOiBwYXlsb2FkLnZlaGljbGUsCiAgLy8gICAgIG1vdG9yczogcGF5bG9hZC5tb3RvciA/IHBheWxvYWQubW90b3IubW90b3JzIDogdW5kZWZpbmVkLAogIC8vICAgICBsb2NhdGlvbjogcGF5bG9hZC5sb2NhdGlvbiwKICAvLyAgICAgZXh0cmVtZTogcGF5bG9hZC5leHRyZW1lLAogIC8vICAgfSksCiAgLy8gKS50aGVuKHZlaGljbGUgPT4gewogIC8vICAgLy8g09C+r7Go0MXPogogIC8vICAgaWYgKHBheWxvYWQuYWxhcm0pIHsKICAvLwogIC8vICAgfQogIC8vIH0pOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc3VjY2Vzc2VkID0gW107Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codi5pZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
