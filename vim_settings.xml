@@ -462,6 +462,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="0" column="38" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/test/api/fastman.js" timestamp="1529653286740" />
       <file name="G:/projects/zzswang/harvest/src/ali-log-api/util.js" timestamp="1527664893874">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="1" column="6" />
@@ -792,10 +793,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529648584176">
+      <file name="/Dummy.txt" timestamp="1529654066802">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
         <mark key="[" line="24" column="20" />
@@ -1664,10 +1665,6 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1529586303447">
-        <mark key="[" line="42" column="65" />
-        <mark key="]" line="42" column="74" />
-      </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test/api/driver.test.js" timestamp="1527397735998">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="37" />
@@ -1851,7 +1848,7 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1529652242302">
+      <file name="G:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1529653293012">
         <mark key="'" line="19" column="36" />
         <mark key="[" line="143" column="17" />
         <mark key="]" line="143" column="16" />
@@ -2118,7 +2115,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TODO/DOING/DONE</text>
+        <text>提供批量上传车辆接口
+
+完成上传接口，postman中File中有测试用例</text>
       </register>
       <register name="-" type="4">
         <text>TODO/DOING/DONE</text>
@@ -2129,32 +2128,34 @@
       <register name="0" type="4">
         <text>{ ...found, ...a }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coZSk7Cg==</text>
+      <register name="1" type="4">
+        <text>提供批量上传车辆接口
+
+完成上传接口，postman中File中有测试用例</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb3VuZC5jb3VudCsrOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBhd2FpdCBBbGFybS51cHNlcnQoZm91bmQuaWQsIHsgLi4uZm91bmQudG9KU09OKCksIC4uLmEgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmb3VuZC5jb3VudCsrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBhd2FpdCBBbGFybS51cHNlcnQoZm91bmQuaWQsIHsgLi4uZm91bmQudG9KU09OKCksIC4uLmEgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygiY3JlYXRlZCIsIGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygiY3JlYXRlZCIsIGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm91bmQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXlsb2FkLnJlcG9ydGVkQXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm91bmQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXlsb2FkLnJlcG9ydGVkQXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
