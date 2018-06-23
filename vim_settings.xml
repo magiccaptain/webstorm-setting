@@ -273,10 +273,10 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" timestamp="1529681489923">
+      <file name="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" timestamp="1529750322995">
         <mark key="'" line="142" column="2" />
-        <mark key="[" line="181" column="3" />
-        <mark key="]" line="182" column="2050" />
+        <mark key="[" line="154" column="22" />
+        <mark key="]" line="154" column="30" />
         <mark key="^" line="182" column="2050" />
         <mark key="." line="182" column="2050" />
       </file>
@@ -419,12 +419,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="50" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529746965668">
-        <mark key="'" line="91" column="4" />
-        <mark key="[" line="133" column="11" />
-        <mark key="]" line="133" column="12" />
-        <mark key="." line="133" column="12" />
-        <mark key="^" line="133" column="12" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529750171264">
+        <mark key="'" line="53" column="2" />
+        <mark key="[" line="128" column="30" />
+        <mark key="]" line="128" column="30" />
+        <mark key="." line="128" column="30" />
+        <mark key="^" line="129" column="55" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517481072671">
         <mark key="[" line="64" column="0" />
@@ -946,9 +946,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" timestamp="1529746750909">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="67" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" timestamp="1529748957454">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/constants/error_codes.ts" timestamp="1521619196613">
         <mark key="[" line="2" column="29" />
@@ -1376,11 +1378,11 @@
         <mark key="." line="39" column="49" />
         <mark key="^" line="39" column="49" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529746454521">
-        <mark key="[" line="146" column="24" />
-        <mark key="]" line="147" column="33" />
-        <mark key="." line="147" column="33" />
-        <mark key="^" line="147" column="33" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529750358559">
+        <mark key="[" line="91" column="31" />
+        <mark key="]" line="91" column="24" />
+        <mark key="." line="91" column="24" />
+        <mark key="^" line="91" column="24" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" timestamp="1527577365249">
         <mark key="[" line="1" column="47" />
@@ -1878,12 +1880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="4" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="132" column="23" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="161" column="24" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="162" column="22" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="220" column="16" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="467" column="18" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="217" column="22" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="92" column="40" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="230" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
@@ -1978,63 +1974,66 @@
       <jump line="120" column="21" filename="D:/projects/zzswang/shanghaibus-core/src/constants.js" />
       <jump line="128" column="39" filename="D:/projects/zzswang/shanghaibus-core/src/constants.js" />
       <jump line="129" column="24" filename="D:/projects/zzswang/shanghaibus-core/src/constants.js" />
+      <jump line="201" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="39" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="53" column="2" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="5" column="32" filename="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
+      <jump line="40" column="8" filename="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
+      <jump line="142" column="2" filename="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, &quot;ALARM&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>, &quot;ALARM&quot;</text>
+        <text>中</text>
       </register>
       <register name="/" type="4">
-        <text>lastUpdate</text>
+        <text>customExt</text>
       </register>
       <register name="0" type="4">
-        <text>[{ type: mongoose.Schema.Types.ObjectId, ref: &quot;Alarm&quot; }]</text>
+        <text>UNCHARGED</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vILWxx7DOtLSmwO21xL6vsaijrAogICAgY3VycmVudEFsYXJtOiBbeyB0eXBlOiBtb25nb29zZS5TY2hlbWEuVHlwZXMuT2JqZWN0SWQsIHJlZjogIkFsYXJtIiB9XSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGljY2lkOiBwYXlsb2FkLmljY2lkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGljY2lkOiBwYXlsb2FkLmljY2lkLAo=</text>
+        <text encoding="base64">ICAgICAgLy8gs7XBvrPktefXtMysCiAgICAgIGlmIChwYXlsb2FkLnZlaGljbGUgJiYgcGF5bG9hZC52ZWhpY2xlLmNoYXJnU3RhdHVzKSB7CiAgICAgICAgCiAgICAgICAgY29uc3Qgc3RhdHVzID0gcGF5bG9hZC52ZWhpY2xlLmNoYXJnU3RhdHVzID09PSAiVU5DSEFSR0VEIiA/CiAgICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXR1czogIkJST0tFTiIK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgaXNDaGFyZ2luZyA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYocGF5bG9hZCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">ICAgICAgY29uc3Qge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>lastUpdate</last-search>
+      <last-search>customExt</last-search>
       <last-offset />
-      <last-pattern>lastUpdate</last-pattern>
+      <last-pattern>customExt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>busGrey</entry>
-        <entry>chongdianz</entry>
-        <entry>bus</entry>
         <entry>buslev</entry>
         <entry>Tag</entry>
         <entry>issue-filter</entry>
@@ -2052,6 +2051,9 @@
         <entry>10131501</entry>
         <entry>ticket</entry>
         <entry>lastUpdate</entry>
+        <entry>status</entry>
+        <entry>chargStatus</entry>
+        <entry>customExt</entry>
       </history-search>
       <history-cmd />
       <history-expr />
