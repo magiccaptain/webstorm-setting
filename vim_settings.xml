@@ -87,9 +87,10 @@
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="32" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.test.js" timestamp="1529679748671">
-        <mark key="[" line="53" column="25" />
-        <mark key="]" line="53" column="25" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.test.js" timestamp="1529757914443">
+        <mark key="'" line="46" column="32" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="33" />
         <mark key="." line="53" column="25" />
         <mark key="^" line="53" column="25" />
       </file>
@@ -415,12 +416,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="50" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529756767605">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529758115084">
         <mark key="'" line="104" column="23" />
-        <mark key="[" line="129" column="46" />
-        <mark key="]" line="129" column="54" />
-        <mark key="." line="132" column="13" />
-        <mark key="^" line="132" column="13" />
+        <mark key="[" line="129" column="36" />
+        <mark key="]" line="129" column="39" />
+        <mark key="." line="129" column="39" />
+        <mark key="^" line="129" column="39" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517481072671">
         <mark key="[" line="64" column="0" />
@@ -656,6 +657,12 @@
         <mark key="^" line="43" column="105" />
         <mark key="." line="43" column="105" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/ticket.test.js" timestamp="1529758321854">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/egg-example/README.md" timestamp="1516982095786">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="11" column="0" />
@@ -680,12 +687,12 @@
         <mark key="^" line="5155" column="30" />
         <mark key="." line="5155" column="30" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" timestamp="1529756779263">
-        <mark key="'" line="59" column="11" />
-        <mark key="[" line="68" column="15" />
-        <mark key="]" line="68" column="20" />
-        <mark key="^" line="68" column="20" />
-        <mark key="." line="68" column="20" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" timestamp="1529757844835">
+        <mark key="'" line="38" column="1" />
+        <mark key="[" line="38" column="29" />
+        <mark key="]" line="38" column="46" />
+        <mark key="^" line="38" column="46" />
+        <mark key="." line="38" column="46" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
         <mark key="[" line="9" column="0" />
@@ -949,11 +956,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" timestamp="1529755868407">
-        <mark key="[" line="14" column="81" />
-        <mark key="]" line="14" column="81" />
-        <mark key="." line="14" column="81" />
-        <mark key="^" line="14" column="81" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" timestamp="1529757742025">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="94" column="26" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/constants/error_codes.ts" timestamp="1521619196613">
         <mark key="[" line="2" column="29" />
@@ -1182,7 +1189,7 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="9" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/alarm.js" timestamp="1529755967041">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/alarm.js" timestamp="1529757329832">
         <mark key="'" line="21" column="4" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="0" />
@@ -1409,8 +1416,8 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1529755242229">
-        <mark key="[" line="58" column="0" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1529757545129">
+        <mark key="[" line="58" column="11" />
         <mark key="]" line="62" column="13" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/manager/index.js" timestamp="1529397907427">
@@ -1885,11 +1892,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="5" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="136" column="18" filename="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" />
-      <jump line="272" column="13" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="326" column="1" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="28" column="30" filename="G:/projects/zzswang/adventurer-web/src/app.js" />
       <jump line="341" column="11" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="71" column="15" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="13" column="16" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
@@ -1985,48 +1987,51 @@
       <jump line="21" column="4" filename="D:/projects/zzswang/shanghaibus-core/src/models/alarm.js" />
       <jump line="60" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" />
       <jump line="59" column="11" filename="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" />
+      <jump line="64" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" />
+      <jump line="66" column="5" filename="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" />
+      <jump line="79" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" />
+      <jump line="38" column="1" filename="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" />
+      <jump line="46" column="32" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>REPAIRING</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>REPAIRING</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>vehicle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcS50aWNrZXQudmVoaWNsZS5zZXQoewogICAgICBzdGF0dXM6ICJSRVBBSVJJTkciCiAgICB9KTsK</text>
+        <text encoding="base64">ZGVzY3JpYmUoIlRlc3QgdGJveCIsIGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcS50aWNrCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>feat:报警标志位处理
-
--</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29zbnQgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgdGlja2V0SWQgPSAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHRpY2tldCA9IGF3YWl0IFRpY2tldC5jcmVhdGUoewogICAgICB2ZWhpY2xlOiAiTFdYQ0Q1RTM2REs2MDAzNjkiLAogICAgICAKICAgICAgCiAgICB9KTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IEFsYXJtIGZyb20gIi4uL21vZGVscy9hbGFybSI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogewogKiAgICBhbGFybUlkOiB7fSAvLyBhbGFybSBkYXRhCiAqIH0K</text>
+        <text encoding="base64">ICAvLyBpZiAoZG9jLmFsYXJtcykgewogIC8vICAgYXdhaXQgdXBkYXRlQWxhcm1zKHJlcS50aWNrZXQsIGRvYy5hbGFybXMpOwogIC8vIH0KICAvLwogIC8vIC8vILO1wb7XtMysuMTOqiDV/dTazqzQ3gogIC8vIGlmIChkb2Muc3RhdGUgJiYgZG9jLnN0YXRlID09PSAiRE9JTkciKSB7CiAgLy8gICByZXEudGlja2V0LnZlaGljbGUuc2V0KHsKICAvLyAgICAgc3RhdHVzOiAiUkVQQUlSSU5HIgogIC8vICAgfSk7CiAgLy8gfQogIC8vCiAgLy8gLy8gs7XBvte0zKy4xM6qIM2jyrsKICAvLyBpZiAoZG9jLnN0YXRlICYmIGRvYy5zdGF0ZSA9PT0gIkRPTkUiKSB7CiAgLy8gICByZXEudGlja2V0LnZlaGljbGUuc2V0KHsKICAvLyAgICAgc3RhdHVzOiAiQlJPS0VOIgogIC8vICAgfSk7CiAgLy8gfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
