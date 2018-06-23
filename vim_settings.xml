@@ -419,12 +419,12 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="50" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529750171264">
-        <mark key="'" line="53" column="2" />
-        <mark key="[" line="128" column="30" />
-        <mark key="]" line="128" column="30" />
-        <mark key="." line="128" column="30" />
-        <mark key="^" line="129" column="55" />
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529750801705">
+        <mark key="'" line="104" column="23" />
+        <mark key="[" line="133" column="16" />
+        <mark key="]" line="133" column="44" />
+        <mark key="." line="133" column="44" />
+        <mark key="^" line="133" column="44" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/load_db.ts" timestamp="1517481072671">
         <mark key="[" line="64" column="0" />
@@ -684,6 +684,7 @@
         <mark key="^" line="5155" column="30" />
         <mark key="." line="5155" column="30" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" timestamp="1529750912494" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1378,11 +1379,8 @@
         <mark key="." line="39" column="49" />
         <mark key="^" line="39" column="49" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529750358559">
+      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529750776037">
         <mark key="[" line="91" column="31" />
-        <mark key="]" line="91" column="24" />
-        <mark key="." line="91" column="24" />
-        <mark key="^" line="91" column="24" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-api-test/test/rdb/mock-data.js" timestamp="1527577365249">
         <mark key="[" line="1" column="47" />
@@ -1880,7 +1878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="22" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="92" column="40" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="230" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="20" column="24" filename="G:/projects/zzswang/adventurer-web/session.json" />
@@ -1980,16 +1977,17 @@
       <jump line="5" column="32" filename="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
       <jump line="40" column="8" filename="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
       <jump line="142" column="2" filename="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
+      <jump line="104" column="23" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>Boolean</text>
       </register>
       <register name="-" type="4">
-        <text>中</text>
+        <text>Boolean</text>
       </register>
       <register name="/" type="4">
-        <text>customExt</text>
+        <text>isAlarmed</text>
       </register>
       <register name="0" type="4">
         <text>UNCHARGED</text>
@@ -2026,15 +2024,14 @@
       </register>
     </registers>
     <search>
-      <last-search>customExt</last-search>
+      <last-search>isAlarmed</last-search>
       <last-offset />
-      <last-pattern>customExt</last-pattern>
+      <last-pattern>isAlarmed</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>buslev</entry>
         <entry>Tag</entry>
         <entry>issue-filter</entry>
         <entry>filter-m</entry>
@@ -2054,6 +2051,7 @@
         <entry>status</entry>
         <entry>chargStatus</entry>
         <entry>customExt</entry>
+        <entry>isAlarmed</entry>
       </history-search>
       <history-cmd />
       <history-expr />
