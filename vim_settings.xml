@@ -724,6 +724,7 @@
         <mark key="^" line="37" column="25" />
         <mark key="." line="37" column="25" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/.env" timestamp="1529832818113" />
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ProjectsTree/ProjectsTree.css" timestamp="1515244407619">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -886,10 +887,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529654066802">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1529831798570">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/Notification.js" timestamp="1514353465224">
         <mark key="[" line="24" column="20" />
@@ -1064,12 +1065,12 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1529830297033">
-        <mark key="'" line="552" column="15" />
-        <mark key="[" line="513" column="24" />
-        <mark key="]" line="513" column="27" />
-        <mark key="." line="513" column="27" />
-        <mark key="^" line="513" column="27" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1529832320551">
+        <mark key="'" line="391" column="1" />
+        <mark key="[" line="609" column="66" />
+        <mark key="]" line="609" column="70" />
+        <mark key="." line="609" column="70" />
+        <mark key="^" line="609" column="70" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/api/index.js" timestamp="1529565391671">
         <mark key="[" line="58" column="20" />
@@ -1119,6 +1120,12 @@
         <mark key="]" line="20" column="9" />
         <mark key="." line="20" column="9" />
         <mark key="^" line="20" column="9" />
+      </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1529832663226">
+        <mark key="[" line="85" column="13" />
+        <mark key="]" line="85" column="17" />
+        <mark key="^" line="85" column="17" />
+        <mark key="." line="85" column="17" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529580496619">
         <mark key="[" line="16" column="0" />
@@ -1953,7 +1960,7 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1529828840678">
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1529832312295">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
@@ -2017,12 +2024,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1529503977359">
-        <mark key="'" line="195" column="0" />
-        <mark key="[" line="51" column="26" />
-        <mark key="]" line="51" column="34" />
-        <mark key="." line="51" column="34" />
-        <mark key="^" line="51" column="34" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1529831395669">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="48" column="32" />
+        <mark key="." line="48" column="32" />
+        <mark key="^" line="48" column="32" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1525915579783">
         <mark key="[" line="2" column="4" />
@@ -2062,7 +2069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="6" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
       <jump line="4" column="0" filename="G:/projects/zzswang/adventurer-web/src/actions/index.js" />
       <jump line="21" column="0" filename="G:/projects/zzswang/adventurer-web/src/reducers/index.js" />
       <jump line="60" column="20" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
@@ -2162,48 +2168,49 @@
       <jump line="50" column="24" filename="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
       <jump line="636" column="25" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="552" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="391" column="1" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{i.name}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>{i.name}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>alarm</text>
       </register>
-      <register name="0" type="4">
-        <text>/task/my/issues</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvdGFzay9yZXBvc2l0b3JpZXMvOmlkL2lzc3VlcyIgY29tcG9uZW50PXt0aGlzLnJlbmRlclNpZGVyfSBleGFjdCAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxSYWRpb0J1dHRvbiB2YWx1ZT0idG9kbyI+VG9kbzwvUmFkaW9CdXR0b24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8TmF2TGluayAvPgo=</text>
+        <text encoding="base64">Y29uc3QgTXlJc3N1ZXMgPSBwcm9wcyA9PiB7CiAgCn07Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8TmF2TGluayAvPgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIDxNCiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>提供批量上传车辆接口
 
 完成上传接口，postman中File中有测试用例</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb3VuZC5jb3VudCsrOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBhd2FpdCBBbGFybS51cHNlcnQoZm91bmQuaWQsIHsgLi4uZm91bmQudG9KU09OKCksIC4uLmEgfSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
