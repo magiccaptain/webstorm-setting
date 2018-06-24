@@ -1064,12 +1064,12 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1527324703383">
-        <mark key="'" line="197" column="32" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="27" column="54" />
-        <mark key="." line="26" column="0" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1529830297033">
+        <mark key="'" line="552" column="15" />
+        <mark key="[" line="513" column="24" />
+        <mark key="]" line="513" column="27" />
+        <mark key="." line="513" column="27" />
+        <mark key="^" line="513" column="27" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/api/index.js" timestamp="1529565391671">
         <mark key="[" line="58" column="20" />
@@ -2062,8 +2062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="11" filename="G:/projects/zzswang/adventurer-web/src/selectors/index.js" />
-      <jump line="67" column="3" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
       <jump line="3" column="6" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
       <jump line="4" column="0" filename="G:/projects/zzswang/adventurer-web/src/actions/index.js" />
       <jump line="21" column="0" filename="G:/projects/zzswang/adventurer-web/src/reducers/index.js" />
@@ -2162,50 +2160,50 @@
       <jump line="18" column="24" filename="G:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
       <jump line="159" column="0" filename="G:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
       <jump line="50" column="24" filename="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
+      <jump line="636" column="25" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="552" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>提供批量上传车辆接口
-
-完成上传接口，postman中File中有测试用例</text>
+        <text>{i.name}</text>
       </register>
       <register name="-" type="4">
-        <text>TODO/DOING/DONE</text>
+        <text>{i.name}</text>
       </register>
       <register name="/" type="4">
         <text>alarm</text>
       </register>
       <register name="0" type="4">
-        <text>{ ...found, ...a }</text>
+        <text>/task/my/issues</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8TmF2TGluayAvPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIDxNCiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="4">
         <text>提供批量上传车辆接口
 
 完成上传接口，postman中File中有测试用例</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coZSk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBmb3VuZC5jb3VudCsrOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAvLyBhd2FpdCBBbGFybS51cHNlcnQoZm91bmQuaWQsIHsgLi4uZm91bmQudG9KU09OKCksIC4uLmEgfSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygiY3JlYXRlZCIsIGEpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZm91bmQpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXlsb2FkLnJlcG9ydGVkQXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
