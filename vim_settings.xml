@@ -396,12 +396,8 @@
         <mark key="." line="7" column="28" />
         <mark key="^" line="7" column="28" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529913536373">
-        <mark key="'" line="148" column="2" />
-        <mark key="[" line="116" column="9" />
-        <mark key="]" line="116" column="8" />
-        <mark key="." line="116" column="8" />
-        <mark key="^" line="116" column="8" />
+      <file name="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529914816537">
+        <mark key="'" line="123" column="5" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/index.js" timestamp="1515327036316">
         <mark key="[" line="24" column="0" />
@@ -1569,13 +1565,6 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529652141535">
-        <mark key="'" line="50" column="24" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="67" column="37" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/StudentElective/StudentElective.tsx" timestamp="1517667111141">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="26" />
@@ -2007,7 +1996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="24" filename="G:/projects/zzswang/adventurer-web/session.json" />
       <jump line="0" column="0" filename="G:/projects/zzswang/adventurer-web/session.json" />
       <jump line="112" column="32" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="44" column="53" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
@@ -2107,19 +2095,20 @@
       <jump line="3" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="243" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="70" column="23" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/busDetail.js" />
+      <jump line="123" column="5" filename="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWx0ZXJzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>vehicleMotorSchema</text>
       </register>
       <register name="-" type="4">
         <text>任务大厅默认界面为全部任务，修复用户中心账单在月底不显示未出账单</text>
       </register>
       <register name="/" type="4">
-        <text>MyIcon</text>
+        <text>custom</text>
       </register>
       <register name="0" type="4">
-        <text>assignees</text>
+        <text>vehicleMotorSchema</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWx0ZXJzKTsK</text>
@@ -2155,17 +2144,14 @@
       </register>
     </registers>
     <search>
-      <last-search>MyIcon</last-search>
+      <last-search>custom</last-search>
       <last-offset />
-      <last-pattern>MyIcon</last-pattern>
+      <last-pattern>custom</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>关闭</entry>
-        <entry>busGrey</entry>
-        <entry>chongdianz</entry>
         <entry>bus</entry>
         <entry>buslev</entry>
         <entry>Tag</entry>
@@ -2183,6 +2169,9 @@
         <entry>我的</entry>
         <entry>url</entry>
         <entry>MyIcon</entry>
+        <entry>cust</entry>
+        <entry>cus</entry>
+        <entry>custom</entry>
       </history-search>
       <history-cmd />
       <history-expr />
