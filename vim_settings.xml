@@ -387,6 +387,9 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529581180877">
+        <mark key="'" line="90" column="4" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_course_type.ts" timestamp="1517397116175">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="28" />
@@ -560,6 +563,9 @@
         <mark key="]" line="10" column="9" />
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/busDetail.js" timestamp="1529912331636">
+        <mark key="'" line="70" column="23" />
       </file>
       <file name="G:/projects/zzswang/harvest/src/log-api/index.js" timestamp="1527664810441">
         <mark key="[" line="0" column="3" />
@@ -1018,12 +1024,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-core/src/api/files.js" timestamp="1529589606014">
-        <mark key="'" line="134" column="2" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
       <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519913095045">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -1221,6 +1221,9 @@
         <mark key="]" line="36" column="66" />
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/alarm.js" timestamp="1529589484201">
+        <mark key="'" line="68" column="14" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/model/student.ts" timestamp="1516985720659">
         <mark key="[" line="29" column="9" />
@@ -1523,6 +1526,7 @@
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/styles/global/icon.less" timestamp="1529912570565" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/LoadingPage/LoadingPage.tsx" timestamp="1517638156698">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="39" />
@@ -1788,6 +1792,9 @@
         <mark key="^" line="28" column="55" />
         <mark key="." line="28" column="56" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/index.js" timestamp="1529565344393">
+        <mark key="'" line="69" column="11" />
+      </file>
       <file name="D:/projects/stacktop-auth-server/gendoc.cmd" timestamp="1524238790607">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="82" />
@@ -2000,7 +2007,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="20" column="24" filename="G:/projects/zzswang/adventurer-web/session.json" />
       <jump line="0" column="0" filename="G:/projects/zzswang/adventurer-web/session.json" />
       <jump line="112" column="32" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
@@ -2100,6 +2106,7 @@
       <jump line="17" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="3" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="243" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
+      <jump line="70" column="23" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/busDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2109,7 +2116,7 @@
         <text>任务大厅默认界面为全部任务，修复用户中心账单在月底不显示未出账单</text>
       </register>
       <register name="/" type="4">
-        <text>url</text>
+        <text>MyIcon</text>
       </register>
       <register name="0" type="4">
         <text>assignees</text>
@@ -2148,15 +2155,14 @@
       </register>
     </registers>
     <search>
-      <last-search>url</last-search>
+      <last-search>MyIcon</last-search>
       <last-offset />
-      <last-pattern>url</last-pattern>
+      <last-pattern>MyIcon</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>antd</entry>
         <entry>关闭</entry>
         <entry>busGrey</entry>
         <entry>chongdianz</entry>
@@ -2176,6 +2182,7 @@
         <entry>我的任务</entry>
         <entry>我的</entry>
         <entry>url</entry>
+        <entry>MyIcon</entry>
       </history-search>
       <history-cmd />
       <history-expr />
