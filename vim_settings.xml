@@ -83,6 +83,12 @@
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1529995038940">
+        <mark key="[" line="72" column="46" />
+        <mark key="]" line="73" column="3" />
+        <mark key="." line="73" column="3" />
+        <mark key="^" line="73" column="3" />
+      </file>
       <file name="G:/projects/smart_meter_dva/global.d.ts" timestamp="1504065359861">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="1" />
@@ -348,7 +354,6 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/wali-web/src/reducers/list.js" timestamp="1528555826394" />
       <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/manager/style.css" timestamp="1529157106952">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="19" />
@@ -472,7 +477,11 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529167050501" />
+      <file name="/Dummy.txt" timestamp="1529995082598">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499437108532">
         <mark key="[" line="46" column="5" />
         <mark key="]" line="48" column="3" />
@@ -1233,11 +1242,15 @@
       <jump line="7" column="0" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/project/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8UmVkaXJlY3QgZnJvbT0iL3VzZXIiIHRvPSIvdXNlci9iaWxscyIgZXhhY3QgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>账单页面完成
+         
+         - 管理中心-账单
+         - 管理中心-账单详情
+         - 用户中心-账单</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
@@ -1245,32 +1258,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8UmVkaXJlY3QgZnJvbT0iL3VzZXIiIHRvPSIvdXNlci9iaWxscyIgZXhhY3QgLz4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPExheW91dCBzdHlsZT17eyBoZWlnaHQ6ICJjYWxjKDEwMHZoIC0gNjRweCkiIH19PgogICAgICAgIDxMYXlvdXQ+6aG555uu566h55CGPC9MYXlvdXQ+CiAgICAgIDwvTGF5b3V0Pgo=</text>
+      <register name="1" type="4">
+        <text>账单页面完成
+         
+         - 管理中心-账单
+         - 管理中心-账单详情
+         - 用户中心-账单</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKCFiaWxscyl7CiAgICAgIAogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPExheW91dCBzdHlsZT17eyBoZWlnaHQ6ICJjYWxjKDEwMHZoIC0gNjRweCkiIH19PgogICAgICAgIDxMYXlvdXQ+6aG555uu566h55CGPC9MYXlvdXQ+CiAgICAgIDwvTGF5b3V0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8ZGl2IC8+Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiA8ZGl2IC8+Owo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
