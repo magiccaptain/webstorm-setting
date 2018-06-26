@@ -477,7 +477,7 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529995082598">
+      <file name="/Dummy.txt" timestamp="1529998745247">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -1244,10 +1244,10 @@
     <registers>
       <register name="&quot;" type="4">
         <text>账单页面完成
-         
-         - 管理中心-账单
-         - 管理中心-账单详情
-         - 用户中心-账单</text>
+
+- 管理中心-账单
+- 管理中心-账单详情
+- 用户中心-账单</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -1260,22 +1260,26 @@
       </register>
       <register name="1" type="4">
         <text>账单页面完成
+
+- 管理中心-账单
+- 管理中心-账单详情
+- 用户中心-账单</text>
+      </register>
+      <register name="2" type="4">
+        <text>账单页面完成
          
          - 管理中心-账单
          - 管理中心-账单详情
          - 用户中心-账单</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGlmKCFiaWxscyl7CiAgICAgIAogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPExheW91dCBzdHlsZT17eyBoZWlnaHQ6ICJjYWxjKDEwMHZoIC0gNjRweCkiIH19PgogICAgICAgIDxMYXlvdXQ+6aG555uu566h55CGPC9MYXlvdXQ+CiAgICAgIDwvTGF5b3V0Pgo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPExheW91dCBzdHlsZT17eyBoZWlnaHQ6ICJjYWxjKDEwMHZoIC0gNjRweCkiIH19PgogICAgICAgIDxMYXlvdXQ+6aG555uu566h55CGPC9MYXlvdXQ+CiAgICAgIDwvTGF5b3V0Pgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1284,10 +1288,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8ZGl2IC8+Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiA8ZGl2IC8+Owo=</text>
       </register>
     </registers>
     <search>
