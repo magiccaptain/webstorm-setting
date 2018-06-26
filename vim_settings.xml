@@ -643,12 +643,6 @@
         <mark key="^" line="129" column="34" />
         <mark key="." line="129" column="34" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/project/index.js" timestamp="1529977736742">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="2" />
-      </file>
       <file name="$USER_HOME$/projects/zzswang/adventurer-web/.gitignore" timestamp="1526881072339">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="26" column="4" />
@@ -869,9 +863,10 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/manager/index.js" timestamp="1529163535210">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="19" />
+      <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/manager/index.js" timestamp="1529979721289">
+        <mark key="'" line="112" column="1" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="54" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/router.ts" timestamp="1503927604793">
         <mark key="[" line="22" column="34" />
@@ -933,10 +928,15 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/app.js" timestamp="1529979843003">
+        <mark key="'" line="15" column="42" />
+        <mark key="[" line="65" column="51" />
+        <mark key="]" line="65" column="57" />
+        <mark key="^" line="65" column="57" />
+        <mark key="." line="65" column="57" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="3003" column="17" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/node_modules/@types/node/index.d.ts" />
-      <jump line="21" column="15" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/spec/openapi-3.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/@types/openapi-3.d.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/@types/openapi-3.d.ts" />
       <jump line="0" column="18" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/@types/openapi-2.d.ts" />
@@ -1035,46 +1035,48 @@
       <jump line="70" column="15" filename="$USER_HOME$/projects/zzswang/wali-web/src/containers/watch-dog/index.js" />
       <jump line="76" column="0" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/user/bill.js" />
       <jump line="57" column="38" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/user/index.js" />
+      <jump line="112" column="1" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/manager/index.js" />
+      <jump line="15" column="42" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBnZXRVc2VyIA==</text>
+        <text>User</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBnZXRVc2VyIA==</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text>setState</text>
       </register>
-      <register name="0" type="4">
-        <text>trigger=&quot;click&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8UHJvdGVjdGVkUm91dGUgcGF0aD0iL3VzZXIiIGNvbXBvbmVudD17VXNlcn0gLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGhpc3RvcnkgZnJvbSAiLi4vLi4vaGlzdG9yeSI7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICJtb21lbnQiOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aEFwcExheW91dCB9IGZyb20gIi4uL2FwcC1sYXlvdXQiOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBJY29uLCBMYXlvdXQsIFNwaW4sIE1lbnUgfSBmcm9tICJhbnRkIjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2Nyb2xsYmFycyB9IGZyb20gInJlYWN0LWN1c3RvbS1zY3JvbGxiYXJzIjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUm91dGUsIFN3aXRjaCwgUmVkaXJlY3QgfSBmcm9tICJyZWFjdC1yb3V0ZXIiOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHt9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBoZWFkZXI6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QGFwcFdpdGgK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGhpc3RvcnkgZnJvbSAiLi4vLi4vaGlzdG9yeSI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICJtb21lbnQiOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBDb250ZW50LCBTaWRlciB9ID0gTGF5b3V0Owo=</text>
+        <text encoding="base64">aW1wb3J0IHsgd2l0aEFwcExheW91dCB9IGZyb20gIi4uL2FwcC1sYXlvdXQiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQmlsbHMgfSBmcm9tICIuLi9tYW5hZ2VyL2JpbGxzIjsK</text>
+        <text encoding="base64">aW1wb3J0IHsgQnV0dG9uLCBJY29uLCBMYXlvdXQsIFNwaW4sIE1lbnUgfSBmcm9tICJhbnRkIjsK</text>
       </register>
     </registers>
     <search>
