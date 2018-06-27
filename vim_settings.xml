@@ -15,11 +15,17 @@
         <mark key="[" line="58" column="11" />
         <mark key="]" line="62" column="13" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/index.js" timestamp="1530064099171">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1529649320231">
         <mark key="[" line="42" column="65" />
         <mark key="]" line="42" column="95" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/warning.mock.d.ts" timestamp="1530064009856" />
       <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/style.css" timestamp="1527832746462">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -49,6 +55,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/styles/global/icon.less" timestamp="1530063330255" />
       <file name="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1529912003708">
         <mark key="'" line="69" column="11" />
         <mark key="[" line="391" column="25" />
@@ -58,6 +65,12 @@
       </file>
       <file name="D:/projects/zzswang/adventurer-web/src/containers/manager/user-bill.js" timestamp="1529838382344">
         <mark key="'" line="71" column="12" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.module.less" timestamp="1530064635755">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/index.js" timestamp="1529565344393">
         <mark key="'" line="69" column="11" />
@@ -69,6 +82,7 @@
         <mark key="^" line="0" column="1821" />
         <mark key="." line="0" column="1821" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/actions/index.js" timestamp="1530063609158" />
       <file name="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1527174015107">
         <mark key="'" line="50" column="42" />
         <mark key="[" line="1" column="11" />
@@ -112,10 +126,23 @@
         <mark key="." line="143" column="16" />
         <mark key="^" line="143" column="16" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1530065198946">
+        <mark key="'" line="182" column="24" />
+        <mark key="[" line="181" column="25" />
+        <mark key="]" line="181" column="25" />
+        <mark key="." line="181" column="25" />
+        <mark key="^" line="181" column="25" />
+      </file>
       <file name="D:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529580496619">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/app.js" timestamp="1530063577816">
+        <mark key="[" line="81" column="47" />
+        <mark key="]" line="81" column="52" />
+        <mark key="^" line="81" column="52" />
+        <mark key="." line="81" column="52" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/busDetail.js" timestamp="1529912331636">
         <mark key="'" line="70" column="23" />
@@ -130,7 +157,13 @@
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="37" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1528958390264">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530065127092">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1530063402267">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
@@ -173,8 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="26" filename="G:/projects/zzswang/adventurer-web/src/sagas/index.js" />
-      <jump line="120" column="16" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="39" column="31" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="25" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="318" column="7" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
@@ -273,48 +304,48 @@
       <jump line="16" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/styles/global/icon.less" />
       <jump line="17" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/styles/global/icon.less" />
       <jump line="17" column="26" filename="D:/projects/zzswang/shanghaibus-admin-web/public/fonts/iconfont.css" />
+      <jump line="8" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/index.js" />
+      <jump line="181" column="24" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Lmljb24tbXNudWktYWxhcm0tdHJpYW5nbGU6YmVmb3JlIHsgY29udGVudDogIlxlNzU2IjsgfQoKLmljb24tbWFwLXN0b3BwaW5nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTZjNCI7IH0KCi5pY29uLXRpbmdjaGVjaGFuZzpiZWZvcmUgeyBjb250ZW50OiAiXGU2NmIiOyB9CgouaWNvbi1zaHVpZGlhbmJpYW9jaGFvYmlhbzpiZWZvcmUgeyBjb250ZW50OiAiXGU2NWQiOyB9CgouaWNvbi1wYXJraW5nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTlkMiI7IH0KCi5pY29uLXRpbmdjaGVjaGFuZzE6YmVmb3JlIHsgY29udGVudDogIlxlNmRhIjsgfQoKLmljb24tZ3VwaWFvOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY1MiI7IH0KCi5pY29uLWJ1czpiZWZvcmUgeyBjb250ZW50OiAiXGU2NWYiOyB9CgouaWNvbi10aW5nY2hld2VpOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY2NCI7IH0KCi5pY29uLXdlaWJpYW90aTUwNzpiZWZvcmUgeyBjb250ZW50OiAiXGU2OTEiOyB9CgouaWNvbi11c2VyOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY3ZiI7IH0KCi5pY29uLXRpbmdjaGVjaGFuZzI6YmVmb3JlIHsgY29udGVudDogIlxlNjA2IjsgfQoKLmljb24tdGluZ3poaTpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDQiOyB9CgouaWNvbi1nb25namlhb2NoZTpiZWZvcmUgeyBjb250ZW50OiAiXGU2OTkiOyB9CgouaWNvbi16aGlsZW5nLTpiZWZvcmUgeyBjb250ZW50OiAiXGU2ODQiOyB9CgouaWNvbi1iYW5zaG91X286YmVmb3JlIHsgY29udGVudDogIlxlNjRlIjsgfQoKLmljb24tQ29uY2lzZTpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDIiOyB9CgouaWNvbi1qaWF5b3V6aGFuOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTYxNyI7IH0KCi5pY29uLWppYW5rb25nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZWEyYSI7IH0KCi5pY29uLWppYXlvdTpiZWZvcmUgeyBjb250ZW50OiAiXGU3M2EiOyB9CgouaWNvbi1jaG9uZ2RpYW56aHVhbmc6YmVmb3JlIHsgY29udGVudDogIlxlNjAxIjsgfQoKLmljb24tZ29uZ2ppYW9jaGVkaW5nd2VpOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZjYwNSI7IH0KCi5pY29uLWNob25nZGlhbnpoYW46YmVmb3JlIHsgY29udGVudDogIlxlNjA3IjsgfQoKLmljb24tdGluZ2NoZWNoYW5nMzpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDgiOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxTZWFyY2hQYW5lbCBvbkZpbHRlckNoYW5nZT17dGhpcy5vbkZpbHRlckNoYW5nZX0gLz4K</text>
       </register>
       <register name="-" type="4">
-        <text>任务大厅默认界面为全部任务，修复用户中心账单在月底不显示未出账单</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Lmljb24tbXNudWktYWxhcm0tdHJpYW5nbGU6YmVmb3JlIHsgY29udGVudDogIlxlNzU2IjsgfQoKLmljb24tbWFwLXN0b3BwaW5nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTZjNCI7IH0KCi5pY29uLXRpbmdjaGVjaGFuZzpiZWZvcmUgeyBjb250ZW50OiAiXGU2NmIiOyB9CgouaWNvbi1zaHVpZGlhbmJpYW9jaGFvYmlhbzpiZWZvcmUgeyBjb250ZW50OiAiXGU2NWQiOyB9CgouaWNvbi1wYXJraW5nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTlkMiI7IH0KCi5pY29uLXRpbmdjaGVjaGFuZzE6YmVmb3JlIHsgY29udGVudDogIlxlNmRhIjsgfQoKLmljb24tZ3VwaWFvOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY1MiI7IH0KCi5pY29uLWJ1czpiZWZvcmUgeyBjb250ZW50OiAiXGU2NWYiOyB9CgouaWNvbi10aW5nY2hld2VpOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY2NCI7IH0KCi5pY29uLXdlaWJpYW90aTUwNzpiZWZvcmUgeyBjb250ZW50OiAiXGU2OTEiOyB9CgouaWNvbi11c2VyOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY3ZiI7IH0KCi5pY29uLXRpbmdjaGVjaGFuZzI6YmVmb3JlIHsgY29udGVudDogIlxlNjA2IjsgfQoKLmljb24tdGluZ3poaTpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDQiOyB9CgouaWNvbi1nb25namlhb2NoZTpiZWZvcmUgeyBjb250ZW50OiAiXGU2OTkiOyB9CgouaWNvbi16aGlsZW5nLTpiZWZvcmUgeyBjb250ZW50OiAiXGU2ODQiOyB9CgouaWNvbi1iYW5zaG91X286YmVmb3JlIHsgY29udGVudDogIlxlNjRlIjsgfQoKLmljb24tQ29uY2lzZTpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDIiOyB9CgouaWNvbi1qaWF5b3V6aGFuOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTYxNyI7IH0KCi5pY29uLWppYW5rb25nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZWEyYSI7IH0KCi5pY29uLWppYXlvdTpiZWZvcmUgeyBjb250ZW50OiAiXGU3M2EiOyB9CgouaWNvbi1jaG9uZ2RpYW56aHVhbmc6YmVmb3JlIHsgY29udGVudDogIlxlNjAxIjsgfQoKLmljb24tZ29uZ2ppYW9jaGVkaW5nd2VpOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZjYwNSI7IH0KCi5pY29uLWNob25nZGlhbnpoYW46YmVmb3JlIHsgY29udGVudDogIlxlNjA3IjsgfQoKLmljb24tdGluZ2NoZWNoYW5nMzpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDgiOyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvLkJ1dHRvbiB2YWx1ZT0iZG9pbmciPrSmwO3W0DwvUmFkaW8uQnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Lmljb24tbXNudWktYWxhcm0tdHJpYW5nbGU6YmVmb3JlIHsgY29udGVudDogIlxlNzU2IjsgfQoKLmljb24tbWFwLXN0b3BwaW5nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTZjNCI7IH0KCi5pY29uLXRpbmdjaGVjaGFuZzpiZWZvcmUgeyBjb250ZW50OiAiXGU2NmIiOyB9CgouaWNvbi1zaHVpZGlhbmJpYW9jaGFvYmlhbzpiZWZvcmUgeyBjb250ZW50OiAiXGU2NWQiOyB9CgouaWNvbi1wYXJraW5nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTlkMiI7IH0KCi5pY29uLXRpbmdjaGVjaGFuZzE6YmVmb3JlIHsgY29udGVudDogIlxlNmRhIjsgfQoKLmljb24tZ3VwaWFvOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY1MiI7IH0KCi5pY29uLWJ1czpiZWZvcmUgeyBjb250ZW50OiAiXGU2NWYiOyB9CgouaWNvbi10aW5nY2hld2VpOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY2NCI7IH0KCi5pY29uLXdlaWJpYW90aTUwNzpiZWZvcmUgeyBjb250ZW50OiAiXGU2OTEiOyB9CgouaWNvbi11c2VyOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY3ZiI7IH0KCi5pY29uLXRpbmdjaGVjaGFuZzI6YmVmb3JlIHsgY29udGVudDogIlxlNjA2IjsgfQoKLmljb24tdGluZ3poaTpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDQiOyB9CgouaWNvbi1nb25namlhb2NoZTpiZWZvcmUgeyBjb250ZW50OiAiXGU2OTkiOyB9CgouaWNvbi16aGlsZW5nLTpiZWZvcmUgeyBjb250ZW50OiAiXGU2ODQiOyB9CgouaWNvbi1iYW5zaG91X286YmVmb3JlIHsgY29udGVudDogIlxlNjRlIjsgfQoKLmljb24tQ29uY2lzZTpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDIiOyB9CgouaWNvbi1qaWF5b3V6aGFuOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTYxNyI7IH0KCi5pY29uLWppYW5rb25nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZWEyYSI7IH0KCi5pY29uLWppYXlvdTpiZWZvcmUgeyBjb250ZW50OiAiXGU3M2EiOyB9CgouaWNvbi1jaG9uZ2RpYW56aHVhbmc6YmVmb3JlIHsgY29udGVudDogIlxlNjAxIjsgfQoKLmljb24tZ29uZ2ppYW9jaGVkaW5nd2VpOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZjYwNSI7IH0KCi5pY29uLWNob25nZGlhbnpoYW46YmVmb3JlIHsgY29udGVudDogIlxlNjA3IjsgfQoKLmljb24tdGluZ2NoZWNoYW5nMzpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDgiOyB9CgouaWNvbi1tc251aS1hbGFybS10cmlhbmdsZTpiZWZvcmUgeyBjb250ZW50OiAiXGU3NTYiOyB9CgouaWNvbi1tYXAtc3RvcHBpbmc6YmVmb3JlIHsgY29udGVudDogIlxlNmM0IjsgfQoKLmljb24tdGluZ2NoZWNoYW5nOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY2YiI7IH0KCi5pY29uLXBhcmtpbmc6YmVmb3JlIHsgY29udGVudDogIlxlOWQyIjsgfQoKLmljb24tdGluZ2NoZWNoYW5nMTpiZWZvcmUgeyBjb250ZW50OiAiXGU2ZGEiOyB9CgouaWNvbi1ndXBpYW86YmVmb3JlIHsgY29udGVudDogIlxlNjUyIjsgfQoKLmljb24tYnVzOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY1ZiI7IH0KCi5pY29uLXRpbmdjaGV3ZWk6YmVmb3JlIHsgY29udGVudDogIlxlNjY0IjsgfQoKLmljb24td2VpYmlhb3RpNTA3OmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTY5MSI7IH0KCi5pY29uLXVzZXI6YmVmb3JlIHsgY29udGVudDogIlxlNjdmIjsgfQoKLmljb24tdGluZ2NoZWNoYW5nMjpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDYiOyB9CgouaWNvbi10aW5nemhpOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTYwNCI7IH0KCi5pY29uLWJhbnNob3VfbzpiZWZvcmUgeyBjb250ZW50OiAiXGU2NGUiOyB9CgouaWNvbi1Db25jaXNlOmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTYwMiI7IH0KCi5pY29uLWppYXlvdXpoYW46YmVmb3JlIHsgY29udGVudDogIlxlNjE3IjsgfQoKLmljb24tamlhbmtvbmc6YmVmb3JlIHsgY29udGVudDogIlxlYTJhIjsgfQoKLmljb24tamlheW91OmJlZm9yZSB7IGNvbnRlbnQ6ICJcZTczYSI7IH0KCi5pY29uLWNob25nZGlhbnpodWFuZzpiZWZvcmUgeyBjb250ZW50OiAiXGU2MDEiOyB9CgouaWNvbi1nb25namlhb2NoZWRpbmd3ZWk6YmVmb3JlIHsgY29udGVudDogIlxlNjA1IjsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxTZWFyY2hQYW5lbCBvbkZpbHRlckNoYW5nZT17dGhpcy5vbkZpbHRlckNoYW5nZX0gLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgaGlzdG9yeSB9IGZyb20gIi4uLy4uL2FwcCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaWx0ZXJzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IExvYWRpbmcgZnJvbSAiLi4vLi4vY29tcG9uZW50cy9sb2FkaW5nIjsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxSYWRpby5Hcm91cD4KICAgICAgICAgICAgPFJhZGlvLkJ1dHRvbiB2YWx1ZT0iKiI+yKuyvzwvUmFkaW8uQnV0dG9uPgogICAgICAgICAgICA8UmFkaW8uQnV0dG9uIHZhbHVlPSJ0b2RvIj7OtLSmwO08L1JhZGlvLkJ1dHRvbj4KICAgICAgICAgICAgPFJhZGlvLkJ1dHRvbiB2YWx1ZT0iZG9pbmciPrSmwO3W0DwvUmFkaW8uQnV0dG9uPgogICAgICAgICAgICA8UmFkaW8uQnV0dG9uIHZhbHVlPSJkb25lIj7S0c3qs8k8L1JhZGlvLkJ1dHRvbj4KICAgICAgICAgIDwvUmFkaW8uR3JvdXA+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgey8qPE1lbnUuSXRlbSB0aXRsZT0iztK1xMjOzvEiIGtleT0iL3Rhc2svbXkvaXNzdWVzIj4qL30KICAgICAgICAgICAgICB7Lyo8VG9vbHRpcCB0aXRsZT0iztK1xMjOzvEiIHBsYWNlbWVudD0icmlnaHQiPiovfQogICAgICAgICAgICAgICAgey8qPE5hdkxpbmsgdG89eyIvdGFzay9teS9pc3N1ZXMiICsgIj9zdGF0dXM9ZG9pbmcifT4qL30KICAgICAgICAgICAgICAgICAgey8qPEljb24gdHlwZT0icHVzaHBpbi1vIiAvPiovfQogICAgICAgICAgICAgICAgICB7Lyo8c3Bhbj7O0rXEyM7O8Twvc3Bhbj4qL30KICAgICAgICAgICAgICAgIHsvKjwvTmF2TGluaz4qL30KICAgICAgICAgICAgICB7Lyo8L1Rvb2x0aXA+Ki99CiAgICAgICAgICAgIHsvKjwvTWVudS5JdGVtPiovfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>提供批量上传车辆接口
-
-完成上传接口，postman中File中有测试用例</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coZSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgUmFkaW9CdXR0b24gPSBSCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmb3VuZC5jb3VudCsrOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBhd2FpdCBBbGFybS51cHNlcnQoZm91bmQuaWQsIHsgLi4uZm91bmQudG9KU09OKCksIC4uLmEgfSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgRm9ybUl0ZW0gPSBGb3JtLkl0ZW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
