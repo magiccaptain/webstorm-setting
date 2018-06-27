@@ -20,6 +20,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/es/button/style/index.less" timestamp="1530078436276" />
       <file name="G:/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1529649320231">
         <mark key="[" line="42" column="65" />
         <mark key="]" line="42" column="95" />
@@ -49,10 +50,14 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/styles/global/antd.less" timestamp="1530075254939" />
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/config-overrides.js" timestamp="1530075343355">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/styles/global/antd.less" timestamp="1530078757187">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/config-overrides.js" timestamp="1530078699543">
         <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="20" />
+        <mark key="]" line="14" column="31" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.test.js" timestamp="1529760954377">
         <mark key="[" line="0" column="0" />
@@ -66,14 +71,16 @@
         <mark key="^" line="391" column="33" />
         <mark key="." line="391" column="33" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/es/style/themes/default.less" timestamp="1530078426823" />
       <file name="D:/projects/zzswang/adventurer-web/src/containers/manager/user-bill.js" timestamp="1529838382344">
         <mark key="'" line="71" column="12" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.module.less" timestamp="1530075380982">
-        <mark key="[" line="40" column="30" />
-        <mark key="]" line="40" column="29" />
-        <mark key="^" line="40" column="29" />
-        <mark key="." line="40" column="29" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.module.less" timestamp="1530079058071">
+        <mark key="'" line="39" column="28" />
+        <mark key="[" line="34" column="22" />
+        <mark key="]" line="34" column="22" />
+        <mark key="^" line="34" column="22" />
+        <mark key="." line="34" column="22" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/index.js" timestamp="1529565344393">
         <mark key="'" line="69" column="11" />
@@ -92,11 +99,11 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/layouts/main.js" timestamp="1530068222824">
-        <mark key="[" line="121" column="49" />
-        <mark key="]" line="121" column="49" />
-        <mark key="." line="121" column="49" />
-        <mark key="^" line="121" column="49" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/layouts/main.js" timestamp="1530079875085">
+        <mark key="[" line="186" column="62" />
+        <mark key="]" line="186" column="70" />
+        <mark key="." line="186" column="70" />
+        <mark key="^" line="186" column="70" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-admin-web/src/styles/global/icon.less" timestamp="1530019916769">
         <mark key="[" line="16" column="0" />
@@ -127,19 +134,18 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="67" column="37" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1529653293012">
+      <file name="G:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1530080462884">
         <mark key="'" line="19" column="36" />
         <mark key="[" line="143" column="17" />
         <mark key="]" line="143" column="16" />
         <mark key="." line="143" column="16" />
         <mark key="^" line="143" column="16" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1530065198946">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1530080096506">
         <mark key="'" line="182" column="24" />
-        <mark key="[" line="181" column="25" />
-        <mark key="]" line="181" column="25" />
-        <mark key="." line="181" column="25" />
-        <mark key="^" line="181" column="25" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529580496619">
         <mark key="[" line="16" column="0" />
@@ -170,10 +176,11 @@
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="37" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530075215085">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530081323434">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="112" column="67" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1530063402267">
         <mark key="[" line="79" column="0" />
@@ -206,6 +213,9 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/models/company.js" timestamp="1530069870031" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/lib/select/index.d.ts" timestamp="1530078367120">
+        <mark key="'" line="61" column="26" />
+      </file>
       <file name="G:/projects/zzswang/wali-web/src/app.js" timestamp="1527816583082">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="46" />
@@ -218,13 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="7" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="488" column="35" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="327" column="5" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="136" column="18" filename="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" />
-      <jump line="272" column="13" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="326" column="1" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="28" column="30" filename="G:/projects/zzswang/adventurer-web/src/app.js" />
       <jump line="341" column="11" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="71" column="15" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="13" column="16" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
@@ -318,46 +321,53 @@
       <jump line="181" column="24" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
       <jump line="60" column="17" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
       <jump line="65" column="30" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
+      <jump line="56" column="23" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
+      <jump line="61" column="26" filename="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/lib/select/index.d.ts" />
+      <jump line="4" column="16" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.module.less" />
+      <jump line="9" column="9" filename="G:/projects/zzswang/shanghaibus-admin-web/src/styles/global/antd.less" />
+      <jump line="39" column="28" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.module.less" />
+      <jump line="104" column="11" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
+      <jump line="68" column="15" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>50af55</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>50af55</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
       </register>
-      <register name="0" type="4">
-        <text>@primary-color</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB7dGhpcy5yZW5kZXJJbnB1dEZyb21JdGVtKHsgbGFiZWw6ICKxqL6vseC6xSIsIG5hbWU6ICJpZCIgfSl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEZvcm0uSXRlbSBsYWJlbD0i17TMrCI+CiAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCJzdGF0ZTEiKSg8SW5wdXQgcGxhY2Vob2xkZXI9IsfryuTI67Govq/D+7PGIiAvPil9CiAgICAgICAgICAgIDwvRm9ybS5JdGVtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybS5JdGVtIGxhYmVsPSKztcXGusUiPgogICAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCJwbGF0ZSIsIHsKICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiBpbml0aWFsVmFsdWVzWyJwbGF0ZSJdIHx8ICIiCiAgICAgICAgICAgICAgICB9KSg8SW5wdXQgcGxhY2Vob2xkZXI9IsfryuTI67O1xca6xSIgLz4pfQogICAgICAgICAgICAgIDwvRm9ybS5JdGVtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAyMHB4Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+PC9kaXY+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAuZm9ybS1yb3cgOm5vdCg6Zmlyc3QtY2hpbGQpIHsKICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybS5JdGVtIGxhYmVsPSKxqL6vw/uzxiI+CiAgICAgICAgICAgICAgICB7Z2V0RmllbGREZWNvcmF0b3IoIm5hbWUiKSg8SW5wdXQgcGxhY2Vob2xkZXI9IsfryuTI67Govq/D+7PGIiAvPil9CiAgICAgICAgICAgICAgPC9Gb3JtLkl0ZW0+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybS5JdGVtIGxhYmVsPSKxqL6vseC6xSI+CiAgICAgICAgICAgICAgICB7Z2V0RmllbGREZWNvcmF0b3IoImlkIikoPElucHV0IHBsYWNlaG9sZGVyPSLH68rkyOuxqL6vseC6xSIgLz4pfQogICAgICAgICAgICAgIDwvRm9ybS5JdGVtPgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybS5JdGVtIGxhYmVsPSKxqL6vseC6xSI+CiAgICAgICAgICAgICAgICB7Z2V0RmllbGREZWNvcmF0b3IoImlkIikoPElucHV0IHBsYWNlaG9sZGVyPSLH68rkyOuxqL6vseC6xSIgLz4pfQogICAgICAgICAgICAgIDwvRm9ybS5JdGVtPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8Rm9ybS5JdGVtIGxhYmVsPSLP38K3Ij4KICAgICAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcigibGluZSIsIHsKICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiBpbml0aWFsVmFsdWVzWyJsaW5lIl0gfHwgIiIKICAgICAgICAgICAgICAgIH0pKDxJbnB1dCBwbGFjZWhvbGRlcj0ix+vK5Mjrz9/CtyIgLz4pfQogICAgICAgICAgICAgIDwvRm9ybS5JdGVtPgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAzMHB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDpibG9iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZvcm0uSXRlbSBsYWJlbD0isai+r8LrIj4KICAgICAgICAgICAgICB7Z2V0RmllbGREZWNvcmF0b3IoImNvZGUiLCB7IGluaXRpYWxWYWx1ZTogaW5pdGlhbFZhbHVlc1siY29kZSJdIHx8ICIiIH0pKAogICAgICAgICAgICAgICAgPElucHV0IHBsYWNlaG9sZGVyPSLH68rkyOuxqL6vwusiIC8+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgPC9Gb3JtLkl0ZW0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
