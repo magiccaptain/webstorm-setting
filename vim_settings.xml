@@ -64,11 +64,10 @@
       <file name="D:/projects/zzswang/adventurer-web/src/containers/manager/user-bill.js" timestamp="1529838382344">
         <mark key="'" line="71" column="12" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.module.less" timestamp="1530066710130">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
-        <mark key="^" line="37" column="30" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.module.less" timestamp="1530071413497">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/index.js" timestamp="1529565344393">
         <mark key="'" line="69" column="11" />
@@ -87,7 +86,12 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/layouts/main.js" timestamp="1530068069810" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/layouts/main.js" timestamp="1530068222824">
+        <mark key="[" line="121" column="49" />
+        <mark key="]" line="121" column="49" />
+        <mark key="." line="121" column="49" />
+        <mark key="^" line="121" column="49" />
+      </file>
       <file name="D:/projects/zzswang/shanghaibus-admin-web/src/styles/global/icon.less" timestamp="1530019916769">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="62" column="48" />
@@ -160,11 +164,11 @@
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="37" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530066884108">
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="29" column="43" />
-        <mark key="^" line="29" column="43" />
-        <mark key="." line="29" column="43" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530071706553">
+        <mark key="[" line="102" column="30" />
+        <mark key="]" line="102" column="31" />
+        <mark key="^" line="102" column="31" />
+        <mark key="." line="102" column="31" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1530063402267">
         <mark key="[" line="79" column="0" />
@@ -196,6 +200,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/models/company.js" timestamp="1530069870031" />
       <file name="G:/projects/zzswang/wali-web/src/app.js" timestamp="1527816583082">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="46" />
@@ -208,8 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="31" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
-      <jump line="25" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="318" column="7" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="488" column="35" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="327" column="5" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
@@ -308,46 +311,48 @@
       <jump line="17" column="26" filename="D:/projects/zzswang/shanghaibus-admin-web/public/fonts/iconfont.css" />
       <jump line="8" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/index.js" />
       <jump line="181" column="24" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
+      <jump line="60" column="17" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
+      <jump line="65" column="30" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>报警名称</text>
       </register>
       <register name="-" type="4">
-        <text>100hv</text>
+        <text>报警名称</text>
       </register>
       <register name="/" type="4">
         <text>custom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJhZGlvLkJ1dHRvbiB2YWx1ZT0iZG9pbmciPrSmwO3W0DwvUmFkaW8uQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZvcm0uSXRlbSBsYWJlbD0isai+r8P7s8YiPgogICAgICAgICAgICAgIHtnZXRGaWVsZERlY29yYXRvcigibmFtZSIpKDxJbnB1dCBwbGFjZWhvbGRlcj0ix+vK5Mjrsai+r8P7s8YiIC8+KX0KICAgICAgICAgICAgPC9Gb3JtLkl0ZW0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdzogYXV0bzsK</text>
+        <text encoding="base64">ICAuZm9ybS1yb3cgOm5vdCg6Zmlyc3QtY2hpbGQpIHsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Omdsb2JhbCguYW50LWZvcm0pIGxhYmVsIHsKICBmb250LXNpemU6IDE0cHg7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAzMHB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTZWFyY2hQYW5lbCBvbkZpbHRlckNoYW5nZT17dGhpcy5vbkZpbHRlckNoYW5nZX0gLz4K</text>
+        <text encoding="base64">ICAgIDpibG9iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgaGlzdG9yeSB9IGZyb20gIi4uLy4uL2FwcCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA6Z2xvYmFsKC5hbnQtZm9ybS1pdGVtKSAgewogIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSYWRpby5Hcm91cD4KICAgICAgICAgICAgPFJhZGlvLkJ1dHRvbiB2YWx1ZT0iKiI+yKuyvzwvUmFkaW8uQnV0dG9uPgogICAgICAgICAgICA8UmFkaW8uQnV0dG9uIHZhbHVlPSJ0b2RvIj7OtLSmwO08L1JhZGlvLkJ1dHRvbj4KICAgICAgICAgICAgPFJhZGlvLkJ1dHRvbiB2YWx1ZT0iZG9pbmciPrSmwO3W0DwvUmFkaW8uQnV0dG9uPgogICAgICAgICAgICA8UmFkaW8uQnV0dG9uIHZhbHVlPSJkb25lIj7S0c3qs8k8L1JhZGlvLkJ1dHRvbj4KICAgICAgICAgIDwvUmFkaW8uR3JvdXA+Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA6Z2xvYmFsKC5hbnQtZm9ybS1pdGVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
