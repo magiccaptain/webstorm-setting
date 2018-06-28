@@ -30,12 +30,12 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="67" column="37" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1530154501508">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1530165618608">
         <mark key="'" line="105" column="28" />
-        <mark key="[" line="181" column="14" />
-        <mark key="]" line="181" column="35" />
-        <mark key="." line="181" column="35" />
-        <mark key="^" line="181" column="35" />
+        <mark key="[" line="182" column="38" />
+        <mark key="]" line="182" column="65" />
+        <mark key="." line="182" column="65" />
+        <mark key="^" line="182" column="65" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/all-warnings.js" timestamp="1530083833532">
         <mark key="'" line="118" column="3" />
@@ -43,8 +43,8 @@
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530158236285">
-        <mark key="'" line="146" column="40" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530165804374">
+        <mark key="'" line="9" column="27" />
         <mark key="[" line="151" column="37" />
         <mark key="]" line="151" column="43" />
         <mark key="." line="151" column="43" />
@@ -75,11 +75,11 @@
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" timestamp="1530158484063">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="^" line="198" column="3" />
-        <mark key="." line="198" column="0" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" timestamp="1530167018921">
+        <mark key="[" line="198" column="25" />
+        <mark key="]" line="195" column="21" />
+        <mark key="^" line="195" column="21" />
+        <mark key="." line="195" column="21" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/models/alarm.js" timestamp="1530154572921" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/schema.js" timestamp="1530149377733">
@@ -121,13 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="15" filename="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" />
-      <jump line="426" column="19" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="82" column="36" filename="G:/projects/zzswang/adventurer-web/src/containers/app-layout.js" />
-      <jump line="17" column="2" filename="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" />
-      <jump line="504" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="92" column="24" filename="G:/projects/zzswang/adventurer-web/src/containers/manager/index.js" />
-      <jump line="512" column="32" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="49" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="98" column="13" filename="G:/projects/zzswang/adventurer-web/src/containers/manager/index.js" />
       <jump line="97" column="26" filename="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" />
@@ -220,17 +213,24 @@
       <jump line="74" column="21" filename="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
       <jump line="163" column="31" filename="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
       <jump line="61" column="24" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
-      <jump line="145" column="40" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
+      <jump line="168" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
+      <jump line="167" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
+      <jump line="189" column="9" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
+      <jump line="193" column="30" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
+      <jump line="145" column="37" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
+      <jump line="9" column="27" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
+      <jump line="196" column="7" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
+      <jump line="207" column="10" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>plate</text>
       </register>
       <register name="-" type="4">
-        <text>companies</text>
+        <text>plate</text>
       </register>
       <register name="/" type="4">
-        <text>level</text>
+        <text>pick</text>
       </register>
       <register name="0" type="4">
         <text>Number(text)
@@ -238,46 +238,45 @@
         .toUpperCase()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYy5rZXkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXlsb2FkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRpc3BhbHlDb2x1bW5zID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb3IgKHZhciBwYWlyIG9mIHJlc3BvbnNlLmhlYWRlcnMuZW50cmllcygpKSB7CiAgICBjb25zb2xlLmxvZyhwYWlyWzBdKyAnOiAnKyBwYWlyWzFdKTsKICB9Cgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpbHRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXNwb25zZS5oZWFkZXJzLmVudHJpZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbHRlcnMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0b3RhbCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>level</last-search>
+      <last-search>pick</last-search>
       <last-offset />
-      <last-pattern>level</last-pattern>
+      <last-pattern>pick</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>lastUpdate</entry>
         <entry>chargStatus</entry>
         <entry>customExt</entry>
         <entry>isAlarmed</entry>
@@ -297,6 +296,7 @@
         <entry>handle</entry>
         <entry>console</entry>
         <entry>level</entry>
+        <entry>pick</entry>
       </history-search>
       <history-cmd />
       <history-expr />
