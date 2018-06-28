@@ -959,11 +959,11 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530183566794">
-        <mark key="[" line="26" column="60" />
-        <mark key="]" line="28" column="31" />
-        <mark key="^" line="28" column="31" />
-        <mark key="." line="28" column="31" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530186482489">
+        <mark key="[" line="20" column="63" />
+        <mark key="]" line="20" column="86" />
+        <mark key="." line="20" column="86" />
+        <mark key="^" line="20" column="86" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1520174331960">
         <mark key="[" line="80" column="0" />
@@ -1149,7 +1149,7 @@
         <mark key="[" line="35" column="30" />
         <mark key="]" line="131" column="0" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.mock.js" timestamp="1530182205649">
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.mock.js" timestamp="1530186363111">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="38" column="19" />
       </file>
@@ -2211,11 +2211,11 @@
       <jump line="147" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vehicles.gr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2ZWhpY2xlcy5mb3JFYWNoKHY9PnsKCiAgfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>vehicles.gr</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -2224,31 +2224,31 @@
         <text encoding="base64">ICAgICAga2V5OiAisM3Kv7yvzcUiLAogICAgICB2YWx1ZTogIrDNyr+8r83FIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB2ZWhpY2xlcy5mb3JFYWNoKHY9PnsKCiAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2ZWhpY2xlcy5mb3JlaWduT2JqZWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb21wYW5pZXMpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dW5pcSh2ZWhpY2xlcy5tYXAodiA9PiB2LmNvbXBhbnkpKQogICAgLmZpbHRlcihjID0+IGMpCiAgICAubWFwKGMgPT4gKHsgbmFtZTogYyB9KSk=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb3NudCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB2ZWhpY2xlcyA9IHNlbGVjdFZlCg==</text>
+        <text encoding="base64">ICB2ZWhpY2xlcy4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
