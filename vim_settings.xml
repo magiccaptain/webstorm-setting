@@ -3,25 +3,44 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/filter-drop-down.js" timestamp="1530151707090">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="38" />
-        <mark key="^" line="2" column="38" />
-      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/selectors/index.js" timestamp="1530158458369">
         <mark key="[" line="22" column="68" />
         <mark key="]" line="22" column="74" />
         <mark key="^" line="22" column="74" />
         <mark key="." line="22" column="74" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1529649320231">
+        <mark key="[" line="42" column="65" />
+        <mark key="]" line="42" column="95" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/style.css" timestamp="1527832746462">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="G:/projects/zzswang/wali-web/src/mock-server.js" timestamp="1527820187606">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/styles/global/antd.less" timestamp="1530078757187">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/constants.js" timestamp="1530167135219" />
       <file name="G:/projects/zzswang/adventurer-web/src/lib/schema.js" timestamp="1530149443218" />
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/layouts/main.js" timestamp="1530079875085">
-        <mark key="[" line="186" column="62" />
-        <mark key="]" line="186" column="70" />
-        <mark key="." line="186" column="70" />
-        <mark key="^" line="186" column="70" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/actions/index.js" timestamp="1530172841911">
+        <mark key="'" line="69" column="26" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1530019208729">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1530155539223">
         <mark key="'" line="158" column="31" />
@@ -33,6 +52,22 @@
         <mark key="." line="182" column="65" />
         <mark key="^" line="182" column="65" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529580496619">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/all-warnings.js" timestamp="1530083833532">
+        <mark key="'" line="118" column="3" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/layouts/main.module.less" timestamp="1530068037764">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530167313227">
         <mark key="'" line="9" column="27" />
         <mark key="[" line="151" column="37" />
@@ -40,24 +75,18 @@
         <mark key="." line="151" column="43" />
         <mark key="^" line="151" column="43" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/index.js" timestamp="1530151062349">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="38" />
-        <mark key="^" line="28" column="38" />
-        <mark key="." line="28" column="38" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/sdk.js" timestamp="1530157005911">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="16" column="25" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="25" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/sdk.js" timestamp="1530172583161" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1530151125052">
+        <mark key="'" line="24" column="11" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/fetching.js" timestamp="1530157559687" />
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" timestamp="1530152589988">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="13" />
-        <mark key="^" line="31" column="13" />
-        <mark key="." line="31" column="13" />
+      <file name="G:/projects/zzswang/wali-web/src/app.js" timestamp="1527816583082">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" timestamp="1530169115681">
         <mark key="[" line="216" column="0" />
@@ -65,25 +94,49 @@
         <mark key="." line="216" column="0" />
         <mark key="^" line="214" column="25" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/schema.js" timestamp="1530149377733">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/schema.js" timestamp="1530172260616">
         <mark key="[" line="14" column="53" />
         <mark key="]" line="15" column="23" />
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.test.js" timestamp="1529760954377">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/models/base.js" timestamp="1530169572909" />
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530169260387" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/styles/global/icon.less" timestamp="1530019916769">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="62" column="48" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530172766447">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" timestamp="1530154142898">
         <mark key="'" line="138" column="45" />
         <mark key="[" line="255" column="0" />
         <mark key="]" line="255" column="43" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1530167190025">
+      <file name="/Dummy.txt" timestamp="1530089611736">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1530172041139">
         <mark key="'" line="19" column="36" />
         <mark key="[" line="130" column="17" />
         <mark key="]" line="130" column="16" />
         <mark key="." line="130" column="16" />
         <mark key="^" line="130" column="16" />
+      </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/issue/index.js" timestamp="1528947471421">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" timestamp="1530158374151">
         <mark key="'" line="27" column="11" />
@@ -106,11 +159,21 @@
         <mark key="." line="241" column="0" />
         <mark key="^" line="241" column="7" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/package.json" timestamp="1528965650416">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="46" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/entities.js" timestamp="1530153086868">
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="13" />
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529642279299">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/lib/select/index.d.ts" timestamp="1530078367120">
         <mark key="'" line="61" column="26" />
@@ -119,6 +182,11 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1529590734196">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -224,8 +292,8 @@
       <jump line="46" column="41" filename="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>status</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>status</text>
@@ -237,31 +305,31 @@
         <text>!isEqual(nextQuery, curQuery)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdGF0dXM7IC8vINe0zKwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY3VyUXVlcnksIG5leHRRdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BhdGNoKGxpc3RWZWhpY2wpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCFpc0VxdWFsKG5leHRRdWVyeSwgY3VyUXVlcnkpKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc28K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCFpc0VxdWFsKG5leHRRdWVyeSwgbmV4KSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cGlja0J5KHF1ZXJ5LCAodmFsdWUsIGtleSkgPT4gewogICAgICByZXR1cm4ga2V5ICE9PSAiZXhjbHVkZUNvbHVtbnMiOwogICAgfSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzdGF0dXM7IC8vINe0zKwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
