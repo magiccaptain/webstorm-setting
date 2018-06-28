@@ -15,6 +15,12 @@
         <mark key="]" line="42" column="95" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" timestamp="1530149169606">
+        <mark key="'" line="110" column="2" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+      </file>
       <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/style.css" timestamp="1527832746462">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -44,9 +50,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/config-overrides.js" timestamp="1530078699543">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="31" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/schema.js" timestamp="1530149377733">
+        <mark key="[" line="14" column="53" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.test.js" timestamp="1529760954377">
         <mark key="[" line="0" column="0" />
@@ -60,6 +68,7 @@
         <mark key="^" line="391" column="33" />
         <mark key="." line="391" column="33" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/lib/schema.js" timestamp="1530149443218" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.module.less" timestamp="1530079058071">
         <mark key="'" line="39" column="28" />
         <mark key="[" line="34" column="22" />
@@ -73,6 +82,13 @@
         <mark key="]" line="0" column="1821" />
         <mark key="^" line="0" column="1821" />
         <mark key="." line="0" column="1821" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/actions/index.js" timestamp="1530149432940">
+        <mark key="'" line="69" column="26" />
+        <mark key="[" line="85" column="3" />
+        <mark key="]" line="87" column="13" />
+        <mark key="^" line="87" column="13" />
+        <mark key="." line="87" column="13" />
       </file>
       <file name="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1527174015107">
         <mark key="'" line="50" column="42" />
@@ -151,6 +167,17 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530149080883">
+        <mark key="'" line="151" column="15" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="25" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/sdk.js" timestamp="1530149390251">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" timestamp="1530063402267">
         <mark key="[" line="79" column="0" />
         <mark key="]" line="79" column="0" />
@@ -167,6 +194,12 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="46" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" timestamp="1530149420292">
+        <mark key="[" line="40" column="53" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+        <mark key="." line="40" column="53" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/docker-compose.yml" timestamp="1529642279299">
         <mark key="[" line="16" column="0" />
@@ -185,9 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/project.js" />
-      <jump line="5" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
-      <jump line="187" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/style.css" />
       <jump line="32" column="10" filename="G:/projects/zzswang/adventurer-web/src/containers/task/project.js" />
       <jump line="6" column="36" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-list.js" />
       <jump line="14" column="25" filename="G:/projects/zzswang/adventurer-web/src/containers/task/issue-list.js" />
@@ -285,14 +315,13 @@
       <jump line="111" column="15" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
       <jump line="118" column="3" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/all-warnings.js" />
       <jump line="112" column="28" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
+      <jump line="151" column="15" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
+      <jump line="110" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
+      <jump line="69" column="26" filename="G:/projects/zzswang/shanghaibus-admin-web/src/actions/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>中控台页面调整
-
-- 警报页面字体调整，默认不显示车牌号列
-- 警报页面关闭跳转到百度
-- 车辆分析，公司分析柱状图改为折线图</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRpc3BhdGNoKGxpc3QpCg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -301,38 +330,38 @@
         <text>onFilterChange</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtb21lbnQudXRjKGluaXRpYWxWYWx1ZXNbImZyb20iXSksCg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRpc3BhdGNoKGxpc3QpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjbwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0IAo=</text>
+      </register>
+      <register name="7" type="4">
         <text>中控台页面调整
 
 - 警报页面字体调整，默认不显示车牌号列
 - 警报页面关闭跳转到百度
 - 车辆分析，公司分析柱状图改为折线图</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjbGVhblZhbHVlcyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmKGluaXRpYWxWYWx1ZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjbGVhblZhbHVlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
