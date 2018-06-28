@@ -959,11 +959,11 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530191716149">
-        <mark key="[" line="224" column="27" />
-        <mark key="]" line="224" column="26" />
-        <mark key="^" line="224" column="26" />
-        <mark key="." line="224" column="26" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530194940592">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="244" column="26" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1520174331960">
         <mark key="[" line="80" column="0" />
@@ -1902,6 +1902,12 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" timestamp="1530196081912">
+        <mark key="[" line="268" column="20" />
+        <mark key="]" line="268" column="20" />
+        <mark key="." line="268" column="20" />
+        <mark key="^" line="268" column="20" />
+      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/controller/home.js" timestamp="1521532831759">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="13" column="1" />
@@ -2212,43 +2218,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>placeholder</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>placeholder</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAga2V5OiAisM3Kv7yvzcUiLAogICAgICB2YWx1ZTogIrDNyr+8r83FIiwK</text>
+        <text encoding="base64">ICAgIHRvdGFsOiBzZWxlY3RUb3RhbChMSVNUX0FMQVJNUykoc3RhdGUpIHx8IDAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvdGFsLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRvdGFsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycik7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvblRyZWVDaGFuZ2UgPSBhcnIgPT4gewo=</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGlmICh0aGlzLmlzQnVzSWQobmV3VmFsKSkgewogICAgLy8gICB0aGlzLnNldFN0YXRlKHsgc2VhcmNoQnVzSWQ6IFtuZXdWYWxdIH0pOwogICAgLy8gICAvLyB0aGlzLmxvY2F0aW9uQnVzKG5ld1ZhbCk7CiAgICAvLyAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICAvLyAgIHNlYXJjaEJ1c0lkOiBbXQogICAgLy8gICAvLyB9KTsKICAgIC8vIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
