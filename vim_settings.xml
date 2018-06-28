@@ -959,12 +959,11 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530189809563">
-        <mark key="'" line="126" column="24" />
-        <mark key="[" line="130" column="35" />
-        <mark key="]" line="130" column="41" />
-        <mark key="." line="130" column="41" />
-        <mark key="^" line="130" column="41" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530191716149">
+        <mark key="[" line="224" column="27" />
+        <mark key="]" line="224" column="26" />
+        <mark key="^" line="224" column="26" />
+        <mark key="." line="224" column="26" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1520174331960">
         <mark key="[" line="80" column="0" />
@@ -2110,7 +2109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="149" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="31" column="9" filename="G:/projects/zzswang/adventurer-web/src/containers/task/project.js" />
       <jump line="34" column="13" filename="G:/projects/zzswang/adventurer-web/src/containers/task/project.js" />
@@ -2210,13 +2208,14 @@
       <jump line="21" column="5" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
       <jump line="147" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
       <jump line="123" column="24" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="129" column="14" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newVal</text>
+        <text>placeholder</text>
       </register>
       <register name="-" type="4">
-        <text>newVal</text>
+        <text>placeholder</text>
       </register>
       <register name="/" type="4">
         <text>tree</text>
@@ -2225,33 +2224,31 @@
         <text encoding="base64">ICAgICAga2V5OiAisM3Kv7yvzcUiLAogICAgICB2YWx1ZTogIrDNyr+8r83FIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG11bHRpcGxlCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV3VmFsKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGdyb3VwZWRCeUxpbmVzW2xdKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG8K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0cmVlRGF0YSk7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(function(
-                    
-                  ) {})()</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFycik7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBvblRyZWVDaGFuZ2UgPSBhcnIgPT4gewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcC5wdXNoCg==</text>
+        <text encoding="base64">ICAgIC8vIGlmICh0aGlzLmlzQnVzSWQobmV3VmFsKSkgewogICAgLy8gICB0aGlzLnNldFN0YXRlKHsgc2VhcmNoQnVzSWQ6IFtuZXdWYWxdIH0pOwogICAgLy8gICAvLyB0aGlzLmxvY2F0aW9uQnVzKG5ld1ZhbCk7CiAgICAvLyAgIC8vIHRoaXMuc2V0U3RhdGUoewogICAgLy8gICAvLyAgIHNlYXJjaEJ1c0lkOiBbXQogICAgLy8gICAvLyB9KTsKICAgIC8vIH0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
