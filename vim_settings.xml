@@ -37,11 +37,8 @@
         <mark key="." line="235" column="40" />
         <mark key="^" line="235" column="40" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" timestamp="1530233872084">
-        <mark key="[" line="101" column="3" />
-        <mark key="]" line="104" column="15" />
-        <mark key="^" line="104" column="15" />
-        <mark key="." line="104" column="15" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" timestamp="1530240648129">
+        <mark key="[" line="119" column="5" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1529911361985">
         <mark key="'" line="243" column="0" />
@@ -113,6 +110,12 @@
         <mark key="^" line="81" column="25" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530240414748">
+        <mark key="[" line="122" column="22" />
+        <mark key="]" line="122" column="48" />
+        <mark key="." line="122" column="48" />
+        <mark key="^" line="122" column="48" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1530155539223">
         <mark key="'" line="158" column="31" />
       </file>
@@ -135,7 +138,7 @@
         <mark key="." line="130" column="16" />
         <mark key="^" line="130" column="16" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/data-panel.js" timestamp="1530235717620">
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/data-panel.js" timestamp="1530240624966">
         <mark key="'" line="59" column="37" />
         <mark key="[" line="68" column="17" />
         <mark key="]" line="68" column="30" />
@@ -165,12 +168,12 @@
         <mark key="^" line="35" column="42" />
         <mark key="." line="35" column="42" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1530171316115">
-        <mark key="'" line="46" column="41" />
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="0" />
-        <mark key="." line="241" column="0" />
-        <mark key="^" line="241" column="7" />
+      <file name="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1530239701783">
+        <mark key="'" line="241" column="2" />
+        <mark key="[" line="132" column="13" />
+        <mark key="]" line="132" column="53" />
+        <mark key="." line="132" column="12" />
+        <mark key="^" line="132" column="12" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" timestamp="1530173457064">
         <mark key="'" line="44" column="0" />
@@ -204,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
-      <jump line="517" column="38" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="609" column="64" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="651" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="72" column="1" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
@@ -304,57 +305,57 @@
       <jump line="50" column="6" filename="G:/projects/zzswang/shanghaibus-admin-web/src/lib/index.js" />
       <jump line="109" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
       <jump line="59" column="37" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/data-panel.js" />
+      <jump line="233" column="13" filename="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="241" column="2" filename="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXQuc3RvcAo=</text>
+        <text encoding="base64">ICAgIC5kYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>vehicles</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text>state</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXQubGV2ZWwxQ291bnQgPSB2ZWhpY2xlcy5maWx0ZXIodj0+di5sZXZlbCA9PT0gMSkubGVuZ3RoOwo=</text>
+        <text encoding="base64">ICByZXQubGV2ZWwxQ291bnQgPSBncm91cGVkQnlMZXZlbFsxXSA/IGdyb3VwZWRCeUxldmVsWzFdLmxlbmd0aDogMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXQuc3RvcAo=</text>
+        <text encoding="base64">ICAgIC5kYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB2ZWhpY2xlcwo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>[
-  
-]</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhncm91cGVkQnlMZXZlbCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzdGF0aXN0aWNEYXRhKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhncm91cGVkQnlMZXZlbFsxXSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhncm91cGVkQnlMZXZlbCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICByZXQubGV2ZWwzQ291bnQgPSBhbGFybXMuZmlsdGVyKHYgPT4gdi5sZXZlbCA9PT0gMykubGVuZ3RoOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHdpdGhvdXQgZnJvbSAibG9kYXNoL3dpdGhvdXQiOwo=</text>
+        <text encoding="base64">ICByZXQubGV2ZWwyQ291bnQgPSBhbGFybXMuZmlsdGVyKHYgPT4gdi5sZXZlbCA9PT0gMikubGVuZ3RoOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICBjb25zbwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>todo</last-search>
+      <last-search>state</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
+      <last-pattern>state</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -375,11 +376,11 @@
         <entry>level</entry>
         <entry>pick</entry>
         <entry>status</entry>
-        <entry>state</entry>
         <entry>公司</entry>
         <entry>encode</entry>
         <entry>modules</entry>
         <entry>todo</entry>
+        <entry>state</entry>
       </history-search>
       <history-cmd />
       <history-expr />
