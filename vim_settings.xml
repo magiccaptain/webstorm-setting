@@ -113,12 +113,6 @@
         <mark key="^" line="81" column="25" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530235791998">
-        <mark key="[" line="90" column="11" />
-        <mark key="]" line="90" column="11" />
-        <mark key="^" line="90" column="11" />
-        <mark key="." line="90" column="11" />
-      </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1530155539223">
         <mark key="'" line="158" column="31" />
       </file>
@@ -312,11 +306,11 @@
       <jump line="59" column="37" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/data-panel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXQuc3RvcAo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>vehicles</text>
       </register>
       <register name="/" type="4">
         <text>todo</text>
@@ -325,33 +319,33 @@
         <text encoding="base64">ICByZXQubGV2ZWwxQ291bnQgPSB2ZWhpY2xlcy5maWx0ZXIodj0+di5sZXZlbCA9PT0gMSkubGVuZ3RoOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXQuc3RvcAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICB2ZWhpY2xlcwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>[
   
 ]</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y29uc3Qgc3RhCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHdpdGhvdXQgZnJvbSAibG9kYXNoL3dpdGhvdXQiOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBjdXJyZW50OiAxCiAgICB9KTsK</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
