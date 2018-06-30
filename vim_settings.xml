@@ -49,6 +49,7 @@
       <file name="D:/projects/zzswang/adventurer-web/src/containers/manager/user-bill.js" timestamp="1529838382344">
         <mark key="'" line="71" column="12" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/lib/index.js" timestamp="1530290827037" />
       <file name="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1530026436409">
         <mark key="'" line="50" column="42" />
         <mark key="[" line="77" column="0" />
@@ -56,11 +57,11 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530282116737">
+      <file name="/Dummy.txt" timestamp="1530292065256">
         <mark key="a" line="0" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/node_modules/@types/mongoose/index.d.ts" timestamp="1529766693236">
         <mark key="'" line="843" column="4" />
@@ -117,6 +118,9 @@
         <mark key="^" line="3" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1530112498741" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/node_modules/react-amap/lib/map/index.js" timestamp="1530290330283">
+        <mark key="'" line="54" column="47" />
+      </file>
       <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1527086961798">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -136,12 +140,12 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530287882114">
-        <mark key="'" line="257" column="9" />
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="260" column="0" />
-        <mark key="^" line="259" column="56" />
-        <mark key="." line="260" column="0" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530291554579">
+        <mark key="'" line="258" column="18" />
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="^" line="274" column="54" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="D:/projects/zzswang/wali-web/public/index.html" timestamp="1530020011123" />
       <file name="D:/projects/zzswang/shanghaibus-admin-web/public/fonts/iconfont.css" timestamp="1530201061951">
@@ -241,12 +245,8 @@
         <mark key="[" line="58" column="11" />
         <mark key="]" line="62" column="13" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" timestamp="1530278960613">
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" timestamp="1530291997282">
         <mark key="'" line="98" column="11" />
-        <mark key="[" line="517" column="0" />
-        <mark key="]" line="517" column="0" />
-        <mark key="." line="517" column="0" />
-        <mark key="^" line="516" column="1" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-admin-web/node_modules/react-container-query/src/index.tsx" timestamp="1530021046361" />
       <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530198133924">
@@ -282,11 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="2" filename="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" />
-      <jump line="25" column="20" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
-      <jump line="33" column="5" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
-      <jump line="32" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
-      <jump line="28" column="20" filename="D:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" />
       <jump line="23" column="26" filename="D:/projects/zzswang/shanghaibus-core/src/constants.js" />
       <jump line="122" column="0" filename="D:/projects/zzswang/shanghaibus-core/src/constants.js" />
       <jump line="68" column="14" filename="D:/projects/zzswang/shanghaibus-core/src/models/alarm.js" />
@@ -381,62 +376,66 @@
       <jump line="100" column="25" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-detail.js" />
       <jump line="21" column="2" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
       <jump line="63" column="2" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
-      <jump line="257" column="9" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="257" column="31" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="19" column="37" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="223" column="7" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="357" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/node_modules/react-amap/lib/map/index.js" />
+      <jump line="54" column="47" filename="D:/projects/zzswang/shanghaibus-admin-web/node_modules/react-amap/lib/map/index.js" />
+      <jump line="258" column="18" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>初步替换bmap为amap</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>初步替换bmap为amap</text>
       </register>
       <register name="/" type="4">
-        <text>dc</text>
+        <text>center</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmcmFjdGlvbkRpZ2l0czogMSwgLy/Qocr9teO688PmsaPB9LXEzrvK/Qo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IG5vbmUgIWltcG9ydGFudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3VsdCBmcm9tICJsb2Rhc2gvcmVzdWx0IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWyJpbmZvLXRpdGxlIl19PrO1wb67+bG+0MXPojwvZGl2PiovfQogICAgICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbImluZm8tcGFuZWwiXX0+Ki99CiAgICAgICAgICAgICAgey8qPENhcmQgaG92ZXJhYmxlIHRpdGxlPSKztcvZIj4qL30KICAgICAgICAgICAgICB7Lyp7Zml4ZWROdW1iZXIoc3BlZWQsIDEpfSBrbS9oKi99CiAgICAgICAgICAgICAgey8qPC9DYXJkPiovfQogICAgICAgICAgICAgIHsvKjxDYXJkIGhvdmVyYWJsZSB0aXRsZT0iwO+zzCI+Ki99CiAgICAgICAgICAgICAgey8qe2ZpeGVkTnVtYmVyKG1pbGVhZ2UsIDApfSBrbSovfQogICAgICAgICAgICAgIHsvKjwvQ2FyZD4qL30KICAgICAgICAgICAgICB7Lyo8Q2FyZCBob3ZlcmFibGUgdGl0bGU9IrW1zrsiPiovfQogICAgICAgICAgICAgIHsvKntzaGlmdH0qL30KICAgICAgICAgICAgICB7Lyo8L0NhcmQ+Ki99CiAgICAgICAgICAgICAgey8qPENhcmQgaG92ZXJhYmxlIHRpdGxlPSKz5LXn17TMrCI+Ki99CiAgICAgICAgICAgICAgey8qPHNwYW4qL30KICAgICAgICAgICAgICB7LypzdHlsZT17eyovfQogICAgICAgICAgICAgIHsvKmNvbG9yOiovfQogICAgICAgICAgICAgIHsvKmNoYXJnU3RhdHVzID09PSAiVU5DSEFSR0VEIiB8fCBjaGFyZ1N0YXR1cyA9PT0gIi0tIiA/ICJibGFjayIgOiAiIzFDQzIwQiIqL30KICAgICAgICAgICAgICB7Lyp9fSovfQogICAgICAgICAgICAgIHsvKj4qL30KICAgICAgICAgICAgICB7Lyp7Y2hhcmdTdGF0dXMgPT09ICItLSIqL30KICAgICAgICAgICAgICB7Lyo/ICItLSIqL30KICAgICAgICAgICAgICB7Lyo6IGNoYXJnU3RhdHVzID09PSAiVU5DSEFSR0VEIiA/ICLOtLPkteciIDogIrPktefW0CJ9Ki99CiAgICAgICAgICAgICAgey8qPC9zcGFuPiovfQogICAgICAgICAgICAgIHsvKjwvQ2FyZD4qL30KICAgICAgICAgICAgICB7Lyo8Q2FyZCBob3ZlcmFibGUgdGl0bGU9Is+1zbO++NS11+i/uSI+Ki99CiAgICAgICAgICAgICAgey8qe3Jlc2lzdGFuY2V9IKa4Ki99CiAgICAgICAgICAgICAgey8qPC9DYXJkPiovfQogICAgICAgICAgICAgIHsvKjxDYXJkIGhvdmVyYWJsZSB0aXRsZT0i1L+z18671sMiPiovfQogICAgICAgICAgICAgIHsvKntrZXlQb3NpdGlvbn0qL30KICAgICAgICAgICAgICB7Lyo8L0NhcmQ+Ki99CiAgICAgICAgICAgICAgey8qPENhcmQgaG92ZXJhYmxlIHRpdGxlPSLHsMPF17TMrCI+Ki99CiAgICAgICAgICAgICAgey8qe2Zyb250RG9vclN0YXR1c30qL30KICAgICAgICAgICAgICB7Lyo8L0NhcmQ+Ki99CiAgICAgICAgICAgICAgey8qPENhcmQgaG92ZXJhYmxlIHRpdGxlPSLW0MPF17TMrCI+Ki99CiAgICAgICAgICAgICAgey8qe21pZGRsZURvb3JTdGF0dXN9Ki99CiAgICAgICAgICAgICAgey8qPC9DYXJkPiovfQogICAgICAgICAgICAgIHsvKjwvZGl2PiovfQogICAgICAgICAgICAgIHsvKjwvZGl2PiovfQogICAgICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbImluZm8iXX0+Ki99CiAgICAgICAgICAgICAgey8qPGRpdiBjbGFzc05hbWU9e3N0eWxlc1siaW5mby10aXRsZSJdfT6157PYyv2+3TwvZGl2PiovfQogICAgICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbImluZm8tcGFuZWwiXX0+Ki99CiAgICAgICAgICAgICAgey8qPENhcmQgaG92ZXJhYmxlIHRpdGxlPSJTb0MiIC8+Ki99CiAgICAgICAgICAgICAgey8qPENhcmQgaG92ZXJhYmxlIHRpdGxlPSK1pczlteez2NfuuN/OwrbIIiAvPiovfQogICAgICAgICAgICAgIHsvKjxDYXJkIGhvdmVyYWJsZSB0aXRsZT0i1+61zbXn0bkiIC8+Ki99CiAgICAgICAgICAgICAgey8qPC9kaXY+Ki99CiAgICAgICAgICAgICAgey8qPC9kaXY+Ki99CiAgICAgICAgICAgICAgey8qPGRpdiBjbGFzc05hbWU9e3N0eWxlc1siaW5mbyJdfT4qL30KICAgICAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWyJpbmZvLXRpdGxlIl19PrXnu/rXtMysPC9kaXY+Ki99CiAgICAgICAgICAgICAgey8qPGRpdiBjbGFzc05hbWU9e3N0eWxlc1siaW5mby1wYW5lbCJdfT4qL30KICAgICAgICAgICAgICB7Lyo8Q2FyZCBob3ZlcmFibGUgdGl0bGU9Isf9tq+157v617TMrCIgLz4qL30KICAgICAgICAgICAgICB7Lyo8L2Rpdj4qL30KICAgICAgICAgICAgICB7Lyo8L2Rpdj4qL30KICAgICAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWyJpbmZvIl19PiovfQogICAgICAgICAgICAgIHsvKjxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbImluZm8tdGl0bGUiXX0+v9W198r9vt08L2Rpdj4qL30KICAgICAgICAgICAgICB7Lyo8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWyJpbmZvLXBhbmVsIl19PiovfQogICAgICAgICAgICAgIHsvKjxDYXJkIGhvdmVyYWJsZSB0aXRsZT0iv9W197+qxvTEo8q9IiAvPiovfQogICAgICAgICAgICAgIHsvKjxDYXJkIGhvdmVyYWJsZSB0aXRsZT0is7XP4cTayrW8ys7CtsgiIC8+Ki99CiAgICAgICAgICAgICAgey8qPC9kaXY+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaGlzdG9yeS5yZXBsYWNlKCIvIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWQgPSB1bmRlZmluZWQsIC8vILO1wb5pZAogICAgICBwbGF0ZSA9ICIiLCAvLyCztcXGCiAgICAgIG5vID0gIiIsIC8vs7XBvrHgusUKICAgICAgbW9kZWwgPSAiIiwgLy8gs7XQzQogICAgICBtaWxlYWdlID0gMCwgLy8gwO+zzAogICAgICBzcGVlZCA9IDAsCiAgICAgIHNoaWZ0LAogICAgICBjaGFyZ1N0YXR1cywKICAgICAgcmVzaXN0YW5jZSwKICAgICAgZnJvbnREb29yU3RhdHVzLAogICAgICBtaWRkbGVEb29yU3RhdHVzLAogICAgICBrZXlQb3NpdGlvbiwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZlaGljbGVEZXRhaWwgPSB7fTsKCiAgICBpZiAoc2VsZWN0ZWRWZWhpY2xlKSB7CiAgICAgIHZlaGljbGVEZXRhaWwucGxhdGUgPSByZXN1bHQoc2VsZWN0ZWRWZWhpY2xlLCAicGxhdGUiLCAiLS0iKTsKICAgICAgdmVoaWNsZURldGFpbC5ubyA9IHJlc3VsdChzZWxlY3RlZFZlaGljbGUsICJubyIsICItLSIpOwogICAgICB2ZWhpY2xlRGV0YWlsLm1pbGVhZ2UgPSByZXN1bHQoc2VsZWN0ZWRWZWhpY2xlLCAicGVyZm9ybWFuY2UubWlsZWFnZSIsICItLSIpOwogICAgICB2ZWhpY2xlRGV0YWlsLm1vZGVsID0gcmVzdWx0KHNlbGVjdGVkVmVoaWNsZSwgIm1vZGVsIiwgIi0tIik7CiAgICAgIHZlaGljbGVEZXRhaWwuc3BlZWQgPSByZXN1bHQoc2VsZWN0ZWRWZWhpY2xlLCAicGVyZm9ybWFuY2Uuc3BlZWQiLCAiLS0iKTsKICAgICAgdmVoaWNsZURldGFpbC5zaGlmdCA9IHJlc3VsdChzZWxlY3RlZFZlaGljbGUsICJwZXJmb3JtYW5jZS5zaGlmdCIsICItLSIpOwogICAgICB2ZWhpY2xlRGV0YWlsLmNoYXJnU3RhdHVzID0gcmVzdWx0KHNlbGVjdGVkVmVoaWNsZSwgInBlcmZvcm1hbmNlLmNoYXJnU3RhdHVzIiwgIi0tIik7CiAgICAgIHZlaGljbGVEZXRhaWwucmVzaXN0YW5jZSA9IHJlc3VsdChzZWxlY3RlZFZlaGljbGUsICJwZXJmb3JtYW5jZS5yZXNpc3RhbmNlIiwgIi0tIik7CiAgICAgIHZlaGljbGVEZXRhaWwuZnJvbnREb29yU3RhdHVzID0gcmVzdWx0KHNlbGVjdGVkVmVoaWNsZSwgInBlcmZvcm1hbmNlLmZyb250RG9vclN0YXR1cyIsICItLSIpOwogICAgICB2ZWhpY2xlRGV0YWlsLm1pZGRsZURvb3JTdGF0dXMgPSByZXN1bHQoCiAgICAgICAgc2VsZWN0ZWRWZWhpY2xlLAogICAgICAgICJwZXJmb3JtYW5jZS5taWRkbGVEb29yU3RhdHVzIiwKICAgICAgICAiLS0iCiAgICAgICk7CiAgICAgIHZlaGljbGVEZXRhaWwua2V5UG9zaXRpb24gPSByZXN1bHQoc2VsZWN0ZWRWZWhpY2xlLCAicGVyZm9ybWFuY2Uua2V5UG9zaXRpb24iLCAiLS0iKTsKICAgICAgdmVoaWNsZURldGFpbC5zb2MgPSByZXN1bHQoc2VsZWN0ZWRWZWhpY2xlLCAicGVyZm9ybWFuY2Uuc29jIiwgIi0tIik7CiAgICAgIHZlaGljbGVEZXRhaWwubWF4TnRjID0gcmVzdWx0KHNlbGVjdGVkVmVoaWNsZSwgImV4dHJlbWUubWF4TnRjIiwgIi0tIik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPE1hcmtlciBwby8+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGtleT17ZC50aXRsZX0gY2xhc3NOYW1lPXtzdHlsZXNbImluZm8tdGl0bGUiXX0+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWyJpbmZvLXRpdGxlIl19PrO1wb67+bG+0MXPojwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbImluZm8tcGFuZWwiXX0+CiAgICAgICAgICAgICAgICA8Q2FyZCBob3ZlcmFibGUgdGl0bGU9IrO1y9kiPgogICAgICAgICAgICAgICAgICB7Zml4ZWROdW1iZXIoc3BlZWQsIDEpfSBrbS9oCiAgICAgICAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICAgICAgICA8Q2FyZCBob3ZlcmFibGUgdGl0bGU9IsDvs8wiPgogICAgICAgICAgICAgICAgICB7Zml4ZWROdW1iZXIobWlsZWFnZSwgMCl9IGttCiAgICAgICAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICAgICAgICA8Q2FyZCBob3ZlcmFibGUgdGl0bGU9IrW1zrsiPgogICAgICAgICAgICAgICAgICB7c2hpZnR9CiAgICAgICAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICAgICAgICA8Q2FyZCBob3ZlcmFibGUgdGl0bGU9IrPktefXtMysIj4KICAgICAgICAgICAgICAgICAgPHNwYW4KICAgICAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICAgICAgY29sb3I6CiAgICAgICAgICAgICAgICAgICAgICAgIGNoYXJnU3RhdHVzID09PSAiVU5DSEFSR0VEIiB8fCBjaGFyZ1N0YXR1cyA9PT0gIi0tIiA/ICJibGFjayIgOiAiIzFDQzIwQiIKICAgICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAge2NoYXJnU3RhdHVzID09PSAiLS0iCiAgICAgICAgICAgICAgICAgICAgICA/ICItLSIKICAgICAgICAgICAgICAgICAgICAgIDogY2hhcmdTdGF0dXMgPT09ICJVTkNIQVJHRUQiID8gIs60s+S15yIgOiAis+S159bQIn0KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPC9DYXJkPgogICAgICAgICAgICAgICAgPENhcmQgaG92ZXJhYmxlIHRpdGxlPSLPtc2zvvjUtdfov7kiPgogICAgICAgICAgICAgICAgICB7cmVzaXN0YW5jZX0gprgKICAgICAgICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgICAgICAgIDxDYXJkIGhvdmVyYWJsZSB0aXRsZT0i1L+z18671sMiPgogICAgICAgICAgICAgICAgICB7a2V5UG9zaXRpb259CiAgICAgICAgICAgICAgICA8L0NhcmQ+CiAgICAgICAgICAgICAgICA8Q2FyZCBob3ZlcmFibGUgdGl0bGU9Iseww8XXtMysIj4KICAgICAgICAgICAgICAgICAge2Zyb250RG9vclN0YXR1c30KICAgICAgICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgICAgICAgIDxDYXJkIGhvdmVyYWJsZSB0aXRsZT0i1tDDxde0zKwiPgogICAgICAgICAgICAgICAgICB7bWlkZGxlRG9vclN0YXR1c30KICAgICAgICAgICAgICAgIDwvQ2FyZD4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbImluZm8iXX0+CiAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlc1siaW5mby10aXRsZSJdfT6157PYyv2+3TwvZGl2PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbImluZm8tcGFuZWwiXX0+CiAgICAgICAgICAgICAgICA8Q2FyZCBob3ZlcmFibGUgdGl0bGU9IlNvQyIgLz4KICAgICAgICAgICAgICAgIDxDYXJkIGhvdmVyYWJsZSB0aXRsZT0itaXM5bXns9jX7rjfzsK2yCIgLz4KICAgICAgICAgICAgICAgIDxDYXJkIGhvdmVyYWJsZSB0aXRsZT0i1+61zbXn0bkiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWyJpbmZvIl19PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbImluZm8tdGl0bGUiXX0+tee7+te0zKw8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWyJpbmZvLXBhbmVsIl19PgogICAgICAgICAgICAgICAgPENhcmQgaG92ZXJhYmxlIHRpdGxlPSLH/bavtee7+te0zKwiIC8+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWyJpbmZvIl19PgogICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXNbImluZm8tdGl0bGUiXX0+v9W198r9vt08L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzWyJpbmZvLXBhbmVsIl19PgogICAgICAgICAgICAgICAgPENhcmQgaG92ZXJhYmxlIHRpdGxlPSK/1bX3v6rG9MSjyr0iIC8+CiAgICAgICAgICAgICAgICA8Q2FyZCBob3ZlcmFibGUgdGl0bGU9IrO1z+HE2sq1vMrOwrbIIiAvPgogICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y2VudGVyPXttYXBLZXlzKGNlbnRlciwgKF8sIGtleSk9PnsKICAgICAgICAgIH0pfQ==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>dc</last-search>
+      <last-search>center</last-search>
       <last-offset />
-      <last-pattern>dc</last-pattern>
+      <last-pattern>center</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
         <entry>tree</entry>
         <entry>890</entry>
         <entry>618</entry>
@@ -456,6 +455,7 @@
         <entry>motor</entry>
         <entry>dcdc</entry>
         <entry>dc</entry>
+        <entry>center</entry>
       </history-search>
       <history-cmd />
       <history-expr />
