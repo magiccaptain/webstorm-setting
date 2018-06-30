@@ -243,11 +243,12 @@
         <mark key="." line="94" column="25" />
         <mark key="^" line="94" column="25" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530359532925">
-        <mark key="[" line="160" column="47" />
-        <mark key="]" line="160" column="47" />
-        <mark key="." line="160" column="47" />
-        <mark key="^" line="160" column="47" />
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530365340383">
+        <mark key="'" line="5" column="30" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="42" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="157" column="47" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/MuiReactTable.jsx" timestamp="1499392319816">
         <mark key="[" line="27" column="46" />
@@ -375,6 +376,11 @@
         <mark key="]" line="148" column="31" />
         <mark key="^" line="148" column="31" />
         <mark key="." line="148" column="31" />
+      </file>
+      <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/src/fastman.test.ts" timestamp="1526610747392">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/example/example.yaml" timestamp="1526607578960">
         <mark key="'" line="66" column="25" />
@@ -676,6 +682,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="26" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-marker.js" timestamp="1530365596948">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517218937915">
         <mark key="'" line="69" column="18" />
@@ -1105,8 +1116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="21" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/spec/openapi-2.ts" />
-      <jump line="45" column="21" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/spec/openapi-3.ts" />
       <jump line="198" column="8" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/spec/openapi-3.ts" />
       <jump line="74" column="0" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/spec/openapi-3.ts" />
       <jump line="41" column="16" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/src/fastman.ts" />
@@ -1205,10 +1214,12 @@
       <jump line="73" column="0" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/project/index.js" />
       <jump line="7" column="0" filename="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/project/index.js" />
       <jump line="58" column="25" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/package.json" />
+      <jump line="87" column="0" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="5" column="30" filename="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>REPAIRING</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1216,34 +1227,26 @@
       <register name="/" type="4">
         <text>scro</text>
       </register>
-      <register name="0" type="4">
-        <text>REPAIRING</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IE1hcmtlciBmcm9tICJyZWFjdC1hbWFwL2xpYi9tYXJrZXIiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0ZTogCg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>账单页面完成
-
-- 管理中心-账单
-- 管理中心-账单详情
-- 用户中心-账单</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>账单页面完成
-         
-         - 管理中心-账单
-         - 管理中心-账单详情
-         - 用户中心-账单</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKCFiaWxscyl7CiAgICAgIAogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAKICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPExheW91dCBzdHlsZT17eyBoZWlnaHQ6ICJjYWxjKDEwMHZoIC0gNjRweCkiIH19PgogICAgICAgIDxMYXlvdXQ+6aG555uu566h55CGPC9MYXlvdXQ+CiAgICAgIDwvTGF5b3V0Pgo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsKaW1wb3J0IE1hcmtlciBmcm9tICJyZWFjdC1hbWFwL2xpYi9tYXJrZXIiOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1252,7 +1255,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIOi9pui+huWcqOWcsOWbvuS4iueahCBtYXJrZXIKICovCg==</text>
       </register>
     </registers>
     <search>
