@@ -16,18 +16,8 @@
         <mark key="." line="41" column="20" />
         <mark key="^" line="41" column="20" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/index.js" timestamp="1530233802698">
-        <mark key="'" line="50" column="6" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-detail.js" timestamp="1530499377973">
-        <mark key="'" line="19" column="11" />
-        <mark key="[" line="82" column="39" />
-        <mark key="]" line="82" column="45" />
-        <mark key="." line="82" column="45" />
-        <mark key="^" line="82" column="45" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/nzh/dist/nzh.cn.js" timestamp="1530175435492">
+        <mark key="'" line="415" column="0" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/selectors/index.js" timestamp="1530242182048">
         <mark key="[" line="33" column="48" />
@@ -56,9 +46,6 @@
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" timestamp="1530261654627">
         <mark key="'" line="45" column="2" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" timestamp="1530515899279">
         <mark key="'" line="251" column="0" />
@@ -113,12 +100,6 @@
         <mark key="^" line="0" column="1821" />
         <mark key="." line="0" column="1821" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/package.json" timestamp="1530261249011">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="39" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="41" column="26" />
-      </file>
       <file name="G:/projects/zzswang/adventurer-web/src/actions/index.js" timestamp="1530515148841">
         <mark key="[" line="109" column="25" />
         <mark key="]" line="109" column="31" />
@@ -153,12 +134,14 @@
         <mark key="^" line="81" column="25" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530260704861">
-        <mark key="'" line="233" column="6" />
-        <mark key="[" line="281" column="13" />
-        <mark key="]" line="281" column="13" />
-        <mark key="^" line="281" column="12" />
-        <mark key="." line="281" column="13" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530518708454">
+        <mark key="[" line="298" column="68" />
+        <mark key="]" line="298" column="67" />
+        <mark key="^" line="298" column="67" />
+        <mark key="." line="298" column="67" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1530155539223">
+        <mark key="'" line="158" column="31" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1530165618608">
         <mark key="'" line="105" column="28" />
@@ -180,17 +163,16 @@
         <mark key="^" line="130" column="16" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/data-panel.js" timestamp="1530254312551">
-        <mark key="'" line="58" column="37" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="^" line="68" column="30" />
         <mark key="." line="68" column="30" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/app.js" timestamp="1530241823749">
-        <mark key="[" line="82" column="46" />
-        <mark key="]" line="82" column="53" />
-        <mark key="." line="82" column="53" />
-        <mark key="^" line="82" column="53" />
+        <mark key="[" line="81" column="46" />
+        <mark key="]" line="81" column="53" />
+        <mark key="." line="81" column="53" />
+        <mark key="^" line="81" column="53" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1530500052899">
         <mark key="'" line="65" column="0" />
@@ -198,6 +180,9 @@
         <mark key="]" line="113" column="67" />
         <mark key="." line="113" column="67" />
         <mark key="^" line="113" column="67" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" timestamp="1530158374151">
+        <mark key="'" line="27" column="11" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" timestamp="1530169662458">
         <mark key="'" line="1" column="36" />
@@ -217,10 +202,10 @@
         <mark key="." line="122" column="42" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/index.js" timestamp="1530252697246">
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="37" column="38" />
-        <mark key="^" line="37" column="38" />
-        <mark key="." line="37" column="38" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+        <mark key="." line="12" column="38" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1530255374933">
         <mark key="'" line="241" column="2" />
@@ -235,12 +220,12 @@
         <mark key="]" line="27" column="38" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1530503769868" />
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" timestamp="1530252677709">
-        <mark key="'" line="45" column="61" />
-        <mark key="[" line="87" column="46" />
-        <mark key="]" line="88" column="43" />
-        <mark key="." line="88" column="43" />
-        <mark key="^" line="88" column="43" />
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" timestamp="1530517889957">
+        <mark key="'" line="91" column="44" />
+        <mark key="[" line="151" column="24" />
+        <mark key="]" line="151" column="25" />
+        <mark key="." line="151" column="25" />
+        <mark key="^" line="151" column="25" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/entities.js" timestamp="1530153086868">
         <mark key="[" line="8" column="14" />
@@ -248,11 +233,17 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/nzh/dist/nzh.js" timestamp="1530175137795">
+        <mark key="'" line="353" column="2" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" timestamp="1530152589988">
         <mark key="[" line="31" column="13" />
         <mark key="]" line="31" column="13" />
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/node_modules/antd/lib/select/index.d.ts" timestamp="1530078367120">
+        <mark key="'" line="61" column="26" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/request.js" timestamp="1530157538902">
         <mark key="[" line="65" column="0" />
@@ -267,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="38" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
       <jump line="23" column="34" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
       <jump line="128" column="16" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
       <jump line="129" column="10" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
@@ -367,13 +357,14 @@
       <jump line="301" column="12" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="304" column="12" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="641" column="33" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="91" column="44" filename="G:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>amap://styles/14ae2934af01871a240b06db5f4df292</text>
       </register>
       <register name="-" type="4">
-        <text>assignees</text>
+        <text>amap://styles/14ae2934af01871a240b06db5f4df292</text>
       </register>
       <register name="/" type="4">
         <text>onPublish</text>
@@ -382,31 +373,31 @@
         <text>assignees</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmtzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7bm90SW5Qcm9qZWN0ICYmIDxkaXYgc3R5bGU9e3sgbWFyZ2luVG9wOiA1IH19PsfrwarPtb+hu6q808jruaSzzDwvZGl2Pn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxQb3Bjb25maXJtCiAgICAgICAgICAgIHBsYWNlbWVudD0ibGVmdFRvcCIKICAgICAgICAgICAgdGl0bGU9Isi3tqjB7Miho78iCiAgICAgICAgICAgIG9uQ29uZmlybT17KCkgPT4gewogICAgICAgICAgICAgIGRpc3BhdGNoKHRha2VJc3N1ZShpc3N1ZS5pZCwgZ2l0aHViLmRhdGEuaWQpKTsKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJwcmltYXJ5IiBkaXNhYmxlZD17ZGlzYWJsZWR9PgogICAgICAgICAgICAgIMHsyKEKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIHtub3RJblByb2plY3QgJiYgPGRpdiBzdHlsZT17eyBtYXJnaW5Ub3A6IDUgfX0+x+vBqs+1v6G7qrzTyOu5pLPMPC9kaXY+fQogICAgICAgICAgPC9Qb3Bjb25maXJtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7bm90SW5Qcm9qZWN0ICYmIDxkaXYgc3R5bGU9e3sgbWFyZ2luVG9wOiA1IH19PsfrwarPtb+hu6q808jruaSzzDwvZGl2Pn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxQb3Bjb25maXJtCiAgICAgICAgICAgIHBsYWNlbWVudD0ibGVmdFRvcCIKICAgICAgICAgICAgdGl0bGU9Isi3tqjB7Miho78iCiAgICAgICAgICAgIG9uQ29uZmlybT17KCkgPT4gewogICAgICAgICAgICAgIGRpc3BhdGNoKHRha2VJc3N1ZShpc3N1ZS5pZCwgZ2l0aHViLmRhdGEuaWQpKTsKICAgICAgICAgICAgfX0KICAgICAgICAgID4KICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJwcmltYXJ5IiBkaXNhYmxlZD17ZGlzYWJsZWR9PgogICAgICAgICAgICAgIMHsyKEKICAgICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgICAgIHtub3RJblByb2plY3QgJiYgPGRpdiBzdHlsZT17eyBtYXJnaW5Ub3A6IDUgfX0+x+vBqs+1v6G7qrzTyOu5pLPMPC9kaXY+fQogICAgICAgICAgPC9Qb3Bjb25maXJtPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gLy8g0tGxu9fUvLrB7MihCiAgICAgIC8vIGlmIChhc3NpZ25lZXMpIHsKICAgICAgLy8gICAvLyCxu8bky/vIy8HsyKEKICAgICAgLy8gfSBlbHNlIHsKICAgICAgLy8gICByZXR1cm4gPGRpdj57YCR7dGFrZW5CeS5sb2dpbn0gJHtmcm9tTm93fcewwezIoWB9PC9kaXY+OwogICAgICAvLyB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gLy8g0tGxu9fUvLrB7MihCiAgICAgIC8vIGlmIChhc3NpZ25lZXMpIHsKICAgICAgLy8gICAvLyCxu8bky/vIy8HsyKEKICAgICAgLy8gfSBlbHNlIHsKICAgICAgLy8gICByZXR1cm4gPGRpdj57YCR7dGFrZW5CeS5sb2dpbn0gJHtmcm9tTm93fcewwezIoWB9PC9kaXY+OwogICAgICAvLyB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gICByZXR1cm4gKAogICAgICAvLyAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiIH19PgogICAgICAvLyAgICAgICA8ZGl2IHN0eWxlPXt7IHBhZGRpbmdSaWdodDogMjAgfX0+e2Ake3Rha2VuQnkubG9naW59ICR7ZnJvbU5vd33B7MihYH08L2Rpdj4KICAgICAgLy8gICAgICAgPFBvcGNvbmZpcm0KICAgICAgLy8gICAgICAgICBwbGFjZW1lbnQ9ImxlZnRUb3AiCiAgICAgIC8vICAgICAgICAgdGl0bGU9Isi3tqizt8/6o78iCiAgICAgIC8vICAgICAgICAgb25Db25maXJtPXsoKSA9PiB7CiAgICAgIC8vICAgICAgICAgICBkaXNwYXRjaCh0YWtlSXNzdWUoaXNzdWUuaWQsIG51bGwpKTsKICAgICAgLy8gICAgICAgICB9fQogICAgICAvLyAgICAgICA+CiAgICAgIC8vICAgICAgICAgPEJ1dHRvbiB0eXBlPSJwcmltYXJ5IiBkaXNhYmxlZD17YmlsbGVkfT4KICAgICAgLy8gICAgICAgICAgILO3z/oKICAgICAgLy8gICAgICAgICA8L0J1dHRvbj4KICAgICAgLy8gICAgICAgPC9Qb3Bjb25maXJtPgogICAgICAvLyAgICAgPC9kaXY+CiAgICAgIC8vICAgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgdGFrZW5CeSA9IGFzc2lnbmVlcyA/IGFzc2lnbmVlcy5maW5kKGEgPT4gYS5pZCA9PT0gZ2l0aHViLmRhdGEuaWQudG9TdHJpbmcoKSkgOiBudWxsOwogICAgICAvLwogICAgICAvLyBjb25zb2xlLmxvZyh0YWtlbkJ5KTsK</text>
+        <text encoding="base64">ICAgICAgLy8gICByZXR1cm4gKAogICAgICAvLyAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiIH19PgogICAgICAvLyAgICAgICA8ZGl2IHN0eWxlPXt7IHBhZGRpbmdSaWdodDogMjAgfX0+e2Ake3Rha2VuQnkubG9naW59ICR7ZnJvbU5vd33B7MihYH08L2Rpdj4KICAgICAgLy8gICAgICAgPFBvcGNvbmZpcm0KICAgICAgLy8gICAgICAgICBwbGFjZW1lbnQ9ImxlZnRUb3AiCiAgICAgIC8vICAgICAgICAgdGl0bGU9Isi3tqizt8/6o78iCiAgICAgIC8vICAgICAgICAgb25Db25maXJtPXsoKSA9PiB7CiAgICAgIC8vICAgICAgICAgICBkaXNwYXRjaCh0YWtlSXNzdWUoaXNzdWUuaWQsIG51bGwpKTsKICAgICAgLy8gICAgICAgICB9fQogICAgICAvLyAgICAgICA+CiAgICAgIC8vICAgICAgICAgPEJ1dHRvbiB0eXBlPSJwcmltYXJ5IiBkaXNhYmxlZD17YmlsbGVkfT4KICAgICAgLy8gICAgICAgICAgILO3z/oKICAgICAgLy8gICAgICAgICA8L0J1dHRvbj4KICAgICAgLy8gICAgICAgPC9Qb3Bjb25maXJtPgogICAgICAvLyAgICAgPC9kaXY+CiAgICAgIC8vICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
