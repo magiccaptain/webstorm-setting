@@ -38,6 +38,9 @@
         <mark key="^" line="33" column="48" />
         <mark key="." line="33" column="48" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/manager/user-bill.js" timestamp="1530500058663">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" timestamp="1530235319689">
         <mark key="[" line="235" column="40" />
         <mark key="]" line="235" column="40" />
@@ -56,6 +59,11 @@
         <mark key="]" line="144" column="9" />
         <mark key="." line="144" column="9" />
         <mark key="^" line="144" column="9" />
+      </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/selectors/index.js" timestamp="1530500236685">
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/constants.js" timestamp="1529587310385">
         <mark key="'" line="122" column="0" />
@@ -118,6 +126,13 @@
         <mark key="." line="186" column="70" />
         <mark key="^" line="186" column="70" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/user/bill.js" timestamp="1530500283185">
+        <mark key="'" line="57" column="11" />
+        <mark key="[" line="63" column="50" />
+        <mark key="]" line="63" column="33" />
+        <mark key="." line="63" column="33" />
+        <mark key="^" line="63" column="33" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-core/package.json" timestamp="1529566835090">
         <mark key="'" line="69" column="6" />
         <mark key="[" line="78" column="0" />
@@ -167,6 +182,13 @@
         <mark key="." line="82" column="53" />
         <mark key="^" line="82" column="53" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" timestamp="1530500052899">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="113" column="60" />
+        <mark key="]" line="113" column="67" />
+        <mark key="." line="113" column="67" />
+        <mark key="^" line="113" column="67" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" timestamp="1530158374151">
         <mark key="'" line="27" column="11" />
       </file>
@@ -176,6 +198,9 @@
         <mark key="]" line="83" column="11" />
         <mark key="." line="83" column="11" />
         <mark key="^" line="83" column="11" />
+      </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/lib/request.js" timestamp="1530500005630">
+        <mark key="'" line="35" column="5" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" timestamp="1530235193010">
         <mark key="'" line="109" column="0" />
@@ -234,16 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="4" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
-      <jump line="119" column="10" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
-      <jump line="111" column="15" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
-      <jump line="118" column="3" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/all-warnings.js" />
-      <jump line="112" column="28" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" />
-      <jump line="151" column="15" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/wanings-filter.js" />
-      <jump line="110" column="2" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/alarms-table.js" />
-      <jump line="69" column="26" filename="G:/projects/zzswang/shanghaibus-admin-web/src/actions/index.js" />
-      <jump line="41" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" />
-      <jump line="61" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" />
       <jump line="24" column="11" filename="G:/projects/zzswang/shanghaibus-admin-web/src/reducers/components/warning-table-panel.js" />
       <jump line="27" column="11" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" />
       <jump line="411" column="0" filename="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/warnings-table-panel.js" />
@@ -334,63 +349,73 @@
       <jump line="18" column="11" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-detail.js" />
       <jump line="20" column="15" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
       <jump line="298" column="37" filename="G:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="35" column="5" filename="G:/projects/zzswang/adventurer-web/src/lib/request.js" />
+      <jump line="65" column="0" filename="G:/projects/zzswang/adventurer-web/src/components/bill-selector/index.js" />
+      <jump line="2" column="0" filename="G:/projects/zzswang/adventurer-web/src/containers/manager/user-bill.js" />
+      <jump line="18" column="3" filename="G:/projects/zzswang/adventurer-web/src/containers/user/bill.js" />
+      <jump line="23" column="2" filename="G:/projects/zzswang/adventurer-web/src/containers/user/bill.js" />
+      <jump line="30" column="12" filename="G:/projects/zzswang/adventurer-web/src/containers/user/bill.js" />
+      <jump line="39" column="2" filename="G:/projects/zzswang/adventurer-web/src/containers/user/bill.js" />
+      <jump line="51" column="12" filename="G:/projects/zzswang/adventurer-web/src/containers/user/bill.js" />
+      <jump line="52" column="9" filename="G:/projects/zzswang/adventurer-web/src/containers/user/bill.js" />
+      <jump line="57" column="11" filename="G:/projects/zzswang/adventurer-web/src/containers/user/bill.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>空调开启模式</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGJpbGwgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>空调开启模式</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Scroll</text>
+        <text>fetchUserBill</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxDYXJkIGhvdmVyYWJsZSB0aXRsZT0iv9W197+qxvTEo8q9IiAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDYXJkIGhvdmVyYWJsZSB0aXRsZT0itaXM5bXns9jX7rjfzsK2yCIgLz4KICAgICAgICAgICAgICAgIDxDYXJkIGhvdmVyYWJsZSB0aXRsZT0itc3RubXn0bkiIC8+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJpbGwgPSAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L1Njcm9sbGJhcnM+Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbGVjdEJpbGwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8U2Nyb2xsYmFycyBhdXRvSGlkZT4K</text>
+      <register name="4" type="4">
+        <text>listBills({
+        user: github.foreignId,
+        populate: &quot;issues user&quot;
+      })</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8U2Nyb2xsYmFycyBhdXRvSGlkZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDYXJkIGhvdmVyYWJsZSB0aXRsZT0itaXM5bXns9jX7rjfzsK2yCIgLz4KICAgICAgICAgICAgICAgIDxDYXJkIGhvdmVyYWJsZSB0aXRsZT0itc3RubXn0bkiIC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvU2Nyb2xsYmFycz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTY3JvbGxiYXJzIGF1dG8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L1Njcm9sbGJhcnM+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8U2Nyb2xsYmFycy8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U2Nyb2xsYmFycyBhdXRvSGlkZT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93OiBhdXRvOwo=</text>
+        <text encoding="base64">ICAgICAgICA8U2Nyb2xsYmFycyBhdXRvSGlkZT4K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Scroll</last-search>
+      <last-search>fetchUserBill</last-search>
       <last-offset />
-      <last-pattern>Scroll</last-pattern>
+      <last-pattern>fetchUserBill</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>level</entry>
-        <entry>pick</entry>
-        <entry>status</entry>
         <entry>公司</entry>
         <entry>encode</entry>
         <entry>modules</entry>
@@ -408,6 +433,9 @@
         <entry>scoll</entry>
         <entry>scro</entry>
         <entry>Scroll</entry>
+        <entry>descti</entry>
+        <entry>dis</entry>
+        <entry>fetchUserBill</entry>
       </history-search>
       <history-cmd />
       <history-expr />
