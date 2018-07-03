@@ -169,9 +169,9 @@
         <mark key="." line="521" column="81" />
         <mark key="^" line="521" column="81" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-core/src/index.js" timestamp="1530589182412">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="84" column="25" />
+      <file name="G:/projects/zzswang/shanghaibus-core/src/index.js" timestamp="1530596448181">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="116" column="18" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test.json" timestamp="1529675128574">
         <mark key="'" line="0" column="0" />
@@ -248,11 +248,12 @@
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/index.js" timestamp="1530589226944">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="26" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="33" column="0" />
+      <file name="G:/projects/CZCE/ppm-core/src/index.js" timestamp="1530596457820">
+        <mark key="'" line="73" column="2" />
+        <mark key="[" line="69" column="3" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="0" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/user/unsettled-bill.js" timestamp="1530502671474">
         <mark key="[" line="21" column="29" />
@@ -262,10 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="4" filename="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
-      <jump line="73" column="16" filename="G:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" />
-      <jump line="83" column="11" filename="G:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" />
-      <jump line="21" column="36" filename="G:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" />
       <jump line="107" column="17" filename="G:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" />
       <jump line="1" column="36" filename="G:/projects/zzswang/shanghaibus-core/src/api/vehicle.js" />
       <jump line="236" column="6" filename="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
@@ -362,10 +359,14 @@
       <jump line="169" column="13" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="538" column="19" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-full-detail.js" />
       <jump line="78" column="30" filename="G:/projects/CZCE/ppm-core/package.json" />
+      <jump line="25" column="33" filename="G:/projects/CZCE/ppm-core/src/index.js" />
+      <jump line="49" column="2" filename="G:/projects/CZCE/ppm-core/src/index.js" />
+      <jump line="62" column="0" filename="G:/projects/CZCE/ppm-core/src/index.js" />
+      <jump line="73" column="2" filename="G:/projects/CZCE/ppm-core/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIE1vbmdvZGIKICovCg==</text>
+        <text encoding="base64">LyoqCiAqIHN0YXJ0IGFwcAogKi8Kc2VydmVyLmxpc3RlbihQT1JUKTsKY29uc29sZS5sb2coYFN0YXJ0ZWQgb24gcG9ydCAke1BPUlR9YCk7IC8vIGVzbGludC1kaXNhYmxlLWxpbmUKCmV4cG9ydCBkZWZhdWx0IGFwcDsK</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -374,34 +375,34 @@
         <text>kafka</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIE1vbmdvZGIKICovCg==</text>
+        <text encoding="base64">LyoqCiAqIHN0YXJ0IGFwcAogKi8Kc2VydmVyLmxpc3RlbihQT1JUKTsKY29uc29sZS5sb2coYFN0YXJ0ZWQgb24gcG9ydCAke1BPUlR9YCk7IC8vIGVzbGludC1kaXNhYmxlLWxpbmUKCmV4cG9ydCBkZWZhdWx0IGFwcDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIDQwNAogKi8KYXBwLnVzZSgocmVxLCByZXMsIG5leHQpID0+IHsKICBuZXh0KG5ldyBzdGF0dXMuTm90Rm91bmQoIlJlc291Y2Ugbm90IGZvdW5kIikpOwp9KTsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIGxvZyBpbiBkZXYKICovCmlmIChwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gImRldmVsb3BtZW50IikgewogIGFwcC51c2UobG9nZ2VyKCJkZXYiKSk7Cn0gZWxzZSB7CiAgYXBwLnVzZSgKICAgIGxvZ2dlcigidGlueSIsIHsKICAgICAgc2tpcDogKHJlcSwgcmVzKSA9PiByZXMuc3RhdHVzQ29kZSA8IDQwMAogICAgfSkKICApOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJrYWZrYS1ub2RlIjogIjIuNi4xIiwK</text>
+        <text encoding="base64">LyoqCiAqIGxvZyBpbiBkZXYKICovCmlmIChwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gImRldmVsb3BtZW50IikgewogIGFwcC51c2UobG9nZ2VyKCJkZXYiKSk7Cn0gZWxzZSB7CiAgYXBwLnVzZSgKICAgIGxvZ2dlcigidGlueSIsIHsKICAgICAgc2tpcDogKHJlcSwgcmVzKSA9PiByZXMuc3RhdHVzQ29kZSA8IDQwMAogICAgfSkKICApOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJrYWZrYS1wdXNoIjogImJhYmVsLW5vZGUgYmluL2thZmthLXB1c2guanMiCg==</text>
+        <text encoding="base64">ICAgICJrYWZrYS1ub2RlIjogIjIuNi4xIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL3p6c3dhbmcvc2hhbmdoYWlidXMtY29yZS9pc3N1ZXMiCiAgfSwK</text>
+        <text encoding="base64">ICAgICJrYWZrYS1wdXNoIjogImJhYmVsLW5vZGUgYmluL2thZmthLXB1c2guanMiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6ICJ6enN3YW5nL3NoYW5naGFpYnVzLWNvcmUiLAo=</text>
+        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL3p6c3dhbmcvc2hhbmdoYWlidXMtY29yZS9pc3N1ZXMiCiAgfSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe30pCg==</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6ICJ6enN3YW5nL3NoYW5naGFpYnVzLWNvcmUiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpLnNldFN0YXRlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuc2V0U3RhdGUoe30pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpLnNldFN0YXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
