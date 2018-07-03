@@ -56,6 +56,12 @@
         <mark key="^" line="34" column="22" />
         <mark key="." line="34" column="22" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/documentModel.js" timestamp="1530601874523">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="29" column="65" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/actions/index.js" timestamp="1530252666249">
         <mark key="'" line="69" column="26" />
         <mark key="[" line="101" column="19" />
@@ -129,11 +135,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1530601012515">
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-        <mark key="^" line="1" column="4" />
+      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1530601645113">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1530587970851" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" timestamp="1530152589988">
@@ -191,10 +197,10 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/user.js" timestamp="1530600662264">
+      <file name="G:/projects/CZCE/ppm-core/src/model/user.js" timestamp="1530601828961">
         <mark key="'" line="11" column="29" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="36" column="4" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="58" column="11" />
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
@@ -405,17 +411,17 @@
       <jump line="11" column="29" filename="G:/projects/CZCE/ppm-core/src/model/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>目</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>目</text>
+        <text>plugin()</text>
       </register>
       <register name="/" type="4">
         <text>kafka</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIM/uxL9Nb2RlbAogKi8K</text>
+        <text encoding="base64">ICB1cGRhdGVkQXQ7CiAgY3JlYXRlZEF0Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -430,19 +436,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZlcnNpb246IFN0cmluZyAvL87EtbWw5rG+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSDK/b7d0rXO8cSjv+m4utTwx+XPtNK1zvHK/b7dCi0gusvQxLf+zvHEo7/pttTN4szhuanStc7xt/7O8QoKIyMgv+zL2b+qyrwKCmBgYHNoCnlhcm4gaW5zdGFsbAp5YXJuIHN0YXJ0CgovLyBvcGVuIGluIGh0dHA6Ly9sb2NhbGhvc3Q6OTUyNy9zaGFuZ2hhaWJ1cy92MS9kb2NzCgovLyB0ZXN0aW5nCnlhcm4gdGVzdApgYGAKCiMjIMr9vt294bm5CgojIyMgs7UKCmBgYGpzCnsKICBwbGF0ZTogU3RyaW5nLCAvLyCztcXGCiAgcG9zaXRpb246IHsgbG5nOiBTdHJpbmcsIGxhdDogU3RyaW5nIH0sIC8vIGdwcyDX+LHqCiAgbm86IFN0cmluZywgLy8g19Sx4LrFCiAgYnJhbmRzOiBTdHJpbmcsIC8vIMa3xcYKICBjb21wYW55OiBTdHJpbmcsIC8vILmry74KICBjb252b3k6IFN0cmluZywgLy8gs7W20wogIGxpbmU6IFN0cmluZywgLy8gz9/CtwogIHR5cGU6IFN0cmluZywgLy8gv82ztcDg0M0gIrTz0M3G1c2ov82ztSIKICBtb2RlbDogU3RyaW5nLCAvLyCztdDNCiAgcG93ZXJCeTogewogICAgLy8gZnVlbCxoeWJpcmQsZWxlY3RyaWMKICAgIHR5cGU6IFN0cmluZywKICAgIGVudW06IFsiVU5LTk9XTiIsICJGVUVMIiwgIkhZQklSRCIsICJFTEVDVFJJQyJdLAogICAgZGVmYXVsdDogIlVOS05PV04iCiAgfSwKICBlbWlzc2lvbjogewogICAgLy8gxcW3xbHq17wgYzF+YzMgufqx6kkgufqx6klJILn6sepJSUkKICAgIHR5cGU6IFN0cmluZywKICAgIGVudW06IFsiVU5LTk9XTiIsICJDMSIsICJDMiIsICJDMyJdLAogICAgZGVmYXVsdDogIlVOS05PV04iCiAgfSwKICBjYXBhY2l0eTogTnVtYmVyLCAvLyC27rao1Ni/zcjLyv0KICBzZWF0czogTnVtYmVyLCAvLyDX+c67yv0KICBsZW5ndGg6IE51bWJlciwgLy8gs7XBvrOktsgKICBwaG90b3M6IFtTdHJpbmddLAogIHN0YXR1czogewogICAgLy8g17TMrAogICAgdHlwZTogU3RyaW5nLAogICAgZW51bTogWyJVTktOT1dOIiwgIlJVTk5JTkciLCAiQlJPS0VOIiwgIlJFUEFJUklORyIsICJDSEFSR0lORyJdLAogICAgZGVmYXVsdDogIlVOS05PV04iCiAgfSwKICB2YWxpZFRpbGw6IERhdGUsIC8vILGot8/I1cbaCiAgcHVyY2hhc2VBdDogRGF0ZSwgLy8gubrC8sjVxtoKCiAgbGFzdExvZ2luQXQ6IERhdGUsIC8vIMnP0ru0zrXHwrzPtc2zyrG85AogIGRlbGV0ZWRBdDogRGF0ZSwgLy8gyb6z/cqxvOQKICBtb2RpZmllZDogQm9vbGVhbiwgLy8gyse38bjE17AKICBzY3JhcHBlZDogQm9vbGVhbiwgLy8gyse38bGot88KICBkZWxldGVkOiB7IHR5cGU6IEJvb2xlYW4sIGRlZmF1bHQ6IGZhbHNlIH0gLy8gyse38dLRvq3JvrP9Cn0KYGBgCgojIyMgvN3Ku9SxCgojIyMgs+S159euCgojIyMgsai+ryBhbGFybQoKYGBganMKICB7CiAgICBjb2RlOiBTdHJpbmcsIC8vILnK1c/C6wogICAgY29tcGFueTogU3RyaW5nLCAvLyC5q8u+CiAgICBjb3VudDogTnVtYmVyLCAvLyC0zsr9CiAgICBsZXZlbDogTnVtYmVyLCAvLyC5ytXPtci8tgogICAgbGluZTogU3RyaW5nLCAvLyDP38K3CiAgICBuYW1lOiBTdHJpbmcsIC8vILnK1c/D+7PGCiAgICBwbGF0ZTogU3RyaW5nLCAvLyCztcXGusUKICAgIHN0YXR1czogewogICAgICAvLyDXtMysOiDOtLSmwO2horSmwO3W0KGi0tHN6rPJCiAgICAgIHR5cGU6IFN0cmluZywKICAgICAgZW51bTogWyJUT0RPIiwgIkRPSU5HIiwgIkRPTkUiXSwKICAgICAgZGVmYXVsdDogIlRPRE8iCiAgICB9LAogICAgdGlja2V0OiB7CiAgICAgIC8vILmktaUKICAgICAgaWQ6IFN0cmluZywgLy8guaS1pSBpZAogICAgICBjbG9zZWRBdDogRGF0ZSwgLy8guaS1pbnYsdXKsbzkCiAgICAgIGNyZWF0ZWRBdDogRGF0ZSwgLy8guaS1pbS0vajKsbzkCiAgICAgIGRlc2NyaXB0aW9uOiBTdHJpbmcsIC8vILmktaXP6sfpCiAgICAgIGZhaWx1cmVSZWFzb246IFN0cmluZywgLy8gucrVz9St0vIKICAgICAgbWFpbnRhaW5DcmFmdDogU3RyaW5nIC8vIM6s0N65pNLVCiAgICB9LAogICAgdmVoaWNsZTogeyB0eXBlOiBtb25nb29zZS5TY2hlbWEuVHlwZXMuT2JqZWN0SWQsIHJlZjogIlZlaGljbGUiIH0sIC8vILO1wb4KICAgIHZlaGljbGVNb2RlbDogU3RyaW5nLCAvLyCztdDNCgogICAgY2xvc2VkQXQ6IERhdGUsIC8vILnYsdXKsbzkCiAgICBjbG9zZWRCeTogU3RyaW5nLCAvLyDLrbnYsdW1xAogICAgZGVsZXRlZDogeyB0eXBlOiBCb29sZWFuLCBkZWZhdWx0OiBmYWxzZSB9LCAvLyDKx7fx0tG+rcm+s/0KICAgIGRlbGV0ZWRBdDogRGF0ZSwgLy8gyb6z/cqxvOQKICAgIGxhc3Q6IERhdGUsIC8vINfuvfzSu7TOsai+r8qxvOQKICAgIHN0YXJ0OiBEYXRlIC8vIL+qyryxqL6vtcTKsbzkCiAgfQpgYGAKCiMjIyC5pLWlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbGV0ZWQ6IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
