@@ -56,9 +56,9 @@
         <mark key="^" line="34" column="22" />
         <mark key="." line="34" column="22" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/documentModel.js" timestamp="1530601874523">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
+      <file name="G:/projects/CZCE/ppm-core/src/model/documentModel.js" timestamp="1530603025043">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="25" column="2" />
         <mark key="." line="44" column="0" />
         <mark key="^" line="29" column="65" />
       </file>
@@ -135,11 +135,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1530601645113">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
+      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1530603757445">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="39" column="39" />
+        <mark key="^" line="13" column="22" />
+        <mark key="." line="13" column="22" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1530587970851" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" timestamp="1530152589988">
@@ -191,16 +191,17 @@
         <mark key="^" line="35" column="9" />
         <mark key="." line="35" column="9" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/models/alarm.js" timestamp="1530602401628" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/schema.js" timestamp="1530172260616">
         <mark key="[" line="14" column="53" />
         <mark key="]" line="15" column="23" />
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/user.js" timestamp="1530601828961">
+      <file name="G:/projects/CZCE/ppm-core/src/model/user.js" timestamp="1530602501203">
         <mark key="'" line="11" column="29" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="11" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="28" column="26" />
         <mark key="^" line="1" column="9" />
         <mark key="." line="1" column="9" />
       </file>
@@ -237,11 +238,6 @@
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530585779475">
         <mark key="'" line="169" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530585996396">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1530172041139">
         <mark key="'" line="19" column="36" />
         <mark key="[" line="130" column="17" />
@@ -268,6 +264,12 @@
         <mark key="." line="83" column="11" />
         <mark key="^" line="83" column="11" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1530603773144">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
+        <mark key="^" line="43" column="4" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1530600405078">
         <mark key="'" line="241" column="2" />
         <mark key="[" line="249" column="0" />
@@ -287,6 +289,7 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/models/pile.js" timestamp="1530603092369" />
       <file name="G:/projects/CZCE/ppm-core/package.json" timestamp="1530599433579">
         <mark key="'" line="23" column="11" />
         <mark key="[" line="4" column="28" />
@@ -411,35 +414,35 @@
       <jump line="11" column="29" filename="G:/projects/CZCE/ppm-core/src/model/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>documentSchema</text>
       </register>
       <register name="-" type="4">
-        <text>plugin()</text>
+        <text>documentSchema</text>
       </register>
       <register name="/" type="4">
         <text>kafka</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB1cGRhdGVkQXQ7CiAgY3JlYXRlZEF0Owo=</text>
+        <text encoding="base64">ZG9jdW1lbnRTY2hlbWEucGx1Z2luKG1vbmdvb3NlSGlkZGVuKCksIHsKICBoaWRkZW46IHsgX2lkOiB0cnVlLCBkZWxldGVkOiB0cnVlIH0KfSk7Cgpkb2N1bWVudFNjaGVtYS5wbHVnaW4obW9uZ29vc2VQYWdpbmF0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRvY3VtZW50cyAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRvY3VtZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZlcnNpb246IFN0cmluZyAvL87EtbWw5rG+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -448,7 +451,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQWxhCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
