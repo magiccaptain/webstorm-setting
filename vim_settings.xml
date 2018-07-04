@@ -16,6 +16,7 @@
         <mark key="." line="41" column="20" />
         <mark key="^" line="41" column="20" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-detail.js" timestamp="1530665022358" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/selectors/index.js" timestamp="1530242182048">
         <mark key="[" line="33" column="48" />
         <mark key="]" line="33" column="48" />
@@ -147,12 +148,6 @@
         <mark key="." line="42" column="11" />
         <mark key="^" line="42" column="11" />
       </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/index.js" timestamp="1530581409568">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="82" column="16" />
-      </file>
       <file name="G:/projects/zzswang/adventurer-web/src/sagas/index.js" timestamp="1530511082843">
         <mark key="[" line="117" column="0" />
         <mark key="]" line="118" column="27" />
@@ -164,13 +159,6 @@
         <mark key="]" line="235" column="40" />
         <mark key="." line="235" column="40" />
         <mark key="^" line="235" column="40" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" timestamp="1530584172688">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="621" column="18" />
-        <mark key="]" line="621" column="21" />
-        <mark key="." line="621" column="21" />
-        <mark key="^" line="621" column="21" />
       </file>
       <file name="D:/projects/zzswang/shanghaibus-core/src/constants.js" timestamp="1529587310385">
         <mark key="'" line="122" column="0" />
@@ -232,6 +220,11 @@
         <mark key="]" line="2" column="53" />
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="53" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530664638060">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1530608388845">
         <mark key="[" line="0" column="0" />
@@ -422,7 +415,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -434,31 +427,31 @@
         <text encoding="base64">cmV2aWV3U2NoZW1hLnBsdWdpbihtb25nb29zZUhpZGRlbigpLCB7CiAgaGlkZGVuOiB7IF9pZDogdHJ1ZSwgZGVsZXRlZDogdHJ1ZSB9Cn0pOwoKcmV2aWV3U2NoZW1hLnBsdWdpbihtb25nb29zZVBhZ2luYXRlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
