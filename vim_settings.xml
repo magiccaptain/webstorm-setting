@@ -402,12 +402,11 @@
         <mark key="." line="29" column="9" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/actions/index.js" timestamp="1530456852248">
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/actions/index.js" timestamp="1530705415248">
         <mark key="'" line="87" column="22" />
-        <mark key="[" line="106" column="25" />
-        <mark key="]" line="106" column="25" />
-        <mark key="." line="106" column="25" />
-        <mark key="^" line="106" column="25" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
       </file>
       <file name="D:/projects/SC/openapi-parser/README.md" timestamp="1524144895641">
         <mark key="[" line="13" column="35" />
@@ -442,7 +441,8 @@
       <file name="D:/projects/zzswang/adventurer-web/src/containers/manager/user-bill.js" timestamp="1529838382344">
         <mark key="'" line="71" column="12" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/lib/index.js" timestamp="1530537849892">
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/lib/index.js" timestamp="1530702943347">
+        <mark key="'" line="92" column="2" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="6" />
         <mark key="." line="82" column="6" />
@@ -1034,8 +1034,12 @@
         <mark key="." line="33" column="13" />
         <mark key="^" line="33" column="13" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530625517845">
-        <mark key="'" line="19" column="16" />
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530706773859">
+        <mark key="'" line="297" column="11" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="250" column="21" />
+        <mark key="." line="250" column="21" />
+        <mark key="^" line="250" column="21" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/proto/proto.ts" timestamp="1520174331960">
         <mark key="[" line="80" column="0" />
@@ -1330,6 +1334,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/reducers/index.js" timestamp="1530705099488">
+        <mark key="[" line="8" column="49" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/allow_course_major.ts" timestamp="1517821545039">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="28" />
@@ -1359,6 +1369,9 @@
         <mark key="]" line="14" column="39" />
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="39" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" timestamp="1530705176949">
+        <mark key="'" line="150" column="0" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/userinfo.ts" timestamp="1520299513885">
         <mark key="[" line="0" column="0" />
@@ -1845,11 +1858,6 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="8" />
       </file>
-      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-marker.js" timestamp="1530457070374">
-        <mark key="'" line="63" column="14" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="24" />
-      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_session.ts" timestamp="1517394990020">
         <mark key="[" line="39" column="31" />
         <mark key="]" line="39" column="49" />
@@ -2184,19 +2192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="40" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
-      <jump line="256" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
-      <jump line="54" column="20" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
-      <jump line="99" column="21" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
-      <jump line="27" column="2" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
-      <jump line="66" column="6" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
-      <jump line="74" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-detail.js" />
-      <jump line="78" column="18" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-detail.js" />
-      <jump line="145" column="25" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" />
-      <jump line="226" column="13" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" />
-      <jump line="305" column="5" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" />
-      <jump line="309" column="5" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" />
-      <jump line="318" column="11" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" />
       <jump line="323" column="13" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" />
       <jump line="360" column="11" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" />
       <jump line="53" column="11" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" />
@@ -2239,9 +2234,7 @@
       <jump line="165" column="2" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="63" column="14" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-marker.js" />
       <jump line="321" column="22" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
-      <jump line="328" column="34" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="291" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
-      <jump line="319" column="28" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="58" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/public/fonts/iconfont.css" />
       <jump line="81" column="29" filename="D:/projects/zzswang/shanghaibus-admin-web/public/fonts/iconfont.css" />
       <jump line="29" column="6" filename="D:/projects/zzswang/shanghaibus-admin-web/public/fonts/iconfont.css" />
@@ -2255,7 +2248,6 @@
       <jump line="393" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="8" column="7" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="240" column="30" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
-      <jump line="242" column="28" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="250" column="31" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="254" column="10" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="265" column="10" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
@@ -2284,63 +2276,76 @@
       <jump line="96" column="29" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-full-detail.js" />
       <jump line="7" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-full-detail.js" />
       <jump line="13" column="27" filename="D:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" />
+      <jump line="92" column="2" filename="D:/projects/zzswang/shanghaibus-admin-web/src/lib/index.js" />
+      <jump line="292" column="9" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="378" column="31" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="379" column="35" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="130" column="10" filename="D:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" />
+      <jump line="151" column="28" filename="D:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" />
+      <jump line="150" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" />
+      <jump line="176" column="9" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="242" column="11" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="320" column="29" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="328" column="11" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="199" column="0" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="318" column="14" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="319" column="29" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="326" column="13" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
+      <jump line="327" column="11" filename="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>增加停车场显示</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGlmIChzZWxlY3RlZFZlaGljbGUgJiYgISkgewogICAgLy8gICBjb25zdCBjZW50ZXIgPSBuZXcgd2luZG93LkFNYXAuTG5nTGF0KAogICAgLy8gICAgIHNlbGVjdGVkVmVoaWNsZS5sb2NhdGlvbi5sbmcsCiAgICAvLyAgICAgc2VsZWN0ZWRWZWhpY2xlLmxvY2F0aW9uLmxhdAogICAgLy8gICApOwogICAgLy8gICB0aGlzLl9hbWFwLnNldENlbnRlcihjZW50ZXIpOwogICAgLy8gfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>增加停车场显示</text>
+        <text>this.props.</text>
       </register>
       <register name="/" type="4">
-        <text>motor</text>
+        <text>center</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1bml0OiAioeYiCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5tb3ZlVG9DZW50ZXIoc2VsZWN0ZWRWZWhpY2xlLmxvY2F0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGlmIChzZWxlY3RlZFZlaGljbGUgJiYgISkgewogICAgLy8gICBjb25zdCBjZW50ZXIgPSBuZXcgd2luZG93LkFNYXAuTG5nTGF0KAogICAgLy8gICAgIHNlbGVjdGVkVmVoaWNsZS5sb2NhdGlvbi5sbmcsCiAgICAvLyAgICAgc2VsZWN0ZWRWZWhpY2xlLmxvY2F0aW9uLmxhdAogICAgLy8gICApOwogICAgLy8gICB0aGlzLl9hbWFwLnNldENlbnRlcihjZW50ZXIpOwogICAgLy8gfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1bml0OiAioeYiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmKHRoaXMucHJvKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0KICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgaWYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2VudGVyID0gbmV3IHdpbmRvdy5BTWFwLkxuZ0xhdCgKICAgICAgICBzZWxlY3RlZFZlaGljbGUubG9jYXRpb24ubG5nLAogICAgICAgIHNlbGVjdGVkVmVoaWNsZS5sb2NhdGlvbi5sYXQKICAgICAgKTsKICAgICAgdGhpcy5fYW1hcC5zZXRDZW50ZXIoY2VudGVyKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNlbnRlciA9IG5ldyB3aW5kb3cuQU1hcC5MbmdMYXQoCiAgICAgIHNlbGVjdGVkVmVoaWNsZS5sb2NhdGlvbi5sbmcsCiAgICAgIHNlbGVjdGVkVmVoaWNsZS5sb2NhdGlvbi5sYXQKICAgICk7CiAgICB0aGlzLl9hbWFwLnNldENlbnRlcihjZW50ZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>motor</last-search>
+      <last-search>center</last-search>
       <last-offset />
-      <last-pattern>motor</last-pattern>
+      <last-pattern>center</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dc</entry>
-        <entry>center</entry>
-        <entry>result</entry>
         <entry>fetchData</entry>
         <entry>tingche</entry>
         <entry>parking</entry>
@@ -2358,6 +2363,9 @@
         <entry>Scro</entry>
         <entry>Scr</entry>
         <entry>motor</entry>
+        <entry>static</entry>
+        <entry>stat</entry>
+        <entry>center</entry>
       </history-search>
       <history-cmd />
       <history-expr />
