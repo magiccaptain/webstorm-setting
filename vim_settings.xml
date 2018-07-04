@@ -77,6 +77,12 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/product.js" timestamp="1530668039329">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="32" column="9" />
+        <mark key="^" line="32" column="9" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/constants.ts" timestamp="1504060509708">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="26" />
@@ -341,6 +347,7 @@
         <mark key="." line="44" column="20" />
         <mark key="^" line="44" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/zzswang/wali-web/src/reducers/list.js" timestamp="1528555826394" />
       <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/manager/style.css" timestamp="1529157106952">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="19" />
@@ -369,6 +376,7 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/user.js" timestamp="1530667001825" />
       <file name="G:/projects/smart_meter_dva/src/config.ts" timestamp="1504676496422">
         <mark key="[" line="6" column="58" />
         <mark key="]" line="6" column="58" />
@@ -470,6 +478,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/configure.js" timestamp="1530668070328">
+        <mark key="[" line="40" column="59" />
+        <mark key="]" line="40" column="59" />
+        <mark key="^" line="40" column="59" />
+        <mark key="." line="40" column="59" />
       </file>
       <file name="$USER_HOME$/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/tables/ServerSideReactTable/redux.js" timestamp="1499437108532">
         <mark key="[" line="46" column="5" />
@@ -603,6 +617,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="28" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1530668752082">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="8" />
+        <mark key="^" line="21" column="8" />
+        <mark key="." line="21" column="8" />
+      </file>
       <file name="$USER_HOME$/projects/zzswang/wali-web/src/sagas/mock-logs.js" timestamp="1528551949893">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="32" />
@@ -699,6 +719,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="^" line="22" column="26" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/document.js" timestamp="1530668645627">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="43" column="40" />
+        <mark key="^" line="34" column="8" />
+        <mark key="." line="34" column="8" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/get_models.ts" timestamp="1517218937915">
         <mark key="'" line="69" column="18" />
@@ -975,6 +1001,12 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/project.js" timestamp="1530668120147">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="14" column="69" />
+        <mark key="." line="14" column="69" />
+        <mark key="^" line="14" column="69" />
+      </file>
       <file name="$USER_HOME$/projects/zzswang/wali-web/src/reducers/logs.js" timestamp="1528557515202">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -1241,43 +1273,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.id</text>
+        <text>求</text>
       </register>
       <register name="-" type="4">
-        <text>.id</text>
+        <text>求</text>
       </register>
       <register name="/" type="4">
         <text>zoom</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdGhpcy5zZWxlY3RWZWhpY2xlKHYuaWQpOwo=</text>
+        <text encoding="base64">cHJvZHVjdFNjaGVtYS5wbHVnaW4obW9uZ29vc2VIaWRkZW4oKSwgewogIGhpZGRlbjogeyBfaWQ6IHRydWUsIGRlbGV0ZWQ6IHRydWUgfQp9KTsKCnByb2R1Y3RTY2hlbWEucGx1Z2luKG1vbmdvb3NlUGFnaW5hdGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoc2VsZWN0ZWQpIHsKICAgIGNvbnNvbGUubG9nKGNoYXJnU3RhdHVzKTsKICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bGV0IGN1ckluZGV4ID0gMTAwOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoc2VsZWN0ZWQpIHsKICAgIGNvbnNvbGUubG9nKGNoYXJnU3RhdHVzKTsKICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y2xhc3MgQ28K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByb2plCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3NlbGVjdGVkVmVoaWNsZUlkICYmCiAgICAgICAgICAgICAgc2VsZWN0ZWRWZWhpY2xlICYmCiAgICAgICAgICAgICAgcmVuZGVyTWFya2Rlcih7IHZlaGljbGU6IHNlbGVjdGVkVmVoaWNsZSwgc2VsZWN0ZWQ6IHRydWUsIHpJbmRleDogMTAwMCB9KX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdGVkOiBzZWxlY3RlZFZlaGljbGVJZCA9PT0gdi5pZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB6SW5kZXggPSBzZWxlY3RlZCA/IDEwMDAgOiAxMDA7Cg==</text>
+        <text encoding="base64">ICAgIG1vZGVsOiB7IHR5cGU6IG1vbmdvb3NlLlNjaGVtYS5UeXBlcy5PYmplY3RJZCwgcmVmOiAiRG9jdW1lbnRNb2RlbCIgfSwgLy/mlofmoaPnsbvlnosK</text>
       </register>
     </registers>
     <search>
