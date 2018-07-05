@@ -409,12 +409,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="24" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/sagas/index.js" timestamp="1530770163717">
-        <mark key="'" line="47" column="19" />
-        <mark key="[" line="214" column="46" />
-        <mark key="]" line="216" column="32" />
-        <mark key="^" line="216" column="32" />
-        <mark key="." line="216" column="32" />
+      <file name="G:/projects/CZCE/ppm-web/src/sagas/index.js" timestamp="1530772060973">
+        <mark key="'" line="128" column="19" />
+        <mark key="[" line="130" column="36" />
+        <mark key="]" line="130" column="46" />
+        <mark key="." line="130" column="46" />
+        <mark key="^" line="130" column="46" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/proto/constant.ts" timestamp="1519915177801">
         <mark key="[" line="13" column="0" />
@@ -1023,6 +1023,7 @@
         <mark key="^" line="41" column="16" />
         <mark key="." line="41" column="16" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/lib/sdk.js" timestamp="1530771841423" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" timestamp="1530691491511">
         <mark key="'" line="28" column="37" />
         <mark key="[" line="84" column="34" />
@@ -2133,6 +2134,7 @@
         <mark key="." line="35" column="20" />
         <mark key="^" line="35" column="20" />
       </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/sagas/index.js" timestamp="1530757673023" />
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.js" timestamp="1525829817165">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="22" />
@@ -2235,6 +2237,7 @@
         <mark key="^" line="11" column="38" />
         <mark key="." line="11" column="38" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/layouts/app-layout.js" timestamp="1530753741637" />
       <file name="G:/projects/zzswang/adventurer-web/src/reducers/filters.js" timestamp="1528879321574">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="24" />
@@ -2304,9 +2307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="6" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-full-detail.js" />
-      <jump line="499" column="17" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-full-detail.js" />
-      <jump line="368" column="36" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="393" column="35" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="169" column="13" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" />
       <jump line="538" column="19" filename="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/vehicle-full-detail.js" />
@@ -2404,46 +2404,49 @@
       <jump line="252" column="10" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
       <jump line="282" column="10" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
       <jump line="41" column="10" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
+      <jump line="211" column="34" filename="G:/projects/CZCE/ppm-web/src/sagas/index.js" />
+      <jump line="0" column="0" filename="G:/projects/CZCE/ppm-web/src/sagas/index.js" />
+      <jump line="128" column="19" filename="G:/projects/CZCE/ppm-web/src/sagas/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYm9keSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LIST_USERS</text>
       </register>
       <register name="-" type="4">
-        <text>doc</text>
+        <text>LIST_USERS</text>
       </register>
       <register name="/" type="4">
         <text>update</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNlbGVjdE1pbGVzdG9uZSA9IHN0YXRlID0+CiAgZGVub3JtYWxpemUoc3RhdGUuZnNhc1tMSVNUX01JTEVTVE9ORVNdLnJlc3VsdCwgW21pbGVzdG9uZVNjaGVtYV0sIHN0YXRlLmVudGl0aWVzKTsK</text>
+        <text encoding="base64">ICAgIHRha2VMYXRlc3QodHlwZXMoQ1JFQVRFX1VTRVIpLlNVQ0NFU1MsIHVzZXJVcHNlcnRTdWNjZXNzKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYm9keSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gKnVzZXJVcGRhdGVTdWNjZXNzKGFjdGlvbikgewoKICBoaXN0b3J5LnB1c2goIi91c2VycyIpOwogIG1lc3NhZ2Uuc3VjY2Vzcygi08O7p7S0vaizybmmIik7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYm9keSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpbml0aWFsVmFsdWU6IAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChjcmVhdGVVc2VyKHZhbHVlKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChjcmVhdGVVc2VyKHZhbHVlKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
