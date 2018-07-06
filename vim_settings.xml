@@ -659,12 +659,12 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/sagas/index.js" timestamp="1530776954793">
+      <file name="G:/projects/CZCE/ppm-web/src/sagas/index.js" timestamp="1530860440616">
         <mark key="'" line="126" column="2" />
-        <mark key="[" line="132" column="16" />
-        <mark key="]" line="132" column="16" />
-        <mark key="." line="132" column="16" />
-        <mark key="^" line="132" column="16" />
+        <mark key="[" line="160" column="26" />
+        <mark key="]" line="160" column="29" />
+        <mark key="." line="160" column="29" />
+        <mark key="^" line="160" column="29" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/proto/constant.ts" timestamp="1519915177801">
         <mark key="[" line="13" column="0" />
@@ -1882,7 +1882,7 @@
         <mark key="^" line="92" column="55" />
         <mark key="." line="92" column="55" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/reducers/entities.js" timestamp="1530858911275" />
+      <file name="G:/projects/CZCE/ppm-web/src/reducers/entities.js" timestamp="1530859695961" />
       <file name="G:/projects/smart_meter_dva/src/routes/IndexPage.js" timestamp="1504064465351">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -2185,12 +2185,12 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" timestamp="1530852945933">
-        <mark key="'" line="2" column="34" />
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="261" column="14" />
-        <mark key="." line="233" column="35" />
-        <mark key="^" line="233" column="35" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" timestamp="1530860227973">
+        <mark key="'" line="180" column="27" />
+        <mark key="[" line="196" column="38" />
+        <mark key="]" line="198" column="20" />
+        <mark key="." line="198" column="20" />
+        <mark key="^" line="198" column="20" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/components/pop-confirm-tag/index.js" timestamp="1530856258780">
         <mark key="[" line="10" column="0" />
@@ -3405,7 +3405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="3" filename="G:/projects/CZCE/ppm-web/src/reducers/index.js" />
       <jump line="79" column="20" filename="G:/projects/CZCE/ppm-web/src/reducers/index.js" />
       <jump line="10" column="0" filename="G:/projects/CZCE/ppm-web/src/reducers/index.js" />
       <jump line="101" column="11" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
@@ -3505,13 +3504,14 @@
       <jump line="34" column="29" filename="G:/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" />
       <jump line="25" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" />
       <jump line="20" column="22" filename="G:/projects/CZCE/ppm-web/src/reducers/entities.js" />
+      <jump line="180" column="27" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>objValue</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Pop</text>
