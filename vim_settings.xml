@@ -763,6 +763,10 @@
         <mark key="^" line="129" column="34" />
         <mark key="." line="129" column="34" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/user-groups.js" timestamp="1530846457813">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="25" />
+      </file>
       <file name="$USER_HOME$/projects/zzswang/adventurer-web/.gitignore" timestamp="1526881072339">
         <mark key="[" line="25" column="6" />
         <mark key="]" line="26" column="4" />
@@ -958,6 +962,12 @@
         <mark key="]" line="3" column="63" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" timestamp="1530846471004">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/components/dialogs/index.module.less" timestamp="1526262086351">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="14" column="16" />
@@ -1006,11 +1016,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/index.js" timestamp="1530842926540">
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/index.js" timestamp="1530845831830">
+        <mark key="'" line="36" column="32" />
+        <mark key="[" line="53" column="57" />
+        <mark key="]" line="53" column="62" />
+        <mark key="." line="53" column="62" />
+        <mark key="^" line="53" column="62" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/adventurer-web/public/index.html" timestamp="1526892203724">
         <mark key="[" line="14" column="60" />
@@ -1064,7 +1075,7 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
-      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/components/page-header/index.js" timestamp="1530842995184">
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/components/page-header/index.js" timestamp="1530845611190">
         <mark key="[" line="28" column="51" />
         <mark key="]" line="28" column="71" />
         <mark key="^" line="28" column="71" />
@@ -1139,7 +1150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="9" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/openapi.yaml" />
       <jump line="194" column="49" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/openapi.yaml" />
       <jump line="272" column="19" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/openapi.yaml" />
       <jump line="255" column="16" filename="$USER_HOME$/projects/36node/sketch/packages/fastman/shanghaibus/openapi.yaml" />
@@ -1239,46 +1249,47 @@
       <jump line="11" column="37" filename="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
       <jump line="17" column="49" filename="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
       <jump line="49" column="19" filename="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/add-user-group-modal.js" />
+      <jump line="35" column="32" filename="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA6Z2xvYmFsKC5hbnQtbWVudS1pdGVtKSB7CiAgICBjb2xvcjogd2hpdGU7CiAgICBiYWNrZ3JvdW5kOiAjNTBhZjU1OwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>select</text>
       </register>
       <register name="/" type="4">
         <text>onClicked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA6Z2xvYmFsKC5hbnQtbWVudS1pdGVtKSB7CiAgICBjb2xvcjogd2hpdGU7CiAgICBiYWNrZ3JvdW5kOiAjNTBhZjU1OwogIH0K</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gInJlYWN0IjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhY2sK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAge30K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPEhlYWRlck1lbnUgLz4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1pZGRsZUNvbnRlbnQ9e0hlYWRlck1lbnV9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRlbnQpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxvYWRpbmc6IAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGtleSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJhY2sK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAge30K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvVGFicz4K</text>
+        <text encoding="base64">ICAgICAgPEhlYWRlck1lbnUgLz4K</text>
       </register>
     </registers>
     <search>
