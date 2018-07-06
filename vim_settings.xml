@@ -67,12 +67,6 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/projects/index.js" timestamp="1530676886602">
-        <mark key="'" line="0" column="11" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/product.js" timestamp="1530668039329">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="44" column="38" />
@@ -297,7 +291,6 @@
         <mark key="^" line="3" column="23" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/lib/sdk.js" timestamp="1530673736317" />
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.d.ts" timestamp="1526212073002">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="31" column="21" />
@@ -513,12 +506,12 @@
         <mark key="^" line="36" column="20" />
         <mark key="." line="36" column="20" />
       </file>
-      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/users-table.js" timestamp="1530841016018">
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/users-table.js" timestamp="1530842072161">
         <mark key="'" line="17" column="49" />
-        <mark key="[" line="355" column="21" />
-        <mark key="]" line="355" column="42" />
-        <mark key="." line="355" column="42" />
-        <mark key="^" line="355" column="42" />
+        <mark key="[" line="364" column="33" />
+        <mark key="]" line="365" column="21" />
+        <mark key="." line="365" column="21" />
+        <mark key="^" line="365" column="21" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/package.json" timestamp="1502162294895">
         <mark key="[" line="7" column="115" />
@@ -723,7 +716,6 @@
         <mark key="^" line="22" column="26" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/adventurer-web/config-overrides.js" timestamp="1530675992707" />
       <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/document.js" timestamp="1530668645627">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="46" column="40" />
@@ -813,6 +805,11 @@
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/base.js" timestamp="1530841982451">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/client/src/auth/api.ts" timestamp="1502160765094">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -885,7 +882,6 @@
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/index.js" timestamp="1530673429266" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/wrappers/MuiThemeWrapper.js" timestamp="1499050689354">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="1" column="4" />
@@ -903,7 +899,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/layouts/main.js" timestamp="1530677185716" />
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/providers/ResizeProvider.js" timestamp="1499049620327">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="13" />
@@ -939,6 +934,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="36" column="73" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-core/src/api/user-group.js" timestamp="1530841807700">
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="44" />
+        <mark key="^" line="52" column="44" />
+        <mark key="." line="52" column="44" />
       </file>
       <file name="$USER_HOME$/projects/ppm-web/src/lib/sdk.js" timestamp="1530673130585">
         <mark key="[" line="3" column="1" />
@@ -1005,11 +1006,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="29" column="31" />
       </file>
-      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/index.js" timestamp="1530677193678">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="19" />
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/index.js" timestamp="1530842926540">
+        <mark key="[" line="21" column="52" />
+        <mark key="]" line="22" column="16" />
+        <mark key="." line="22" column="16" />
+        <mark key="^" line="22" column="16" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/adventurer-web/public/index.html" timestamp="1526892203724">
         <mark key="[" line="14" column="60" />
@@ -1063,6 +1064,12 @@
         <mark key="^" line="27" column="1" />
         <mark key="." line="27" column="1" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/components/page-header/index.js" timestamp="1530842995184">
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="71" />
+        <mark key="^" line="28" column="71" />
+        <mark key="." line="28" column="71" />
+      </file>
       <file name="G:/projects/smart_meter_fullstack/auth/mongoModel.ts" timestamp="1502115821065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1089,6 +1096,12 @@
         <mark key="]" line="5" column="45" />
         <mark key="." line="5" column="45" />
         <mark key="^" line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/components/page-header/index.module.less" timestamp="1530843478973">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+        <mark key="." line="22" column="30" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
@@ -1228,56 +1241,55 @@
       <jump line="49" column="19" filename="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/add-user-group-modal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>userUpsertSuccess</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA6Z2xvYmFsKC5hbnQtbWVudS1pdGVtKSB7CiAgICBjb2xvcjogd2hpdGU7CiAgICBiYWNrZ3JvdW5kOiAjNTBhZjU1OwogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>userUpsertSuccess</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>Modal</text>
+        <text>onClicked</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRha2VMYXRlc3QodHlwZXMoQ1JFQVRFX1VTRVIpLlNVQ0NFU1MsIHVzZXJVcHNlcnRTdWNjZXNzKSwK</text>
+        <text encoding="base64">ICA6Z2xvYmFsKC5hbnQtbWVudS1pdGVtKSB7CiAgICBjb2xvcjogd2hpdGU7CiAgICBiYWNrZ3JvdW5kOiAjNTBhZjU1OwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJhY2sK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPEhlYWRlck1lbnUgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvbk9rPXt0aGlzLm9uT2t9Cg==</text>
+        <text encoding="base64">ICAgIG1pZGRsZUNvbnRlbnQ9e0hlYWRlck1lbnV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3VibWl0Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbnRlbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxlY3RlZFVzZXJzKTsK</text>
+        <text encoding="base64">ICAgIDwvVGFicz4K</text>
       </register>
     </registers>
     <search>
-      <last-search>Modal</last-search>
+      <last-search>onClicked</last-search>
       <last-offset />
-      <last-pattern>Modal</last-pattern>
+      <last-pattern>onClicked</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>level</entry>
         <entry>setState</entry>
         <entry>scro</entry>
         <entry>ca</entry>
@@ -1297,6 +1309,7 @@
         <entry>submit</entry>
         <entry>Submit</entry>
         <entry>Modal</entry>
+        <entry>onClicked</entry>
       </history-search>
       <history-cmd />
       <history-expr />
