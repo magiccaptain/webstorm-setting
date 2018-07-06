@@ -1298,6 +1298,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="0" column="38" />
       </file>
+      <file name="D:/projects/CZCE/ppm-web/src/containers/users/popover-user-selector.js" timestamp="1530888821474">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="G:/projects/zzswang/harvest/src/ali-log-api/util.js" timestamp="1527664893874">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="1" column="6" />
@@ -2364,7 +2370,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29tCg==</text>
       </register>
       <register name="-" type="4">
         <text>leftTop</text>
@@ -2376,31 +2382,31 @@
         <text encoding="base64">ICAgICAgICAgIDxhPsi3tqg8L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxhPsihz/s8L2E+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxhPsihz/s8L2E+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPFVzZXJTZWxlY3RvciBzdHlsZT17e3dpZHRoOiAyMDB9fS8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGUK</text>
+        <text encoding="base64">ICAgICAgPFVzZXJTZWxlY3RvciBzdHlsZT17e3dpZHRoOiAyMDB9fS8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImdyb3VwcyIsIGdyb3Vwcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
