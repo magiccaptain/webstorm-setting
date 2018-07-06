@@ -1,5 +1,5 @@
 <templateSet group="Redux">
-  <template name="ResourceSdk" value="  list$NAME$s = ({ query }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$&quot;), {&#10;      query,&#10;      schema: [$SCHEMA_NAME$Schema]&#10;    });&#10;&#10;  create$NAME$ = ({ body }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$&quot;), {&#10;      method: &quot;POST&quot;,&#10;      body,&#10;      schema: $SCHEMA_NAME$Schema&#10;    });&#10;&#10;  get$NAME$ = ({ id }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$/&quot; + id), {&#10;      schema: $SCHEMA_NAME$Schema&#10;    });&#10;&#10;  update$NAME$ = ({ id,body }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$/&quot; + id), {&#10;      method: &quot;PUT&quot;,&#10;      body,&#10;      schema: $SCHEMA_NAME$Schema&#10;    });&#10;&#10;  delete$NAME$ = ({ id }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$/&quot; + id), {&#10;      method: &quot;DELETE&quot;&#10;    });&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="ResourceSdk" value="  list$NAME$s = ({ query }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$&quot;), {&#10;      query,&#10;      schema: [$SCHEMA_NAME$Schema]&#10;    });&#10;&#10;  create$NAME$ = ({ body }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$&quot;), {&#10;      method: &quot;POST&quot;,&#10;      body,&#10;      schema: $SCHEMA_NAME$Schema&#10;    });&#10;&#10;  get$NAME$ = ({ id }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$/&quot; + id), {&#10;      schema: $SCHEMA_NAME$Schema&#10;    });&#10;&#10;  update$NAME$ = ({ id,body }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$/&quot; + id), {&#10;      method: &quot;PUT&quot;,&#10;      body,&#10;      schema: $SCHEMA_NAME$Schema&#10;    });&#10;&#10;  delete$NAME$ = ({ id }) =&gt;&#10;    request(makeUrl(&quot;/$URL_NAME$/&quot; + id), {&#10;      method: &quot;DELETE&quot;&#10;    });&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="URL_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SCHEMA_NAME" expression="camelCase(NAME)" defaultValue="" alwaysStopAt="true" />
@@ -7,27 +7,27 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ResourceAction" value="export const LIST_$NAME$S = &quot;LIST_$NAME$S&quot;;&#10;export const list$FUN_NAME$s = query =&gt; ({&#10;  type: LIST_$NAME$S,&#10;  payload: {&#10;    query&#10;  }&#10;});&#10;&#10;export const CREATE_$NAME$ = &quot;CREATE_$NAME$&quot;;&#10;export const create$FUN_NAME$ = body =&gt; ({&#10;  type: CREATE_$NAME$,&#10;  payload: {&#10;    body&#10;  }&#10;});&#10;&#10;export const DELETE_$NAME$ = &quot;DELETE_$NAME$&quot;;&#10;export const delete$FUN_NAME$ = id =&gt; ({&#10;  type: DELETE_$NAME$,&#10;  payload: {&#10;    id&#10;  }&#10;});&#10;&#10;export const UPDATE_$NAME$ = &quot;UPDATE_$NAME$&quot;;&#10;export const update$FUN_NAME$ = (id, body) =&gt; ({&#10;  type: UPDATE_$NAME$,&#10;  payload: {&#10;    id,&#10;    body&#10;  }&#10;});&#10;&#10;export const GET_$NAME$ = &quot;GET_$NAME$&quot;;&#10;export const get$FUN_NAME$ = id =&gt; ({&#10;  type: GET_$NAME$,&#10;  payload: {&#10;    id&#10;  }&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="ResourceAction" value="export const LIST_$NAME$S = &quot;LIST_$NAME$S&quot;;&#10;export const list$FUN_NAME$s = query =&gt; ({&#10;  type: LIST_$NAME$S,&#10;  payload: {&#10;    query&#10;  }&#10;});&#10;&#10;export const CREATE_$NAME$ = &quot;CREATE_$NAME$&quot;;&#10;export const create$FUN_NAME$ = body =&gt; ({&#10;  type: CREATE_$NAME$,&#10;  payload: {&#10;    body&#10;  }&#10;});&#10;&#10;export const DELETE_$NAME$ = &quot;DELETE_$NAME$&quot;;&#10;export const delete$FUN_NAME$ = id =&gt; ({&#10;  type: DELETE_$NAME$,&#10;  payload: {&#10;    id&#10;  }&#10;});&#10;&#10;export const UPDATE_$NAME$ = &quot;UPDATE_$NAME$&quot;;&#10;export const update$FUN_NAME$ = (id, body) =&gt; ({&#10;  type: UPDATE_$NAME$,&#10;  payload: {&#10;    id,&#10;    body&#10;  }&#10;});&#10;&#10;export const GET_$NAME$ = &quot;GET_$NAME$&quot;;&#10;export const get$FUN_NAME$ = id =&gt; ({&#10;  type: GET_$NAME$,&#10;  payload: {&#10;    id&#10;  }&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FUN_NAME" expression="capitalize(camelCase(NAME))" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ResourceSaga" value="const list$NAME$s = callAPI.bind(null, sdk.list$NAME$s);&#10;const create$NAME$ = callAPI.bind(null, sdk.create$NAME$);&#10;const update$NAME$ = callAPI.bind(null, sdk.update$NAME$);&#10;const get$NAME$ = callAPI.bind(null, sdk.get$NAME$);&#10;const delete$NAME$ = callAPI.bind(null, sdk.delete$NAME$);" toReformat="false" toShortenFQNames="true">
+  <template name="ResourceSaga" value="const list$NAME$s = callAPI.bind(null, sdk.list$NAME$s);&#10;const create$NAME$ = callAPI.bind(null, sdk.create$NAME$);&#10;const update$NAME$ = callAPI.bind(null, sdk.update$NAME$);&#10;const get$NAME$ = callAPI.bind(null, sdk.get$NAME$);&#10;const delete$NAME$ = callAPI.bind(null, sdk.delete$NAME$);" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ResourceSagaTake" value="    takeLatest(LIST_$NAME$S, list$FUN_USER$s),&#10;    takeLatest(CREATE_$NAME$, create$FUN_USER$),&#10;    takeLatest(UPDATE_$NAME$, update$FUN_USER$),&#10;    takeLatest(GET_$NAME$, get$FUN_USER$),&#10;    takeLatest(DELETE_$NAME$, delete$FUN_USER$)," toReformat="false" toShortenFQNames="true">
+  <template name="ResourceSagaTake" value="    takeLatest(LIST_$NAME$S, list$FUN_USER$s),&#10;    takeLatest(CREATE_$NAME$, create$FUN_USER$),&#10;    takeLatest(UPDATE_$NAME$, update$FUN_USER$),&#10;    takeLatest(GET_$NAME$, get$FUN_USER$),&#10;    takeLatest(DELETE_$NAME$, delete$FUN_USER$)," description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FUN_USER" expression="capitalize(camelCase(NAME))" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ResourceReducers" value="     [LIST_$NAME$S]: fetching(LIST_$NAME$S),&#10;    [CREATE_$NAME$]: fetching(CREATE_$NAME$),&#10;    [GET_$NAME$]: fetching(GET_$NAME$),&#10;    [UPDATE_$NAME$]: fetching(UPDATE_$NAME$),&#10;    [DELETE_$NAME$]: fetching(DELETE_$NAME$)" toReformat="false" toShortenFQNames="true">
+  <template name="ResourceReducers" value="     [LIST_$NAME$S]: fetching(LIST_$NAME$S),&#10;    [CREATE_$NAME$]: fetching(CREATE_$NAME$),&#10;    [GET_$NAME$]: fetching(GET_$NAME$),&#10;    [UPDATE_$NAME$]: fetching(UPDATE_$NAME$),&#10;    [DELETE_$NAME$]: fetching(DELETE_$NAME$)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
