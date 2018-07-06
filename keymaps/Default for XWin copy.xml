@@ -1,0 +1,15 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateDBBrowserToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
+  <action id="GotoBookmark2" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+</keymap>

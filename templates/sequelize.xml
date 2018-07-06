@@ -1,0 +1,17 @@
+<templateSet group="sequelize">
+  <template name="ModelDefine" value="import * as Sequelize from 'sequelize';&#10;&#10;export interface $NAME$Attribute {&#10;    id: number, &#10;    createdAt: Date,&#10;    updatedAt: Date,&#10;}&#10;&#10;export interface $NAME$Instance extends Sequelize.Instance&lt;$NAME$Attribute&gt;, $NAME$Attribute {&#10;&#10;}&#10;&#10;export interface $NAME$Model extends Sequelize.Model&lt;$NAME$Instance, $NAME$Attribute&gt; {&#10;&#10;}&#10;&#10;export default (sequelize: Sequelize.Sequelize): $NAME$Model =&gt; {&#10;    return sequelize.define&lt;$NAME$Instance, $NAME$Attribute&gt;(&#10;        '$END$',&#10;        {&#10;         &#10;        })&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="BelongsToManyDefine" value="interface $INTERFACE_NAME$Association {&#10;    get$NAME$s: Sequelize.BelongsToManyGetAssociationsMixin&lt;$INSTANCE$&gt;;&#10;    set$NAME$s: Sequelize.BelongsToManySetAssociationsMixin&lt;$INSTANCE$, number, $JOIN_TABLE_ATTRIBUTE$&gt;;&#10;    add$NAME$s: Sequelize.BelongsToManyAddAssociationsMixin&lt;$INSTANCE$, number, $JOIN_TABLE_ATTRIBUTE$&gt;;&#10;    add$NAME$: Sequelize.BelongsToManyAddAssociationMixin&lt;$INSTANCE$, number, $JOIN_TABLE_ATTRIBUTE$&gt;;&#10;    create$NAME$: Sequelize.BelongsToManyCreateAssociationMixin&lt;$INSTANCE$, number, $JOIN_TABLE_ATTRIBUTE$&gt;;&#10;    remove$NAME$: Sequelize.BelongsToManyRemoveAssociationMixin&lt;$INSTANCE$, number&gt;;&#10;    remove$NAME$s: Sequelize.BelongsToManyRemoveAssociationsMixin&lt;$INSTANCE$, number&gt;;&#10;    has$NAME$: Sequelize.BelongsToManyHasAssociationMixin&lt;$INSTANCE$, number&gt;;&#10;    has$NAME$s: Sequelize.BelongsToManyHasAssociationsMixin&lt;$INSTANCE$, number&gt;;&#10;    count$NAME$s: Sequelize.BelongsToManyCountAssociationsMixin;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="INTERFACE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="INSTANCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="JOIN_TABLE_ATTRIBUTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
