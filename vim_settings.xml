@@ -334,11 +334,6 @@
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1530674743158">
-        <mark key="'" line="109" column="38" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="37" />
-      </file>
       <file name="D:/projects/SmartElective/Server/app/controller/teachers.ts" timestamp="1519743299442">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="45" />
@@ -866,12 +861,12 @@
         <mark key="^" line="14" column="59" />
         <mark key="." line="14" column="59" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" timestamp="1530856882430">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="69" column="18" />
-        <mark key="]" line="69" column="27" />
-        <mark key="^" line="69" column="27" />
-        <mark key="." line="69" column="27" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" timestamp="1530862229565">
+        <mark key="'" line="51" column="5" />
+        <mark key="[" line="70" column="46" />
+        <mark key="]" line="70" column="46" />
+        <mark key="." line="70" column="46" />
+        <mark key="^" line="70" column="46" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/pages/DevicesList/Actions.js" timestamp="1499411463508">
         <mark key="[" line="90" column="21" />
@@ -1774,6 +1769,11 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/lib/index.js" timestamp="1530862830324">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_position.ts" timestamp="1517322389316">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="18" column="0" />
@@ -1918,11 +1918,6 @@
         <mark key="]" line="14" column="21" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="1" />
-      </file>
-      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/user-form.js" timestamp="1530840200220">
-        <mark key="'" line="190" column="45" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="49" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_department.ts" timestamp="1517277894169">
         <mark key="[" line="10" column="0" />
@@ -2185,12 +2180,13 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="8" column="23" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" timestamp="1530860227973">
-        <mark key="'" line="180" column="27" />
-        <mark key="[" line="196" column="38" />
-        <mark key="]" line="198" column="20" />
-        <mark key="." line="198" column="20" />
-        <mark key="^" line="198" column="20" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" timestamp="1530864172085">
+        <mark key="'" line="185" column="20" />
+        <mark key="[" line="184" column="18" />
+        <mark key="]" line="184" column="18" />
+        <mark key="n" line="51" column="0" />
+        <mark key="." line="184" column="18" />
+        <mark key="^" line="184" column="18" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/components/pop-confirm-tag/index.js" timestamp="1530856258780">
         <mark key="[" line="10" column="0" />
@@ -2588,11 +2584,6 @@
         <mark key="]" line="109" column="61" />
         <mark key="." line="109" column="61" />
         <mark key="^" line="109" column="61" />
-      </file>
-      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/main.js" timestamp="1530777266242">
-        <mark key="'" line="93" column="14" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="30" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/service/elective.ts" timestamp="1519913095045">
         <mark key="[" line="29" column="0" />
@@ -3405,33 +3396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="20" filename="G:/projects/CZCE/ppm-web/src/reducers/index.js" />
-      <jump line="10" column="0" filename="G:/projects/CZCE/ppm-web/src/reducers/index.js" />
-      <jump line="101" column="11" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
-      <jump line="144" column="10" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
-      <jump line="196" column="24" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
-      <jump line="227" column="28" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
-      <jump line="256" column="27" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
-      <jump line="84" column="60" filename="G:/projects/CZCE/ppm-web/src/sagas/index.js" />
-      <jump line="150" column="23" filename="G:/projects/CZCE/ppm-web/src/sagas/index.js" />
-      <jump line="70" column="22" filename="G:/projects/CZCE/ppm-web/src/reducers/index.js" />
-      <jump line="47" column="19" filename="G:/projects/CZCE/ppm-web/src/sagas/index.js" />
-      <jump line="62" column="51" filename="G:/projects/CZCE/ppm-web/src/selectors/index.js" />
-      <jump line="55" column="5" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="96" column="6" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="137" column="6" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="178" column="6" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="219" column="6" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="260" column="6" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="301" column="6" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="342" column="6" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="383" column="6" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="52" column="13" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="264" column="28" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
-      <jump line="273" column="2" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
-      <jump line="38" column="20" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
-      <jump line="71" column="10" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
-      <jump line="102" column="10" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
       <jump line="132" column="10" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
       <jump line="162" column="10" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
       <jump line="192" column="10" filename="G:/projects/CZCE/ppm-web/src/lib/sdk.js" />
@@ -3480,7 +3444,6 @@
       <jump line="133" column="28" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
       <jump line="231" column="13" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
       <jump line="233" column="13" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
-      <jump line="235" column="14" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
       <jump line="305" column="33" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
       <jump line="318" column="21" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
       <jump line="332" column="22" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
@@ -3504,71 +3467,93 @@
       <jump line="34" column="29" filename="G:/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" />
       <jump line="25" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" />
       <jump line="20" column="22" filename="G:/projects/CZCE/ppm-web/src/reducers/entities.js" />
-      <jump line="180" column="27" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="17" column="33" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="187" column="39" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="394" column="13" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="50" column="19" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="83" column="13" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="93" column="13" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="103" column="13" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="113" column="13" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="196" column="19" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="348" column="37" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="360" column="39" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="299" column="15" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="337" column="35" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="51" column="5" filename="G:/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" />
+      <jump line="380" column="29" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="381" column="12" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="382" column="4" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="386" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="63" column="12" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="64" column="4" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="235" column="20" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="236" column="12" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="201" column="28" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="352" column="28" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="25" column="4" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="180" column="36" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="183" column="27" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="184" column="17" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
+      <jump line="185" column="20" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>- limit</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>- limit</text>
       </register>
       <register name="/" type="4">
-        <text>Pop</text>
+        <text>total</text>
       </register>
       <register name="0" type="4">
-        <text>#50AF55</text>
+        <text>{ ...query, ...nextQuery }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhvZmZzZXQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3JjVmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1lcmdlIGZyb20gImxvZGFzaC9tZXJnZSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHRvdGFsID0gTnVtYmVyKHRoaXMucHJvcHMudG90YWwgfHwgMCk7CiAgICBsZXQgb2Zmc2V0ID0gTnVtYmVyKHF1ZXJ5Lm9mZnNldCB8fCAwKTsKICAgIGxldCBsaW1pdCA9IE51bWJlcihxdWVyeS5saW1pdCB8fCAxMCk7CiAgICBpZiAob2Zmc2V0ID4gdG90YWwpIHsKICAgICAgb2Zmc2V0ID0gdG90YWwgLSBsaW1pdDsKICAgICAgb2Zmc2V0ID0gb2Zmc2V0ID4gMCA/IG9mZnNldCA6IDA7CiAgICAgIGNvbnNvbGUubG9nKG9mZnNldCk7CiAgICAgIHRoaXMuY2hhbmdlUXVlcnkoeyBvZmZzZXQgfSk7CiAgICAgIHJldHVybiBmYWxzZTsKICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coa2V5KTsKICAgICAgLy8gY29uc29sZS5sb2coc3RhY2spOwogICAgICAvLyBjb25zb2xlLmxvZyhzdGFjay5nZXQoMCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGtleSk7CiAgICAvLyBjb25zb2xlLmxvZyhzdGFjay5zaXplKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codG90YWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHRQcm9wcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFzc2lnbiBmcm9tICJsb2Rhc2gvYXNzaWduIjsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>Pop</last-search>
+      <last-search>total</last-search>
       <last-offset />
-      <last-pattern>Pop</last-pattern>
+      <last-pattern>total</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>amap</entry>
-        <entry>history</entry>
-        <entry>result</entry>
-        <entry>update</entry>
-        <entry>csv</entry>
         <entry>scri</entry>
         <entry>props</entry>
         <entry>push</entry>
         <entry>page</entry>
-        <entry>current</entry>
         <entry>vehicle</entry>
         <entry>user-groups</entry>
         <entry>groups</entry>
@@ -3579,6 +3564,12 @@
         <entry>pop</entry>
         <entry>confirm</entry>
         <entry>Pop</entry>
+        <entry>Page</entry>
+        <entry>current</entry>
+        <entry>currentPage</entry>
+        <entry>成员</entry>
+        <entry>history</entry>
+        <entry>total</entry>
       </history-search>
       <history-cmd />
       <history-expr />
