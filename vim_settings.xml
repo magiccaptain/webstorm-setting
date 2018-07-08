@@ -252,6 +252,13 @@
         <mark key="." line="53" column="17" />
         <mark key="^" line="53" column="17" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/brief-issue-card.js" timestamp="1531049044515">
+        <mark key="'" line="28" column="4" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="20" column="17" />
+      </file>
       <file name="D:/projects/zzswang/shanghaibus-core/test.json" timestamp="1529675128574">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -536,12 +543,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="40" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/project/items.js" timestamp="1531047225527">
-        <mark key="'" line="54" column="28" />
-        <mark key="[" line="118" column="75" />
-        <mark key="]" line="118" column="75" />
-        <mark key="." line="118" column="75" />
-        <mark key="^" line="118" column="75" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/project/items.js" timestamp="1531048181335">
+        <mark key="'" line="118" column="93" />
+        <mark key="[" line="118" column="84" />
+        <mark key="]" line="118" column="94" />
+        <mark key="." line="118" column="84" />
+        <mark key="^" line="118" column="83" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_course_type.ts" timestamp="1517396982003">
         <mark key="[" line="22" column="0" />
@@ -2724,10 +2731,11 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1531040984460">
-        <mark key="[" line="480" column="0" />
-        <mark key="]" line="482" column="46" />
-        <mark key="." line="482" column="42" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1531049016969">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="32" />
+        <mark key="." line="20" column="28" />
         <mark key="^" line="482" column="42" />
       </file>
       <file name="D:/projects/github/ReDoc-master/demo/playground/hmr-playground.tsx" timestamp="1524316047518">
@@ -3641,15 +3649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="236" column="12" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
-      <jump line="201" column="28" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
-      <jump line="352" column="28" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
-      <jump line="25" column="4" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
-      <jump line="180" column="36" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
-      <jump line="183" column="27" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
-      <jump line="184" column="17" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
-      <jump line="185" column="20" filename="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" />
-      <jump line="14" column="21" filename="D:/projects/CZCE/ppm-web/src/containers/users/user-selector.js" />
       <jump line="35" column="22" filename="D:/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" />
       <jump line="60" column="0" filename="D:/projects/CZCE/ppm-core/src/api/user-group.js" />
       <jump line="59" column="5" filename="D:/projects/CZCE/ppm-web/src/containers/users/popover-user-selector.js" />
@@ -3741,46 +3740,55 @@
       <jump line="9" column="20" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="10" column="8" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
       <jump line="16" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-card.js" />
+      <jump line="118" column="93" filename="D:/projects/zzswang/adventurer-web/src/containers/project/items.js" />
+      <jump line="223" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="20" column="3" filename="D:/projects/zzswang/adventurer-web/src/containers/task/brief-issue-card.js" />
+      <jump line="229" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="31" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="52" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="56" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" />
+      <jump line="53" column="33" filename="D:/projects/zzswang/adventurer-web/src/containers/task/brief-issue-card.js" />
+      <jump line="29" column="4" filename="D:/projects/zzswang/adventurer-web/src/containers/task/brief-issue-card.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWQK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>moment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlZFRpbWUgPSBtb21lbnQodGFrZW5BdCk7CiAgICAgIGNvbnN0IGZyb21Ob3cgPSBjcmVhdGVkVGltZS5mcm9tTm93KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHsgbG9naW4gfSA9IHVzZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Cg==</text>
+        <text encoding="base64">ICAgICAgaWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7bmFtZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdyb3VwZWRJc3N1ZXMgPSBncm91cElzc3Vlcyhpc3N1ZXMpOwogICAgY29uc3QgeyBiYWNrbG9nID0gW10sIHRvZG8gPSBbXSwgZG9uZSA9IFtdLCBkb2luZyA9IFtdIH0gPSBncm91cGVkSXNzdWVzOwogICAgY29uc3QgYWxsQ291bnQgPSB0b2RvLmxlbmd0aCArIGRvbmUubGVuZ3RoICsgZG9pbmcubGVuZ3RoOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8Lwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA8ZGl2Pklzc3Vlc1Byb2Nlc3NCYXI8L2Rpdj47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHRvb2xUaXAK</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB7bmFtZX0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -3795,7 +3803,6 @@
     </search>
     <history>
       <history-search>
-        <entry>busTree</entry>
         <entry>分组</entry>
         <entry>users</entry>
         <entry>Tag</entry>
@@ -3814,6 +3821,7 @@
         <entry>e</entry>
         <entry>prev</entry>
         <entry>update</entry>
+        <entry>Nav</entry>
         <entry>moment</entry>
       </history-search>
       <history-cmd />
