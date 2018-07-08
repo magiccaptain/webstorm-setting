@@ -268,6 +268,7 @@
         <mark key="^" line="0" column="1821" />
         <mark key="." line="0" column="1821" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/manager/index.js" timestamp="1530714449785" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StudentMainPage.tsx" timestamp="1517505685956">
         <mark key="[" line="28" column="56" />
         <mark key="]" line="28" column="56" />
@@ -554,6 +555,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/project/items.js" timestamp="1531035980270">
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_course_type.ts" timestamp="1517396982003">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -656,6 +662,8 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="9" column="18" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/lib/request.js" timestamp="1531036358336" />
+      <file name="D:/projects/CZCE/ppm-web/src/app.js" timestamp="1530719096651" />
       <file name="G:/projects/smart_meter_dva/src/components/Devices/DevicesList.tsx" timestamp="1507604439917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="51" />
@@ -1426,10 +1434,10 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="67" column="37" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/lib/sdk.js" timestamp="1530107348657">
+      <file name="D:/projects/zzswang/adventurer-web/src/lib/sdk.js" timestamp="1531036302525">
         <mark key="'" line="14" column="6" />
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="16" />
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="44" />
         <mark key="^" line="29" column="16" />
         <mark key="." line="29" column="16" />
       </file>
@@ -2002,6 +2010,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/public/iframe/test.htm" timestamp="1530709367455" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/package.json" timestamp="1517673564167">
         <mark key="[" line="4" column="43" />
         <mark key="]" line="4" column="43" />
@@ -2288,6 +2297,7 @@
         <mark key="^" line="27" column="22" />
         <mark key="." line="27" column="22" />
       </file>
+      <file name="D:/projects/CZCE/ppm-core/package.json" timestamp="1530794981359" />
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/LoadingPage/LoadingPage.tsx" timestamp="1517638156698">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="39" />
@@ -2732,6 +2742,7 @@
         <mark key="[" line="181" column="0" />
         <mark key="]" line="183" column="0" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/index.mock.d.ts" timestamp="1530625485672" />
       <file name="D:/projects/stacktop-auth-server/app/controller/docs.ts" timestamp="1524314146197">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="29" />
@@ -2902,6 +2913,7 @@
         <mark key="^" line="34" column="33" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="D:/projects/CZCE/ppm-web/src/reducers/fetching.js" timestamp="1530892530194" />
       <file name="D:/projects/CZCE/ppm-web/src/layouts/app-layout.js" timestamp="1530978574279">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="11" column="0" />
@@ -3414,6 +3426,7 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/manager/bills.js" timestamp="1530717169685" />
       <file name="$USER_HOME$/projects/egg-example/tsconfig.json" timestamp="1516549882140">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="22" />
@@ -3764,7 +3777,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RoleUserAdd</text>
+        <text>api.36node.com/kanban/v0</text>
       </register>
       <register name="-" type="4">
         <text>RoleUserAdd</text>
@@ -3772,35 +3785,35 @@
       <register name="/" type="4">
         <text>Select</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2hhbmdlUXVlcnkobmV3UXVlcnkpOwo=</text>
+      <register name="0" type="4">
+        <text>api.36node.com/kanban/v0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogdmFsdWU6IFsKICogICAgewogKiBdCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdmFsdWUgPSBbCiAgewogICAgcm9sZTogItDox/PIy9SxIiwKICAgIHVzZXI6IHVzZXJJRAogIH0sCiAgLi4uCl0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAuLi4KICAsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7dXNlclJvbGUocil9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7dXNlclR5cGUodCl9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuc3R5bGUpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2plY3RzKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICogdmFsdWU6IFsKICogICAgewogKiBdCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgdmFsdWUgPSBbCiAgewogICAgcm9sZTogItDox/PIy9SxIiwKICAgIHVzZXI6IHVzZXJJRAogIH0sCiAgLi4uCl0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAuLi4KICAsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBjb25zdCBjb2x1bW5zID0gWwogICAgICB7CiAgICAgICAgdGl0bGU6ICLQ1cP7IiwKICAgICAgICBkYXRhSW5kZXg6ICJuYW1lIiwKICAgICAgICBrZXk6ICJuYW1lIgogICAgICB9LAogICAgICB7CiAgICAgICAgdGl0bGU6ICLTw7unwODQzSIsCiAgICAgICAga2V5OiAidHlwZSIsCiAgICAgICAgcmVuZGVyOiB1c2VyID0+IHsKICAgICAgICAgIHJldHVybiB1c2VyVHlwZSh1c2VyLnR5cGUpOwogICAgICAgIH0KICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAisr/DxS+5q8u+IiwKICAgICAgICBrZXk6ICJkZXBhcnRtZW50IiwKICAgICAgICBkYXRhSW5kZXg6ICJkZXBhcnRtZW50IgogICAgICB9LAogICAgICB7CiAgICAgICAgdGl0bGU6ICLX7r38tcfCvSIsCiAgICAgICAga2V5OiAibGFzdExvZ2luQXQiLAogICAgICAgIHJlbmRlcjogdXNlciA9PiB7CiAgICAgICAgICBpZiAodXNlci5sYXN0TG9naW5BdCkgewogICAgICAgICAgICByZXR1cm4gdXNlci5sYXN0TG9naW5BdDsKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiAitNPOtLXHwr0iOwogICAgICAgICAgfQogICAgICAgIH0KICAgICAgfSwKICAgICAgewogICAgICAgIHRpdGxlOiAi08O7p73HyasiLAogICAgICAgIGtleTogInJvbGVzIiwKICAgICAgICByZW5kZXI6IHVzZXIgPT4gewogICAgICAgICAgY29uc3QgeyByb2xlcyA9IFtdIH0gPSB1c2VyOwogICAgICAgICAgcmV0dXJuIHJvbGVzLm1hcChyID0+ICgKICAgICAgICAgICAgPFRhZyBrZXk9e3J9IGNvbG9yPSJjeWFuIj4KICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
