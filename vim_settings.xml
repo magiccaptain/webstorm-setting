@@ -3066,6 +3066,12 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
+      <file name="D:/projects/CZCE/ppm-web/src/containers/projects/project-card.js" timestamp="1531130942985">
+        <mark key="[" line="64" column="25" />
+        <mark key="]" line="64" column="25" />
+        <mark key="." line="64" column="25" />
+        <mark key="^" line="61" column="40" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530693605986">
         <mark key="'" line="209" column="4" />
         <mark key="[" line="22" column="23" />
@@ -3784,10 +3790,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>This is panel header 3</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>This is panel header 3</text>
       </register>
       <register name="/" type="4">
         <text>Tag</text>
