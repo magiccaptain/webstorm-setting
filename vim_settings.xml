@@ -3281,12 +3281,18 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/components/progress-edit/index.js" timestamp="1531296660013">
+      <file name="G:/projects/CZCE/ppm-web/src/components/state-select/index.js" timestamp="1531297457317">
+        <mark key="[" line="52" column="40" />
+        <mark key="]" line="52" column="40" />
+        <mark key="." line="52" column="40" />
+        <mark key="^" line="52" column="40" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/components/progress-edit/index.js" timestamp="1531297498816">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="39" column="19" />
-        <mark key="]" line="39" column="33" />
-        <mark key="." line="39" column="33" />
-        <mark key="^" line="39" column="33" />
+        <mark key="[" line="50" column="57" />
+        <mark key="]" line="50" column="78" />
+        <mark key="." line="50" column="78" />
+        <mark key="^" line="50" column="78" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/bin/load-vehicles-from-cvs.js" timestamp="1529547731270">
         <mark key="[" line="8" column="0" />
@@ -3641,10 +3647,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>value</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Slider</text>
