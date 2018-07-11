@@ -1933,6 +1933,11 @@
         <mark key="." line="0" column="40" />
         <mark key="^" line="0" column="40" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/package.json" timestamp="1531284111789">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/config/config.default.js" timestamp="1520340079989">
         <mark key="[" line="3" column="19" />
         <mark key="]" line="3" column="19" />
@@ -2249,6 +2254,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="11" column="18" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/users/users-table.js" timestamp="1531284267683">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/stores/user-store.ts" timestamp="1524657332610">
         <mark key="[" line="35" column="23" />
@@ -3379,6 +3389,11 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/projects/project-requirement.js" timestamp="1531216826649">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/config/config.default.js" timestamp="1517741732567">
         <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="32" />
@@ -3601,10 +3616,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoaGlkZU1vZGFsKENSRUFURV9NSUxFU1RPTkVfTU9EQUwpKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhxdWVyeSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>as-string</text>
       </register>
       <register name="/" type="4">
         <text>添加</text>
@@ -3613,31 +3628,31 @@
         <text>selectModalVisible(CREATE_MILESTONE_MODAL)(state)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoaGlkZU1vZGFsKENSRUFURV9NSUxFU1RPTkVfTU9EQUwpKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhxdWVyeSk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICAgIGlmIChwcm9wcy5vbkNhbmNlbCkgewogICAgICAgICAgICAgICAgcHJvcHMub25DYW5jZWwoKTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHsgdXNlclJvbGUsIFVzZXJSb2xlcywgdXNlclR5cGUsIFVzZXJUeXBlcyB9IGZyb20gIi4uLy4uL2NvbnN0YW50cyI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DbGljaz17cHJvcHMub25DYW5jZWxDbGlja30K</text>
+        <text encoding="base64">ICAgICJxcyI6ICI2LjUuMSIsCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICB5aWVsZCBwdXQoaGlkZU1vZGFsKENSRUFURV9NSUxFU1RPTkVfTU9EQUwpKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICAgIGlmIChwcm9wcy5vbkNhbmNlbCkgewogICAgICAgICAgICAgICAgcHJvcHMub25DYW5jZWwoKTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvcHMuZGlzcGF0Y2goaGlkZU1vZGFsKENSRUFURV9NSUxFU1RPTkVfTU9EQUwpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25DbGljaz17cHJvcHMub25DYW5jZWxDbGlja30K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZWxlY3RNb2RhbFZpc2libGUoQ1JFQVRFX01JTEVTVE9ORV9NT0RBTCkoc3RhdGUpKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgIH0=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHsgbWlsZXN0b25lcyA9IFtdIH0gPSBwcm9qZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMucHJvcHMuZGlzcGF0Y2goaGlkZU1vZGFsKENSRUFURV9NSUxFU1RPTkVfTU9EQUwpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
