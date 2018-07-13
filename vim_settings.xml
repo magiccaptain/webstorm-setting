@@ -114,11 +114,11 @@
         <mark key="." line="92" column="0" />
         <mark key="^" line="92" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/projects/project-procedures.js" timestamp="1531452381150">
-        <mark key="[" line="48" column="59" />
-        <mark key="]" line="48" column="69" />
-        <mark key="." line="48" column="69" />
-        <mark key="^" line="48" column="69" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/projects/project-procedures.js" timestamp="1531453920721">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="40" column="69" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/lib/schemas.js" timestamp="1531448919929">
         <mark key="[" line="29" column="28" />
@@ -318,12 +318,12 @@
         <mark key="." line="41" column="20" />
         <mark key="^" line="41" column="20" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" timestamp="1531453074928">
-        <mark key="'" line="53" column="29" />
-        <mark key="[" line="53" column="30" />
-        <mark key="]" line="53" column="54" />
-        <mark key="." line="53" column="54" />
-        <mark key="^" line="53" column="54" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" timestamp="1531453983799">
+        <mark key="'" line="58" column="29" />
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="66" column="98" />
+        <mark key="." line="66" column="98" />
+        <mark key="^" line="66" column="98" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-selector.js" timestamp="1531447338334">
         <mark key="'" line="85" column="0" />
@@ -390,6 +390,7 @@
         <mark key="." line="8" column="59" />
         <mark key="^" line="8" column="59" />
       </file>
+      <file name="G:/projects/zzswang/wali-web/src/containers/watch-dog/log-terminal.js" timestamp="1531453532513" />
       <file name="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1530155539223">
         <mark key="'" line="158" column="31" />
         <mark key="[" line="80" column="0" />
@@ -717,8 +718,8 @@
       <jump line="52" column="29" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.css</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIDwvU2Nyb2xsYmFycz4gPC9DYXJkPgo=</text>
       </register>
       <register name="-" type="4">
         <text>.css</text>
@@ -727,34 +728,34 @@
         <text>Form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPExvYWRpbmdNYXNrIGxvYWRpbmc9e2xvYWRpbmd9Lz4K</text>
+        <text encoding="base64">ICAgICAgICA8Q2FyZAogICAgICAgICAgaG92ZXJhYmxlCiAgICAgICAgICBib2R5U3R5bGU9e3sgcGFkZGluZzogMCB9fQogICAgICAgICAgdGl0bGU9eyLJ+sP81tzG2iJ9CiAgICAgICAgICBzdHlsZT17eyBmbGV4R3JvdzogMSB9fQogICAgICAgICAgLy8gZXh0cmE9e3RoaXMucmVuZGVyRXh0cmEoKX0KICAgICAgICA+CiAgICAgICAgICA8U2Nyb2xsYmFycyBzdHlsZT17eyBoZWlnaHQ6ICJjYWxjKDEwMHZoIC0gMTI0cHgpIiB9fSBhdXRvSGlkZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2hvd0Fycm93PXtmfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvU2Nyb2xsYmFycz4gPC9DYXJkPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvTG8K</text>
+        <text encoding="base64">ICAgICAgICAgIDxTY3JvbGxiYXJzIHN0eWxlPXt7IGhlaWdodDogImNhbGMoMTAwdmggLSAxMjRweCkiIH19IGF1dG9IaWRlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICA8Q2FyZAogICAgICAgICAgaG92ZXJhYmxlCiAgICAgICAgICBib2R5U3R5bGU9e3sgcGFkZGluZzogMCB9fQogICAgICAgICAgdGl0bGU9eyLJ+sP81tzG2iJ9CiAgICAgICAgICBzdHlsZT17eyBmbGV4R3JvdzogMSB9fQogICAgICAgICAgLy8gZXh0cmE9e3RoaXMucmVuZGVyRXh0cmEoKX0KICAgICAgICA+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vILvxyKG1scew0aHU8Qo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJyZW50KTsK</text>
+        <text encoding="base64">ICBtaWxlc3RvbmVQb3MgPSB7fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBjdXJyZW50ID0gcGF0aG5hbWUucmVwbGFjZShgJHtiYXNlVXJsfS9gLCAiIik7Cg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcyl7CiAgICAKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtsb2NhdGlvbiwgYmFzZVVybH0gPSB0aGlzLnByb3BzOwogICAgY29uc3Qge3BhdGhuYW1lfSA9IGxvYWRpbmc7Cg==</text>
+        <text encoding="base64">ICBpdGVtUG9zaXRpb24gPSB7fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnRTZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb24rKzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhdGhuYW1lLnIK</text>
+        <text encoding="base64">ICAgIGxldCBwb3NpdGlvbiA9IDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
