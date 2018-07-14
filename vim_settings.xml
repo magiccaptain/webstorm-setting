@@ -1415,11 +1415,11 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/commons/resource-edit.js" timestamp="1531580800308">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="27" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/commons/resource-edit.js" timestamp="1531582071035">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="51" column="19" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/components/role-user-add/index.module.less" timestamp="1531101933352">
         <mark key="[" line="14" column="12" />
@@ -3802,44 +3802,44 @@
       <jump line="26" column="64" filename="D:/projects/CZCE/ppm-web/src/containers/commons/resource-list.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>milestone</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>milestone</text>
+        <text>currentId</text>
       </register>
       <register name="/" type="4">
         <text>milestoneId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Lm1pbGVzdG9uZS1lZGl0IHsKICBtaW4taGVpZ2h0OiAxMDAlOwoKICA6Z2xvYmFsKC5hbnQtY2FyZC1oZWFkKSB7CiAgICBib3JkZXI6IDA7CiAgfQp9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChyZXNvdXJjZUlkICYmIGdldEFjdGlvbikgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHBpY2sgZnJvbSAibG9kYXNoL3BpY2siOwppbXBvcnQgaXNFcXVhbCBmcm9tICJsb2Rhc2gvaXNFcXVhbCI7CmltcG9ydCBtYXBWYWx1ZXMgZnJvbSAibG9kYXNoL21hcFZhbHVlcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVzb3VyY2VzQ291bnQsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgb25JdGVtU2VsZWN0LAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2goY2xlYXJGb3JtKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuPgo=</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsVXBkYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9Mb2FkaW5nTWFzaz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
