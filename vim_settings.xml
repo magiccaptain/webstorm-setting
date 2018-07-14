@@ -392,6 +392,13 @@
         <mark key="." line="79" column="55" />
         <mark key="^" line="79" column="55" />
       </file>
+      <file name="D:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" timestamp="1531567689272">
+        <mark key="'" line="252" column="12" />
+        <mark key="[" line="119" column="74" />
+        <mark key="]" line="119" column="73" />
+        <mark key="." line="119" column="73" />
+        <mark key="^" line="119" column="73" />
+      </file>
       <file name="G:/projects/stacktop-auth-server/user-store-db.yml" timestamp="1524796519590">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="30" />
@@ -483,10 +490,10 @@
         <mark key="." line="22" column="17" />
         <mark key="^" line="15" column="30" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit.js" timestamp="1531537740907">
+      <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit.js" timestamp="1531567105925">
         <mark key="'" line="123" column="19" />
-        <mark key="[" line="139" column="25" />
-        <mark key="]" line="139" column="25" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="69" />
         <mark key="." line="139" column="25" />
         <mark key="^" line="139" column="45" />
       </file>
@@ -1048,18 +1055,14 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/commons/brief-list.js" timestamp="1531487385245">
-        <mark key="'" line="91" column="15" />
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/commons/brief-list.js" timestamp="1531567743630">
+        <mark key="'" line="93" column="15" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/src/model/conference.js" timestamp="1531536351756">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="16" />
-        <mark key="^" line="16" column="87" />
-        <mark key="." line="16" column="87" />
+      <file name="D:/projects/CZCE/ppm-core/src/model/conference.js" timestamp="1531567483993">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/projects/CZCE/CZCE_PPM_SERVER/app/model/Company.ts" timestamp="1520430712332">
         <mark key="[" line="17" column="0" />
@@ -1919,7 +1922,7 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1531537853818">
+      <file name="D:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1531567685102">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -2361,6 +2364,9 @@
         <mark key="]" line="27" column="22" />
         <mark key="^" line="27" column="22" />
         <mark key="." line="27" column="22" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-web/src/containers/projects/project-procedures.js" timestamp="1531411161955">
+        <mark key="'" line="9" column="38" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/components/LoadingPage/LoadingPage.tsx" timestamp="1517638156698">
         <mark key="[" line="14" column="28" />
@@ -3590,6 +3596,9 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/node_modules/antd/lib/modal/Modal.d.ts" timestamp="1531287092198">
+        <mark key="'" line="91" column="21" />
+      </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/ProjectInfo/ProjectInfo.css" timestamp="1514942461169">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="10" column="10" />
@@ -3765,8 +3774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="28" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
-      <jump line="137" column="34" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
       <jump line="141" column="31" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
       <jump line="150" column="25" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
       <jump line="153" column="13" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
@@ -3865,43 +3872,45 @@
       <jump line="272" column="26" filename="D:/projects/CZCE/ppm-web/src/sagas/index.js" />
       <jump line="1" column="0" filename="D:/projects/CZCE/ppm-web/src/sagas/index.js" />
       <jump line="201" column="42" filename="D:/projects/CZCE/ppm-web/src/sagas/index.js" />
+      <jump line="65" column="15" filename="D:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" />
+      <jump line="260" column="12" filename="D:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBqdXN0aWZ5Q29udGVudDogImNlbnRlciIgfX0+CiAgICAgICAgICAgIAogICAgICAgICAgICA8VGFnIHN0eWxlPXt7IGJvcmRlclRvcDogMCB9fT4KICAgICAgICAgICAgICC5sntyZXNvdXJjZUNvdW50fc/ue3Jlc291cmNlTmFtZX0KICAgICAgICAgICAgPC9UYWc+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBxdWVyeSA=</text>
+        <text>context.projectId</text>
       </register>
       <register name="/" type="4">
-        <text>Action</text>
+        <text>milestoneId</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcHJvamVjdCwKICAgICAgbWlsZXN0b25lLAogICAgICBwcm9jZWR1cmUsCg==</text>
+      <register name="0" type="4">
+        <text>result(procedure, &quot;project.id&quot;, undefined)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBqdXN0aWZ5Q29udGVudDogImNlbnRlciIgfX0+CiAgICAgICAgICAgIAogICAgICAgICAgICA8VGFnIHN0eWxlPXt7IGJvcmRlclRvcDogMCB9fT4KICAgICAgICAgICAgICC5sntyZXNvdXJjZUNvdW50fc/ue3Jlc291cmNlTmFtZX0KICAgICAgICAgICAgPC9UYWc+CiAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRhZyBzdHlsZT17eyBib3JkZXJUb3A6IDAgfX0+CiAgICAgICAgICAgICAgubJ7cmVzb3VyY2VDb3VudH3P7ntyZXNvdXJjZU5hbWV9CiAgICAgICAgICAgIDwvVGFnPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhc2VDcmVhdGVCb2R5PXtiYXNlQ3JlYXRlQm9keX0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZpc2libGU6IHRydWUsCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJvamVjdDogCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAuLi5sYWJlbFN0eWxlLAogICAgICAgICAgICBtYXJnaW5Cb3R0b206IDAsCiAgICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwKICAgICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPGRpdj674dLpPC9kaXY+CiAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIHNpemU9InNtYWxsIgogICAgICAgICAgICBpY29uPSJwbHVzIgogICAgICAgICAgICBzdHlsZT17eyBsaW5lSGVpZ2h0OiAxLCBmb250V2VpZ2h0OiA4MDAsIGZvbnRTaXplOiAxOCwgYm9yZGVyOiAwIH19CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgoKICAgICAgICA8ZGl2IHN0eWxlPXt7IGNvbG9yOiBncmV5VGV4dENvbG9yLCBmb250V2VpZ2h0OiA0MDAgfX0+1N3O3rvh0uk8L2Rpdj4K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyb3JzLCB2YWx1ZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAuLi5sYWJlbFN0eWxlLAogICAgICAgICAgICBtYXJnaW5Cb3R0b206IDAsCiAgICAgICAgICAgIGRpc3BsYXk6ICJmbGV4IiwKICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICJzcGFjZS1iZXR3ZWVuIiwKICAgICAgICAgICAgYWxpZ25JdGVtczogImNlbnRlciIKICAgICAgICAgIH19CiAgICAgICAgPgogICAgICAgICAgPGRpdj674dLpPC9kaXY+CiAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgIHNpemU9InNtYWxsIgogICAgICAgICAgICBpY29uPSJwbHVzIgogICAgICAgICAgICBzdHlsZT17eyBsaW5lSGVpZ2h0OiAxLCBmb250V2VpZ2h0OiA4MDAsIGZvbnRTaXplOiAxOCwgYm9yZGVyOiAwIH19CiAgICAgICAgICAvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWlsZXN0b25lPXtwcm99Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3911,15 +3920,14 @@
       </register>
     </registers>
     <search>
-      <last-search>Action</last-search>
+      <last-search>milestoneId</last-search>
       <last-offset />
-      <last-pattern>Action</last-pattern>
+      <last-pattern>milestoneId</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>history</entry>
         <entry>total</entry>
         <entry>limt</entry>
         <entry>limut</entry>
@@ -3939,6 +3947,7 @@
         <entry>Datepicker</entry>
         <entry>Date</entry>
         <entry>Action</entry>
+        <entry>milestoneId</entry>
       </history-search>
       <history-cmd />
       <history-expr />
