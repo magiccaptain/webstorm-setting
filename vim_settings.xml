@@ -27,6 +27,13 @@
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/users-table.js" timestamp="1530842072161">
+        <mark key="'" line="17" column="49" />
+        <mark key="[" line="364" column="33" />
+        <mark key="]" line="365" column="21" />
+        <mark key="." line="365" column="21" />
+        <mark key="^" line="365" column="21" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/config/config.default.js" timestamp="1517741732567">
         <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="32" />
@@ -39,12 +46,11 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="5" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/projects/project-milestones.js" timestamp="1531670880235">
-        <mark key="'" line="38" column="24" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="57" />
+      <file name="D:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1531737893249">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="96" column="11" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_students.ts" timestamp="1517300254148">
         <mark key="[" line="11" column="0" />
@@ -189,11 +195,12 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestones-list.js" timestamp="1531666379156">
-        <mark key="[" line="205" column="0" />
-        <mark key="]" line="210" column="16" />
-        <mark key="." line="47" column="65" />
-        <mark key="^" line="47" column="65" />
+      <file name="D:/projects/zzswang/shanghaibus-core/bin/kafka-push.js" timestamp="1529589145994">
+        <mark key="'" line="145" column="2" />
+        <mark key="[" line="113" column="17" />
+        <mark key="]" line="113" column="27" />
+        <mark key="." line="113" column="17" />
+        <mark key="^" line="111" column="28" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/src/utils/request.js" timestamp="1516504250413">
         <mark key="[" line="5" column="0" />
@@ -254,6 +261,13 @@
         <mark key="." line="53" column="17" />
         <mark key="^" line="53" column="17" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/test.json" timestamp="1529675128574">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1821" />
+        <mark key="^" line="0" column="1821" />
+        <mark key="." line="0" column="1821" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StudentMainPage.tsx" timestamp="1517505685956">
         <mark key="[" line="28" column="56" />
         <mark key="]" line="28" column="56" />
@@ -262,8 +276,6 @@
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" timestamp="1531671203321">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="93" column="17" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/company.mock.js" timestamp="1528957015331">
         <mark key="[" line="30" column="13" />
@@ -293,6 +305,13 @@
         <mark key="]" line="28" column="33" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="10" column="23" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1531736771872">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="66" column="14" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="53" column="14" />
       </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-core/src/api/user.js" timestamp="1530681676263">
         <mark key="[" line="88" column="0" />
@@ -371,12 +390,12 @@
         <mark key="." line="79" column="55" />
         <mark key="^" line="79" column="55" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" timestamp="1531567689272">
-        <mark key="'" line="252" column="12" />
-        <mark key="[" line="119" column="74" />
-        <mark key="]" line="119" column="73" />
-        <mark key="." line="119" column="73" />
-        <mark key="^" line="119" column="73" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" timestamp="1531737492611">
+        <mark key="'" line="255" column="12" />
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="34" />
+        <mark key="^" line="20" column="34" />
       </file>
       <file name="G:/projects/stacktop-auth-server/user-store-db.yml" timestamp="1524796519590">
         <mark key="[" line="4" column="11" />
@@ -431,6 +450,13 @@
         <mark key="]" line="14" column="16" />
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530379882778">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="280" column="54" />
+        <mark key="]" line="280" column="53" />
+        <mark key="." line="280" column="53" />
+        <mark key="^" line="280" column="53" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/lib/zh-utils.js" timestamp="1525664107982">
         <mark key="[" line="22" column="4" />
@@ -493,6 +519,13 @@
         <mark key="]" line="185" column="70" />
         <mark key="." line="185" column="70" />
         <mark key="^" line="185" column="70" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-brief-list.js" timestamp="1531463558210">
+        <mark key="'" line="98" column="30" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="77" />
+        <mark key="^" line="99" column="92" />
+        <mark key="." line="99" column="92" />
       </file>
       <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/tsconfig.json" timestamp="1526609279225">
         <mark key="[" line="12" column="0" />
@@ -678,6 +711,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="27" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/projects/project-card.js" timestamp="1531204418092">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="8" column="8" />
+        <mark key="." line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/valisations/device.js" timestamp="1499237022393">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="5" column="29" />
@@ -688,6 +728,13 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" timestamp="1531469401511">
+        <mark key="'" line="190" column="30" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="^" line="202" column="36" />
+        <mark key="." line="192" column="0" />
       </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-web/src/components/page-header/index.js" timestamp="1530845611190">
         <mark key="[" line="28" column="51" />
@@ -706,6 +753,20 @@
         <mark key="]" line="23" column="6" />
         <mark key="." line="23" column="6" />
         <mark key="^" line="23" column="6" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/lib/index.js" timestamp="1530702943347">
+        <mark key="'" line="92" column="2" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="6" />
+        <mark key="." line="82" column="6" />
+        <mark key="^" line="82" column="6" />
+      </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/app-layout.js" timestamp="1530026436409">
+        <mark key="'" line="50" column="42" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="71" />
+        <mark key="." line="2" column="53" />
+        <mark key="^" line="2" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1531671101648">
         <mark key="[" line="0" column="0" />
@@ -752,6 +813,13 @@
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/sagas/index.js" timestamp="1531466618554">
+        <mark key="'" line="244" column="18" />
+        <mark key="[" line="241" column="23" />
+        <mark key="]" line="241" column="41" />
+        <mark key="." line="241" column="41" />
+        <mark key="^" line="241" column="41" />
       </file>
       <file name="D:/projects/SmartElective/Server/app/proto/constant.ts" timestamp="1519915177801">
         <mark key="[" line="13" column="0" />
@@ -831,6 +899,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/ticket.js" timestamp="1529762078775">
+        <mark key="'" line="112" column="15" />
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+        <mark key="." line="96" column="23" />
+      </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/commons/resources-context.js" timestamp="1531670937052">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -879,6 +954,13 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="17" column="15" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/components/role-user-add/index.js" timestamp="1531447101909">
+        <mark key="'" line="70" column="31" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="114" column="21" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/tasks/tasks-form-modal.js" timestamp="1531298995535">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -889,6 +971,13 @@
         <mark key="]" line="58" column="24" />
         <mark key="^" line="58" column="24" />
         <mark key="." line="58" column="24" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/package.json" timestamp="1530600438082">
+        <mark key="'" line="69" column="6" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="25" />
+        <mark key="^" line="81" column="25" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/webpack.config.js" timestamp="1503973559932">
         <mark key="[" line="43" column="39" />
@@ -1004,6 +1093,13 @@
         <mark key="^" line="36" column="20" />
         <mark key="." line="36" column="20" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/data-panel.js" timestamp="1530533354956">
+        <mark key="'" line="54" column="53" />
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="54" column="53" />
+        <mark key="^" line="54" column="53" />
+        <mark key="." line="54" column="53" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/analysis/vehicle.mock.js" timestamp="1528957794647">
         <mark key="[" line="21" column="87" />
         <mark key="]" line="21" column="95" />
@@ -1034,10 +1130,12 @@
         <mark key="." line="25" column="14" />
         <mark key="^" line="25" column="14" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/projects/project-detail.js" timestamp="1531409227300">
-        <mark key="'" line="7" column="9" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="54" />
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/index.js" timestamp="1530845831830">
+        <mark key="'" line="36" column="32" />
+        <mark key="[" line="53" column="57" />
+        <mark key="]" line="53" column="62" />
+        <mark key="." line="53" column="62" />
+        <mark key="^" line="53" column="62" />
       </file>
       <file name="D:/projects/SmartElective/Server/package.json" timestamp="1519220716024">
         <mark key="[" line="1" column="11" />
@@ -1105,6 +1203,13 @@
         <mark key="^" line="84" column="11" />
         <mark key="." line="84" column="12" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/projects/index.module.less" timestamp="1531203203078">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/package.json" timestamp="1523515580040">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="31" />
@@ -1159,6 +1264,13 @@
         <mark key="^" line="11" column="7" />
         <mark key="." line="11" column="7" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/projects/project-detail.js" timestamp="1531467853112">
+        <mark key="'" line="18" column="20" />
+        <mark key="[" line="60" column="7" />
+        <mark key="]" line="60" column="20" />
+        <mark key="." line="60" column="59" />
+        <mark key="^" line="60" column="59" />
+      </file>
       <file name="D:/projects/stacktop-auth-server/config/config.unittest.js" timestamp="1524486199380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="1" />
@@ -1183,6 +1295,20 @@
         <mark key="^" line="47" column="20" />
         <mark key="." line="47" column="20" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/review.js" timestamp="1530758093878">
+        <mark key="'" line="40" column="37" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="26" column="15" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/selectors/index.js" timestamp="1531465116545">
+        <mark key="'" line="37" column="13" />
+        <mark key="[" line="94" column="66" />
+        <mark key="]" line="94" column="80" />
+        <mark key="." line="94" column="80" />
+        <mark key="^" line="94" column="80" />
+      </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/configure.js" timestamp="1530668070328">
         <mark key="[" line="43" column="59" />
         <mark key="]" line="43" column="59" />
@@ -1206,6 +1332,13 @@
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/bin/load-vehicles-from-csv.js" timestamp="1529568117011">
+        <mark key="'" line="72" column="26" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/components/MainLayout/Headers.css" timestamp="1505806221767">
         <mark key="[" line="15" column="6" />
@@ -1261,6 +1394,13 @@
         <mark key="^" line="20" column="52" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/base.js" timestamp="1531472113481">
+        <mark key="'" line="61" column="4" />
+        <mark key="[" line="111" column="36" />
+        <mark key="]" line="111" column="40" />
+        <mark key="." line="111" column="40" />
+        <mark key="^" line="111" column="40" />
+      </file>
       <file name="G:/projects/CZCE/ppm-core/csvs/users.csv" timestamp="1531125320952">
         <mark key="[" line="298" column="31" />
         <mark key="]" line="311" column="0" />
@@ -1314,6 +1454,13 @@
         <mark key="." line="144" column="23" />
         <mark key="^" line="144" column="23" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/kafka/tbox.js" timestamp="1530155539223">
+        <mark key="'" line="158" column="31" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="^" line="67" column="37" />
+      </file>
       <file name="D:/projects/zzswang/adventurer-web/src/lib/sdk.js" timestamp="1530107348657">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="16" />
@@ -1350,6 +1497,13 @@
         <mark key="]" line="49" column="4" />
         <mark key="^" line="49" column="4" />
         <mark key="." line="49" column="4" />
+      </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/layouts/main.js" timestamp="1530711421369">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="102" column="70" />
+        <mark key="]" line="102" column="74" />
+        <mark key="." line="102" column="74" />
+        <mark key="^" line="102" column="74" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/project/index.js" timestamp="1531102949373">
         <mark key="[" line="89" column="69" />
@@ -1392,6 +1546,13 @@
         <mark key="." line="124" column="23" />
         <mark key="^" line="124" column="23" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/constants.js" timestamp="1531469308517">
+        <mark key="'" line="126" column="10" />
+        <mark key="[" line="105" column="15" />
+        <mark key="]" line="106" column="3" />
+        <mark key="^" line="106" column="3" />
+        <mark key="." line="106" column="3" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/routes/AuthRouter.tsx" timestamp="1505733412859">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="20" />
@@ -1410,6 +1571,13 @@
         <mark key="." line="71" column="57" />
         <mark key="^" line="71" column="57" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/constants.js" timestamp="1529587310385">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="68" column="37" />
+        <mark key="]" line="68" column="46" />
+        <mark key="." line="176" column="36" />
+        <mark key="^" line="176" column="36" />
+      </file>
       <file name="D:/projects/stacktop-auth-server/test/dit/dit-apis.ts" timestamp="1524487720796">
         <mark key="[" line="100" column="23" />
         <mark key="]" line="100" column="24" />
@@ -1427,6 +1595,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-core/src/index.js" timestamp="1530681873996">
+        <mark key="'" line="46" column="21" />
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/student_info.ts" timestamp="1517762865500">
         <mark key="[" line="9" column="29" />
@@ -1470,6 +1645,13 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/api/alarm.js" timestamp="1529653293012">
+        <mark key="'" line="19" column="36" />
+        <mark key="[" line="143" column="17" />
+        <mark key="]" line="143" column="16" />
+        <mark key="." line="143" column="16" />
+        <mark key="^" line="143" column="16" />
+      </file>
       <file name="G:/projects/smart_meter_fullstack/auth/mongoModel.ts" timestamp="1502115821065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -1481,6 +1663,13 @@
         <mark key="]" line="28" column="6" />
         <mark key="^" line="28" column="6" />
         <mark key="." line="28" column="6" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/components/tables/table-with-actions.js" timestamp="1530691491511">
+        <mark key="'" line="28" column="37" />
+        <mark key="[" line="84" column="34" />
+        <mark key="]" line="84" column="33" />
+        <mark key="." line="84" column="33" />
+        <mark key="^" line="84" column="33" />
       </file>
       <file name="G:/projects/zzswang/adventurer-web/src/reducers/menu.js" timestamp="1528765534871">
         <mark key="[" line="5" column="2" />
@@ -1518,6 +1707,13 @@
         <mark key="." line="36" column="20" />
         <mark key="^" line="36" column="20" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/user/bill.js" timestamp="1530113183081">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="52" column="18" />
+        <mark key="]" line="52" column="18" />
+        <mark key="." line="52" column="18" />
+        <mark key="^" line="52" column="18" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/test.ts" timestamp="1503932693623">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="14" column="1" />
@@ -1548,6 +1744,13 @@
         <mark key="^" line="49" column="65" />
         <mark key="." line="49" column="65" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/actions/index.js" timestamp="1531465231072">
+        <mark key="'" line="254" column="0" />
+        <mark key="[" line="506" column="36" />
+        <mark key="]" line="506" column="55" />
+        <mark key="." line="506" column="36" />
+        <mark key="^" line="506" column="35" />
+      </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-list-1.js" timestamp="1531670809335">
         <mark key="'" line="87" column="33" />
         <mark key="[" line="19" column="41" />
@@ -1566,6 +1769,13 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="30" column="14" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-core/src/index.js" timestamp="1530773611038">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="71" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/doc/oauth-api.md" timestamp="1504756700674">
         <mark key="[" line="45" column="0" />
@@ -1645,6 +1855,13 @@
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="32" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/task.js" timestamp="1531212762783">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
+      </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-admin-web/src/reducers/containers/all-warnings.js" timestamp="1526218232340">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1686,6 +1903,13 @@
         <mark key="]" line="2" column="38" />
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="16" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" timestamp="1531469060527">
+        <mark key="'" line="143" column="20" />
+        <mark key="[" line="124" column="12" />
+        <mark key="]" line="124" column="12" />
+        <mark key="^" line="124" column="12" />
+        <mark key="." line="124" column="12" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/components/DepartmentFilter/DepartmentFilter.ts" timestamp="1519482216195">
         <mark key="[" line="0" column="0" />
@@ -1729,7 +1953,7 @@
         <mark key="." line="17" column="67" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1531662858697">
+      <file name="D:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1531735621215">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -1884,6 +2108,13 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="13" column="1" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/milestones/milstone-create-modal.js" timestamp="1531447560887">
+        <mark key="'" line="123" column="5" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="150" column="13" />
+        <mark key="." line="148" column="11" />
+        <mark key="^" line="148" column="11" />
+      </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/project/constract.js" timestamp="1531102902789">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="23" />
@@ -1907,6 +2138,20 @@
         <mark key="]" line="74" column="36" />
         <mark key="." line="78" column="26" />
         <mark key="^" line="78" column="26" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/conference.js" timestamp="1531471215049">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="84" />
+        <mark key="^" line="18" column="81" />
+        <mark key="." line="18" column="81" />
+      </file>
+      <file name="G:/projects/zzswang/adventurer-web/src/containers/project/items.js" timestamp="1531103051088">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="262" column="21" />
+        <mark key="]" line="263" column="20" />
+        <mark key="^" line="263" column="20" />
+        <mark key="." line="263" column="20" />
       </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/ServiceSettingModal/ServiceSettingModal.js" timestamp="1515326869866">
         <mark key="[" line="18" column="122" />
@@ -1987,6 +2232,13 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-core/src/models/vehicle.js" timestamp="1529914816537">
+        <mark key="'" line="123" column="5" />
+        <mark key="[" line="116" column="9" />
+        <mark key="]" line="116" column="8" />
+        <mark key="." line="116" column="8" />
+        <mark key="^" line="116" column="8" />
+      </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/subjects/index.module.less" timestamp="1531534931663">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -2034,11 +2286,25 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" timestamp="1531470185191">
+        <mark key="'" line="75" column="48" />
+        <mark key="[" line="137" column="54" />
+        <mark key="]" line="137" column="55" />
+        <mark key="." line="137" column="55" />
+        <mark key="^" line="137" column="55" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/home/index.js" timestamp="1525829803332">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="18" column="30" />
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="30" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-selector.js" timestamp="1531447338334">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="81" column="13" />
+        <mark key="]" line="82" column="25" />
+        <mark key="." line="82" column="25" />
+        <mark key="^" line="82" column="25" />
       </file>
       <file name="G:/projects/smart_meter_fullstack/client/dev_server/webpack.config.js" timestamp="1502154965266">
         <mark key="[" line="4" column="23" />
@@ -2099,6 +2365,13 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/projects/index.js" timestamp="1531292676192">
+        <mark key="'" line="42" column="55" />
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="8" column="59" />
+        <mark key="^" line="8" column="59" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/src/config.js" timestamp="1531367640143">
         <mark key="[" line="17" column="3" />
@@ -2202,6 +2475,13 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/models/ticket.test.js" timestamp="1529763130592">
+        <mark key="'" line="14" column="22" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+      </file>
       <file name="G:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1523932222028">
         <mark key="[" line="43" column="106" />
         <mark key="]" line="43" column="105" />
@@ -2232,6 +2512,13 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-core/src/api/ticket.js" timestamp="1529764438700">
+        <mark key="'" line="38" column="1" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="37" column="25" />
+        <mark key="^" line="37" column="25" />
+        <mark key="." line="37" column="25" />
+      </file>
       <file name="D:/projects/zzswang/shanghaibus-core/openapi.yaml" timestamp="1527403992428">
         <mark key="[" line="5154" column="14" />
         <mark key="]" line="5155" column="30" />
@@ -2243,6 +2530,13 @@
         <mark key="]" line="59" column="34" />
         <mark key="." line="59" column="34" />
         <mark key="^" line="59" column="34" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/app.js" timestamp="1530758347628">
+        <mark key="'" line="67" column="34" />
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="12" column="29" />
+        <mark key="." line="12" column="29" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/.env" timestamp="1531443613410">
         <mark key="[" line="0" column="0" />
@@ -2334,6 +2628,13 @@
         <mark key="." line="3" column="60" />
         <mark key="^" line="3" column="60" />
       </file>
+      <file name="$USER_HOME$/projects/CZCE/ppm-web/src/containers/users/add-user-group-modal.js" timestamp="1530840946865">
+        <mark key="'" line="55" column="19" />
+        <mark key="[" line="15" column="9" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+      </file>
       <file name="D:/projects/stacktop-auth-server/app/stores/token-store.ts" timestamp="1524492711036">
         <mark key="[" line="46" column="22" />
         <mark key="]" line="46" column="21" />
@@ -2345,6 +2646,13 @@
         <mark key="]" line="66" column="33" />
         <mark key="." line="66" column="33" />
         <mark key="^" line="66" column="33" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-web/src/sagas/index.js" timestamp="1531536588536">
+        <mark key="'" line="201" column="42" />
+        <mark key="[" line="364" column="73" />
+        <mark key="]" line="364" column="73" />
+        <mark key="^" line="364" column="73" />
+        <mark key="." line="364" column="73" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/LoginPage.tsx" timestamp="1517503343102">
         <mark key="[" line="9" column="0" />
@@ -2447,6 +2755,13 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/sagas/index.js" timestamp="1530692922008">
+        <mark key="'" line="46" column="30" />
+        <mark key="[" line="122" column="14" />
+        <mark key="]" line="122" column="19" />
+        <mark key="." line="122" column="19" />
+        <mark key="^" line="122" column="19" />
+      </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/project/project-form.js" timestamp="1531115805414">
         <mark key="[" line="66" column="42" />
         <mark key="]" line="66" column="43" />
@@ -2489,12 +2804,11 @@
         <mark key="^" line="9" column="37" />
         <mark key="." line="9" column="37" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/conferences/conference-brief-list.js" timestamp="1531571076410">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="55" column="23" />
-        <mark key="]" line="56" column="25" />
-        <mark key="^" line="56" column="25" />
-        <mark key="." line="56" column="25" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/conferences/conference-brief-list.js" timestamp="1531737320151">
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="39" />
+        <mark key="^" line="45" column="38" />
+        <mark key="." line="45" column="39" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/reducers/modal.js" timestamp="1531279820494">
         <mark key="[" line="16" column="27" />
@@ -2556,6 +2870,13 @@
         <mark key="." line="14" column="30" />
         <mark key="^" line="14" column="30" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1530448159806">
+        <mark key="'" line="197" column="32" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="27" column="54" />
+      </file>
       <file name="D:/projects/github/ReDoc-master/demo/playground/hmr-playground.tsx" timestamp="1524316047518">
         <mark key="[" line="31" column="39" />
         <mark key="]" line="31" column="45" />
@@ -2616,6 +2937,13 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/reducers/index.js" timestamp="1531465251593">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="101" column="22" />
+        <mark key="]" line="101" column="48" />
+        <mark key="^" line="101" column="48" />
+        <mark key="." line="101" column="48" />
+      </file>
       <file name="G:/projects/smart_meter_dva/tsconfig.json" timestamp="1505120965832">
         <mark key="[" line="8" column="17" />
         <mark key="]" line="8" column="17" />
@@ -2675,6 +3003,20 @@
         <mark key="." line="276" column="0" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/milestones/milestones-list.js" timestamp="1531466008402">
+        <mark key="'" line="174" column="18" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="48" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="210" column="0" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/project.js" timestamp="1531211703413">
+        <mark key="'" line="56" column="8" />
+        <mark key="[" line="13" column="84" />
+        <mark key="]" line="13" column="86" />
+        <mark key="." line="13" column="86" />
+        <mark key="^" line="13" column="86" />
+      </file>
       <file name="D:/projects/FRI/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.css" timestamp="1514812265521">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="35" />
@@ -2699,12 +3041,6 @@
         <mark key="^" line="64" column="24" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/conferences/conference-create-modal.js" timestamp="1531585451307">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="80" column="33" />
-      </file>
       <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/test/test_meters.js" timestamp="1500560456063">
         <mark key="[" line="42" column="24" />
         <mark key="]" line="43" column="0" />
@@ -2716,6 +3052,13 @@
         <mark key="]" line="26" column="17" />
         <mark key="^" line="26" column="17" />
         <mark key="." line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/projects/ppm-web/src/app.js" timestamp="1530672853854">
+        <mark key="'" line="49" column="13" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/main-dev.html" timestamp="1514272998813">
         <mark key="[" line="17" column="14" />
@@ -2789,6 +3132,13 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/procedure.js" timestamp="1531468310452">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+      </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/model/Project.ts" timestamp="1520304833491">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -2830,6 +3180,13 @@
         <mark key="]" line="5" column="28" />
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
+      </file>
+      <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530693605986">
+        <mark key="'" line="209" column="4" />
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="6" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/models.ts" timestamp="1517274358175">
         <mark key="[" line="4" column="36" />
@@ -2884,6 +3241,13 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="8" column="36" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1531466703498">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="15" column="40" />
+      </file>
       <file name="G:/projects/stacktop-auth-server/app/router.ts" timestamp="1524817622366">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="31" />
@@ -2901,6 +3265,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-core/src/api/project.js" timestamp="1531195034918">
+        <mark key="'" line="113" column="30" />
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/users/users-edit.js" timestamp="1531493041025">
         <mark key="[" line="75" column="0" />
@@ -2936,6 +3307,13 @@
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="8" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-core/src/constants.js" timestamp="1531736432269">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="143" column="9" />
+        <mark key="]" line="143" column="15" />
+        <mark key="^" line="143" column="15" />
+        <mark key="." line="143" column="15" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_session.ts" timestamp="1517394990020">
         <mark key="[" line="39" column="31" />
@@ -2992,6 +3370,13 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1531446085135">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="27" column="62" />
+        <mark key="]" line="27" column="81" />
+        <mark key="." line="27" column="81" />
+        <mark key="^" line="27" column="81" />
+      </file>
       <file name="$USER_HOME$/projects/zzswang/wali-web/src/reducers/logs.js" timestamp="1528557515202">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -3010,11 +3395,25 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="19" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.module.less" timestamp="1530543899754">
+        <mark key="'" line="647" column="22" />
+        <mark key="[" line="647" column="22" />
+        <mark key="]" line="647" column="22" />
+        <mark key="." line="647" column="22" />
+        <mark key="^" line="647" column="21" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/providers/ResizeProvider.js" timestamp="1499049620327">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="13" />
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-core/src/api/task.js" timestamp="1531213222729">
+        <mark key="'" line="68" column="6" />
+        <mark key="[" line="32" column="24" />
+        <mark key="]" line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+        <mark key="." line="32" column="27" />
       </file>
       <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/src/runner/newman-runner.ts" timestamp="1526521534228">
         <mark key="[" line="25" column="26" />
@@ -3166,12 +3565,19 @@
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit-form.js" timestamp="1531587044898">
-        <mark key="'" line="20" column="57" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
-        <mark key="^" line="133" column="47" />
-        <mark key="." line="97" column="0" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit-form.js" timestamp="1531737235798">
+        <mark key="'" line="51" column="57" />
+        <mark key="[" line="106" column="51" />
+        <mark key="]" line="106" column="51" />
+        <mark key="." line="106" column="51" />
+        <mark key="^" line="106" column="51" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/components/state-select/index.js" timestamp="1531372681923">
+        <mark key="'" line="8" column="21" />
+        <mark key="[" line="52" column="36" />
+        <mark key="]" line="52" column="45" />
+        <mark key="." line="52" column="45" />
+        <mark key="^" line="52" column="45" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-core/bin/load-vehicles-from-cvs.js" timestamp="1529547731270">
         <mark key="[" line="8" column="0" />
@@ -3184,6 +3590,12 @@
         <mark key="]" line="35" column="20" />
         <mark key="." line="35" column="20" />
         <mark key="^" line="35" column="20" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-web/src/components/milestone-state-label/index.js" timestamp="1531736551246">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+        <mark key="^" line="24" column="13" />
       </file>
       <file name="$USER_HOME$/projects/egg-example/app/controller/auth.ts" timestamp="1516521875668">
         <mark key="[" line="2" column="41" />
@@ -3214,6 +3626,13 @@
         <mark key="]" line="13" column="37" />
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="37" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-web/src/components/selectable-list/index.js" timestamp="1531469765584">
+        <mark key="'" line="36" column="16" />
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/position.ts" timestamp="1517762839829">
         <mark key="[" line="11" column="9" />
@@ -3305,6 +3724,13 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/reducers/fetching.js" timestamp="1531366468631">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="1" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+      </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/commons/url-context.js" timestamp="1531669976488">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="24" />
@@ -3376,6 +3802,13 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1529503977359">
+        <mark key="'" line="195" column="0" />
+        <mark key="[" line="51" column="26" />
+        <mark key="]" line="51" column="34" />
+        <mark key="." line="51" column="34" />
+        <mark key="^" line="51" column="34" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions" timestamp="1525915579783">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="2" column="7" />
@@ -3414,8 +3847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="11" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" />
-      <jump line="181" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" />
       <jump line="183" column="30" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" />
       <jump line="247" column="16" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" />
       <jump line="254" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" />
@@ -3514,46 +3945,48 @@
       <jump line="25" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-list-1.js" />
       <jump line="87" column="33" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-list-1.js" />
       <jump line="39" column="24" filename="D:/projects/CZCE/ppm-web/src/containers/projects/project-milestones.js" />
+      <jump line="48" column="0" filename="D:/projects/CZCE/ppm-core/src/model/milestone.js" />
+      <jump line="1" column="0" filename="D:/projects/CZCE/ppm-core/src/constants.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBtaWxlc3RvbmVCYXNlUXVlcnk6IHt9LAogIG1pbGVzdG9uZUJhc2VCb2R5OiB7fSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>url</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>projectId</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VXJsQ29udGV4dC5Db25zdW1lcj4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcHJvY2VkdXJlSWQgfSA9IHRoaXMucHJvcHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtaWxlc3RvbmVCYXNlUXVlcnk6IHt9LAogIG1pbGVzdG9uZUJhc2VCb2R5OiB7fSwK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBwcm9jZWR1cmVCYXNlUXVlcnkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFByb2plY3RDb250ZXh0IGZyb20gIi4vY29udGV4dCI7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgc3dpdGNoICgpIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGUsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8QnJpZWZMaXN0CiAgICAgICAgICBsb2FkaW5nPXtsb2FkaW5nfQogICAgICAgICAgcmVzb3VyY2VzPXtwcm9jZWR1cmVzfQogICAgICAgICAgbW9kYWw9e0NSRUFURV9QUk9DRURVUkVfTU9EQUx9CiAgICAgICAgICByZXNvdXJjZU5hbWU9eyLJ+sP81tzG2iJ9CiAgICAgICAgICByZXNvdXJjZUNvdW50PXt0b3RhbH0KICAgICAgICAgIGJhc2VVcmw9e2Ake2Jhc2VVcmx9L3Byb2NlZHVyZXNgfQogICAgICAgICAgaWNvbj0iYnVsYiIKICAgICAgICAgIGxhYmVsPXtpdGVtID0+IDxNaWxlc3RvbmVTdGF0ZVRhZyBzdGF0ZT17aXRlbS5zdGF0ZX0gLz59CiAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgIGNvc250IHN0YXRlIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8UmVzb3VyY2VMaXN0CiAgICAgICAgICAgICAgICBsZWZ0SGVhZGVyPXt0aGlzLmxlZnRIZWFkZXIoKX0KICAgICAgICAgICAgICAgIHJpZ2h0SGVhZGVyPXt0aGlzLnJpZ2h0SGVhZGVyKCl9CiAgICAgICAgICAgICAgICBkZWZhdWx0UXVlcnk9e2RlZmF1bHRRdWVyeX0KICAgICAgICAgICAgICAgIGJhc2VVcmw9e21pbGVzdG9uZVVybH0KICAgICAgICAgICAgICAgIHsuLi5NaWxlc3RvbmVMaXN0LnJlc291cmNlc0xpc3RQcm9wc30KICAgICAgICAgICAgICAgIHJlbmRlckl0ZW09e2l0ZW0gPT4gewogICAgICAgICAgICAgICAgICByZXR1cm4gKAogICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBwYWRkaW5nTGVmdDogMTIgfX0+CiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHdpZHRoOiAxMDAgfX0+ob57aXRlbS5sYWJlbH2hvzwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgPGRpdj57aXRlbS5uYW1lfTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBwb3NpdGlvbjogImFic29sdXRlIiwgcmlnaHQ6IDEwIH19PgogICAgICAgICAgICAgICAgICAgICAgICA8TWlsZXN0b25lU3RhdGVUYWcgc3RhdGU9e2l0ZW0uc3RhdGV9IC8+CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
