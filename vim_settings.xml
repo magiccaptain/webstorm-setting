@@ -19,11 +19,6 @@
         <mark key="]" line="26" column="19" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/commons/resource-edit.js" timestamp="1531796298968">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/index.module.less" timestamp="1531465142309">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="5" column="9" />
@@ -46,22 +41,23 @@
         <mark key="]" line="3" column="63" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/lib/index.js" timestamp="1531807393113">
-        <mark key="[" line="86" column="43" />
-        <mark key="]" line="86" column="53" />
-        <mark key="." line="86" column="53" />
-        <mark key="^" line="86" column="53" />
+      <file name="G:/projects/CZCE/ppm-web/src/lib/index.js" timestamp="1531820228265">
+        <mark key="[" line="106" column="24" />
+        <mark key="]" line="106" column="22" />
+        <mark key="^" line="106" column="22" />
+        <mark key="." line="106" column="22" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1531807921284">
-        <mark key="[" line="36" column="11" />
-        <mark key="]" line="36" column="15" />
-        <mark key="^" line="36" column="15" />
-        <mark key="." line="36" column="15" />
+      <file name="G:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1531819887980">
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="52" />
+        <mark key="^" line="21" column="52" />
+        <mark key="." line="21" column="52" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-edit.js" timestamp="1531798614913">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="G:/projects/CZCE/ppm-web/src/lib/schemas.js" timestamp="1531818047091">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="26" />
+        <mark key="^" line="41" column="26" />
+        <mark key="." line="41" column="26" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-group-card.js" timestamp="1531793984851" />
       <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1531443835322">
@@ -85,16 +81,24 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-edit-form.js" timestamp="1531811414630">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="62" column="19" />
-        <mark key="." line="108" column="26" />
-        <mark key="^" line="108" column="26" />
+      <file name="G:/projects/CZCE/ppm-core/src/model/project.js" timestamp="1531819759310">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="57" />
+        <mark key="." line="13" column="86" />
+        <mark key="^" line="13" column="86" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/conference.js" timestamp="1531805804511">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-edit-form.js" timestamp="1531820641902">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="108" column="30" />
+        <mark key="." line="105" column="31" />
+        <mark key="^" line="105" column="31" />
+      </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/conference.js" timestamp="1531819819285">
+        <mark key="[" line="68" column="76" />
+        <mark key="]" line="68" column="85" />
+        <mark key="." line="68" column="85" />
+        <mark key="^" line="68" column="85" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/projects/project-settings.js" timestamp="1531216827891">
         <mark key="[" line="26" column="0" />
@@ -106,6 +110,7 @@
         <mark key="]" line="25" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/api/project.js" timestamp="1531819834012" />
       <file name="G:/projects/CZCE/ppm-web/src/reducers/form.js" timestamp="1531447902689">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -145,7 +150,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-result-form.js" timestamp="1531812073528" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-result-form.js" timestamp="1531821008583">
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="80" column="38" />
+        <mark key="^" line="80" column="38" />
+        <mark key="." line="80" column="38" />
+      </file>
       <file name="G:/projects/CZCE/ppm-core/src/config.js" timestamp="1531367640143">
         <mark key="[" line="17" column="3" />
         <mark key="]" line="17" column="24" />
@@ -162,13 +172,19 @@
         <mark key="]" line="7" column="26" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/api/user.js" timestamp="1531819656182" />
       <file name="G:/projects/CZCE/ppm-web/src/containers/tasks/tasks-list-edit.js" timestamp="1531299392659">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" timestamp="1531798482546" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" timestamp="1531823206041">
+        <mark key="[" line="78" column="27" />
+        <mark key="]" line="78" column="33" />
+        <mark key="^" line="78" column="33" />
+        <mark key="." line="78" column="33" />
+      </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/projects/project-configures.js" timestamp="1531216751844">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="29" column="5" />
@@ -192,6 +208,7 @@
         <mark key="^" line="147" column="29" />
         <mark key="." line="147" column="29" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/model/product.js" timestamp="1531819729720" />
       <file name="G:/projects/CZCE/ppm-core/bin/load-users.js" timestamp="1530866577907">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -219,12 +236,10 @@
         <mark key="." line="40" column="24" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/lib/sdk.js" timestamp="1531799311873" />
-      <file name="G:/projects/CZCE/ppm-web/src/sagas/index.js" timestamp="1531809946567">
-        <mark key="'" line="364" column="31" />
-        <mark key="[" line="138" column="57" />
-        <mark key="]" line="138" column="57" />
-        <mark key="." line="138" column="57" />
-        <mark key="^" line="138" column="57" />
+      <file name="G:/projects/CZCE/ppm-web/src/sagas/index.js" timestamp="1531820190386">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/commons/index.module.less" timestamp="1531807799053">
         <mark key="[" line="13" column="31" />
@@ -257,12 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="11" filename="G:/projects/CZCE/ppm-web/src/containers/projects/project-detail.js" />
-      <jump line="60" column="8" filename="G:/projects/CZCE/ppm-web/src/containers/projects/project-detail.js" />
-      <jump line="18" column="20" filename="G:/projects/CZCE/ppm-web/src/containers/projects/project-detail.js" />
-      <jump line="184" column="11" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
-      <jump line="175" column="11" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
-      <jump line="24" column="22" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit.js" />
       <jump line="163" column="15" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milestones-list.js" />
       <jump line="47" column="35" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milestones-list.js" />
       <jump line="53" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-brief-list.js" />
@@ -357,48 +366,52 @@
       <jump line="36" column="16" filename="G:/projects/CZCE/ppm-web/src/components/selectable-list/index.js" />
       <jump line="365" column="31" filename="G:/projects/CZCE/ppm-web/src/sagas/index.js" />
       <jump line="61" column="1" filename="G:/projects/CZCE/ppm-core/src/model/conference.js" />
+      <jump line="250" column="0" filename="G:/projects/CZCE/ppm-web/src/sagas/index.js" />
+      <jump line="22" column="44" filename="G:/projects/CZCE/ppm-core/src/model/conference.js" />
+      <jump line="48" column="0" filename="G:/projects/CZCE/ppm-core/src/model/project.js" />
+      <jump line="68" column="27" filename="G:/projects/CZCE/ppm-core/src/model/conference.js" />
+      <jump line="105" column="15" filename="G:/projects/CZCE/ppm-web/src/lib/index.js" />
+      <jump line="70" column="33" filename="G:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PERhdGVQaWNrZXIgc2hvd1RpbWUgZm9ybWF0Lz4=</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPERhdGVQaWNrZXIKICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyB3aWR0aDogIjEwMCUiIH19CiAgICAgICAgICAgICAgICAgICAgc2hvd1RpbWUKICAgICAgICAgICAgICAgICAgICBmb3JtYXQ9IllZWVktTU0tREQgSEg6bW0iCiAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9eyLRodTxu+HS6cqxvOQifQogICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPXtsb2FkaW5nfQogICAgICAgICAgICAgICAgICAvPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdmFsdWUgPSB0aGlzLnByb3BzLnZhbHVlIHx8IHRoaXMuc3RhdGUudmFsdWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGlmKHRoaXMucHJvcHMub25DaGFuZ2UpewogICAgICAKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50QWN0aXZlS2V5czogW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGl0ZW0ucmVzdWx0ID0gcmVzdWx0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHlpZWxkIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld1ZhbHVlKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
