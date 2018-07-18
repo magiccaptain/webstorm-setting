@@ -9,10 +9,12 @@
         <mark key="." line="168" column="0" />
         <mark key="^" line="178" column="37" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-selector.js" timestamp="1531892214953">
+      <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-selector.js" timestamp="1531893504551">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="47" />
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1531891750335" />
       <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-result-modal.js" timestamp="1531824560315">
@@ -50,7 +52,6 @@
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
-        <mark key="^" line="120" column="0" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1531819887980">
         <mark key="[" line="21" column="35" />
@@ -135,10 +136,10 @@
         <mark key="^" line="40" column="24" />
         <mark key="." line="40" column="24" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-select.js" timestamp="1531892567081">
-        <mark key="'" line="17" column="18" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-select.js" timestamp="1531893502569">
+        <mark key="'" line="40" column="3" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="14" column="1" />
         <mark key="." line="42" column="0" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/layouts/app-layout.js" timestamp="1531875050934">
@@ -179,11 +180,11 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/selectors/index.js" timestamp="1531882625959">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="40" column="38" />
-        <mark key="." line="40" column="38" />
-        <mark key="^" line="40" column="38" />
+      <file name="G:/projects/CZCE/ppm-web/src/selectors/index.js" timestamp="1531893542090">
+        <mark key="[" line="39" column="38" />
+        <mark key="]" line="39" column="21" />
+        <mark key="." line="39" column="21" />
+        <mark key="^" line="39" column="21" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/src/api/index.js" timestamp="1531382557950">
         <mark key="[" line="8" column="37" />
@@ -193,7 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="2" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
       <jump line="185" column="29" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
       <jump line="196" column="9" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
       <jump line="7" column="9" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
@@ -293,10 +293,11 @@
       <jump line="83" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/users/user-selector.js" />
       <jump line="15" column="18" filename="G:/projects/CZCE/ppm-web/src/containers/users/user-select.js" />
       <jump line="16" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/users/user-selector.js" />
+      <jump line="40" column="3" filename="G:/projects/CZCE/ppm-web/src/containers/users/user-select.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBxdWVyeVVzZXJzID0gKHZhbHVlKT0+ewogICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewogICAgICBjb25zdCB7dXNlcnN9ID0gdGhpcy5wcm9wczsKICAgICAgCiAgICAgIAogICAgICAKICAgIH0pCiAgfQogIAo=</text>
+        <text encoding="base64">ICBkZW5vcm1hbGl6ZShzdGF0ZS5mc2FzW0xJU1RfQUxMX1VTRVJTXS5yZXN1bHQsIFt1c2VyU2NoZW1hXSwgc3RhdGUuZW50aXRpZXMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -305,34 +306,34 @@
         <text>style</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoeyBkYXRhOiBbXSwgZmV0Y2hpbmc6IHRydWUgfSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gKHN0YXRlLCBwcm9wcykgPT4gewogIHJldHVybiB7CiAgICB1c2Vyczogc2VsZWN0QWxsVXNlcnMoc3RhdGUpIHx8IFtdCiAgfTsKfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBxdWVyeVVzZXJzID0gKHZhbHVlKT0+ewogICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewogICAgICBjb25zdCB7dXNlcnN9ID0gdGhpcy5wcm9wczsKICAgICAgCiAgICAgIAogICAgICAKICAgIH0pCiAgfQogIAo=</text>
+        <text encoding="base64">ICBkZW5vcm1hbGl6ZShzdGF0ZS5mc2FzW0xJU1RfQUxMX1VTRVJTXS5yZXN1bHQsIFt1c2VyU2NoZW1hXSwgc3RhdGUuZW50aXRpZXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBxdWVyeVVzZXJzID0gKHZhbHVlKT0+ewogICAgcmV0dXJuIG5ldyBQcm9taXNlKHJlc29sdmUgPT4gewogICAgICBjb25zdCB7dXNlcnN9ID0gdGhpcy5wcm9wczsKICAgICAgCiAgICAgIAogICAgICAKICAgIH0pCiAgfQogIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdXNlcnMK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdXNlcnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhc3luYyBnZXRVc2VycyAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhc3luYyBnZXRVc2VycyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
