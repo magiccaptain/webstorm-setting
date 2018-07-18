@@ -223,7 +223,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/actions/index.js" timestamp="1531808104232">
+      <file name="G:/projects/CZCE/ppm-web/src/actions/index.js" timestamp="1531874154417">
+        <mark key="'" line="251" column="2" />
         <mark key="[" line="527" column="62" />
         <mark key="]" line="527" column="62" />
         <mark key="^" line="527" column="62" />
@@ -249,7 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="15" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milestones-list.js" />
       <jump line="47" column="35" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milestones-list.js" />
       <jump line="53" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-brief-list.js" />
       <jump line="166" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-modal.js" />
@@ -349,6 +349,7 @@
       <jump line="68" column="27" filename="G:/projects/CZCE/ppm-core/src/model/conference.js" />
       <jump line="105" column="15" filename="G:/projects/CZCE/ppm-web/src/lib/index.js" />
       <jump line="70" column="33" filename="G:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" />
+      <jump line="251" column="2" filename="G:/projects/CZCE/ppm-web/src/actions/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
