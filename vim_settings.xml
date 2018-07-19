@@ -84,11 +84,6 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-result-form.js" timestamp="1531897601035">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
-      </file>
       <file name="G:/projects/CZCE/ppm-web/src/lib/index.js" timestamp="1531906916136">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
@@ -115,12 +110,6 @@
       <file name="G:/projects/zzswang/wali-web/src/components/log-terminal/index.js" timestamp="1531903513487" />
       <file name="G:/projects/CZCE/ppm-core/node_modules/@types/mongoose-paginate/index.d.ts" timestamp="1531904535417" />
       <file name="G:/projects/CZCE/ppm-core/node_modules/mongoose-deep-populate/lib/plugin.js" timestamp="1531910774699" />
-      <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-edit.js" timestamp="1531898051505">
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="21" />
-        <mark key="." line="38" column="21" />
-        <mark key="^" line="38" column="21" />
-      </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-brief-list.js" timestamp="1531961391282" />
       <file name="G:/projects/CZCE/ppm-web/src/reducers/index.js" timestamp="1531874936573">
         <mark key="[" line="98" column="31" />
@@ -324,11 +313,11 @@
       <jump line="121" column="47" filename="G:/projects/CZCE/ppm-web/src/containers/conferences/conferences-list.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dGVuZGVlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>rest</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -337,31 +326,31 @@
         <text encoding="base64">ICAgICAgICBjb25zdCB1c2VycyA9IGNvbmNhdCguLi5wcm9qZWN0LnJvbGVzLm1hcChyID0+IHIudXNlcnMpKTsKICAgICAgICBkZWZhdWx0QXR0ZW5kcy5wdXNoKC4uLnVzZXJzLm1hcCh1ID0+IHUuaWQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dGVuZGVlcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWVzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGVmYXVsdEF0dGVuZHMpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvamVjdCk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZGVmYXVsdEF0dGVuZHMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2Vycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygKICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
