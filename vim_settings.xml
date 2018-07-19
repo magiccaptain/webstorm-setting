@@ -26,11 +26,10 @@
         <mark key="^" line="20" column="52" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/api/upload.js" timestamp="1531991250208">
-        <mark key="[" line="42" column="49" />
-        <mark key="]" line="42" column="53" />
-        <mark key="." line="42" column="53" />
-        <mark key="^" line="42" column="53" />
+      <file name="G:/projects/CZCE/ppm-core/src/api/upload.js" timestamp="1531994303167">
+        <mark key="]" line="19" column="20" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/index.module.less" timestamp="1531465142309">
         <mark key="[" line="5" column="1" />
@@ -125,6 +124,7 @@
         <mark key="^" line="166" column="52" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/package.json" timestamp="1531977825765" />
+      <file name="G:/projects/CZCE/ppm-core/node_modules/multer/storage/disk.js" timestamp="1531994025163" />
       <file name="G:/projects/CZCE/ppm-web/src/containers/users/users-edit.js" timestamp="1531908823466">
         <mark key="[" line="85" column="26" />
         <mark key="]" line="85" column="26" />
@@ -297,11 +297,11 @@
       <jump line="47" column="1" filename="G:/projects/CZCE/ppm-core/src/api/upload.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>files</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5maWxlcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>files</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -310,13 +310,13 @@
         <text encoding="base64">ICAgIGlmICghY29uZmVyZW5jZSkgcmV0dXJuIG5leHQobmV3IHN0YXR1cy5Ob3RGb3VuZCgiY29uZmVyZW5jZSBub3QgZm91bmQiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5maWxlcyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoIWNvbmZlcmVuY2UpIHsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZpbGUubWltZXR5cGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXh0KG5ldyBzdGF0dXMuSW52YWxpZFJlcXVlc3QoImNvbmZlcmVuY2UgYXR0YWNobWVudHMgdXBsb2FkIG5lZWQgaWQiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
@@ -325,16 +325,16 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpbmFsUGF0aCA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBmb3IobGVmICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcHJvbWlzaWZ5IH0gZnJvbSAidXRpbCI7Cg==</text>
+        <text encoding="base64">ICByZXEuZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuZmlsZXMpOwogIGNvbnNvbGUubG9nKHJlcS5ib2R5KTsKICBjb25zdCB7IGFjdGlvbiB9ID0gcmVxLmJvZHk7CgogIHN3aXRjaCAoYWN0aW9uKSB7CiAgICBjYXNlICJjb25mZXJlbmNlX2F0dGFjaG1lbnRzIjogLy8gu+HS6cztvNPOxLW1CiAgfQoKICByZXMuanNvbih7IG1zZzogInN1Y2Nlc3MiIH0pOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
