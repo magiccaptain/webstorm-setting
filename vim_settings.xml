@@ -33,9 +33,6 @@
         <mark key="^" line="20" column="52" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/base.js" timestamp="1531998748210">
-        <mark key="'" line="61" column="4" />
-      </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-detail.js" timestamp="1532071295363">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="60" column="28" />
@@ -79,6 +76,13 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/api/documents.js" timestamp="1532074988634">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="53" column="45" />
+        <mark key="]" line="53" column="44" />
+        <mark key="." line="53" column="44" />
+        <mark key="^" line="53" column="44" />
+      </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-result-form.js" timestamp="1531999432771">
         <mark key="'" line="175" column="5" />
         <mark key="[" line="57" column="46" />
@@ -91,10 +95,10 @@
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1531991210400">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="77" />
+      <file name="G:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1532074695374">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="38" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/src/config.js" timestamp="1531989808744">
         <mark key="[" line="14" column="69" />
@@ -118,11 +122,12 @@
         <mark key="." line="86" column="7" />
         <mark key="^" line="86" column="7" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1532072896823">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="38" />
+      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1532075104353">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/src/api/user.js" timestamp="1531990895411">
         <mark key="'" line="30" column="0" />
@@ -180,6 +185,7 @@
         <mark key="." line="208" column="28" />
         <mark key="^" line="208" column="28" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/src/lib/index.js" timestamp="1532074249932" />
       <file name="G:/projects/CZCE/ppm-web/src/containers/milestones/milstone-create-modal.js" timestamp="1531899549888">
         <mark key="[" line="171" column="0" />
         <mark key="]" line="171" column="0" />
@@ -241,7 +247,8 @@
         <mark key="^" line="31" column="28" />
         <mark key="." line="31" column="28" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1531985264714">
+      <file name="G:/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1532074333680">
+        <mark key="'" line="104" column="15" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="82" column="41" />
         <mark key="^" line="18" column="37" />
@@ -265,10 +272,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/api/project.js" timestamp="1532071752869">
+      <file name="G:/projects/CZCE/ppm-core/src/api/project.js" timestamp="1532074787130">
         <mark key="'" line="121" column="14" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="84" />
         <mark key="." line="61" column="0" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/reducers/form.js" timestamp="1531977657436" />
@@ -313,11 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
-      <jump line="40" column="0" filename="G:/projects/CZCE/ppm-core/src/api/procedure.js" />
-      <jump line="55" column="21" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milestones-list.js" />
-      <jump line="52" column="29" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
-      <jump line="78" column="35" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
       <jump line="85" column="4" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
       <jump line="50" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
       <jump line="281" column="13" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit.js" />
@@ -413,46 +415,51 @@
       <jump line="60" column="0" filename="G:/projects/CZCE/ppm-core/src/model/conference.js" />
       <jump line="23" column="0" filename="G:/projects/CZCE/ppm-core/bin/load-users.js" />
       <jump line="11" column="26" filename="G:/projects/CZCE/ppm-core/package.json" />
+      <jump line="35" column="0" filename="G:/projects/CZCE/ppm-core/src/api/conferences.js" />
+      <jump line="24" column="23" filename="G:/projects/CZCE/ppm-core/src/api/documents.js" />
+      <jump line="104" column="15" filename="G:/projects/CZCE/ppm-core/src/model/milestone.js" />
+      <jump line="35" column="6" filename="G:/projects/CZCE/ppm-core/src/api/documents.js" />
+      <jump line="11" column="0" filename="G:/projects/CZCE/ppm-core/src/model/document.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIGhpc3Rvcnk6IFtTdHJpbmddLCAvL87EtbWw5rG+wPrKtwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>leader</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWFpbigpCiAgLnRoZW4oKCkgPT4gewogICAgY29uc29sZS5sb2coIkRvbmUiKTsKICAgIHByb2Nlc3MuZXhpdCgwKTsKICB9KQogIC5jYXRjaChlID0+IHsKICAgIGNvbnNvbGUuZXJyb3IoZSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBkb2N1bWVudE5vID0gdW5kZWZpbmVkOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGhpc3Rvcnk6IFtTdHJpbmddLCAvL87EtbWw5rG+wPrKtwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG1vZGVsOiB7IHR5cGU6IG1vbmdvb3NlLlNjaGVtYS5UeXBlcy5PYmplY3RJZCwgcmVmOiAiRG9jdW1lbnRNb2RlbCIgfSwgLy/OxLW1wODQzQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgINPDu6fQ6MfzyerH68rpCVVSUgogICAgv8nQ0NDUt9bO9rGouOYJRkFSCiAgICDBos/uyerH68rpCVBSQQogICAgz+7Ev7zGu64JUFJQCiAgICDP7sS/vfi2yLHtCVBSUwogICAg08O7p9Dox/PLtcP3yukJVVJTCiAgICDI7bz+0OjH87nmuPHLtcP3yukJU1JTCiAgICDI7bz+0OjH88i3yM+x7QlSQ0YKICAgINDox/O53MDtse0JUk1GCiAgICC4xdKqyei8xsu1w/fK6QlQRFMKICAgIM/qz7jJ6LzGy7XD98rpCUREUwogICAgyei8xsq1z9a3vbC4CVJRRAogICAguMXSqsnovMbGwMnz0uK8+7HtCVBEUgogICAgz+rPuMnovMbGwMnz0uK8+7HtCUREUgogICAg08O7p8rWsuEJVU1OCiAgICDUy9DQytay4QlPTU0KICAgILCy17DK1rLhCUlTTQogICAgz7XNs8n9vLbLtcP3CVNVSQogICAgtPrC68nzsumx7QlDUkYKICAgILWl1Kqy4srUsai45glVTlIKICAgILyvs8my4srUsai45glJVFIKICAgIM+1zbOy4srUsai45glTVFIKICAgIM+1zbOy4srUvbu907WlCVNURAogICAg16jP7rLiytS9u73TtaUJU1RGCiAgICBVQVSy4srUvbu907WlCVVURAogICAgVUFUsuLK1M7KzOK/qAlVVEIKICAgIFVBVLLiytSxqLjmCVVUUgogICAgyc/P3727vdO1pQlMQUQKICAgIM/uxL/X3L3hsai45glTUlQKICAgILnptbXSxr27taUJQVJECiAgICCx5Lj8yc/P37vYucuxqLjmCUNMUgogICAgz+7Ev9bcsagJV0tSCiAgICC358/V0+vOysziudzA7bHtCVJJTQogICAgu+HS6bzHwrwJTVRSCiAgICDGwMnzsai45glSVlIKICAgILHkuPy/2NbGsai45glDQ1IKICAgIFFBvMa7rglRQVAKICAgIFFB1tyxqAlRV1IKICAgIMXk1sO53MDtvMa7rglDTVAKICAgILG4t928xruuCUJLUAogICAgsbi33bzHwrwJQktSCiAgICBTUEm8xruuCVBJUAogICAguMTJxr2o0um53MDtse0JSVBNCiAgICC4xMnGvajS6QlJTVAKICAgIM7EvP6x5Lj8yfPF+rHtCUZDQQogICAgzsS8/sS/wryx7QlGSUwKICAgILGjw9zQrdLpyukJQ0FUCiAgICC49sjLsbO+sLX3sumxqLjmCVBCSQogICAgzsS1tb27vdPB0LHtCUZITAogICAg0MXPory8yvXN4rD8yMvUsbHkuPy53MDtse0JT0NNCiAgICDQxc+ivLzK9c3isPzIy9SxudzA7bHtCU9NRgogICAg0MXPory8yvXN4rD8yMvUsbyo0Ke/vLrLsai45glPRVIKICAgINDFz6K8vMr1zeKw/MjL1LG88sD6CU9QUgogICAg0MXPory8yvXN4rD8yMvUscDrs6HJ6sfrtaUJT0RBCiAgICDQxc+ivLzK9c3isPzIy9Sxx+vQ3bzZtaUJT1ZSCiAgICDQxc+ivLzK9c3isPzIy9SxyLHH2qGix+vQ3bzZu+PX3LHtCU9SUwrQxc+ivLzK9c3isPzIy9Sx0OjH87HtCU9SUArQxc+ivLzK9c3isPzIy9Sx1MLR6brNsOvE6tHpsbjN/MK8CU9QTQo=</text>
+        <text encoding="base64">ICAgIHJldmlldzogeyB0eXBlOiBtb25nb29zZS5TY2hlbWEuVHlwZXMuT2JqZWN0SWQsIHJlZjogIlJldmlldyIgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHt9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbWlsZXN0b25lOiBtaWxlc3RvbmVJZCwgdHlwZSB9ID0gcmVxLmJvZHk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbGVrCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PSB1bmRlZmluZWQ7CiAgICBpZiAobWlsZXN0b25lSWQgJiYgdHlwZSkgewogICAgICBjb25zdCBtaWxlc3RvbmUgPSBNaWxlc3RvbmUuZ2V0KG1pbGVzdG9uZUlkKSB8fCB7fTsKICAgICAgY29uc3QgeyBubyB9ID0gbWlsZXN0b25lOwogICAgICBpZiAobm8pIHsKICAgICAgICAvL8Dvs8yxrtPQseC6xQogICAgICAgIGRvY3VtZW50Tm8gPSBnZW5Eb2N1bWVudE5vKG5vLCB0eXBlKTsKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dGFjaG1lbnRzKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7YXR0YWNobWVudHMubGVuZ3RoID4gMCAmJiAoCiAgICAgICAgICA8ZGl2PgogICAgICAgICAgICA8Um93IHN0eWxlPXt7IGZvbnRTaXplOiAiMTZweCIsIGZvbnRXZWlnaHQ6IDUwMCB9fT64vbz+PC9Sb3c+CgogICAgICAgICAgICA8QXR0YWNobWVudHNMaXN0IGF0dGFjaG1lbnRzPXthdHRhY2htZW50cy5maWx0ZXIoYSA9PiBhKX0gLz4KCiAgICAgICAgICAgIDxEaXZpZGVyIC8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93IHN0eWxlPXt7IGZvbnRTaXplOiAiMTZweCIsIGZvbnRXZWlnaHQ6IDUwMCB9fT64vbz+PC9Sb3c+CgogICAgICAgIDxBdHRhY2htZW50c0xpc3QgYXR0YWNobWVudHM9e2F0dGFjaG1lbnRzLmZpbHRlcihhID0+IGEpfSAvPgogICAgICAgIAogICAgICAgIDxEaXZpZGVyIC8+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
