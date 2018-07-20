@@ -112,8 +112,8 @@
         <mark key="." line="86" column="7" />
         <mark key="^" line="86" column="7" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1532076358428">
-        <mark key="'" line="11" column="0" />
+      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1532078123145">
+        <mark key="'" line="21" column="5" />
         <mark key="[" line="21" column="12" />
         <mark key="]" line="22" column="5" />
         <mark key="." line="22" column="5" />
@@ -288,7 +288,7 @@
         <mark key="." line="17" column="62" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/lib/upload.js" timestamp="1531998851862" />
-      <file name="G:/projects/CZCE/ppm-core/src/api/index.js" timestamp="1532076592739">
+      <file name="G:/projects/CZCE/ppm-core/src/api/index.js" timestamp="1532077863973">
         <mark key="[" line="27" column="34" />
         <mark key="]" line="27" column="34" />
         <mark key="." line="27" column="34" />
@@ -296,7 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="25" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit.js" />
       <jump line="175" column="17" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-edit.js" />
       <jump line="113" column="42" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
       <jump line="148" column="71" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
@@ -396,6 +395,7 @@
       <jump line="74" column="0" filename="G:/projects/CZCE/ppm-core/src/api/user.js" />
       <jump line="86" column="4" filename="G:/projects/CZCE/ppm-core/src/api/documents.js" />
       <jump line="132" column="0" filename="G:/projects/CZCE/ppm-core/src/api/user.js" />
+      <jump line="21" column="5" filename="G:/projects/CZCE/ppm-core/src/model/document.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
