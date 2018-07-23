@@ -63,6 +63,12 @@
         <mark key="." line="36" column="23" />
         <mark key="^" line="36" column="23" />
       </file>
+      <file name="G:/projects/CZCE/ppm-web/src/containers/documents/document-create-modal.js" timestamp="1532320489046">
+        <mark key="[" line="37" column="28" />
+        <mark key="]" line="37" column="57" />
+        <mark key="^" line="37" column="57" />
+        <mark key="." line="37" column="57" />
+      </file>
       <file name="G:/projects/CZCE/ppm-web/src/components/role-user-add/index.js" timestamp="1531891990084">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -93,18 +99,24 @@
       <file name="G:/projects/CZCE/ppm-core/node_modules/@types/mongoose-paginate/index.d.ts" timestamp="1531904535417" />
       <file name="G:/projects/CZCE/ppm-core/node_modules/mongoose-deep-populate/lib/plugin.js" timestamp="1531910774699" />
       <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-edit.js" timestamp="1531964941262" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/documents/documents-brief-list.js" timestamp="1532320511320">
+        <mark key="[" line="64" column="35" />
+        <mark key="]" line="64" column="68" />
+        <mark key="^" line="64" column="68" />
+        <mark key="." line="64" column="68" />
+      </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/users/user-groups.js" timestamp="1531883058132">
         <mark key="[" line="86" column="22" />
         <mark key="]" line="86" column="7" />
         <mark key="." line="86" column="7" />
         <mark key="^" line="86" column="7" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1532308681393">
+      <file name="G:/projects/CZCE/ppm-core/src/model/document.js" timestamp="1532320639447">
         <mark key="'" line="21" column="5" />
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="5" />
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="18" column="33" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/src/api/user.js" timestamp="1532076514018">
         <mark key="'" line="132" column="0" />
@@ -129,13 +141,14 @@
         <mark key="." line="54" column="15" />
         <mark key="^" line="54" column="15" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/api/files.js" timestamp="1531986243802">
+      <file name="G:/projects/CZCE/ppm-core/src/api/files.js" timestamp="1532321064125">
         <mark key="[" line="62" column="22" />
         <mark key="]" line="64" column="21" />
         <mark key="." line="64" column="21" />
         <mark key="^" line="64" column="21" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-form.js" timestamp="1532318301198">
+      <file name="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-form.js" timestamp="1532319940718">
+        <mark key="'" line="106" column="0" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="115" column="17" />
       </file>
@@ -159,11 +172,7 @@
         <mark key="^" line="166" column="52" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/package.json" timestamp="1531977825765" />
-      <file name="G:/projects/CZCE/ppm-core/node_modules/multer/storage/disk.js" timestamp="1531994576960">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="30" />
-      </file>
-      <file name="G:/projects/CZCE/ppm-core/src/constants.js" timestamp="1532318014012">
+      <file name="G:/projects/CZCE/ppm-core/src/constants.js" timestamp="1532321121556">
         <mark key="'" line="30" column="9" />
         <mark key="[" line="150" column="33" />
         <mark key="]" line="150" column="33" />
@@ -171,9 +180,10 @@
         <mark key="^" line="150" column="33" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/src/lib/index.js" timestamp="1532074249932" />
-      <file name="G:/projects/CZCE/ppm-web/src/containers/milestones/milstone-create-modal.js" timestamp="1532316675948">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/milestones/milstone-create-modal.js" timestamp="1532319947999">
+        <mark key="'" line="79" column="41" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="26" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/bin/load-users.js" timestamp="1532072353502">
@@ -193,11 +203,11 @@
         <mark key="." line="105" column="31" />
         <mark key="^" line="105" column="31" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/documents/document-version-update.js" timestamp="1532309440433">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="44" column="56" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/documents/document-version-update.js" timestamp="1532320115136">
+        <mark key="[" line="132" column="30" />
+        <mark key="]" line="132" column="48" />
+        <mark key="." line="132" column="48" />
+        <mark key="^" line="132" column="48" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-create-modal.js" timestamp="1531964976276" />
       <file name="G:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit-form.js" timestamp="1531899235260">
@@ -225,15 +235,10 @@
         <mark key="." line="352" column="71" />
         <mark key="^" line="352" column="71" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/documents/documents-create-form.js" timestamp="1532318356572">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="87" column="24" />
-        <mark key="." line="89" column="0" />
-      </file>
-      <file name="G:/projects/CZCE/ppm-core/node_modules/@southfarm/http-status/dist/index.js" timestamp="1531990927239">
-        <mark key="[" line="50" column="2" />
-        <mark key="]" line="50" column="15" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/documents/documents-create-form.js" timestamp="1532320911744">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="G:/projects/CZCE/ppm-web/src/containers/conferences/conference-brief-list.js" timestamp="1531961391282" />
       <file name="G:/projects/CZCE/ppm-web/src/containers/files/attachment-upload.js" timestamp="1531999323825">
@@ -299,8 +304,6 @@
       <file name="G:/projects/CZCE/ppm-core/src/api/index.js" timestamp="1532077863973" />
     </filemarks>
     <jumps>
-      <jump line="113" column="42" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
-      <jump line="148" column="71" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
       <jump line="209" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milestones-list.js" />
       <jump line="150" column="34" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
       <jump line="170" column="2" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedures-list.js" />
@@ -399,46 +402,48 @@
       <jump line="132" column="0" filename="G:/projects/CZCE/ppm-core/src/api/user.js" />
       <jump line="21" column="5" filename="G:/projects/CZCE/ppm-core/src/model/document.js" />
       <jump line="42" column="60" filename="G:/projects/CZCE/ppm-web/src/containers/documents/document-version-update.js" />
+      <jump line="106" column="0" filename="G:/projects/CZCE/ppm-web/src/containers/procedures/procedure-create-form.js" />
+      <jump line="79" column="41" filename="G:/projects/CZCE/ppm-web/src/containers/milestones/milstone-create-modal.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgIHsgbmFtZTogIsbky/siLCBjb2RlOiAiT1RIRVIiIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>hideModal(DOCUMENT_CREATE_MODAL)</text>
+        <text>{};</text>
       </register>
       <register name="/" type="4">
         <text>path</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPEZvcm0uSXRlbT4KICAgICAgICA8Um93IHR5cGU9ImZsZXgiIGp1c3RpZnk9ImVuZCI+CiAgICAgICAgICA8QnV0dG9uIGxvYWRpbmc9e3Byb3BzLmxvYWRpbmd9IHR5cGU9InByaW1hcnkiIGh0bWxUeXBlPSJzdWJtaXQiPgogICAgICAgICAgICDM4b27CiAgICAgICAgICA8L0J1dHRvbj4KICAgICAgICAgIDxCdXR0b24gb25DbGljaz17cHJvcHMub25DYW5jZWx9IGRpc2FibGVkPXtsb2FkaW5nfSBzdHlsZT17eyBtYXJnaW5MZWZ0OiAyMCB9fT4KICAgICAgICAgICAgyKHP+wogICAgICAgICAgPC9CdXR0b24+CiAgICAgICAgPC9Sb3c+CiAgICAgIDwvRm9ybS5JdGVtPgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5ld1ZhbHVlID0gewogICAgICAuLi50aGlzLnN0YXRlLnZhbHVlLAogICAgICBmaWxlczogW10KICAgIH07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHsgbmFtZTogIsbky/siLCBjb2RlOiAiT1RIRVIiIH0K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvZHkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZlcnNpb25Cb2R5KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm0uZ2V0RmllbGRWYWx1ZSgiZG9jdW1lbnRMYWJlbCIpKTsK</text>
+        <text encoding="base64">ICAgICAgdmVyc2lvbkJvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbHVlcy5kb2N1bWVudExhYmVsKTsK</text>
+        <text encoding="base64">ICAgIGNvCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnRMYWJlbDogRm9ybS5jcmVhdGVGb3JtRmllbGQoewogICAgICAgIC4uLnByb3BzLmRvY3VtZW50TGFiZWwsCiAgICAgICAgZG9jdW1lbnRMYWJlbDogdmFsdWVzLmRvY3VtZW50TGFiZWwKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Rm9ybSBwcmVmaXhDbHM9ey59IGxheW91dD17fSBvblN1Ym1pdD17fSBoaWRlUmVxdWlyZWRNYXJrPXt9Lz4K</text>
+        <text encoding="base64">ICAgICAgICByZW1hcms6IFN0cmluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
