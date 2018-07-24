@@ -40,20 +40,24 @@
         <mark key="." line="39" column="18" />
         <mark key="^" line="39" column="18" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/lib/request.js" timestamp="1532445671666" />
+      <file name="D:/projects/CZCE/ppm-web/src/lib/request.js" timestamp="1532447822956">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="D:/projects/stacktop-auth-server/config/config.default.js" timestamp="1524485951197">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="25" column="5" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="5" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1532438234096">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="75" />
-        <mark key="." line="44" column="46" />
-        <mark key="^" line="44" column="46" />
+      <file name="D:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1532447789128">
+        <mark key="[" line="69" column="45" />
+        <mark key="]" line="69" column="44" />
+        <mark key="." line="69" column="44" />
+        <mark key="^" line="69" column="44" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/login/login.js" timestamp="1532447474561">
+      <file name="D:/projects/CZCE/ppm-web/src/containers/login/login.js" timestamp="1532447550763">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -4161,46 +4165,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZXNzaW9uKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Authorization</text>
       </register>
       <register name="/" type="4">
         <text>selectSubjects</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc2Vzc2lvbiA9IHt9IH0gPSB0aGlzLnByb3BzOwoKICAgIGlmIChzZXNzaW9uLnVzZXIpIHsKICAgICAgdGhpcy5wcm9wcy5oaXN0b3J5LnB1c2goIi8iKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>Content-Type</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhzZXNzaW9uKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiaGVhZGVyIiwgcmVxLmhlYWQoIkF1dGhvcml6YXRpb24iKSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdG9rZW46IGp3dFRva2VuLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2Vzc2lvbjogeyAuLi5qd3RTaWduLCBhY2Nlc3NUb2tlbjogand0VG9rZW4gfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>jwt.sign({ ...jwtSign },
-        JWT_PUBLIC_KEY, {
-          expiresIn: &quot;60d&quot;
-        })</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgdG9rZW46IGp3dFRva2VuLAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
