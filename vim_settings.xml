@@ -2181,11 +2181,11 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/lib/index.js" timestamp="1531465808798">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="22" />
-        <mark key="." line="60" column="22" />
-        <mark key="^" line="60" column="21" />
+      <file name="G:/projects/CZCE/ppm-web/src/lib/index.js" timestamp="1532490319273">
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="162" column="48" />
       </file>
       <file name="G:/projects/CZCE/ppm-core/src/api/conferences.js" timestamp="1531470294334">
         <mark key="[" line="78" column="15" />
@@ -4055,6 +4055,9 @@
         <mark key="." line="10" column="10" />
         <mark key="^" line="10" column="10" />
       </file>
+      <file name="/JavaScript Console" timestamp="1532490144622">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/FrontEnd/src/routes/StudentMainPage.tsx" timestamp="1517505685956">
         <mark key="[" line="28" column="56" />
         <mark key="]" line="28" column="56" />
@@ -4352,51 +4355,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyNBUFBfTU9OR09EQl9DT05ORUNUSU9OPW1vbmdvZGI6Ly9sb2NhbGhvc3Q6MjcwMTcvY3pjZXBwbQo=</text>
+        <text encoding="base64">Y29uc3QgYmFzZVVybCA9IHByb2Nlc3MuZW52LlJFQUNUX0FQUF9CQVNFX1VSTCB8fCAiaHR0cDovL2xvY2FsaG9zdDo5MDAxL3BwbS9jb3JlL3YxIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>8181</text>
       </register>
       <register name="/" type="4">
         <text>selectSubjects</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyNBUFBfTU9OR09EQl9DT05ORUNUSU9OPW1vbmdvZGI6Ly9sb2NhbGhvc3Q6MjcwMTcvY3pjZXBwbQo=</text>
+      <register name="0" type="4">
+        <text>&quot;http://localhost:9001/ppm/core/v1&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYmFzZVVybCA9IHByb2Nlc3MuZW52LlJFQUNUX0FQUF9CQVNFX1VSTCB8fCAiaHR0cDovL2xvY2FsaG9zdDo5MDAxL3BwbS9jb3JlL3YxIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwLnVzZShleHByZXNzLnN0YXRpYygicHVibGljIikpOwoKYXBwLmdldCgiLyIsIGZ1bmN0aW9uKHJlcSwgcmVzKSB7CiAgcmVzLnNlbmRGaWxlKHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJwdWJsaWMiLCAiaW5kZXguaHRtbCIpKTsKfSk7Cg==</text>
+        <text encoding="base64">aWYoKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLnVzZSgiL3ZpZXciLCBleHByZXNzLnN0YXRpYygicHVibGljIikpOwo=</text>
+        <text encoding="base64">YXBwLnVzZShleHByZXNzLnN0YXRpYygicHVibGljIikpOwoKYXBwLmdldCgiLyIsIGZ1bmN0aW9uKHJlcSwgcmVzKSB7CiAgcmVzLnNlbmRGaWxlKHBhdGguam9pbihfX2Rpcm5hbWUsICIuLiIsICJwdWJsaWMiLCAiaW5kZXguaHRtbCIpKTsKfSk7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YXBwLnVzZSgiL3ZpZXciLCBleHByZXNzLnN0YXRpYygicHVibGljIikpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvbyAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>, {
     headers: {
       &quot;X-File-Name&quot;: encodeURI(fileName)
     }
   }</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>{
     headers: {
       &quot;X-File-Name&quot;: encodeURI(fileName)
     }</text>
-      </register>
-      <register name="8" type="4">
-        <text>.then(function(blob) {
-  });</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">dGhlbihmdW5jdGlvbihibG9iKSB7CiAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
