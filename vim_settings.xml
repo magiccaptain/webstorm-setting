@@ -2827,9 +2827,9 @@
         <mark key="." line="12" column="29" />
         <mark key="^" line="12" column="29" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/.env" timestamp="1531443613410">
+      <file name="G:/projects/CZCE/ppm-core/.env" timestamp="1532488576176">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
+        <mark key="]" line="0" column="57" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -4352,7 +4352,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyNBUFBfTU9OR09EQl9DT05ORUNUSU9OPW1vbmdvZGI6Ly9sb2NhbGhvc3Q6MjcwMTcvY3pjZXBwbQo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -4360,8 +4360,8 @@
       <register name="/" type="4">
         <text>selectSubjects</text>
       </register>
-      <register name="0" type="4">
-        <text>path.join(FILES_ROOT, file.path)</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyNBUFBfTU9OR09EQl9DT05ORUNUSU9OPW1vbmdvZGI6Ly9sb2NhbGhvc3Q6MjcwMTcvY3pjZXBwbQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
