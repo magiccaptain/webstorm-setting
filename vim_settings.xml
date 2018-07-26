@@ -3454,11 +3454,11 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/api/download.js" timestamp="1532581200833">
-        <mark key="[" line="73" column="42" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-        <mark key="^" line="73" column="41" />
+      <file name="G:/projects/CZCE/ppm-core/src/api/download.js" timestamp="1532584323035">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530693605986">
         <mark key="'" line="209" column="4" />
@@ -4125,8 +4125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="36" filename="D:/projects/CZCE/ppm-web/src/containers/commons/resource-list.js" />
-      <jump line="85" column="6" filename="D:/projects/CZCE/ppm-web/src/containers/commons/resource-list.js" />
       <jump line="116" column="25" filename="D:/projects/CZCE/ppm-web/src/containers/commons/resource-list.js" />
       <jump line="34" column="4" filename="D:/projects/CZCE/ppm-web/src/containers/commons/resource-list.js" />
       <jump line="70" column="35" filename="D:/projects/CZCE/ppm-web/src/containers/commons/resource-list.js" />
@@ -4225,46 +4223,48 @@
       <jump line="265" column="22" filename="G:/projects/CZCE/ppm-web/src/sagas/index.js" />
       <jump line="61" column="0" filename="G:/projects/CZCE/ppm-core/src/api/download.js" />
       <jump line="148" column="46" filename="G:/projects/CZCE/ppm-core/src/api/milestone.js" />
+      <jump line="77" column="42" filename="G:/projects/CZCE/ppm-core/src/api/download.js" />
+      <jump line="87" column="1" filename="G:/projects/CZCE/ppm-core/src/api/download.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text>.getTime()</text>
       </register>
       <register name="/" type="4">
         <text>CAT</text>
       </register>
-      <register name="0" type="4">
-        <text>InvalidRequest</text>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICByZXMuZG93bmxvYWQocGF0aC5qb2luKEZJTEVTX1JPT1QsIGZpbGUucGF0aCksIGZpbGVOYW1lLCB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKERhdGUubm93KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvY3VtZW50cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZmlsZU5hbWUgPSBhd2FpdCBnZW5GaWxlTmFtZShtaWxlc3RvbmUsIGRvYywgdmVyc2lvbik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zdCB7IG1pbGVzdG9uZUlkIH0gPSByZXEucGFyYW1zOwogIGlmICghbWlsZXN0b25lSWQpIHsKICAgIHJldHVybiBuZXh0KG5ldyBzdGF0dXMuSW52YWxpZFJlcXVlc3QoIm5lZWQgbWlsZXN0b25lIGlkIikpOwogIH0KICBjb25zdCBtaWxlc3RvbmUgPSBhd2FpdCBNaWxlc3RvbmUuZ2V0KG1pbGVzdG9uZUlkKTsKCiAgLy8gz+7Ev9bQtcTL+dPQzsS1tQogIGNvbnN0IGRvY3VtZW50cyA9IGF3YWl0IERvY3VtZW50Lmxpc3QoeyBjb25kaXRpb25zOiB7IG1pbGVzdG9uZSwgbWlsZXN0b25lSWQgfSwgcG9wdWxhdGU6IGRvY3VtZW50UG9wdWxhdGUgfSk7CiAgY29uc3QgemlwID0gWmlwKCk7CiAgZm9yIChsZXQgZG9jIG9mIGRvY3VtZW50cykgewogICAgLy8gyKGz9s7EvP7X7tDCsOaxvgogICAgaWYgKGRvYy52ZXJzaW9ucy5sZW5ndGggPiAwKSB7CiAgICAgIGNvbnN0IHZlcnNpb24gPSBkb2N1bWVudHMudmVyc2lvbnNbMF07CiAgICAgIC8vyfqzyc7EvP7D+wogICAgICB0cnkgewogICAgICAgIGNvbnN0IGZpbGVJbmZvID0gYXdhaXQgZ2VuRmlsZU5hbWUobWlsZXN0b25lLCBkb2MsIHZlcnNpb24pOwogICAgICAgIGNvbnN0IHsgZmlsZSwgZmlsZU5hbWUgfSA9IGZpbGVJbmZvOwogICAgICAgIHppcC5maWxlKGZpbGVOYW1lLCBmcy5yZWFkRmlsZVN5bmMocGF0aC5qb2luKEZJTEVTX1JPT1QsIGZpbGUucGF0aCkpKTsKICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgIC8vIMjnufvOxLz+sru05tTao6zU8rK7tPKw/AogICAgICB9CiAgICB9CiAgfQoKICAvLyDJ+rPJtPKw/M7EvP4KICBjb25zdCB6aXBEYXRhID0gemlwLmdlbmVyYXRlKHsgYmFzZTY0OiBmYWxzZSwgY29tcHJlc3Npb246ICJERUZMQVRFIiB9KTsKICAvLyDQtMjrtb10ZW1wzsS8/tbQCiAgY29uc3QgdG1wRGlyID0gb3MudG1wZGlyKCk7CgogIGNvbnN0IHppcEZpbGUgPSBwYXRoLmpvaW4odG1wRGlyLCBgJHttaWxlc3RvbmUubmFtZX0tJHtEYXRlLm5vdygpLmdldFRpbWUoKX0uemlwYCk7CgogIGZzLndyaXRlRmlsZVN5bmMoCiAgICB6aXBGaWxlLAogICAgemlwRGF0YSwKICAgICJiaW5hcnkiCiAgKTsKICByZXR1cm4gcmVzLmRvd25sb2FkKHppcEZpbGUsIGAke21pbGVzdG9uZS5uYW1lfS3OxLW118rBzy56aXBgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vyfqzyc7EvP7D+wogICAgLy8gY29uc3QgZmlsZU5hbWUgPSBhd2FpdCBnZW5GaWxlTmFtZShtaWxlc3RvbmUsIGRvYywgKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtaWxlc3RvbmVJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
