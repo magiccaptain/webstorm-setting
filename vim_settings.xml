@@ -2086,7 +2086,8 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/lib/index.js" timestamp="1532493969993">
+      <file name="G:/projects/CZCE/ppm-web/src/lib/index.js" timestamp="1532656643757">
+        <mark key="'" line="160" column="0" />
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
@@ -4117,7 +4118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-list-1.js" />
       <jump line="87" column="33" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-list-1.js" />
       <jump line="39" column="24" filename="D:/projects/CZCE/ppm-web/src/containers/projects/project-milestones.js" />
       <jump line="48" column="0" filename="D:/projects/CZCE/ppm-core/src/model/milestone.js" />
@@ -4217,6 +4217,7 @@
       <jump line="86" column="16" filename="G:/projects/CZCE/ppm-core/package.json" />
       <jump line="55" column="0" filename="G:/projects/CZCE/ppm-core/package.json" />
       <jump line="71" column="7" filename="G:/projects/CZCE/ppm-core/package.json" />
+      <jump line="160" column="0" filename="G:/projects/CZCE/ppm-web/src/lib/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
