@@ -868,6 +868,12 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="33" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/package.json" timestamp="1532655585316">
+        <mark key="'" line="71" column="7" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/dist/parser.js" timestamp="1498722196405">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="15" column="17" />
@@ -3436,11 +3442,11 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/api/download.js" timestamp="1532654023146">
-        <mark key="[" line="87" column="64" />
-        <mark key="]" line="87" column="73" />
-        <mark key="." line="87" column="73" />
-        <mark key="^" line="87" column="73" />
+      <file name="G:/projects/CZCE/ppm-core/src/api/download.js" timestamp="1532655562142">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="98" column="64" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530693605986">
         <mark key="'" line="209" column="4" />
@@ -4111,13 +4117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="25" filename="D:/projects/CZCE/ppm-web/src/containers/commons/resource-list.js" />
-      <jump line="34" column="4" filename="D:/projects/CZCE/ppm-web/src/containers/commons/resource-list.js" />
-      <jump line="70" column="35" filename="D:/projects/CZCE/ppm-web/src/containers/commons/resource-list.js" />
-      <jump line="119" column="30" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milstone-create-modal.js" />
-      <jump line="172" column="21" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milstone-create-modal.js" />
-      <jump line="167" column="26" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milstone-create-modal.js" />
-      <jump line="106" column="13" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-list-1.js" />
       <jump line="25" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-list-1.js" />
       <jump line="87" column="33" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-list-1.js" />
       <jump line="39" column="24" filename="D:/projects/CZCE/ppm-web/src/containers/projects/project-milestones.js" />
@@ -4211,62 +4210,67 @@
       <jump line="148" column="46" filename="G:/projects/CZCE/ppm-core/src/api/milestone.js" />
       <jump line="77" column="42" filename="G:/projects/CZCE/ppm-core/src/api/download.js" />
       <jump line="87" column="1" filename="G:/projects/CZCE/ppm-core/src/api/download.js" />
+      <jump line="9" column="21" filename="G:/projects/CZCE/ppm-core/package.json" />
+      <jump line="70" column="9" filename="G:/projects/CZCE/ppm-core/package.json" />
+      <jump line="1" column="4" filename="G:/projects/CZCE/ppm-core/package.json" />
+      <jump line="73" column="9" filename="G:/projects/CZCE/ppm-core/package.json" />
+      <jump line="86" column="16" filename="G:/projects/CZCE/ppm-core/package.json" />
+      <jump line="55" column="0" filename="G:/projects/CZCE/ppm-core/package.json" />
+      <jump line="71" column="7" filename="G:/projects/CZCE/ppm-core/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>path.join(FILES_ROOT, file.path)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJAdHlwZXMvYWRtLXppcCI6ICJeMC40LjMxIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>normal</text>
       </register>
       <register name="/" type="4">
-        <text>CAT</text>
+        <text>zip</text>
       </register>
       <register name="0" type="4">
         <text>path.join(FILES_ROOT, file.path)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lKTsK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvYWRtLXppcCI6ICJeMC40LjMxIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lLnJlcGxhY2UoIi0iLCAiXyIpKTsK</text>
+        <text encoding="base64">ICAgICJhZG0temlwIjogIl4wLjQuMTEiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFkbVppcCBmcm9tICJhZG0temlwIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lLnJlcGxhY2UoIi0iLCAiXyIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKERhdGUubm93KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvY3VtZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKERhdGUubm93KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>CAT</last-search>
+      <last-search>zip</last-search>
       <last-offset />
-      <last-pattern>CAT</last-pattern>
+      <last-pattern>zip</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Loading</entry>
-        <entry>state</entry>
         <entry>milestoneState</entry>
         <entry>change</entry>
         <entry>projectId</entry>
@@ -4285,6 +4289,8 @@
         <entry>query</entry>
         <entry>Document</entry>
         <entry>CAT</entry>
+        <entry>am</entry>
+        <entry>zip</entry>
       </history-search>
       <history-cmd />
       <history-expr />
