@@ -3436,11 +3436,11 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/api/download.js" timestamp="1532584323035">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-        <mark key="^" line="7" column="30" />
+      <file name="G:/projects/CZCE/ppm-core/src/api/download.js" timestamp="1532654023146">
+        <mark key="[" line="87" column="64" />
+        <mark key="]" line="87" column="73" />
+        <mark key="." line="87" column="73" />
+        <mark key="^" line="87" column="73" />
       </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/monitoring/index.js" timestamp="1530693605986">
         <mark key="'" line="209" column="4" />
@@ -3565,6 +3565,7 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="1" column="8" />
       </file>
+      <file name="G:/projects/CZCE/ppm-core/node_modules/@types/adm-zip/index.d.ts" timestamp="1532653318488" />
       <file name="G:/projects/smart_meter_dva/src/components/Devices/Devices.tsx" timestamp="1507603469571">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -4212,44 +4213,44 @@
       <jump line="87" column="1" filename="G:/projects/CZCE/ppm-core/src/api/download.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>path.join(FILES_ROOT, file.path)</text>
       </register>
       <register name="-" type="4">
-        <text>.getTime()</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>CAT</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgc3R5bGU9e3sgbWF4V2lkdGg6ICIxMDAlIiB9fT4K</text>
+      <register name="0" type="4">
+        <text>path.join(FILES_ROOT, file.path)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lLnJlcGxhY2UoIi0iLCAiXyIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKERhdGUubm93KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvY3VtZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKERhdGUubm93KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvY3VtZW50cyk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
