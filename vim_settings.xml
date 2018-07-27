@@ -413,13 +413,6 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/documents/document-list.js" timestamp="1532570656047">
-        <mark key="'" line="174" column="54" />
-        <mark key="[" line="115" column="48" />
-        <mark key="]" line="115" column="66" />
-        <mark key="." line="115" column="66" />
-        <mark key="^" line="115" column="66" />
-      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/adapters/EFlowMeterTable.js" timestamp="1499318686847">
         <mark key="[" line="44" column="36" />
         <mark key="]" line="44" column="76" />
@@ -1746,12 +1739,12 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit-form.js" timestamp="1532574442166">
-        <mark key="'" line="102" column="49" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="10" column="22" />
+      <file name="G:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit-form.js" timestamp="1532658689035">
+        <mark key="'" line="101" column="49" />
+        <mark key="[" line="77" column="21" />
+        <mark key="]" line="77" column="22" />
+        <mark key="." line="77" column="22" />
+        <mark key="^" line="77" column="22" />
       </file>
       <file name="D:/projects/open-api-redoc/front-end/tsconfig.json" timestamp="1524300545136">
         <mark key="[" line="6" column="0" />
@@ -3196,7 +3189,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
-      <file name="G:/projects/CZCE/ppm-web/src/reducers/index.js" timestamp="1532596836639">
+      <file name="G:/projects/CZCE/ppm-web/src/reducers/index.js" timestamp="1532658595652">
         <mark key="'" line="75" column="4" />
         <mark key="[" line="148" column="31" />
         <mark key="]" line="148" column="66" />
@@ -3623,12 +3616,12 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="G:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1532580519930">
-        <mark key="'" line="148" column="46" />
-        <mark key="[" line="148" column="46" />
-        <mark key="]" line="148" column="46" />
-        <mark key="^" line="148" column="46" />
-        <mark key="." line="148" column="46" />
+      <file name="G:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1532658770641">
+        <mark key="'" line="149" column="46" />
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="85" column="10" />
+        <mark key="^" line="85" column="10" />
+        <mark key="." line="85" column="10" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/wrappers/MuiThemeWrapper.js" timestamp="1499050689354">
         <mark key="[" line="1" column="3" />
@@ -4220,11 +4213,11 @@
       <jump line="160" column="0" filename="G:/projects/CZCE/ppm-web/src/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvYWRtLXppcCI6ICJeMC40LjMxIiwK</text>
+      <register name="&quot;" type="4">
+        <text>nameSpan</text>
       </register>
       <register name="-" type="4">
-        <text>normal</text>
+        <text>nameSpan</text>
       </register>
       <register name="/" type="4">
         <text>zip</text>
@@ -4233,31 +4226,31 @@
         <text>path.join(FILES_ROOT, file.path)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvYWRtLXppcCI6ICJeMC40LjMxIiwK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJhZG0temlwIjogIl4wLjQuMTEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEFkbVppcCBmcm9tICJhZG0temlwIjsK</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvYWRtLXppcCI6ICJeMC40LjMxIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lKTsK</text>
+        <text encoding="base64">ICAgICJhZG0temlwIjogIl4wLjQuMTEiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lLnJlcGxhY2UoIi0iLCAiXyIpKTsK</text>
+        <text encoding="base64">aW1wb3J0IEFkbVppcCBmcm9tICJhZG0temlwIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGZpbGVOYW1lLnJlcGxhY2UoIi0iLCAiXyIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1pbGVzdG9uZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKERhdGUubm93KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
