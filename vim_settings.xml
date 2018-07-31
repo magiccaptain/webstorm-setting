@@ -318,10 +318,6 @@
       </file>
       <file name="D:/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1532964312786">
         <mark key="'" line="17" column="13" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="34" />
-        <mark key="^" line="43" column="34" />
       </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-core/src/api/user.js" timestamp="1530681676263">
         <mark key="[" line="88" column="0" />
@@ -1492,11 +1488,7 @@
         <mark key="." line="0" column="60" />
         <mark key="^" line="0" column="60" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-state-modal.js" timestamp="1533042542545">
-        <mark key="[" line="343" column="0" />
-        <mark key="]" line="343" column="0" />
-        <mark key="." line="343" column="0" />
-      </file>
+      <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-state-modal.js" timestamp="1533044031262" />
       <file name="$USER_HOME$/projects/CZCE/ppm-web/src/app.js" timestamp="1530677042802">
         <mark key="[" line="71" column="53" />
         <mark key="]" line="71" column="57" />
@@ -3156,9 +3148,9 @@
         <mark key="^" line="1" column="8" />
       </file>
       <file name="D:/projects/CZCE/ppm-core/src/constants.js" timestamp="1532963053249">
-        <mark key="[" line="238" column="0" />
-        <mark key="]" line="238" column="0" />
-        <mark key="." line="238" column="0" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/loader/load_session.ts" timestamp="1517394990020">
         <mark key="[" line="39" column="31" />
@@ -3774,20 +3766,20 @@
       <jump line="17" column="13" filename="D:/projects/CZCE/ppm-core/src/model/milestone.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWVudXMuZmlsdGVyKG0gPT4gbS5rZXkgIT09ICJzdXNwZW5kLW1pbGVzdG9uZSIp</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>menus</text>
       </register>
       <register name="/" type="4">
         <text>from</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIENvbnRlbnQgPSA8U3RhdGVPcGVyYXRvck1lbnUgbWVudXM9e21lbnVzfSBvbk1lbnVDaGFuZ2U9e3RoaXMub25PcGVyYXRpb25NZW51Q2hhbmdlfSAvPjsKICAgICAgICAgIGJyZWFrOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">bWVudXMuZmlsdGVyKG0gPT4gbS5rZXkgIT09ICJzdXNwZW5kLW1pbGVzdG9uZSIp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGV4dHJhTWVudXMgPSBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBuYW1lOiAiudLG8M/uxL8iLAogICAgICAgICAgICAgIGtleTogInN1c3BlbmQtbWlsZXN0b25lIiwKICAgICAgICAgICAgICBmb3JtOiBTdXNwZW5kUmVzdG9yZUZvcm0sCiAgICAgICAgICAgICAgZm9ybVByb3BzOiB7CiAgICAgICAgICAgICAgICBsb2FkaW5nLAogICAgICAgICAgICAgICAgb25TdWJtaXQ6IHZhbHVlcyA9PiB7CiAgICAgICAgICAgICAgICAgIGNvbnN0IHsgZGlzcGF0Y2ggfSA9IHRoaXMucHJvcHM7CiAgICAgICAgICAgICAgICAgIGRpc3BhdGNoKAogICAgICAgICAgICAgICAgICAgIGNyZWF0ZU1pbGVzdG9uZVN0YXRlKG1pbGVzdG9uZS5pZCwgewogICAgICAgICAgICAgICAgICAgICAgLi4udmFsdWVzLAogICAgICAgICAgICAgICAgICAgICAgYWN0aW9uOiAiudLG8M/uxL8iLAogICAgICAgICAgICAgICAgICAgICAgc3RhdGU6ICK50sbwIgogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICBdOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -3799,10 +3791,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICLS0c3qs8kiOnsgLy/Tw7unv8nWtNDQINDeuMS8xruustnX9wogICAgICAgICAgQ29udGVudCA9IDxTdGF0ZU9wZXJhdG9yTWVudSBtZW51cz17bWVudXN9IG9uTWVudUNoYW5nZT17dGhpcy5vbk9wZXJhdGlvbk1lbnVDaGFuZ2V9IC8+OwogICAgICAgICAgYnJlYWs7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICLS0c3qs8kiOnsgLy/Tw7unv8nWtNDQINDeuMS8xruustnX9wogICAgICAgICAgQ29udGVudCA9IDxTdGF0ZU9wZXJhdG9yTWVudSBtZW51cz17bWVudXN9IG9uTWVudUNoYW5nZT17dGhpcy5vbk9wZXJhdGlvbk1lbnVDaGFuZ2V9IC8+OwogICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIENvbnRlbnQgPSA8U3RhdGVPcGVyYXRvck1lbnUgbWVudXM9e21lbnVzfSBvbk1lbnVDaGFuZ2U9e3RoaXMub25PcGVyYXRpb25NZW51Q2hhbmdlfSAvPjsKICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -3811,7 +3803,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
