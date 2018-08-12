@@ -45,11 +45,10 @@
         <mark key="." line="56" column="58" />
         <mark key="^" line="56" column="58" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1533821925616">
-        <mark key="'" line="3" column="25" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="D:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1534074465951">
+        <mark key="'" line="47" column="35" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_students.ts" timestamp="1517300254148">
         <mark key="[" line="11" column="0" />
@@ -57,11 +56,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/src/api/index.js" timestamp="1533478993540">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="19" />
-        <mark key="^" line="38" column="48" />
-        <mark key="." line="38" column="48" />
+      <file name="D:/projects/CZCE/ppm-core/src/api/index.js" timestamp="1534075184975">
+        <mark key="'" line="19" column="27" />
+        <mark key="[" line="40" column="41" />
+        <mark key="]" line="40" column="41" />
+        <mark key="^" line="40" column="41" />
+        <mark key="." line="40" column="41" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/ui/components/VisToolBar.jsx" timestamp="1498810755194">
         <mark key="[" line="8" column="16" />
@@ -615,6 +615,11 @@
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
         <mark key="^" line="8" column="19" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-core/node_modules/@southfarm/http-status/dist/index.js" timestamp="1534074646152">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="50" column="2" />
+        <mark key="]" line="50" column="15" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/shanghaibus-core/src/config.js" timestamp="1526351678089">
         <mark key="[" line="42" column="86" />
@@ -1452,12 +1457,6 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/commons/resource-edit.js" timestamp="1533048900599">
-        <mark key="'" line="78" column="10" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="G:/projects/CZCE/ppm-web/src/components/role-user-add/index.module.less" timestamp="1531101933352">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="12" />
@@ -1488,7 +1487,7 @@
         <mark key="^" line="47" column="78" />
         <mark key="." line="47" column="78" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/documents/document-edit.js" timestamp="1533824813630" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/documents/document-edit.js" timestamp="1534074537475" />
       <file name="D:/projects/stacktop-auth-server/app/controller/user.ts" timestamp="1524668470308">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -2308,10 +2307,10 @@
         <mark key="^" line="134" column="31" />
       </file>
       <file name="D:/projects/CZCE/ppm-core/package.json" timestamp="1533824607362">
-        <mark key="[" line="18" column="76" />
-        <mark key="]" line="18" column="75" />
-        <mark key="." line="18" column="75" />
-        <mark key="^" line="18" column="75" />
+        <mark key="[" line="19" column="76" />
+        <mark key="]" line="19" column="75" />
+        <mark key="." line="19" column="75" />
+        <mark key="^" line="19" column="75" />
       </file>
       <file name="D:/projects/CZCE/ppm-core/bin/reset-milestone-procedures.js" timestamp="1533826396337">
         <mark key="'" line="31" column="26" />
@@ -3047,6 +3046,13 @@
         <mark key="." line="12" column="54" />
         <mark key="^" line="12" column="54" />
       </file>
+      <file name="D:/projects/CZCE/ppm-core/src/api/check.js" timestamp="1534075162125">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="17" column="56" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="17" column="56" />
+      </file>
       <file name="$USER_HOME$/projects/zzswang/wali-web/src/sagas/logs.js" timestamp="1528556994340">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
@@ -3275,7 +3281,6 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="99" column="8" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/src/constants/check-templates.js" timestamp="1533818861067" />
       <file name="G:/projects/smart_meter_fullstack/client/src/const/config.ts" timestamp="1502174696344">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -3675,10 +3680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="2" filename="D:/projects/CZCE/ppm-web/src/actions/index.js" />
-      <jump line="183" column="53" filename="D:/projects/CZCE/ppm-web/src/sagas/index.js" />
-      <jump line="1" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/projects/project-detail.js" />
-      <jump line="107" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit.js" />
       <jump line="48" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/conferences/conference-brief-list.js" />
       <jump line="45" column="32" filename="D:/projects/CZCE/ppm-web/src/containers/documents/documents-brief-list.js" />
       <jump line="9" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/documents/documents-brief-list.js" />
@@ -3775,10 +3776,14 @@
       <jump line="23" column="0" filename="D:/projects/CZCE/ppm-core/bin/load-users.js" />
       <jump line="18" column="29" filename="D:/projects/CZCE/ppm-core/bin/reset-milestone-procedures.js" />
       <jump line="31" column="26" filename="D:/projects/CZCE/ppm-core/bin/reset-milestone-procedures.js" />
+      <jump line="47" column="35" filename="D:/projects/CZCE/ppm-core/src/api/milestone.js" />
+      <jump line="3" column="0" filename="D:/projects/CZCE/ppm-core/src/api/check.js" />
+      <jump line="0" column="0" filename="D:/projects/CZCE/ppm-core/node_modules/@southfarm/http-status/dist/index.js" />
+      <jump line="19" column="27" filename="D:/projects/CZCE/ppm-core/src/api/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;5b6c38eb0dc72c495cced7f0&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;5b6c38eb0dc72c495cced7f0&quot;</text>
@@ -3786,35 +3791,35 @@
       <register name="/" type="4">
         <text>email</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGFiZWw6ICLTw7un0enK1bLiytQiLAogICAgICBuYW1lOiAi08O7p9HpytWy4srUIiwKICAgICAgbWlsZXN0b25lOiBtaWxlc3RvbmVJZAo=</text>
+      <register name="0" type="4">
+        <text>InvalidRequest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1pbGVzdG9uZSA9IGF3YWl0IE1pbGVzdG9uZS5nZXQobWlsZXN0b25lSWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBtaWxlc3RvbmVJZCA9ICI1YjZjMzhlYjBkYzcyYzQ5NWNjZWQ3ZjAiOwogIGNvbnN0IG1pbGVzdG9uZSA9IGF3YWl0IE1pbGVzdG9uZS5nZXQobWlsZXN0b25lSWQpOwogIGNvbnN0IHsgbGFiZWwgfSA9IG1pbGVzdG9uZTsKICBpZiAobGFiZWwgPT09ICLOrLukv6q3oiIpIHsKICAgIC8vINStwLS1xNDox/PJ6sfrw/uzxrjEzqrQ6MfzyerH6wogICAgY29uc3QgcHJvY2VkdXJlMSA9IGF3YWl0IFByb2NlZHVyZS5maW5kT25lKHsKICAgICAgbGFiZWw6ICLQ6MfzyerH6yIsCiAgICAgIG5hbWU6ICLQ6MfzyerH67nmuPHLtcP3IiwKICAgICAgbWlsZXN0b25lOiBtaWxlc3RvbmVJZAogICAgfSk7CgogICAgaWYgKHByb2NlZHVyZTEpIHsKICAgICAgcHJvY2VkdXJlMS5uYW1lID0gItDox/PJ6sfrIjsKICAgICAgYXdhaXQgcHJvY2VkdXJlMS5zYXZlKCk7CiAgICB9CgogICAgLy8gvavUrcC0tcTI7bz+0OjH87jEzqrQ6Mfzt9bO9gogICAgY29uc3QgcHJvY2VkdXJlMiA9IGF3YWl0IFByb2NlZHVyZS5maW5kT25lKHsKICAgICAgbGFiZWw6ICLI7bz+0OjH8yIsCiAgICAgIG5hbWU6ICLI7bz+0OjH87nmuPHLtcP3IiwKICAgICAgbWlsZXN0b25lOiBtaWxlc3RvbmVJZAogICAgfSk7CgogICAgaWYgKHByb2NlZHVyZTIpIHsKICAgICAgcHJvY2VkdXJlMi5sYWJlbCA9ICLQ6Mfzt9bO9iI7CiAgICAgIHByb2NlZHVyZTIubmFtZSA9ICLQ6Mfzt9bO9iI7CiAgICAgIGF3YWl0IHByb2NlZHVyZTIuc2F2ZSgpOwogICAgICAvLyDU9rzTwb249s7EtbUKICAgICAgYXdhaXQgY3JlYXRlRG9jdW1lbnQoewogICAgICAgIHByb2plY3Q6IG1pbGVzdG9uZS5wcm9qZWN0LAogICAgICAgIHByb2NlZHVyZTogcHJvY2VkdXJlMi5pZCwKICAgICAgICBtaWxlc3RvbmU6IG1pbGVzdG9uZUlkLAogICAgICAgIG5hbWU6ICLTw7un0OjH88u1w/fK6SIsCiAgICAgICAgbGFiZWw6ICJVUlMiCiAgICAgIH0pOwogICAgICBhd2FpdCBjcmVhdGVEb2N1bWVudCh7CiAgICAgICAgcHJvamVjdDogbWlsZXN0b25lLnByb2plY3QsCiAgICAgICAgcHJvY2VkdXJlOiBwcm9jZWR1cmUyLmlkLAogICAgICAgIG1pbGVzdG9uZTogbWlsZXN0b25lSWQsCiAgICAgICAgbmFtZTogItPDu6fQ6MfzxsDJ87GouOYiLAogICAgICAgIGxhYmVsOiAiVVJTLVJWUiIKICAgICAgfSk7CgogICAgICBhd2FpdCBEb2N1bWVudC51cGRhdGUoCiAgICAgICAgewogICAgICAgICAgcHJvY2VkdXJlOiBwcm9jZWR1cmUyLmlkLAogICAgICAgICAgbGFiZWw6ICJTUlMiCiAgICAgICAgfSwKICAgICAgICB7IGNyZWF0ZWRBdDogbmV3IERhdGUoKSB9CiAgICAgICk7CgogICAgICBhd2FpdCBEb2N1bWVudC51cGRhdGUoCiAgICAgICAgewogICAgICAgICAgcHJvY2VkdXJlOiBwcm9jZWR1cmUyLmlkLAogICAgICAgICAgbGFiZWw6ICJTUlMtUlZSIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgY3JlYXRlZEF0OiBuZXcgRGF0ZSgpCiAgICAgICAgfQogICAgICApOwogICAgfQoKICAgIC8vINDeuMTUrcC0z7XNs8novMa1xM7EtbUKICAgIGNvbnN0IHByb2NlZHVyZTMgPSBhd2FpdCBQcm9jZWR1cmUuZmluZE9uZSh7CiAgICAgIGxhYmVsOiAiz7XNs8novMYiLAogICAgICBuYW1lOiAiyei8xsq1z9YiLAogICAgICBtaWxlc3RvbmU6IG1pbGVzdG9uZUlkCiAgICB9KTsKCiAgICBpZiAocHJvY2VkdXJlMykgewogICAgICBwcm9jZWR1cmUzLm5hbWUgPSAiz7XNs8novMYiOwogICAgICBhd2FpdCBEb2N1bWVudC51cGRhdGUoCiAgICAgICAgewogICAgICAgICAgcHJvY2VkdXJlOiBwcm9jZWR1cmUzLmlkLAogICAgICAgICAgbGFiZWw6ICJSUUQiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICBuYW1lOiAiz7XNs8novMbLtcP3yukiCiAgICAgICAgfQogICAgICApOwoKICAgICAgYXdhaXQgRG9jdW1lbnQudXBkYXRlKAogICAgICAgIHsKICAgICAgICAgIHByb2NlZHVyZTogcHJvY2VkdXJlMy5pZCwKICAgICAgICAgIGxhYmVsOiAiUlFELVJWUiIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIG5hbWU6ICLPtc2zyei8xsu1w/fK6cbAyfOxqLjmIgogICAgICAgIH0KICAgICAgKTsKICAgIH0KCiAgICAvLyCzzNDyv6q3oiC9q9StwLS1xLT6wuvJ87Lpse3M5ru7zqogvK+zybLiytSxqLjmCiAgICBjb25zdCBwcm9jZWR1cmU0ID0gYXdhaXQgUHJvY2VkdXJlLmZpbmRPbmUoewogICAgICBsYWJlbDogIrPM0PK/qreiIiwKICAgICAgbmFtZTogIrPM0PK/qreiIiwKICAgICAgbWlsZXN0b25lOiBtaWxlc3RvbmVJZAogICAgfSk7CgogICAgLy8gvavUrcC0tcTPtc2z0enK1bLiytTOxLW10sa2r7W9z7XNs7LiytTW0AogICAgY29uc3QgcHJvY2VkdXJlNSA9IGF3YWl0IFByb2NlZHVyZS5maW5kT25lKHsKICAgICAgbGFiZWw6ICLPtc2zsuLK1CIsCiAgICAgIG5hbWU6ICLPtc2zsuLK1CIsCiAgICAgIG1pbGVzdG9uZTogbWlsZXN0b25lSWQKICAgIH0pOwoKICAgIGNvbnN0IHByb2NlZHVyZTYgPSBhd2FpdCBQcm9jZWR1cmUuZmluZE9uZSh7CiAgICAgIGxhYmVsOiAi08O7p9HpytWy4srUIiwKICAgICAgbmFtZTogItPDu6fR6crVsuLK1CIsCiAgICAgIG1pbGVzdG9uZTogbWlsZXN0b25lSWQKICAgIH0pOwoKICAgIGlmIChwcm9jZWR1cmU0KSB7CiAgICAgIC8vIMm+s/20+sLryfOy6bHtCiAgICAgIGF3YWl0IERvY3VtZW50LmRlbGV0ZU9uZSh7CiAgICAgICAgbmFtZTogIrT6wuvJ87Lpse0iLAogICAgICAgIGxhYmVsOiAiQ1JGIiwKICAgICAgICBwcm9jZWR1cmU6IHByb2NlZHVyZTQuaWQKICAgICAgfSk7CiAgICB9CgogICAgaWYgKHByb2NlZHVyZTUpIHsKICAgICAgYXdhaXQgRG9jdW1lbnQudXBkYXRlKAogICAgICAgIHsKICAgICAgICAgIG5hbWU6ICK8r7PJsuLK1LGouOYiLAogICAgICAgICAgbGFiZWw6ICJJVFIiLAogICAgICAgICAgcHJvY2VkdXJlOiBwcm9jZWR1cmU1LmlkCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICBwcm9jZWR1cmU6IHByb2NlZHVyZTQuaWQKICAgICAgICB9CiAgICAgICk7CgogICAgICBpZiAocHJvY2VkdXJlNikgewogICAgICAgIGF3YWl0IERvY3VtZW50LnVwZGF0ZSgKICAgICAgICAgIHsKICAgICAgICAgICAgbmFtZTogIlVBVLLiytSxqLjmIiwKICAgICAgICAgICAgbGFiZWw6ICJVVFIiLAogICAgICAgICAgICBwcm9jZWR1cmU6IHByb2NlZHVyZTYuaWQKICAgICAgICAgIH0sCiAgICAgICAgICB7CiAgICAgICAgICAgIHByb2NlZHVyZTogcHJvY2VkdXJlNS5pZAogICAgICAgICAgfQogICAgICAgICk7CiAgICAgIH0KICAgIH0KCiAgICBpZiAocHJvY2VkdXJlNikgewogICAgICBhd2FpdCBQcm9jZWR1cmUuZGVsZXRlT25lKHsKICAgICAgICBsYWJlbDogItPDu6fR6crVsuLK1CIsCiAgICAgICAgbmFtZTogItPDu6fR6crVsuLK1CIsCiAgICAgICAgbWlsZXN0b25lOiBtaWxlc3RvbmVJZAogICAgICB9KTsKICAgIH0KCiAgICBjb25zdCBwcm9jZWR1cmU3ID0gYXdhaXQgUHJvY2VkdXJlLmZpbmRPbmUoewogICAgICBsYWJlbDogIsn6svrJz8/fIiwKICAgICAgbmFtZTogIsn6svrJz8/fIiwKICAgICAgbWlsZXN0b25lOiBtaWxlc3RvbmVJZAogICAgfSk7CgogICAgaWYgKHByb2NlZHVyZTcpIHsKICAgICAgcHJvY2VkdXJlNy5uYW1lID0gIsnPz98iOwogICAgICBwcm9jZWR1cmU3LmxhYmVsID0gIsnPz98iOwogICAgICBhd2FpdCBwcm9jZWR1cmU3LnNhdmUoKTsKCiAgICAgIGF3YWl0IERvY3VtZW50LmRlbGV0ZU9uZSh7CiAgICAgICAgbmFtZTogIs/uxL/X3L3hsai45iIsCiAgICAgICAgbGFiZWw6ICJTUlQiLAogICAgICAgIHByb2NlZHVyZTogcHJvY2VkdXJlNy5pZAogICAgICB9KTsKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7IGxhYmVsIH0gPSByZXEucGFyYW1zOwogIGlmICghWyLPtc2zvajJ6CIsICLOrLukv6q3oiJdLmluY2x1ZGVzKGxhYmVsKSkgewogICAgcmV0dXJuIG5ldyBzdGF0dXMuSW52YWxpZFJlcXVlc3QoIrzssunEo7DlvfbWp7PWz7XNs72oyei6zc6su6S/qreiwODQzc/uxL8iKTsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmb3IoKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zdCB7bWlsZXN0b25lSWR9ID0gCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zdCB7fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCAK</text>
+        <text encoding="base64">d2Via2l0Q29udmVydFBvaW50RnJvbU5vZGVUb1BhZ2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
