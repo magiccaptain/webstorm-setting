@@ -274,6 +274,11 @@
         <mark key="." line="53" column="17" />
         <mark key="^" line="53" column="17" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/brief-issue-card.js" timestamp="1534254136160">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="D:/projects/CZCE/ppm-core/src/api/login.js" timestamp="1532442033982">
         <mark key="[" line="31" column="29" />
         <mark key="]" line="33" column="21" />
@@ -3321,11 +3326,11 @@
         <mark key="." line="24" column="27" />
         <mark key="^" line="24" column="27" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/project/project-progress.js" timestamp="1534174807581">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="9" />
-        <mark key="^" line="15" column="9" />
-        <mark key="." line="15" column="9" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/project/project-progress.js" timestamp="1534254142183">
+        <mark key="[" line="110" column="26" />
+        <mark key="]" line="110" column="30" />
+        <mark key="." line="110" column="30" />
+        <mark key="^" line="110" column="30" />
       </file>
       <file name="$USER_HOME$/projects/36node/sketch/packages/fastman/src/runner/newman-runner.ts" timestamp="1526521534228">
         <mark key="[" line="25" column="26" />
@@ -3639,9 +3644,6 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/users/index.js" timestamp="1534079466249">
-        <mark key="'" line="42" column="15" />
-      </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/commons/url-context.js" timestamp="1531669976488">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="24" />
@@ -3848,44 +3850,44 @@
       <jump line="32" column="11" filename="D:/projects/CZCE/ppm-web/src/containers/check/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsKICAgIHdpZHRoOiAxNTBweDsKICAgIGJhY2tncm91bmQ6IHRyYW5zcGFyZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gPExpc3QuSXRlbT57dGhpcy5yZW5kZXJJc3N1ZXNDYXJkKGl0ZW0udGl0bGUsIGl0ZW0uaXNzdWVzKX08L0xpc3QuSXRlbT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodGl0bGUgPT09ICJiYWNrbG9nIil7CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAidG9kbyI6CiAgICAgICAgICAgICAgcmV0dXJuICg8TGlzdC5JdGVtPnt0aGlzLnJlbmRlcklzc3Vlc0NhcmQoaXRlbS50aXRsZSwgaXRlbS5pc3N1ZXMpfTwvTGlzdC5JdGVtPikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L0NhcmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L0NhcmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHN3aXRjaCAoaXRlbS50aSkgCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
