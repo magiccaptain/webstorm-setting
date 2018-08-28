@@ -328,9 +328,9 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="10" column="23" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1533218276226">
-        <mark key="[" line="44" column="58" />
-        <mark key="]" line="45" column="27" />
+      <file name="D:/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1535383569449">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="44" />
         <mark key="^" line="45" column="27" />
         <mark key="." line="45" column="27" />
       </file>
@@ -777,7 +777,7 @@
         <mark key="." line="45" column="33" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534865044663">
+      <file name="/Dummy.txt" timestamp="1535383655597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" timestamp="1533218934328">
@@ -2221,6 +2221,12 @@
         <mark key="]" line="1" column="11" />
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-core/src/model/procedure-plan.js" timestamp="1535383898916">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="54" column="65" />
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/reducers/entities.js" timestamp="1531926447043">
         <mark key="[" line="15" column="14" />
@@ -3867,43 +3873,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlRGVlcFBvcHVsYXRlIGZyb20gIm1vbmdvb3NlLWRlZXAtcG9wdWxhdGUiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>:id</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>operation</text>
       </register>
-      <register name="0" type="4">
-        <text>/projects/edit/:id</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlSGlkZGVuIGZyb20gIm1vbmdvb3NlLWhpZGRlbiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vbmdvb3NlRGVlcFBvcHVsYXRlIGZyb20gIm1vbmdvb3NlLWRlZXAtcG9wdWxhdGUiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHN0YXRlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlY2tSb2xlKCJUQVNLX0FETUlOIikgJiYKICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im9wZXJhdGlvbiI+CiAgICAgICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXt0aGlzLm9uRWRpdENsaWNrfSBpY29uPSJzZXR0aW5nIiAvPgogICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWF0aW9uOiBTdHJpbmcsIC8vxquy7r/Y1sYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICgK</text>
+        <text encoding="base64">ICAgIHN0YXRlOiBTdHJpbmcsIC8vtbHHsNe0zKwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzdGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUudGFyZ2V0LnZhbHVlKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
