@@ -772,7 +772,7 @@
         <mark key="." line="45" column="33" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535469074614">
+      <file name="/Dummy.txt" timestamp="1535556709967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" timestamp="1533218934328">
@@ -1274,11 +1274,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" timestamp="1535550751753">
-        <mark key="[" line="127" column="50" />
-        <mark key="]" line="127" column="51" />
-        <mark key="." line="127" column="51" />
-        <mark key="^" line="127" column="51" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" timestamp="1535556777642">
+        <mark key="'" line="13" column="39" />
+        <mark key="[" line="127" column="68" />
+        <mark key="]" line="127" column="69" />
+        <mark key="^" line="127" column="69" />
+        <mark key="." line="127" column="69" />
       </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1530669902749">
         <mark key="[" line="37" column="7" />
@@ -2006,11 +2007,11 @@
         <mark key="^" line="148" column="31" />
         <mark key="." line="148" column="31" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/index.module.less" timestamp="1535552611118">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/index.module.less" timestamp="1535556428347">
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/projects/zzswang/adventurer-web/.gitignore" timestamp="1526881072339">
         <mark key="[" line="25" column="6" />
@@ -2215,7 +2216,7 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/src/model/procedure-plan.js" timestamp="1535466314445">
+      <file name="D:/projects/CZCE/ppm-core/src/model/procedure-plan.js" timestamp="1535555815892">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -2470,6 +2471,10 @@
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="38" />
       </file>
+      <file name="D:/projects/CZCE/ppm-web/node_modules/antd/lib/card/index.d.ts" timestamp="1535556194712">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="11" />
+      </file>
       <file name="D:/projects/zzswang/shanghaibus-core/openapi.yaml" timestamp="1527403992428">
         <mark key="[" line="5154" column="14" />
         <mark key="]" line="5155" column="30" />
@@ -2711,12 +2716,11 @@
         <mark key="." line="68" column="37" />
         <mark key="^" line="68" column="37" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/procedure-plan-form.js" timestamp="1535552767499">
-        <mark key="'" line="104" column="34" />
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="37" column="22" />
-        <mark key="." line="37" column="22" />
-        <mark key="^" line="37" column="22" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/procedure-plan-form.js" timestamp="1535555481975">
+        <mark key="[" line="160" column="95" />
+        <mark key="]" line="160" column="98" />
+        <mark key="." line="160" column="98" />
+        <mark key="^" line="160" column="98" />
       </file>
       <file name="D:/projects/SmartElective/FrontEnd/src/index.js" timestamp="1519653140891">
         <mark key="[" line="13" column="47" />
@@ -3771,7 +3775,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="13" filename="D:/projects/CZCE/ppm-core/src/api/user.js" />
       <jump line="90" column="31" filename="D:/projects/CZCE/ppm-web/src/containers/projects/projects-list.js" />
       <jump line="28" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/projects/project-detail.js" />
       <jump line="134" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/projects/projects-list.js" />
@@ -3871,46 +3874,47 @@
       <jump line="4" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/index.module.less" />
       <jump line="0" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/index.module.less" />
       <jump line="94" column="34" filename="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/procedure-plan-form.js" />
+      <jump line="130" column="39" filename="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>划</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>划</text>
       </register>
       <register name="/" type="4">
         <text>formatPlan</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxGb3JtLkl0ZW0gey4uLmZvcm1JdGVtTGF5b3V0fSBsYWJlbD0i17TMrCI+Cg==</text>
+      <register name="0" type="4">
+        <text>bordered</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IE1pbGVzdG9uZVN0YXRlVGFnIGZyb20gIi4uLy4uL2NvbXBvbmVudHMvbWlsZXN0b25lLXN0YXRlLWxhYmVsIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYW5EYXRlID0gW21vbWVudCgpXQo=</text>
+        <text encoding="base64">ICBQUk9DRURVUkVfUExBTl9GT1JNCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LndvcmtzLWxpc3QgewogIDpnbG9iYWwoLmFudC1saXN0LWVtcHR5LXRleHQpIHsKICAgIHRleHQtYWxpZ246IGxlZnQ7CiAgICBwYWRkaW5nLWxlZnQ6IDA7CiAgfQoKICA6Z2xvYmFsKC5hbnQtY29sbGFwc2UtaXRlbSkgewogICAgYm9yZGVyLWJvdHRvbTogMCAhaW1wb3J0YW50OwogIH0KCiAgOmdsb2JhbCguYW50LWNvbGxhcHNlLWNvbnRlbnQtYm94KSB7CiAgICBwYWRkaW5nOiAwOwogIH0KCiAgOmdsb2JhbCguYW50LWNvbGxhcHNlLWhlYWRlcikgewogICAgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTE0cHgpOwogIH0KCiAgLndvcmstaXRlbSB7CiAgICAuYWN0aW9uIHsKICAgICAgZGlzcGxheTogbm9uZTsKICAgIH0KICB9CgogIC53b3JrLWl0ZW06aG92ZXIgewogICAgYmFja2dyb3VuZC1jb2xvcjogI2UzZjBlMTsKICAgIC5hY3Rpb24gewogICAgICBkaXNwbGF5OiBmbGV4OwogICAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAgfQogIH0KfQo=</text>
+        <text encoding="base64">ICBpbml0Rm9ybSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgey8qPGRpdiBzdHlsZT17eyBmb250U2l6ZTogIjE2cHgiLCBmb250V2VpZ2h0OiA2MDAsIG1hcmdpbkJvdHRvbTogMjQgfX0+Ki99CiAgICAgICAgICAgIHsvKntjdXJyZW50UHJvY2VkdXJlLm5hbWV9ILzGu67J6NbDKi99CiAgICAgICAgICAgIHsvKjwvZGl2PiovfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L0NvbD4KICAgICAgICAgICAgPC9Sb3c+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFJvdyB0eXBlPSJmbGV4IiBhbGlnbj0ibWlkZGxlIiBzdHlsZT17eyBwYWRkaW5nVG9wOiAxMiB9fT4KICAgICAgICAgICAgICA8Q29sIHNwYW49ezR9PgogICAgICAgICAgICAgICAgPGRpdj68xruuyrG85Do8L2Rpdj4KICAgICAgICAgICAgICA8L0NvbD4KICAgICAgICAgICAgICA8Q29sIHNwYW49ezIwfT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFByb2NlZHVyZVBsYW5Gb3JtIHBsYW49e3BsYW59IC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENvbCBzcGFuPXsyMn0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9Db2w+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3cgdHlwZT0iZmxleCIgYWxpZ249Im1pZGRsZSI+CiAgICAgICAgICAgIDxDb2wgc3Bhbj17Mn0+CiAgICAgICAgICAgICAgPGRpdj7XtMysOjwvZGl2PgogICAgICAgICAgICA8L0NvbD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
