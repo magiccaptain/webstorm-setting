@@ -1284,12 +1284,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" timestamp="1535642173955">
+      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" timestamp="1535896303672">
         <mark key="'" line="13" column="39" />
-        <mark key="[" line="142" column="29" />
-        <mark key="]" line="142" column="32" />
-        <mark key="^" line="142" column="32" />
-        <mark key="." line="142" column="32" />
+        <mark key="[" line="69" column="42" />
+        <mark key="]" line="70" column="33" />
+        <mark key="." line="70" column="33" />
+        <mark key="^" line="70" column="33" />
       </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1530669902749">
         <mark key="[" line="37" column="7" />
@@ -1644,11 +1644,11 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1535894226886">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="16" />
+      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1535896781485">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/server/server.ts" timestamp="1502163706739">
         <mark key="[" line="35" column="36" />
@@ -2853,6 +2853,10 @@
         <mark key="^" line="5" column="9" />
         <mark key="." line="5" column="9" />
       </file>
+      <file name="D:/projects/zzswang/shanghaibus-admin-web/src/components/charts/analysis-fault-bar.js" timestamp="1535896338817">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="37" />
+      </file>
       <file name="D:/projects/zzswang/adventurer-web/src/sagas/index.js" timestamp="1534344086985">
         <mark key="'" line="54" column="30" />
         <mark key="[" line="185" column="12" />
@@ -3904,25 +3908,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gPGRpdj5NaWxlc3RvbmVHYW50dENoYXJ0PC9kaXY+OwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVhY3QuUHVyZUNvbXBvbmVudCA=</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>PLAN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRha2VMYXRlc3QoQ1JFQVRFX1RBU0ssIGNyZWF0ZVRhc2spLAo=</text>
+        <text encoding="base64">aW1wb3J0ICJlY2hhcnRzL2xpYi9jaGFydC9iYXIiOwppbXBvcnQgImVjaGFydHMvbGliL2NvbXBvbmVudC90b29sdGlwIjsKaW1wb3J0ICJlY2hhcnRzL2xpYi9jb21wb25lbnQvbGVnZW5kIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZW5kZXIoKSB7CiAgICByZXR1cm4gPGRpdj5NaWxlc3RvbmVHYW50dENoYXJ0PC9kaXY+OwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIM/uxL+4yszYzbwKICovCg==</text>
+        <text encoding="base64">ICAgICAgdGl0bGU6IHsKICAgICAgICB0ZXh0OiAiz+7Ev8q1yqm9+LbIse0iLAogICAgICAgIGxlZnQ6IDEwCiAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgewogIAp9Cg==</text>
+        <text encoding="base64">ICAgICAgPE1pbGVzdG9uZUdhCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -3934,13 +3938,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRpc3BhdGNoKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHRhc2spOwo=</text>
+      <register name="8" type="4">
+        <text>,
+      title: {
+        text: &quot;项目进展&quot;,
+        x: &quot;center&quot;
+      },
+      legend: {
+        data: [&quot;计划&quot;, &quot;实际&quot;],
+        x: 30
+      },
+      xAxis: [
+        {
+          type: &quot;time&quot;
+        }
+      ],
+      yAxis: [
+        {
+          type: &quot;category&quot;,
+          data: [&quot;需求分析&quot;, &quot;系统设计&quot;]
+        }
+      ]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGU6ICJ2YWx1ZSIsCiAgICAgICAgICBib3VuZGFyeUdhcDogWzAsIDAuMDFdLAogICAgICAgICAgYXhpc0xhYmVsOiB7CiAgICAgICAgICAgIHNob3c6IHRydWUsCiAgICAgICAgICAgIGZvcm1hdHRlcjogZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICAgICAgICByZXR1cm4gbmV3IERhdGUoZGF0ZSArICg4NjQwMDAwMCkgKiB2YWx1ZSkuRm9ybWF0KCJ5eXl5LU1NLWRkIik7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
