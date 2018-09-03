@@ -46,7 +46,7 @@
         <mark key="^" line="56" column="58" />
       </file>
       <file name="D:/projects/CZCE/ppm-core/src/api/milestone.js" timestamp="1535901523638">
-        <mark key="'" line="234" column="15" />
+        <mark key="'" line="238" column="15" />
       </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/mock/gen_students.ts" timestamp="1517300254148">
         <mark key="[" line="11" column="0" />
@@ -1291,10 +1291,10 @@
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" timestamp="1535901390490">
         <mark key="'" line="13" column="39" />
-        <mark key="[" line="132" column="44" />
-        <mark key="]" line="132" column="46" />
-        <mark key="^" line="132" column="46" />
-        <mark key="." line="132" column="46" />
+        <mark key="[" line="135" column="44" />
+        <mark key="]" line="135" column="46" />
+        <mark key="^" line="135" column="46" />
+        <mark key="." line="135" column="46" />
       </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1530669902749">
         <mark key="[" line="37" column="7" />
@@ -1655,11 +1655,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1535896781485">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1535980727509">
+        <mark key="'" line="63" column="11" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="5" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/server/server.ts" timestamp="1502163706739">
         <mark key="[" line="35" column="36" />
@@ -3813,7 +3814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="D:/projects/CZCE/ppm-core/src/api/clipping.js" />
       <jump line="31" column="33" filename="D:/projects/CZCE/ppm-core/src/api/clipping.js" />
       <jump line="234" column="2" filename="D:/projects/CZCE/ppm-web/src/actions/index.js" />
       <jump line="148" column="60" filename="D:/projects/CZCE/ppm-web/src/reducers/index.js" />
@@ -3913,46 +3913,47 @@
       <jump line="207" column="50" filename="D:/projects/CZCE/ppm-web/src/sagas/index.js" />
       <jump line="234" column="15" filename="D:/projects/CZCE/ppm-core/src/api/milestone.js" />
       <jump line="62" column="32" filename="D:/projects/CZCE/ppm-core/src/model/procedure.js" />
+      <jump line="63" column="11" filename="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>Item</text>
       </register>
       <register name="/" type="4">
         <text>PLAN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaGlzdG9yeS5wdXNoKGAvcHJvamVjdHMvbWlsZXN0b25lcy8/JHtxcy5zdHJpbmdpZnkobmV3UXVlcnkpfWApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBsYW5TdGFydEF0ID8gbW9tZW50KHBsYW5TdGFydEF0KS5kaWZmKGJhc2VEYXksICJkYXlzIikgfHwgdW5kZWZpbmVkCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIHR5cGU6ICJyZWN0IiwKICAgICAgc2hhcGU6IGVjaGFydHMuZ3JhcGhpYy5jbGlwUmVjdEJ5UmVjdCh7CiAgICAgIH0pCiAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogIjE0cHgiLCBtYXJnaW5MZWZ0OiAxMiB9fT7A4NDNo7o8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtwbH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgIWdyb3VwZWRCeVByb2plY3QgJiYKICAgICAgICAgICAgICA8UHJvamVjdFNlbGVjdCBzaXplPSJzbWFsbCIgcGxhY2Vob2xkZXI9eyLRodTxuaSzzCJ9Lz4KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4OiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5ld1ZhbHVlcyA9IHsgLi4uYWxsVmFsdWVzLCBkZWFkbGluZSB9Owo=</text>
+        <text encoding="base64">ICAgICAgc2hhcGU6IGVjaGFydHMuZ3JhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIL2ryNXG2tequ7vOqtfWt/u0rgogICAgbGV0IHsgZGVhZGxpbmUgfSA9IGFsbFZhbHVlczsKICAgIGlmIChkZWFkbGluZSkgewogICAgICBkZWFkbGluZSA9IGRlYWRsaW5lLmZvcm1hdCgiWVlZWS1NTS1ERCIpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpbmRvdy5lY2hhcnRzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGU6IEZvcm0uY3JlYXRlRm9ybUZpZWxkKHsKICAgICAgICAuLi5wcm9wcy5zdGF0ZSwKICAgICAgICB2YWx1ZTogdmFsdWVzLnN0YXRlCiAgICAgIH0pLAo=</text>
+        <text encoding="base64">aW1wb3J0ICJlY2hhcnRzIgo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
