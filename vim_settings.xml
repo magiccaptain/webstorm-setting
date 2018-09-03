@@ -1655,12 +1655,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1535980727509">
+      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1535984177163">
         <mark key="'" line="63" column="11" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="5" />
-        <mark key="." line="65" column="0" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="90" column="7" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/server/server.ts" timestamp="1502163706739">
         <mark key="[" line="35" column="36" />
@@ -3917,43 +3917,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Item</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>PLAN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsYW5TdGFydEF0ID8gbW9tZW50KHBsYW5TdGFydEF0KS5kaWZmKGJhc2VEYXksICJkYXlzIikgfHwgdW5kZWZpbmVkCg==</text>
+        <text encoding="base64">ICAgICAgICBheGlzTGFiZWw6IHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIHR5cGU6ICJyZWN0IiwKICAgICAgc2hhcGU6IGVjaGFydHMuZ3JhcGhpYy5jbGlwUmVjdEJ5UmVjdCh7CiAgICAgIH0pCiAgICB9Owo=</text>
+        <text encoding="base64">ICByZW5kZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZW5kZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtwbH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB4OiAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2hhcGU6IGVjaGFydHMuZ3JhCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpbmRvdy5lY2hhcnRzKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ICJlY2hhcnRzIgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
