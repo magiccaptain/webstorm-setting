@@ -1660,12 +1660,12 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1536070106616">
+      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1536070952634">
         <mark key="'" line="63" column="11" />
-        <mark key="[" line="304" column="26" />
-        <mark key="]" line="304" column="30" />
-        <mark key="^" line="304" column="30" />
-        <mark key="." line="304" column="30" />
+        <mark key="[" line="150" column="4" />
+        <mark key="]" line="153" column="6" />
+        <mark key="^" line="149" column="3" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/server/server.ts" timestamp="1502163706739">
         <mark key="[" line="35" column="36" />
@@ -3936,17 +3936,17 @@
       <jump line="63" column="11" filename="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LAogICAgICAgIG1heDogKHZhbHVlKSA9PiB7CiAgICAgICAgICByZXR1cm4gdmFsdWUubWF4ICsgMzA7CiAgICAgICAgfSw=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJldCA9IHsKICAgICAgdHlwZTogImdyb3VwIiwKICAgICAgY2hpbGRyZW46IFtdCiAgICB9Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>value.max * 0.01</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>PLAN</text>
       </register>
-      <register name="0" type="4">
-        <text>#feb42c</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJldCA9IHsKICAgICAgdHlwZTogImdyb3VwIiwKICAgICAgY2hpbGRyZW46IFtdCiAgICB9Owo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">LAogICAgICAgIG1heDogKHZhbHVlKSA9PiB7CiAgICAgICAgICByZXR1cm4gdmFsdWUubWF4ICsgMzA7CiAgICAgICAgfSw=</text>
