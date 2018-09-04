@@ -1294,12 +1294,12 @@
         <mark key="." line="10" column="17" />
         <mark key="^" line="10" column="17" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" timestamp="1535901390490">
-        <mark key="'" line="13" column="39" />
-        <mark key="[" line="135" column="44" />
-        <mark key="]" line="135" column="46" />
-        <mark key="^" line="135" column="46" />
-        <mark key="." line="135" column="46" />
+      <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" timestamp="1536073404204">
+        <mark key="'" line="23" column="9" />
+        <mark key="[" line="81" column="75" />
+        <mark key="]" line="81" column="88" />
+        <mark key="^" line="81" column="88" />
+        <mark key="." line="81" column="88" />
       </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-core/src/model/milestone.js" timestamp="1530669902749">
         <mark key="[" line="37" column="7" />
@@ -1660,12 +1660,13 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
-      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1536070952634">
+      <file name="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" timestamp="1536072479377">
         <mark key="'" line="63" column="11" />
-        <mark key="[" line="150" column="4" />
-        <mark key="]" line="153" column="6" />
-        <mark key="^" line="149" column="3" />
-        <mark key="." line="150" column="0" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="0" />
+        <mark key="m" line="150" column="16" />
+        <mark key="^" line="239" column="14" />
+        <mark key="." line="238" column="0" />
       </file>
       <file name="$USER_HOME$/projects/smart_meter_fullstack/server/server.ts" timestamp="1502163706739">
         <mark key="[" line="35" column="36" />
@@ -3834,8 +3835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="33" filename="D:/projects/CZCE/ppm-core/src/api/clipping.js" />
-      <jump line="234" column="2" filename="D:/projects/CZCE/ppm-web/src/actions/index.js" />
       <jump line="148" column="60" filename="D:/projects/CZCE/ppm-web/src/reducers/index.js" />
       <jump line="84" column="21" filename="D:/projects/CZCE/ppm-web/src/reducers/index.js" />
       <jump line="67" column="13" filename="D:/projects/CZCE/ppm-web/src/containers/documents/document-version-update-modal.js" />
@@ -3934,64 +3933,74 @@
       <jump line="234" column="15" filename="D:/projects/CZCE/ppm-core/src/api/milestone.js" />
       <jump line="62" column="32" filename="D:/projects/CZCE/ppm-core/src/model/procedure.js" />
       <jump line="63" column="11" filename="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" />
+      <jump line="203" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" />
+      <jump line="23" column="9" filename="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJldCA9IHsKICAgICAgdHlwZTogImdyb3VwIiwKICAgICAgY2hpbGRyZW46IFtdCiAgICB9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>procedures</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>procedures</text>
       </register>
       <register name="/" type="4">
-        <text>PLAN</text>
+        <text>reverse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJldCA9IHsKICAgICAgdHlwZTogImdyb3VwIiwKICAgICAgY2hpbGRyZW46IFtdCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICB0eXBlOiAidGV4dCIsCiAgICAgICAgc3R5bGU6IHsKICAgICAgICAgIHRleHQ6IGDKtbzKOiAke3RoaXMucmVuZGVyRGF0ZShhY3R1YWxTdGFydEF0KX0gfiAke3RoaXMucmVuZGVyRGF0ZShhY3R1YWxFbmRBdCl9ILmyICR7YWN0dWFsRW5kQXQgLSBhY3R1YWxTdGFydEF0fSDM7GAsCiAgICAgICAgICB4OiBlbmRbMF0gKyAxMCwKICAgICAgICAgIHk6IHN0YXJ0WzFdICsgMiArIGhlaWdodCAvIDMsCiAgICAgICAgICBmb250OiAiMTJweCBcIk1pY3Jvc29mdCBZYUhlaVwiLCBzYW5zLXNlcmlmIiwKICAgICAgICAgIGZpbGw6ICIjZmViNDJjMzg5ZWZkIgogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LAogICAgICAgIG1heDogKHZhbHVlKSA9PiB7CiAgICAgICAgICByZXR1cm4gdmFsdWUubWF4ICsgMzA7CiAgICAgICAgfSw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlbmRlckRhdGUgPSB2YWwgPT4gewogICAgICAgICAgICBpZiAodmFsKSB7CiAgICAgICAgICAgICAgY29uc3QgZGF0ZSA9IG1vbWVudChiYXNlRGF5KS5hZGQodmFsLCAiZGF5cyIpOwogICAgICAgICAgICAgIHJldHVybiBkYXRlLmZvcm1hdCgiWVlZWS1NTS1ERCIpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIHJldHVybiAiLS0iOwogICAgICAgICAgICB9CiAgICAgICAgICB9Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpZHRoCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-        type: &quot;text&quot;,
-        style: {
-          text: &quot;未计划&quot;,
-          x: params.coordSys.x + 10,
-          y: start[1] - height / 2,
-          font: &quot;bolder 1em \&quot;Microsoft YaHei\&quot;, sans-serif&quot;,
-          fill: greyTextColor
-        }
-      }</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgCiAgICAgIH0sCg==</text>
+      <register name="3" type="4">
+        <text>{
+        type: &quot;rect&quot;,
+        shape: echarts.graphic.clipRectByRect(
+          {
+            x: start[0],
+            y: start[1] + 2,
+            width: end[0] - start[0],
+            height: height
+          },
+          {
+            x: params.coordSys.x,
+            y: params.coordSys.y,
+            width: params.coordSys.width,
+            height: params.coordSys.height
+          }
+        ),
+        style: api.style()
+      }</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0eXBlOiAidGV4dCIK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">LAogICAgICAgIG1heDogKHZhbHVlKSA9PiB7CiAgICAgICAgICByZXR1cm4gdmFsdWUubWF4ICsgMzA7CiAgICAgICAgfSw=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>PLAN</last-search>
+      <last-search>reverse</last-search>
       <last-offset />
-      <last-pattern>PLAN</last-pattern>
+      <last-pattern>reverse</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectSubjects</last-substitute>
       <last-dir>1</last-dir>
@@ -3999,7 +4008,6 @@
     </search>
     <history>
       <history-search>
-        <entry>projectId</entry>
         <entry>Form</entry>
         <entry>form</entry>
         <entry>roles</entry>
@@ -4019,6 +4027,7 @@
         <entry>planDate</entry>
         <entry>formatPlan</entry>
         <entry>PLAN</entry>
+        <entry>reverse</entry>
       </history-search>
       <history-cmd />
       <history-expr />
