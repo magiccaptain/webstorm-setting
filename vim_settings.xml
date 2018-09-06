@@ -21,6 +21,7 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="D:/projects/zzswang/kanban/src/api/repository.js" timestamp="1536239966353" />
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/routes/IndexPage.js" timestamp="1514441149895">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="20" />
@@ -247,7 +248,10 @@
         <mark key="^" line="22" column="30" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="D:/projects/zzswang/kanban/src/config.js" timestamp="1536236958225" />
+      <file name="D:/projects/zzswang/kanban/src/config.js" timestamp="1536239453850">
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="48" column="24" />
+      </file>
       <file name="D:/projects/CZCE/ppm-web/src/index.js" timestamp="1532869333670">
         <mark key="[" line="4" column="62" />
         <mark key="]" line="5" column="19" />
@@ -452,6 +456,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="D:/projects/zzswang/kanban/package.json" timestamp="1536239698793">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="34" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/routes/Login.ts" timestamp="1504251571582">
         <mark key="[" line="10" column="30" />
         <mark key="]" line="12" column="9" />
@@ -523,9 +533,6 @@
         <mark key="]" line="22" column="17" />
         <mark key="." line="22" column="17" />
         <mark key="^" line="15" column="30" />
-      </file>
-      <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit.js" timestamp="1535898617030">
-        <mark key="'" line="25" column="33" />
       </file>
       <file name="G:/projects/IntellMeter/MeterDataGather/src/test/test_meters.js" timestamp="1499408601355">
         <mark key="[" line="44" column="20" />
@@ -748,6 +755,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="27" />
       </file>
+      <file name="D:/projects/zzswang/kanban/bin/init.js" timestamp="1536240062991">
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
+        <mark key="^" line="18" column="16" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/valisations/device.js" timestamp="1499237022393">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="5" column="29" />
@@ -772,8 +785,8 @@
         <mark key="." line="23" column="6" />
         <mark key="^" line="23" column="6" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/bin/load-users.js" timestamp="1533819991946">
-        <mark key="'" line="23" column="0" />
+      <file name="D:/projects/CZCE/ppm-core/bin/load-users.js" timestamp="1536239647215">
+        <mark key="'" line="54" column="0" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="61" column="4" />
         <mark key="." line="45" column="33" />
@@ -3420,6 +3433,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="D:/projects/zzswang/kanban/.env" timestamp="1536239760739">
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="56" />
+      </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/routers/AppRouters.js" timestamp="1499051017288">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -3750,6 +3769,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="D:/projects/zzswang/kanban/src/github/index.js" timestamp="1536239864900">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="16" column="2" />
+      </file>
       <file name="G:/projects/zzswang/adventurer-web/src/reducers/filters.js" timestamp="1528879321574">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="24" />
@@ -3836,7 +3859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="60" filename="D:/projects/CZCE/ppm-web/src/reducers/index.js" />
       <jump line="84" column="21" filename="D:/projects/CZCE/ppm-web/src/reducers/index.js" />
       <jump line="67" column="13" filename="D:/projects/CZCE/ppm-web/src/containers/documents/document-version-update-modal.js" />
       <jump line="0" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/milestones/milstone-create-modal.js" />
@@ -3936,27 +3958,40 @@
       <jump line="63" column="11" filename="D:/projects/CZCE/ppm-web/src/components/charts/milestone-gantt-chart.js" />
       <jump line="203" column="0" filename="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" />
       <jump line="23" column="9" filename="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/milestone-plan-modal.js" />
+      <jump line="54" column="0" filename="D:/projects/CZCE/ppm-core/bin/load-users.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>procedures</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>procedures</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>reverse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlOiAidGV4dCIsCiAgICAgICAgc3R5bGU6IHsKICAgICAgICAgIHRleHQ6IGDKtbzKOiAke3RoaXMucmVuZGVyRGF0ZShhY3R1YWxTdGFydEF0KX0gfiAke3RoaXMucmVuZGVyRGF0ZShhY3R1YWxFbmRBdCl9ILmyICR7YWN0dWFsRW5kQXQgLSBhY3R1YWxTdGFydEF0fSDM7GAsCiAgICAgICAgICB4OiBlbmRbMF0gKyAxMCwKICAgICAgICAgIHk6IHN0YXJ0WzFdICsgMiArIGhlaWdodCAvIDMsCiAgICAgICAgICBmb250OiAiMTJweCBcIk1pY3Jvc29mdCBZYUhlaVwiLCBzYW5zLXNlcmlmIiwKICAgICAgICAgIGZpbGw6ICIjZmViNDJjMzg5ZWZkIgogICAgICAgIH0K</text>
+        <text encoding="base64">Z2l0aHViLmF1dGhlbnRpY2F0ZSh7CiAgdHlwZTogInRva2VuIiwKICB0b2tlbjogR0lUSFVCX1RPS0VOCn0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhHSVRIVUJfVE9LRU4pOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IE9jdG9raXQgZnJvCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>{
         type: &quot;rect&quot;,
         shape: echarts.graphic.clipRectByRect(
@@ -3976,23 +4011,11 @@
         style: api.style()
       }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0eXBlOiAidGV4dCIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">LAogICAgICAgIG1heDogKHZhbHVlKSA9PiB7CiAgICAgICAgICByZXR1cm4gdmFsdWUubWF4ICsgMzA7CiAgICAgICAgfSw=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
