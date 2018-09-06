@@ -77,11 +77,11 @@
         <mark key="^" line="79" column="36" />
       </file>
       <file name="D:/projects/zzswang/kanban/src/github/store.js" timestamp="1536244999507" />
-      <file name="D:/projects/zzswang/kanban/bin/init.js" timestamp="1536245502706">
-        <mark key="[" line="56" column="55" />
-        <mark key="]" line="56" column="71" />
-        <mark key="." line="56" column="71" />
-        <mark key="^" line="56" column="71" />
+      <file name="D:/projects/zzswang/kanban/bin/init.js" timestamp="1536247652716">
+        <mark key="[" line="58" column="74" />
+        <mark key="]" line="58" column="74" />
+        <mark key="." line="58" column="74" />
+        <mark key="^" line="58" column="74" />
       </file>
       <file name="D:/projects/CZCE/ppm-core/bin/load-users.js" timestamp="1536239647215">
         <mark key="'" line="54" column="0" />
@@ -90,7 +90,7 @@
         <mark key="." line="45" column="33" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536076100646">
+      <file name="/Dummy.txt" timestamp="1536246485231">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" timestamp="1533218934328">
@@ -143,6 +143,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="25" column="1" />
       </file>
+      <file name="D:/projects/zzswang/kanban/src/models/project.js" timestamp="1536246377102" />
       <file name="D:/projects/CZCE/ppm-core/src/model/conference.js" timestamp="1533650083100">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="18" />
@@ -337,6 +338,10 @@
         <mark key="." line="17" column="56" />
         <mark key="^" line="17" column="56" />
       </file>
+      <file name="D:/projects/CZCE/ppm-core/src/config.js" timestamp="1536246859336">
+        <mark key="[" line="59" column="3" />
+        <mark key="]" line="59" column="36" />
+      </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/projects/index.module.less" timestamp="1534082116314">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="56" column="27" />
@@ -356,13 +361,13 @@
         <mark key="." line="188" column="42" />
         <mark key="^" line="188" column="42" />
       </file>
-      <file name="D:/projects/zzswang/kanban/.env" timestamp="1536244158515">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="2420" />
-        <mark key="." line="1" column="2420" />
-        <mark key="^" line="1" column="2420" />
+      <file name="D:/projects/zzswang/kanban/.env" timestamp="1536247776162">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="56" />
+        <mark key="." line="2" column="56" />
+        <mark key="^" line="2" column="56" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/.env" timestamp="1536242874883">
+      <file name="D:/projects/CZCE/ppm-core/.env" timestamp="1536246865023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
       </file>
@@ -513,10 +518,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>reverse</text>
