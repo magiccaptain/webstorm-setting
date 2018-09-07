@@ -755,11 +755,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="D:/projects/zzswang/kanban/bin/init.js" timestamp="1536330303819">
+      <file name="D:/projects/zzswang/kanban/bin/init.js" timestamp="1536332974519">
         <mark key="'" line="95" column="1" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
         <mark key="^" line="169" column="32" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/valisations/device.js" timestamp="1499237022393">
@@ -3432,11 +3432,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/projects/zzswang/kanban/.env" timestamp="1536330250512">
+      <file name="D:/projects/zzswang/kanban/.env" timestamp="1536332735066">
         <mark key="[" line="4" column="40" />
-        <mark key="]" line="4" column="39" />
-        <mark key="." line="4" column="39" />
-        <mark key="^" line="4" column="39" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="56" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/routers/AppRouters.js" timestamp="1499051017288">
         <mark key="[" line="9" column="0" />
@@ -3770,7 +3770,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="D:/projects/zzswang/kanban/src/github/index.js" timestamp="1536330703029">
+      <file name="D:/projects/zzswang/kanban/src/github/index.js" timestamp="1536332786475">
         <mark key="'" line="117" column="30" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -3964,8 +3964,8 @@
       <jump line="116" column="30" filename="D:/projects/zzswang/kanban/src/github/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://e7d50db4.ngrok.io</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>http://e7d50db4.ngrok.io</text>
@@ -3977,31 +3977,31 @@
         <text>APP_PAYLOAD_URL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coaG9vayk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coaG9vayk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBtb2NrIGlzc3VlcwogIGNvbnN0IHsgaXNzdWVzIH0gPSBNb2NrLm1vY2soewogICAgImlzc3Vlc3wzMCI6IFsKICAgICAgewogICAgICAgICJpbmRleHwrMSI6IDEsCiAgICAgICAgdGl0bGU6IGZ1bmN0aW9uKCkgewogICAgICAgICAgcmV0dXJuICJpc3N1ZSIgKyB0aGlzLmluZGV4OwogICAgICAgIH0sCiAgICAgICAgInJhbmRvbUxhYmVsc3wxLTQiOiB7CiAgICAgICAgICBidWc6IDEsCiAgICAgICAgICBjaG9yZTogMSwKICAgICAgICAgIGRlc2lnbjogMSwKICAgICAgICAgIGRvY3M6IDEsCiAgICAgICAgICBlbmhhbmNlOiAxLAogICAgICAgICAgZmVhdHVyZTogMSwKICAgICAgICAgIGhlbHA6IDEsCiAgICAgICAgICBzZXJ2aWNlOiAxLAogICAgICAgICAgZm9udDogMQogICAgICAgIH0sCiAgICAgICAgbGFiZWxzOiBmdW5jdGlvbigpIHsKICAgICAgICAgIHJldHVybiBPYmplY3Qua2V5cyh0aGlzLnJhbmRvbUxhYmVscyk7CiAgICAgICAgfSwKICAgICAgICAicmVwb3wxIjogYWxsUmVwb3MsCiAgICAgICAgYm9keTogIkBwYXJhZ3JhcGgiCiAgICAgIH0KICAgIF0KICB9KTsKCgogIGZvciAobGV0IGkgb2YgaXNzdWVzKSB7CiAgICBjb25zdCB7IGJvZHksIGxhYmVscywgdGl0bGUsIHJlcG8gfSA9IGk7CiAgICBhd2FpdCBnaXRodWIuaXNzdWVzLmNyZWF0ZSh7IG93bmVyOiBHSVRIVUJfVVNFUl9OQU1FLCByZXBvLCBib2R5LCBsYWJlbHMsIHRpdGxlIH0pOwogIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShpc3N1ZXMsIG51bGwsIDIpKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvOiAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBtb2NrIGlzc3VlcwogIGNvbnN0IHsgaXNzdWVzIH0gPSBNb2NrLm1vY2soewogICAgImlzc3Vlc3wzMCI6IFsKICAgICAgewogICAgICAgICJpbmRleHwrMSI6IDEsCiAgICAgICAgdGl0bGU6IGZ1bmN0aW9uKCkgewogICAgICAgICAgcmV0dXJuICJpc3N1ZSIgKyB0aGlzLmluZGV4OwogICAgICAgIH0sCiAgICAgICAgInJhbmRvbUxhYmVsc3wxLTQiOiB7CiAgICAgICAgICBidWc6IDEsCiAgICAgICAgICBjaG9yZTogMSwKICAgICAgICAgIGRlc2lnbjogMSwKICAgICAgICAgIGRvY3M6IDEsCiAgICAgICAgICBlbmhhbmNlOiAxLAogICAgICAgICAgZmVhdHVyZTogMSwKICAgICAgICAgIGhlbHA6IDEsCiAgICAgICAgICBzZXJ2aWNlOiAxLAogICAgICAgICAgZm9udDogMQogICAgICAgIH0sCiAgICAgICAgbGFiZWxzOiBmdW5jdGlvbigpIHsKICAgICAgICAgIHJldHVybiBPYmplY3Qua2V5cyh0aGlzLnJhbmRvbUxhYmVscyk7CiAgICAgICAgfSwKICAgICAgICAicmVwb3wxIjogYWxsUmVwb3MsCiAgICAgICAgYm9keTogIkBwYXJhZ3JhcGgiCiAgICAgIH0KICAgIF0KICB9KTsKCgogIGZvciAobGV0IGkgb2YgaXNzdWVzKSB7CiAgICBjb25zdCB7IGJvZHksIGxhYmVscywgdGl0bGUsIHJlcG8gfSA9IGk7CiAgICBhd2FpdCBnaXRodWIuaXNzdWVzLmNyZWF0ZSh7IG93bmVyOiBHSVRIVUJfVVNFUl9OQU1FLCByZXBvLCBib2R5LCBsYWJlbHMsIHRpdGxlIH0pOwogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShpc3N1ZXMsIG51bGwsIDIpKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvOiAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhbGxSZXBvcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN1ci5yZXBvCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhbGxSZXBvcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
