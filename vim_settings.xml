@@ -245,7 +245,7 @@
         <mark key="^" line="22" column="30" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="D:/projects/zzswang/kanban/src/config.js" timestamp="1536330478596">
+      <file name="D:/projects/zzswang/kanban/src/config.js" timestamp="1536371960168">
         <mark key="[" line="46" column="32" />
         <mark key="]" line="46" column="46" />
         <mark key="." line="50" column="32" />
@@ -1162,11 +1162,10 @@
         <mark key="." line="25" column="14" />
         <mark key="^" line="25" column="14" />
       </file>
-      <file name="D:/projects/zzswang/kanban/src/api/bill.js" timestamp="1536371178822">
-        <mark key="[" line="96" column="64" />
-        <mark key="]" line="98" column="21" />
-        <mark key="." line="98" column="21" />
-        <mark key="^" line="98" column="21" />
+      <file name="D:/projects/zzswang/kanban/src/api/bill.js" timestamp="1536372068638">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="D:/projects/SmartElective/Server/package.json" timestamp="1519220716024">
         <mark key="[" line="1" column="11" />
@@ -3974,7 +3973,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudXNlcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>user</text>
@@ -3986,33 +3985,31 @@
         <text>https://api.36node.com/kanban/v0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudXNlcik7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYXV0aCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpc3N1ZXMubWFwKGkgPT4gaS50aXRsZSkpOwo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>function() {
-          return &quot;issue&quot; + this.index;
-        },</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYXV0aCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEudXNlcik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGNvCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXEuYXV0aCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyb2xlcyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpc3N1ZXMubWFwKGkgPT4gaS50aXRsZSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
