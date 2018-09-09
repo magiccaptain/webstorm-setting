@@ -762,12 +762,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="D:/projects/zzswang/kanban/bin/init.js" timestamp="1536504164062">
-        <mark key="'" line="142" column="3" />
-        <mark key="[" line="184" column="81" />
-        <mark key="]" line="185" column="19" />
-        <mark key="." line="185" column="19" />
-        <mark key="^" line="185" column="19" />
+      <file name="D:/projects/zzswang/kanban/bin/init.js" timestamp="1536505547809">
+        <mark key="'" line="177" column="23" />
+        <mark key="[" line="186" column="16" />
+        <mark key="]" line="186" column="23" />
+        <mark key="." line="186" column="23" />
+        <mark key="^" line="186" column="23" />
       </file>
       <file name="G:/projects/IntellMeter/IntellMeter_meteor/imports/valisations/device.js" timestamp="1499237022393">
         <mark key="[" line="3" column="3" />
@@ -800,7 +800,7 @@
         <mark key="." line="45" column="33" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536497481172">
+      <file name="/Dummy.txt" timestamp="1536506572504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" timestamp="1533218934328">
@@ -3437,7 +3437,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/projects/zzswang/kanban/.env" timestamp="1536504368136">
+      <file name="D:/projects/zzswang/kanban/.env" timestamp="1536506097878">
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="30" />
         <mark key="^" line="4" column="30" />
@@ -3868,14 +3868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="D:/projects/CZCE/ppm-core/src/api/download.js" />
-      <jump line="15" column="3" filename="D:/projects/CZCE/ppm-core/src/service/mailer/index.js" />
-      <jump line="41" column="35" filename="D:/projects/CZCE/ppm-core/src/service/mailer/conference.js" />
-      <jump line="180" column="34" filename="D:/projects/CZCE/ppm-web/src/sagas/index.js" />
-      <jump line="108" column="14" filename="D:/projects/CZCE/ppm-web/src/containers/conferences/conference-result-form.js" />
-      <jump line="49" column="21" filename="D:/projects/CZCE/ppm-core/src/service/mailer/conference.js" />
-      <jump line="46" column="9" filename="D:/projects/CZCE/ppm-core/src/service/mailer/conference.js" />
-      <jump line="551" column="25" filename="D:/projects/CZCE/ppm-web/src/sagas/index.js" />
       <jump line="175" column="75" filename="D:/projects/CZCE/ppm-web/src/sagas/index.js" />
       <jump line="737" column="0" filename="D:/projects/CZCE/ppm-web/src/sagas/index.js" />
       <jump line="23" column="0" filename="D:/projects/CZCE/ppm-core/bin/load-users.js" />
@@ -3968,55 +3960,63 @@
       <jump line="66" column="26" filename="D:/projects/zzswang/kanban/src/task/bill.js" />
       <jump line="240" column="8" filename="D:/projects/zzswang/kanban/bin/init.js" />
       <jump line="142" column="3" filename="D:/projects/zzswang/kanban/bin/init.js" />
+      <jump line="160" column="20" filename="D:/projects/zzswang/kanban/bin/init.js" />
+      <jump line="197" column="16" filename="D:/projects/zzswang/kanban/bin/init.js" />
+      <jump line="143" column="16" filename="D:/projects/zzswang/kanban/bin/init.js" />
+      <jump line="37" column="16" filename="D:/projects/zzswang/kanban/bin/init.js" />
+      <jump line="28" column="21" filename="D:/projects/zzswang/kanban/bin/init.js" />
+      <jump line="144" column="23" filename="D:/projects/zzswang/kanban/bin/init.js" />
+      <jump line="164" column="23" filename="D:/projects/zzswang/kanban/bin/init.js" />
+      <jump line="177" column="23" filename="D:/projects/zzswang/kanban/bin/init.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>b88f2294</text>
+        <text>e7b5e12d</text>
       </register>
       <register name="-" type="4">
-        <text>b88f2294</text>
+        <text>e7b5e12d</text>
       </register>
       <register name="/" type="4">
-        <text>repo</text>
+        <text>2000</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJUYWtlIGlzc3VlIiwgInRpdGxlOiIsIGkudGl0bGUsICIgaWQ6IiwgaS5pZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29zbnQgYQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaW5pc2hlZElzc3Vlcy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YWtlbklzc3Vlcy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiIixwdWJsaXNoZWRJc3N1ZXMubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaW5pc2hlZElzc3Vlcy5sZW5ndGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaW5pc2hlZElzc3Vlcyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YWtlbklzc3Vlcy5sZW5ndGgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YWtlbklzc3Vlcyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiIixwdWJsaXNoZWRJc3N1ZXMubGVuZ3RoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>repo</last-search>
+      <last-search>2000</last-search>
       <last-offset />
-      <last-pattern>repo</last-pattern>
+      <last-pattern>2000</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectSubjects</last-substitute>
       <last-dir>1</last-dir>
@@ -4024,9 +4024,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TPR</entry>
-        <entry>selectSubjects</entry>
-        <entry>modal</entry>
         <entry>from</entry>
         <entry>omit</entry>
         <entry>tmp</entry>
@@ -4044,6 +4041,9 @@
         <entry>project</entry>
         <entry>level</entry>
         <entry>repo</entry>
+        <entry>100</entry>
+        <entry>1000</entry>
+        <entry>2000</entry>
       </history-search>
       <history-cmd />
       <history-expr />
