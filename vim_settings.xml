@@ -738,6 +738,11 @@
         <mark key="." line="24" column="51" />
         <mark key="^" line="24" column="51" />
       </file>
+      <file name="D:/projects/CZCE/ppm-web/src/app.js" timestamp="1534079941219">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/routes/HomePage.tsx" timestamp="1503973609699">
         <mark key="[" line="3" column="45" />
         <mark key="]" line="5" column="17" />
@@ -879,6 +884,11 @@
         <mark key="]" line="4" column="52" />
         <mark key="^" line="4" column="52" />
         <mark key="." line="4" column="52" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-web/src/reducers/session.js" timestamp="1532447932587">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/app/service/user.ts" timestamp="1521686159875">
         <mark key="[" line="1" column="0" />
@@ -2054,6 +2064,11 @@
         <mark key="^" line="148" column="31" />
         <mark key="." line="148" column="31" />
       </file>
+      <file name="D:/projects/CZCE/ppm-web/src/containers/conferences/conference-detail.js" timestamp="1533649561858">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/milestone-plan/index.module.less" timestamp="1535640708513">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -2130,6 +2145,11 @@
         <mark key="]" line="10" column="26" />
         <mark key="." line="11" column="9" />
         <mark key="^" line="11" column="9" />
+      </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/style.css" timestamp="1534864995165">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="G:/projects/stacktop-auth-server/test/app/oauth-server/oauth2-token.test.ts" timestamp="1524817796206">
         <mark key="[" line="74" column="24" />
@@ -2773,6 +2793,11 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
+      <file name="D:/projects/CZCE/ppm-core/src/service/docx/template-engine.js" timestamp="1533484025073">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/project/project-form.js" timestamp="1531115805414">
         <mark key="[" line="66" column="42" />
         <mark key="]" line="66" column="43" />
@@ -2832,6 +2857,11 @@
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-web/.env" timestamp="1535633873730">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="G:/projects/smart_meter_dva/src/tests/test_test.js" timestamp="1505120713619">
         <mark key="[" line="0" column="0" />
@@ -3503,6 +3533,11 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="1" />
       </file>
+      <file name="D:/projects/zzswang/sketch/packages/tpl-service/bin/initdb.js" timestamp="1536586820467">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/SmartElective/Server/app/model/teacher_info.ts" timestamp="1517762876074">
         <mark key="[" line="11" column="28" />
         <mark key="]" line="11" column="28" />
@@ -3970,11 +4005,11 @@
       <jump line="177" column="23" filename="D:/projects/zzswang/kanban/bin/init.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e7b5e12d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e7b5e12d</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>2000</text>
@@ -3983,31 +4018,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJUYWtlIGlzc3VlIiwgInRpdGxlOiIsIGkudGl0bGUsICIgaWQ6IiwgaS5pZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29zbnQgYQo=</text>
+        <text encoding="base64">ICAvLyB2YXIgc2NoZW1hID0gewogIC8vICAgdHlwZTogIm9iamVjdCIsCiAgLy8gICBwcm9wZXJ0aWVzOiB7CiAgLy8gICAgIHVzZXI6IHsKICAvLyAgICAgICB0eXBlOiAib2JqZWN0IiwKICAvLyAgICAgICBwcm9wZXJ0aWVzOiB7CiAgLy8gICAgICAgICBpZDogewogIC8vICAgICAgICAgICAkcmVmOiAiIy9kZWZpbml0aW9ucy9wb3NpdGl2ZUludCIKICAvLyAgICAgICAgIH0sCiAgLy8gICAgICAgICBuYW1lOiB7CiAgLy8gICAgICAgICAgIHR5cGU6ICJzdHJpbmciLAogIC8vICAgICAgICAgICBmYWtlcjogIm5hbWUuZmluZE5hbWUiCiAgLy8gICAgICAgICB9LAogIC8vICAgICAgICAgZW1haWw6IHsKICAvLyAgICAgICAgICAgdHlwZTogInN0cmluZyIsCiAgLy8gICAgICAgICAgIGZvcm1hdDogImVtYWlsIiwKICAvLyAgICAgICAgICAgZmFrZXI6ICJpbnRlcm5ldC5lbWFpbCIKICAvLyAgICAgICAgIH0KICAvLyAgICAgICB9LAogIC8vICAgICAgIHJlcXVpcmVkOiBbImlkIiwgIm5hbWUiLCAiZW1haWwiXQogIC8vICAgICB9CiAgLy8gICB9LAogIC8vICAgcmVxdWlyZWQ6IFsidXNlciJdLAogIC8vICAgZGVmaW5pdGlvbnM6IHsKICAvLyAgICAgcG9zaXRpdmVJbnQ6IHsKICAvLyAgICAgICB0eXBlOiAiaW50ZWdlciIsCiAgLy8gICAgICAgbWluaW11bTogMCwKICAvLyAgICAgICBleGNsdXNpdmVNaW5pbXVtOiB0cnVlCiAgLy8gICAgIH0KICAvLyAgIH0KICAvLyB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29zbnQgYQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaW5pc2hlZElzc3Vlcy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0YWtlbklzc3Vlcy5sZW5ndGgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiIixwdWJsaXNoZWRJc3N1ZXMubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmaW5pc2hlZElzc3Vlcy5sZW5ndGgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
