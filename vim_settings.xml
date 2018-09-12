@@ -791,7 +791,7 @@
         <mark key="." line="45" column="33" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536756587343">
+      <file name="/Dummy.txt" timestamp="1536760249693">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1828,11 +1828,12 @@
         <mark key="." line="24" column="37" />
         <mark key="^" line="24" column="37" />
       </file>
-      <file name="D:/projects/zzswang/navinfo-web/.circleci/config.yml" timestamp="1536756993645">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="55" column="24" />
-        <mark key="^" line="55" column="21" />
-        <mark key="." line="55" column="21" />
+      <file name="D:/projects/zzswang/navinfo-web/.circleci/config.yml" timestamp="1536760244108">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="47" column="58" />
+        <mark key="]" line="47" column="57" />
+        <mark key="^" line="47" column="57" />
+        <mark key="." line="47" column="57" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.css" timestamp="1514944937137">
         <mark key="[" line="1" column="0" />
@@ -2490,7 +2491,12 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/projects/zzswang/navinfo-web/.travis.yml" timestamp="1536756828571" />
+      <file name="D:/projects/zzswang/navinfo-web/.travis.yml" timestamp="1536760230919">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="17" column="87" />
+        <mark key="." line="17" column="87" />
+      </file>
       <file name="$USER_HOME$/projects/CZCE/ppm-web/src/layouts/app-layout.js" timestamp="1530676444601">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -3570,6 +3576,12 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="D:/projects/zzswang/navinfo-web/bin/build-docker.sh" timestamp="1536759486294">
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="29" column="7" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="7" />
+      </file>
       <file name="G:/projects/zzswang/adventurer-web/src/containers/project/contracts.js" timestamp="1531102920839">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="14" column="24" />
@@ -3892,7 +3904,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="29" filename="D:/projects/CZCE/ppm-core/bin/reset-milestone-procedures.js" />
       <jump line="31" column="26" filename="D:/projects/CZCE/ppm-core/bin/reset-milestone-procedures.js" />
       <jump line="47" column="35" filename="D:/projects/CZCE/ppm-core/src/api/milestone.js" />
       <jump line="3" column="0" filename="D:/projects/CZCE/ppm-core/src/api/check.js" />
@@ -3992,51 +4003,47 @@
       <jump line="11" column="23" filename="D:/projects/zzswang/sketch/packages/tpl-service/src/models/pet.js" />
       <jump line="0" column="0" filename="D:/projects/zzswang/sketch/packages/tpl-service/src/models/pet.js" />
       <jump line="0" column="17" filename="D:/projects/zzswang/sketch/packages/tpl-service/bin/initdb.js" />
+      <jump line="40" column="0" filename="D:/projects/zzswang/navinfo-web/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6CiAgICAgICAgICAgIHRhZ3M6CiAgICAgICAgICAgICAgb25seTogL3YuKi8K</text>
+      <register name="&quot;" type="4">
+        <text>registry.us-west-1.aliyuncs.com</text>
       </register>
       <register name="-" type="4">
-        <text>ls .</text>
+        <text>registry.us-west-1.aliyuncs.com</text>
       </register>
       <register name="/" type="4">
         <text>2000</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6CiAgICAgICAgICAgIHRhZ3M6CiAgICAgICAgICAgICAgb25seTogL3YuKi8K</text>
+      <register name="0" type="4">
+        <text>registry.cn-hangzhou.aliyuncs.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJhbmNoZXM6CiAgICAgICAgICAgICAgaWdub3JlOiAvLiovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRE9DS0VSX1JFUE86ICRET0NLRVJfUkUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiB0ZXN0IGxzCiAgICAgICAgICBjb21tYW5kOiBscyAuCg==</text>
+        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBUQUc6IGxhdGVzdAogICAgICBET0NLRVJfVVNFUjogbWFnaWMtLTUxMEBob3RtYWlsLmNvbQogICAgICBET0NLRVJfUkVHSVNUUlk6IHJlZ2lzdHJ5LmNuLWhhbmd6aG91LmFsaXl1bmNzLmNvbQogICAgICBET0NLRVJfUEFTUzogc2hhb2NoZW4wMzI1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiB0ZXN0IGxzCiAgICAgICAgICBjb21tYW5kOiBscyAuCg==</text>
+        <text encoding="base64">ICAgICAgVEFHOiBsYXRlc3QKICAgICAgRE9DS0VSX1VTRVI6IG1hZ2ljLS01MTBAaG90bWFpbC5jb20KICAgICAgRE9DS0VSX1JFR0lTVFJZOiByZWdpc3RyeS5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20KICAgICAgRE9DS0VSX1BBU1M6IHNoYW9jaGVuMDMyNQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpbHRlcnM6CiAgICAgICAgICAgIGJyYW5jaGVzOgogICAgICAgICAgICAgIGlnbm9yZTogLy4qLwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFnczoKICAgICAgICAgICAgICBvbmx5OiAvXnYuKi8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBidWlsZAogICAgICAgICAgY29tbWFuZDogeWFybiBidWlsZAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlbGVhc2U6Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBlbnZpcm9ubWVudDoKICAgICAgICAgICAgVEFHOiBsYXRlc3QKICAgICAgICAgICAgRE9DS0VSX1VTRVI6IG1hZ2ljLS01MTBAaG90bWFpbC5jb20KICAgICAgICAgICAgRE9DS0VSX1JFR0lTVFJZOiByZWdpc3RyeS5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20KICAgICAgICAgICAgRE9DS0VSX1BBU1M6IHNoYW9jaGVuMDMyNQoK</text>
       </register>
-      <register name="9" type="4">
-        <text>Merge remote-tracking branch 'remotes/origin/master' into issue6
-
-# Conflicts:
-#	packages/tpl-service/package.json
-#	packages/tpl-service/src/models/pet.js
-#	yarn.lock</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICBUQUc6IGxhdGVzdAogICAgICAgICAgICBET0NLRVJfVVNFUjogbWFnaWMtLTUxMEBob3RtYWlsLmNvbQogICAgICAgICAgICBET0NLRVJfUkVHSVNUUlk6IHJlZ2lzdHJ5LmNuLWhhbmd6aG91LmFsaXl1bmNzLmNvbQogICAgICAgICAgICBET0NLRVJfUEFTUzogc2hhb2NoZW4wMzI1Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICBUQUc6IGxhdGVzdAogICAgICAgICAgICBET0NLRVJfVVNFUjogbWFnaWMtLTUxMEBob3RtYWlsLmNvbQogICAgICAgICAgICBET0NLRVJfUkVHSVNUUlk6IHJlZ2lzdHJ5LmNuLWhhbmd6aG91LmFsaXl1bmNzLmNvbQogICAgICAgICAgICBET0NLRVJfUEFTUzogc2hhb2NoZW4wMzI1Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVEFHOiBsYXRlc3QK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVudmlyb25tZW50Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
