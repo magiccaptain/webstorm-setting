@@ -1571,9 +1571,9 @@
         <mark key="^" line="71" column="57" />
       </file>
       <file name="D:/projects/zzswang/sketch/packages/tpl-service/package.json" timestamp="1536588612176">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="D:/projects/stacktop-auth-server/test/dit/dit-apis.ts" timestamp="1524487720796">
         <mark key="[" line="100" column="23" />
@@ -2116,6 +2116,7 @@
         <mark key="." line="201" column="29" />
         <mark key="^" line="201" column="29" />
       </file>
+      <file name="D:/projects/zzswang/sketch/README.md" timestamp="1536842950377" />
       <file name="D:/projects/CZCE/ppm-web/src/components/MyIcon/index.js" timestamp="1532868736425">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -3041,9 +3042,7 @@
       <file name="D:/projects/zzswang/sketch/packages/tpl-service/src/models/pet.js" timestamp="1536590589838">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="20" />
-        <mark key="^" line="8" column="44" />
-        <mark key="." line="8" column="44" />
+        <mark key="]" line="26" column="20" />
       </file>
       <file name="D:/projects/CZCE/ppm-core/src/service/docx/index.js" timestamp="1533481771725">
         <mark key="[" line="0" column="0" />
@@ -3675,6 +3674,12 @@
         <mark key="^" line="147" column="74" />
         <mark key="." line="147" column="74" />
       </file>
+      <file name="D:/projects/zzswang/sketch/packages/cli/package.json" timestamp="1536843005167">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+      </file>
       <file name="G:/projects/zzswang/shanghaibus-admin-web/src/containers/warning/index.js" timestamp="1525829817165">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="22" />
@@ -3717,7 +3722,6 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
-      <file name="D:/projects/zzswang/navinfo-web/Dockerfile" timestamp="1536764530629" />
       <file name="D:/projects/zzswang/shanghaibus-admin-web/public/index.html" timestamp="1530022214718">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="10" />
@@ -4008,11 +4012,11 @@
       <jump line="40" column="0" filename="D:/projects/zzswang/navinfo-web/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBlY2hvIHRhZwogICAgICAgICAgY29tbWFuZDogfAogICAgICAgICAgICBjYXQgJEJBU0hfRU5WCiAgICAgICAgICAgIGVjaG8gJFRBRwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cm0gLXJmIGRpc3QgJiYgYg==</text>
       </register>
       <register name="-" type="4">
-        <text>echo</text>
+        <text encoding="base64">cm0gLXJmIGRpc3QgJiYgYg==</text>
       </register>
       <register name="/" type="4">
         <text>2000</text>
