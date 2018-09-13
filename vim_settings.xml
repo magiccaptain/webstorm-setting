@@ -791,7 +791,7 @@
         <mark key="." line="45" column="33" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536760249693">
+      <file name="/Dummy.txt" timestamp="1536764196486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1828,12 +1828,12 @@
         <mark key="." line="24" column="37" />
         <mark key="^" line="24" column="37" />
       </file>
-      <file name="D:/projects/zzswang/navinfo-web/.circleci/config.yml" timestamp="1536760244108">
+      <file name="D:/projects/zzswang/navinfo-web/.circleci/config.yml" timestamp="1536764193932">
         <mark key="'" line="40" column="0" />
-        <mark key="[" line="47" column="58" />
-        <mark key="]" line="47" column="57" />
-        <mark key="^" line="47" column="57" />
-        <mark key="." line="47" column="57" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="42" column="28" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="G:/projects/fri/fri-rep-server-shell/src/renderer/components/FilesSelector/FilesSelector.css" timestamp="1514944937137">
         <mark key="[" line="1" column="0" />
@@ -2491,9 +2491,9 @@
         <mark key="^" line="27" column="32" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="D:/projects/zzswang/navinfo-web/.travis.yml" timestamp="1536760230919">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="50" />
+      <file name="D:/projects/zzswang/navinfo-web/.travis.yml" timestamp="1536763158953">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="15" column="5" />
         <mark key="^" line="17" column="87" />
         <mark key="." line="17" column="87" />
       </file>
@@ -3093,9 +3093,10 @@
         <mark key="^" line="64" column="24" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="D:/projects/zzswang/navinfo-web/circle.yml" timestamp="1536756704782">
-        <mark key="[" line="47" column="0" />
+      <file name="D:/projects/zzswang/navinfo-web/circle.yml" timestamp="1536762609776">
+        <mark key="[" line="58" column="0" />
         <mark key="]" line="62" column="25" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/projects/IntellMeter/MeterDataGather/src/test/test_meters.js" timestamp="1500560456063">
         <mark key="[" line="42" column="24" />
@@ -3716,6 +3717,7 @@
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="21" />
       </file>
+      <file name="D:/projects/zzswang/navinfo-web/Dockerfile" timestamp="1536764530629" />
       <file name="D:/projects/zzswang/shanghaibus-admin-web/public/index.html" timestamp="1530022214718">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="10" />
@@ -4006,44 +4008,45 @@
       <jump line="40" column="0" filename="D:/projects/zzswang/navinfo-web/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>registry.us-west-1.aliyuncs.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBlY2hvIHRhZwogICAgICAgICAgY29tbWFuZDogfAogICAgICAgICAgICBjYXQgJEJBU0hfRU5WCiAgICAgICAgICAgIGVjaG8gJFRBRwo=</text>
       </register>
       <register name="-" type="4">
-        <text>registry.us-west-1.aliyuncs.com</text>
+        <text>echo</text>
       </register>
       <register name="/" type="4">
         <text>2000</text>
       </register>
       <register name="0" type="4">
-        <text>registry.cn-hangzhou.aliyuncs.com</text>
+        <text>if [ &quot;$TRAVIS_BRANCH&quot; == &quot;master&quot; ]; then echo &quot;latest&quot;; else echo $TRAVIS_TAG
+  ; fi</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRE9DS0VSX1JFUE86ICRET0NLRVJfUkUK</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBlY2hvIHRhZwogICAgICAgICAgY29tbWFuZDogfAogICAgICAgICAgICBjYXQgJEJBU0hfRU5WCiAgICAgICAgICAgIGVjaG8gJFRBRwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBUQUc6IGxhdGVzdAogICAgICBET0NLRVJfVVNFUjogbWFnaWMtLTUxMEBob3RtYWlsLmNvbQogICAgICBET0NLRVJfUkVHSVNUUlk6IHJlZ2lzdHJ5LmNuLWhhbmd6aG91LmFsaXl1bmNzLmNvbQogICAgICBET0NLRVJfUEFTUzogc2hhb2NoZW4wMzI1Cg==</text>
+        <text encoding="base64">IyAgICAgIC0gcnVuOgojICAgICAgICAgIG5hbWU6IGVjaG8gYnJhbmNoCiMgICAgICAgICAgY29tbWFuZDogZWNobyAkQ0lSQ0xFX0JSQU5DSAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVEFHOiBsYXRlc3QKICAgICAgRE9DS0VSX1VTRVI6IG1hZ2ljLS01MTBAaG90bWFpbC5jb20KICAgICAgRE9DS0VSX1JFR0lTVFJZOiByZWdpc3RyeS5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20KICAgICAgRE9DS0VSX1BBU1M6IHNoYW9jaGVuMDMyNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBlY2hvIHRhZwogICAgICAgICAgY29tbWFuZDogZWNobyAkVEFHCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBlbnZpcm9ubWVudDoKICAgICAgICAgICAgVEFHOiBsYXRlc3QKICAgICAgICAgICAgRE9DS0VSX1VTRVI6IG1hZ2ljLS01MTBAaG90bWFpbC5jb20KICAgICAgICAgICAgRE9DS0VSX1JFR0lTVFJZOiByZWdpc3RyeS5jbi1oYW5nemhvdS5hbGl5dW5jcy5jb20KICAgICAgICAgICAgRE9DS0VSX1BBU1M6IHNoYW9jaGVuMDMyNQoK</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbW1hbmQ6IHwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICBUQUc6IGxhdGVzdAogICAgICAgICAgICBET0NLRVJfVVNFUjogbWFnaWMtLTUxMEBob3RtYWlsLmNvbQogICAgICAgICAgICBET0NLRVJfUkVHSVNUUlk6IHJlZ2lzdHJ5LmNuLWhhbmd6aG91LmFsaXl1bmNzLmNvbQogICAgICAgICAgICBET0NLRVJfUEFTUzogc2hhb2NoZW4wMzI1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbW1hbmQ6IHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICBUQUc6IGxhdGVzdAogICAgICAgICAgICBET0NLRVJfVVNFUjogbWFnaWMtLTUxMEBob3RtYWlsLmNvbQogICAgICAgICAgICBET0NLRVJfUkVHSVNUUlk6IHJlZ2lzdHJ5LmNuLWhhbmd6aG91LmFsaXl1bmNzLmNvbQogICAgICAgICAgICBET0NLRVJfUEFTUzogc2hhb2NoZW4wMzI1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVudmlyb25tZW50OgogICAgICAgICAgICBUQUc6IGxhdGVzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVEFHOiBsYXRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVudmlyb25tZW50Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZ25vcmU6IC8uKi8K</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
