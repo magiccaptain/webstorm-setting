@@ -93,6 +93,12 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="D:/projects/zzswang/tpi-react/.circleci/config.yml" timestamp="1537191045227">
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="46" column="19" />
+        <mark key="^" line="43" column="31" />
+        <mark key="." line="46" column="19" />
+      </file>
       <file name="G:/projects/CZCE/ppm-web/src/components/loading-mask/index.js" timestamp="1531275058031">
         <mark key="[" line="47" column="22" />
         <mark key="]" line="48" column="25" />
@@ -230,6 +236,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="20" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/projects/zzswang/tpi-react/Dockerfile" timestamp="1537191901876">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/oauth-server/oauth2.ts" timestamp="1524667885934">
         <mark key="[" line="129" column="16" />
@@ -791,7 +803,7 @@
         <mark key="." line="45" column="33" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536852618656">
+      <file name="/Dummy.txt" timestamp="1537191298530">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
@@ -4017,16 +4029,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>service</text>
+        <text>docker-nginx-react:latest</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
         <text>prett</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YHlhcm4gaW5zdGFsbCAmJiB5YXJuIHN0YXJ0YAo=</text>
+      <register name="0" type="4">
+        <text>docker-nginx-react:latest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
