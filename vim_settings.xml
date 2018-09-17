@@ -237,11 +237,10 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/projects/zzswang/tpi-react/Dockerfile" timestamp="1537193430808">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+      <file name="D:/projects/zzswang/tpi-react/Dockerfile" timestamp="1537195515617">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="D:/projects/stacktop-auth-server/app/oauth-server/oauth2.ts" timestamp="1524667885934">
         <mark key="[" line="129" column="16" />
@@ -3960,10 +3959,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>docker-nginx-react:latest</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>build</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>prett</text>
@@ -3972,28 +3971,28 @@
         <text>docker-nginx-react:latest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFQUF9BUElfUExBQ0VIT0xECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGV2OgoKYHlhcm4gaW5zdGFsbCAmJiB5YXJuIHN0YXJ0YAoKYnVpbGQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGV2OgoKYHlhcm4gaW5zdGFsbCAmJiB5YXJuIHN0YXJ0YAoKYnVpbGQ6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MS4gILHgvK24/MS/wrzPwrXEIG9wZW5hcGkueW1sCjIuICBydW4gYGdlbmVyYXRlOmFwaWAgc2NyaXB0IHVuZGVyIHJvb3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Mi4gIHJ1biBgZ2VuZXJhdGU6YXBpYCBzY3JpcHQgdW5kZXIgcm9vdAo=</text>
+        <text encoding="base64">MS4gILHgvK24/MS/wrzPwrXEIG9wZW5hcGkueW1sCjIuICBydW4gYGdlbmVyYXRlOmFwaWAgc2NyaXB0IHVuZGVyIHJvb3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Mi4gIHJ1biBgZ2VuZXJhdGU6YXBpYCBzY3JpcHQgdW5kZXIgcm9vdAozLiAgYHlhcm4gaW5zdGFsbCAmJiB5YXJuIHN0YXJ0YAo=</text>
+        <text encoding="base64">Mi4gIHJ1biBgZ2VuZXJhdGU6YXBpYCBzY3JpcHQgdW5kZXIgcm9vdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">MS4gILHgvK24/MS/wrzPwrXEIG9wZW5hcGkueW1sCg==</text>
+        <text encoding="base64">Mi4gIHJ1biBgZ2VuZXJhdGU6YXBpYCBzY3JpcHQgdW5kZXIgcm9vdAozLiAgYHlhcm4gaW5zdGFsbCAmJiB5YXJuIHN0YXJ0YAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MS4gILHgvK24/MS/wrzPwrXEIG9wZW5hcGkueW1sCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
