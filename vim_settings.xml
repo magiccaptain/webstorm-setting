@@ -712,7 +712,6 @@
         <mark key="." line="79" column="36" />
         <mark key="^" line="79" column="36" />
       </file>
-      <file name="D:/projects/zzswang/sketch/packages/tpl-react/src/index.js" timestamp="1536850255303" />
       <file name="G:/projects/smart_meter_dva/src/components/Devices/DevicesList.tsx" timestamp="1507604439917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="51" />
@@ -792,10 +791,11 @@
         <mark key="." line="45" column="33" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536764196486">
+      <file name="/Dummy.txt" timestamp="1536852618656">
+        <mark key="a" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" timestamp="1533218934328">
         <mark key="[" line="180" column="0" />
@@ -1389,11 +1389,11 @@
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
       </file>
-      <file name="D:/projects/zzswang/sketch/packages/tpl-react/package.json" timestamp="1536850028482">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="13" column="24" />
-        <mark key="." line="7" column="0" />
+      <file name="D:/projects/zzswang/sketch/packages/tpl-react/package.json" timestamp="1536851914299">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="D:/projects/open-api-redoc/front-end/src/redoc/standalone.tsx" timestamp="1524300282405">
         <mark key="[" line="11" column="24" />
@@ -1484,6 +1484,12 @@
         <mark key="]" line="144" column="23" />
         <mark key="." line="144" column="23" />
         <mark key="^" line="144" column="23" />
+      </file>
+      <file name="D:/projects/zzswang/sketch/packages/tpl-react/README.md" timestamp="1536852698025">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="D:/projects/zzswang/adventurer-web/src/lib/sdk.js" timestamp="1536370931487">
         <mark key="'" line="84" column="0" />
@@ -1577,12 +1583,13 @@
         <mark key="." line="71" column="57" />
         <mark key="^" line="71" column="57" />
       </file>
-      <file name="D:/projects/zzswang/sketch/packages/tpl-tcp/package.json" timestamp="1536850160889" />
-      <file name="D:/projects/zzswang/sketch/packages/tpl-service/package.json" timestamp="1536849971289">
-        <mark key="'" line="21" column="9" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="D:/projects/zzswang/sketch/packages/tpl-tcp/package.json" timestamp="1536851165596" />
+      <file name="D:/projects/zzswang/sketch/packages/tpl-service/package.json" timestamp="1536852408052">
+        <mark key="'" line="49" column="25" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="18" column="13" />
+        <mark key="^" line="18" column="13" />
       </file>
       <file name="D:/projects/stacktop-auth-server/test/dit/dit-apis.ts" timestamp="1524487720796">
         <mark key="[" line="100" column="23" />
@@ -3907,8 +3914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="35" filename="D:/projects/CZCE/ppm-core/src/api/milestone.js" />
-      <jump line="3" column="0" filename="D:/projects/CZCE/ppm-core/src/api/check.js" />
       <jump line="0" column="0" filename="D:/projects/CZCE/ppm-core/node_modules/@southfarm/http-status/dist/index.js" />
       <jump line="19" column="27" filename="D:/projects/CZCE/ppm-core/src/api/index.js" />
       <jump line="42" column="15" filename="D:/projects/CZCE/ppm-web/src/containers/users/index.js" />
@@ -4007,56 +4012,57 @@
       <jump line="0" column="17" filename="D:/projects/zzswang/sketch/packages/tpl-service/bin/initdb.js" />
       <jump line="40" column="0" filename="D:/projects/zzswang/navinfo-web/.circleci/config.yml" />
       <jump line="21" column="9" filename="D:/projects/zzswang/sketch/packages/tpl-service/package.json" />
+      <jump line="33" column="16" filename="D:/projects/zzswang/sketch/packages/tpl-service/package.json" />
+      <jump line="49" column="25" filename="D:/projects/zzswang/sketch/packages/tpl-service/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>service</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>service</text>
       </register>
       <register name="/" type="4">
-        <text>2000</text>
+        <text>prett</text>
       </register>
-      <register name="0" type="4">
-        <text>if [ &quot;$TRAVIS_BRANCH&quot; == &quot;master&quot; ]; then echo &quot;latest&quot;; else echo $TRAVIS_TAG
-  ; fi</text>
+      <register name="0" type="2">
+        <text encoding="base64">YHlhcm4gaW5zdGFsbCAmJiB5YXJuIHN0YXJ0YAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZGV2OgoKYHlhcm4gaW5zdGFsbCAmJiB5YXJuIHN0YXJ0YAoKYnVpbGQ6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBlY2hvIHRhZwogICAgICAgICAgY29tbWFuZDogfAogICAgICAgICAgICBjYXQgJEJBU0hfRU5WCiAgICAgICAgICAgIGVjaG8gJFRBRwo=</text>
+        <text encoding="base64">MS4gILHgvK24/MS/wrzPwrXEIG9wZW5hcGkueW1sCjIuICBydW4gYGdlbmVyYXRlOmFwaWAgc2NyaXB0IHVuZGVyIHJvb3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgIC0gcnVuOgojICAgICAgICAgIG5hbWU6IGVjaG8gYnJhbmNoCiMgICAgICAgICAgY29tbWFuZDogZWNobyAkQ0lSQ0xFX0JSQU5DSAo=</text>
+        <text encoding="base64">Mi4gIHJ1biBgZ2VuZXJhdGU6YXBpYCBzY3JpcHQgdW5kZXIgcm9vdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Mi4gIHJ1biBgZ2VuZXJhdGU6YXBpYCBzY3JpcHQgdW5kZXIgcm9vdAozLiAgYHlhcm4gaW5zdGFsbCAmJiB5YXJuIHN0YXJ0YAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBlY2hvIHRhZwogICAgICAgICAgY29tbWFuZDogZWNobyAkVEFHCg==</text>
+        <text encoding="base64">MS4gILHgvK24/MS/wrzPwrXEIG9wZW5hcGkueW1sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhbW1hbmQ6IHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhbW1hbmQ6IHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>2000</last-search>
+      <last-search>prett</last-search>
       <last-offset />
-      <last-pattern>2000</last-pattern>
+      <last-pattern>prett</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectSubjects</last-substitute>
       <last-dir>1</last-dir>
@@ -4064,8 +4070,6 @@
     </search>
     <history>
       <history-search>
-        <entry>from</entry>
-        <entry>omit</entry>
         <entry>tmp</entry>
         <entry>email</entry>
         <entry>operation</entry>
@@ -4084,6 +4088,8 @@
         <entry>100</entry>
         <entry>1000</entry>
         <entry>2000</entry>
+        <entry>eslint</entry>
+        <entry>prett</entry>
       </history-search>
       <history-cmd />
       <history-expr />
