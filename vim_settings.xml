@@ -723,6 +723,12 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
+      <file name="D:/projects/zzswang/tpi-react/src/lib/sdk.js" timestamp="1537197494156">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="2" column="10" />
+      </file>
       <file name="G:/projects/smart_meter_dva/src/components/Devices/DevicesList.tsx" timestamp="1507604439917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="51" />
@@ -1086,6 +1092,7 @@
         <mark key="^" line="96" column="19" />
         <mark key="." line="90" column="21" />
       </file>
+      <file name="D:/projects/zzswang/tpi-react/src/lib/index.js" timestamp="1537197307254" />
       <file name="D:/projects/CZCE/ppm-web/src/containers/milestones/milestone-edit-1.js" timestamp="1531670730536">
         <mark key="[" line="32" column="69" />
         <mark key="]" line="32" column="68" />
@@ -1241,6 +1248,7 @@
         <mark key="^" line="84" column="11" />
         <mark key="." line="84" column="12" />
       </file>
+      <file name="D:/projects/zzswang/tpi-react/src/lib/request.js" timestamp="1537197443562" />
       <file name="G:/projects/CZCE/PPM/CZCE_PPM/server/package.json" timestamp="1523515580040">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="31" />
@@ -3956,11 +3964,11 @@
       <jump line="49" column="25" filename="D:/projects/zzswang/sketch/packages/tpl-service/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogInBvaSB0ZXN0IiwK</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>POI_APP_GITHUB_TOKEN</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>prett</text>
