@@ -609,6 +609,7 @@
         <mark key="^" line="3875" column="114" />
         <mark key="." line="3875" column="114" />
       </file>
+      <file name="D:/projects/zzswang/sketch/yarn.lock" timestamp="1537274368283" />
       <file name="G:/projects/smart_meter_dva/src/utils/ace-helper.ts" timestamp="1504676685454">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="18" />
@@ -794,11 +795,11 @@
         <mark key="." line="23" column="6" />
         <mark key="^" line="23" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537273824683">
+      <file name="/Dummy.txt" timestamp="1537274510357">
         <mark key="a" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/containers/subjects/subjects-edit.js" timestamp="1533218934328">
         <mark key="[" line="180" column="0" />
@@ -3967,11 +3968,11 @@
       <jump line="49" column="25" filename="D:/projects/zzswang/sketch/packages/tpl-service/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4iOiAiKiIsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNvbmZsZWN0</text>
       </register>
       <register name="-" type="4">
-        <text>{},</text>
+        <text encoding="base64">IGNvbmZsZWN0</text>
       </register>
       <register name="/" type="4">
         <text>prett</text>
