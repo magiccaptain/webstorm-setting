@@ -3,15 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/my-hexo-blog/source/_posts/React-动态瀑布流实现.md" timestamp="1537885056926" />
+      <file name="$USER_HOME$/projects/my-hexo-blog/source/_posts/React-动态瀑布流实现.md" timestamp="1537885801951">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>jsx</text>
+        <text>jsx harmony</text>
       </register>
       <register name="-" type="4">
-        <text>jsx</text>
+        <text>jsx harmony</text>
       </register>
     </registers>
     <search>
@@ -24,6 +29,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
