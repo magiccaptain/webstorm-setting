@@ -12,27 +12,60 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/my-hexo-blog/source/_posts/使用Circle-ci-将-hexo-自动部署在阿里云.md" timestamp="1537929173559">
-        <mark key="'" line="18" column="2" />
-        <mark key="[" line="8" column="76" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/projects/my-hexo-blog/source/_posts/使用Circle-ci-将-hexo-自动部署在阿里云.md" timestamp="1537937715044">
+        <mark key="[" line="84" column="19" />
+        <mark key="]" line="84" column="16" />
+        <mark key="." line="84" column="16" />
+        <mark key="^" line="84" column="16" />
+      </file>
+      <file name="$USER_HOME$/projects/my-hexo-blog/.circleci/config.yml" timestamp="1537932466907">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="60" column="18" />
       </file>
     </filemarks>
     <jumps>
       <jump line="19" column="11" filename="$USER_HOME$/projects/my-hexo-blog/source/_posts/使用Circle-ci-将-hexo-自动部署在阿里云.md" />
       <jump line="20" column="2" filename="$USER_HOME$/projects/my-hexo-blog/source/_posts/使用Circle-ci-将-hexo-自动部署在阿里云.md" />
+      <jump line="47" column="11" filename="$USER_HOME$/projects/my-hexo-blog/.circleci/config.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/my-hexo-blog/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">YGBgYmFzaAp5YXJuIGluc3RhbGwKYGBgCg==</text>
+        <text encoding="base64">IyBKYXZhc2NyaXB0IE5vZGUgQ2lyY2xlQ0kgMi4wIGNvbmZpZ3VyYXRpb24gZmlsZQojCiMgQ2hlY2sgaHR0cHM6Ly9jaXJjbGVjaS5jb20vZG9jcy8yLjAvbGFuZ3VhZ2UtamF2YXNjcmlwdC8gZm9yIG1vcmUgZGV0YWlscwojCnZlcnNpb246IDIKCmRlZmF1bHRzOiAmZGVmYXVsdHMKICB3b3JraW5nX2RpcmVjdG9yeTogfi9yZXBvCiAgZG9ja2VyOgogICAgLSBpbWFnZTogY2lyY2xlY2kvbm9kZTpsYXRlc3QKCmpvYnM6CiAgYnVpbGQ6CiAgICA8PDogKmRlZmF1bHRzCiAgICBzdGVwczoKICAgICAgLSBjaGVja291dAoKICAgICAgIyBEb3dubG9hZCBhbmQgY2FjaGUgZGVwZW5kZW5jaWVzCiAgICAgIC0gcmVzdG9yZV9jYWNoZToKICAgICAgICAgIGtleXM6CiAgICAgICAgICAtIHYxLWRlcGVuZGVuY2llcy17eyBjaGVja3N1bSAicGFja2FnZS5qc29uIiB9fQogICAgICAgICAgIyBmYWxsYmFjayB0byB1c2luZyB0aGUgbGF0ZXN0IGNhY2hlIGlmIG5vIGV4YWN0IG1hdGNoIGlzIGZvdW5kCiAgICAgICAgICAtIHYxLWRlcGVuZGVuY2llcy0KCiAgICAgIC0gcnVuOiB5YXJuIGluc3RhbGwKCiAgICAgIC0gc2F2ZV9jYWNoZToKICAgICAgICAgIHBhdGhzOgogICAgICAgICAgICAtIG5vZGVfbW9kdWxlcwogICAgICAgICAga2V5OiB2MS1kZXBlbmRlbmNpZXMte3sgY2hlY2tzdW0gInBhY2thZ2UuanNvbiIgfX0KCiAgICAgIC0gcnVuOiB5YXJuIGdlbmVyYXRlCiAgICAgIC0gcGVyc2lzdF90b193b3Jrc3BhY2U6CiAgICAgICAgICByb290OiB+L3JlcG8KICAgICAgICAgIHBhdGhzOiAuCgogIHJlbGVhc2U6CiAgICA8PDogKmRlZmF1bHRzCgogICAgc3RlcHM6CiAgICAgIC0gYXR0YWNoX3dvcmtzcGFjZToKICAgICAgICAgIGF0OiB+L3JlcG8KICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCiAgICAgIC0gcnVuOgogICAgICAgICAgbmFtZTogY2htb2Qgc2gKICAgICAgICAgIGNvbW1hbmQ6IGNobW9kICt4IGJpbi9idWlsZC1kb2NrZXIuc2gKICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBidWlsZCBkb2NrZXIKICAgICAgICAgIGNvbW1hbmQ6IGJpbi9idWlsZC1kb2NrZXIuc2ggbGF0ZXN0ICRET0NLRVJfVVNFUiAkRE9DS0VSX1BBU1MgJERPQ0tFUl9SRUdJU1RSWSAkRE9DS0VSX1JFUE8KCndvcmtmbG93czoKICB2ZXJzaW9uOiAyCiAgYnVpbGQtZGVwbG95OgogICAgam9iczoKICAgICAgLSBidWlsZDoKICAgICAgICAgIGZpbHRlcnM6CiAgICAgICAgICAgIHRhZ3M6CiAgICAgICAgICAgICAgb25seTogLy4qLwogICAgICAtIHJlbGVhc2U6CiAgICAgICAgICByZXF1aXJlczoKICAgICAgICAgICAgLSBidWlsZAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YGBgYmFzaAp5YXJuIGluc3RhbGwKYGBgCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>行</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">yrnTwyAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyCy4srUMgoKYGBgYmFzaAp5YXJuIGluc3RhbGwKYGBgCgojILLiytQ0Cgq5/rn+CgojILLiytQ1Cgq62brZCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">1NoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Z2l0IGh1Ygo=</text>
       </register>
       <register name="-" type="4">
-        <text>jsx harmony</text>
+        <text>行</text>
       </register>
     </registers>
     <search>
@@ -57,6 +90,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
