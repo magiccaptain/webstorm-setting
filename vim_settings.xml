@@ -20,6 +20,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1537966613350">
+        <mark key="'" line="152" column="32" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="135" column="52" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/my-hexo-blog/.circleci/config.yml" timestamp="1537932466907">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -38,43 +45,44 @@
       <jump line="47" column="11" filename="$USER_HOME$/projects/my-hexo-blog/.circleci/config.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/projects/my-hexo-blog/.circleci/config.yml" />
       <jump line="32" column="6" filename="D:/projects/zzswang/adventurer-web/src/lib/sdk.js" />
+      <jump line="242" column="32" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">IyBKYXZhc2NyaXB0IE5vZGUgQ2lyY2xlQ0kgMi4wIGNvbmZpZ3VyYXRpb24gZmlsZQojCiMgQ2hlY2sgaHR0cHM6Ly9jaXJjbGVjaS5jb20vZG9jcy8yLjAvbGFuZ3VhZ2UtamF2YXNjcmlwdC8gZm9yIG1vcmUgZGV0YWlscwojCnZlcnNpb246IDIKCmRlZmF1bHRzOiAmZGVmYXVsdHMKICB3b3JraW5nX2RpcmVjdG9yeTogfi9yZXBvCiAgZG9ja2VyOgogICAgLSBpbWFnZTogY2lyY2xlY2kvbm9kZTpsYXRlc3QKCmpvYnM6CiAgYnVpbGQ6CiAgICA8PDogKmRlZmF1bHRzCiAgICBzdGVwczoKICAgICAgLSBjaGVja291dAoKICAgICAgIyBEb3dubG9hZCBhbmQgY2FjaGUgZGVwZW5kZW5jaWVzCiAgICAgIC0gcmVzdG9yZV9jYWNoZToKICAgICAgICAgIGtleXM6CiAgICAgICAgICAtIHYxLWRlcGVuZGVuY2llcy17eyBjaGVja3N1bSAicGFja2FnZS5qc29uIiB9fQogICAgICAgICAgIyBmYWxsYmFjayB0byB1c2luZyB0aGUgbGF0ZXN0IGNhY2hlIGlmIG5vIGV4YWN0IG1hdGNoIGlzIGZvdW5kCiAgICAgICAgICAtIHYxLWRlcGVuZGVuY2llcy0KCiAgICAgIC0gcnVuOiB5YXJuIGluc3RhbGwKCiAgICAgIC0gc2F2ZV9jYWNoZToKICAgICAgICAgIHBhdGhzOgogICAgICAgICAgICAtIG5vZGVfbW9kdWxlcwogICAgICAgICAga2V5OiB2MS1kZXBlbmRlbmNpZXMte3sgY2hlY2tzdW0gInBhY2thZ2UuanNvbiIgfX0KCiAgICAgIC0gcnVuOiB5YXJuIGdlbmVyYXRlCiAgICAgIC0gcGVyc2lzdF90b193b3Jrc3BhY2U6CiAgICAgICAgICByb290OiB+L3JlcG8KICAgICAgICAgIHBhdGhzOiAuCgogIHJlbGVhc2U6CiAgICA8PDogKmRlZmF1bHRzCgogICAgc3RlcHM6CiAgICAgIC0gYXR0YWNoX3dvcmtzcGFjZToKICAgICAgICAgIGF0OiB+L3JlcG8KICAgICAgLSBzZXR1cF9yZW1vdGVfZG9ja2VyCiAgICAgIC0gcnVuOgogICAgICAgICAgbmFtZTogY2htb2Qgc2gKICAgICAgICAgIGNvbW1hbmQ6IGNobW9kICt4IGJpbi9idWlsZC1kb2NrZXIuc2gKICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBidWlsZCBkb2NrZXIKICAgICAgICAgIGNvbW1hbmQ6IGJpbi9idWlsZC1kb2NrZXIuc2ggbGF0ZXN0ICRET0NLRVJfVVNFUiAkRE9DS0VSX1BBU1MgJERPQ0tFUl9SRUdJU1RSWSAkRE9DS0VSX1JFUE8KCndvcmtmbG93czoKICB2ZXJzaW9uOiAyCiAgYnVpbGQtZGVwbG95OgogICAgam9iczoKICAgICAgLSBidWlsZDoKICAgICAgICAgIGZpbHRlcnM6CiAgICAgICAgICAgIHRhZ3M6CiAgICAgICAgICAgICAgb25seTogLy4qLwogICAgICAtIHJlbGVhc2U6CiAgICAgICAgICByZXF1aXJlczoKICAgICAgICAgICAgLSBidWlsZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2l2ZSB9IGZyb20gInJlYWN0LWdyaWQtbGF5b3V0IjsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVzcG9uc2l2ZSB9IGZyb20gInJlYWN0LWdyaWQtbGF5b3V0IjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cDovL2Nkbi5zdGFja3RvcC5jbi9zdGF0aWMvanMvY2FudmFzLW5lc3QuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">Y29uc3QgR3JpZExheW91dCA9IFJlc3BvbnNpdmU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZpbGwgZnJvbSAibG9kYXNoL2ZpbGwiOwppbXBvcnQgbWVyZ2UgZnJvbSAibG9kYXNoL21lcmdlIjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">yrnTwyAK</text>
+        <text encoding="base64">ICBvbldpZHRoQ2hhbmdlID0gd2lkdGggPT4gewogICAgdGhpcy5jdXJyZW50Q29sID0gdGhpcy5nZXRDb2wod2lkdGgpOwogICAgLy8gwdC/7bjEseTKsaOs1tjWw9e0zKy7urPlCiAgICB0aGlzLmNhcmRzU3RhdGVCdWZmZXIgPSB7fTsKICAgIHRoaXMud2lkdGhDaGFuZ2VDb3VudCsrOwogIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyCy4srUMgoKYGBgYmFzaAp5YXJuIGluc3RhbGwKYGBgCgojILLiytQ0Cgq5/rn+CgojILLiytQ1Cgq62brZCgo=</text>
+        <text encoding="base64">ICBnZW5lcmF0ZUxheW91dChjb2xzLCB4R3JpZCkgewogICAgY29uc3QgeyBpc3N1ZXMgfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCB7IGNhcmRzU3RhdGUgfSA9IHRoaXMuc3RhdGU7CiAgICBjb25zdCBjb2xzR3JpZCA9IG5ldyBBcnJheShNYXRoLmZsb29yKGNvbHMgLyB4R3JpZCkpOwogICAgZmlsbChjb2xzR3JpZCwgMTApOwogICAgcmV0dXJuIGlzc3Vlcy5tYXAoaXNzdWUgPT4gewogICAgICBjb25zdCBzdGF0ZSA9IGNhcmRzU3RhdGVbaXNzdWUuaWRdOwogICAgICBjb25zdCBoZWlnaHQgPSBzdGF0ZSA/IHN0YXRlLmhlaWdodCB8fCAyNTAgOiAyNTA7CiAgICAgIGxldCBjb2wgPSAwOwogICAgICBjb2xzR3JpZC5mb3JFYWNoKChoLCBpKSA9PiB7CiAgICAgICAgaWYgKGNvbHNHcmlkW2NvbF0gPiBoKSB7CiAgICAgICAgICBjb2wgPSBpOwogICAgICAgIH0KICAgICAgfSk7CiAgICAgIGNvbnN0IHkgPSBjb2xzR3JpZFtjb2xdOwogICAgICBjb2xzR3JpZFtjb2xdICs9IGhlaWdodCArIDEwOwogICAgICByZXR1cm4gewogICAgICAgIGk6IGlzc3VlLmlkLnRvU3RyaW5nKCksCiAgICAgICAgeDogY29sICogeEdyaWQsCiAgICAgICAgeTogeSB8fCAwLAogICAgICAgIHc6IHhHcmlkLAogICAgICAgIGg6IGhlaWdodCwKICAgICAgICBzdGF0aWM6IHRydWUKICAgICAgfTsKICAgIH0pOwogIH0KCiAgb25Jc3N1ZUNhcmRDaGFuZ2UgPSAoaWQsIGhlaWdodCkgPT4gewogICAgY29uc3QgeyBjYXJkc1N0YXRlIH0gPSB0aGlzLnN0YXRlOwogICAgY29uc3QgeyBpc3N1ZXMgfSA9IHRoaXMucHJvcHM7CiAgICBjb25zdCBzdGF0ZSA9IGNhcmRzU3RhdGVbaWRdOwogICAgdGhpcy5jYXJkc1N0YXRlQnVmZmVyW2lkXSA9IHsgaGVpZ2h0IH07CgogICAgbGV0IG5ld1N0YXRlID0gbWVyZ2Uoe30sIGNhcmRzU3RhdGUpOwogICAgbmV3U3RhdGVbaWRdID0gewogICAgICBoZWlnaHQKICAgIH07CiAgICAvLyAvLyDT0NDC17TMrLL6yfoKICAgIC8vIC8vILGj1qTU2sv509Bpc3N1Zba8zeqzybzT1NjWrrrzo6zU2bj80MLXtMysCiAgICAvLyBsZXQgYWxsUmVhZHkgPSBpc3N1ZXMucmVkdWNlKChmLCBpKSA9PiB7CiAgICAvLyAgIHJldHVybiBmICYmIHRoaXMuY2FyZHNTdGF0ZUJ1ZmZlcltpLmlkXSAhPT0gdW5kZWZpbmVkOwogICAgLy8gfSwgdHJ1ZSk7CiAgICAvLwogICAgLy8gaWYgKGFsbFJlYWR5ICYmIHRoaXMubW91bnRlZCkgewogICAgLy8gfQogICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgIC4uLnRoaXMuc3RhdGUsCiAgICAgIC4uLnsKICAgICAgICBjYXJkc1N0YXRlOiBuZXdTdGF0ZQogICAgICB9CiAgICB9KTsKICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vILWxx7Bjb2zA4NDNIGxnLG1kLC4uLgogICAgdGhpcy5jdXJyZW50Q29sID0gbnVsbDsKICAgIC8vILu6tOa1scewY2FyZCBzdGF0ZSwg0dPKsbzGy+MKICAgIHRoaXMuY2FyZHNTdGF0ZUJ1ZmZlciA9IHt9OwoKICAgIC8vINHTyrG8xsqxxvcKICAgIHRoaXMuYnVmZmVyVGltZXIgPSBudWxsOwoKICAgIHRoaXMubW91bnRlZCA9IGZhbHNlOwoKICAgIC8vILzHwry/7bbIuMSx5LXEtM7K/Swgyte0zuTWyL7Kscq1yrG4/NDC17TMrAogICAgdGhpcy53aWR0aENoYW5nZUNvdW50ID0gMDsKICAgIHRoaXMuZmlsdGVycyA9IHt9Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">1NoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>行</text>
+        <text>2</text>
       </register>
     </registers>
     <search>
@@ -102,6 +110,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
