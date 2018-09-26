@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1537943760357">
+      <file name="/Dummy.txt" timestamp="1537971988940">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/projects/my-hexo-blog/source/_posts/使用Circle-ci-将-hexo-自动部署在阿里云.md" timestamp="1537943673504">
         <mark key="[" line="84" column="19" />
@@ -20,17 +22,31 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1537968566122">
-        <mark key="'" line="113" column="51" />
-        <mark key="[" line="191" column="18" />
-        <mark key="]" line="191" column="33" />
-        <mark key="^" line="191" column="33" />
-        <mark key="." line="191" column="33" />
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1537971895769">
+        <mark key="'" line="20" column="25" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-web/src/selectors/index.js" timestamp="1537969823188">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="82" />
+      </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/selectors/index.js" timestamp="1537969824793">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="83" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/projects/my-hexo-blog/.circleci/config.yml" timestamp="1537932466907">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="60" column="18" />
+      </file>
+      <file name="D:/projects/zzswang/adventurer-web/src/containers/task/index.js" timestamp="1537970658376">
+        <mark key="[" line="437" column="32" />
+        <mark key="]" line="437" column="49" />
+        <mark key="." line="464" column="0" />
       </file>
       <file name="$USER_HOME$/projects/my-hexo-blog/source/_posts/React-动态瀑布流实现.md" timestamp="1537929122609">
         <mark key="[" line="11" column="49" />
@@ -47,52 +63,80 @@
       <jump line="32" column="6" filename="D:/projects/zzswang/adventurer-web/src/lib/sdk.js" />
       <jump line="242" column="32" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="159" column="11" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
-      <jump line="111" column="51" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="185" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="164" column="45" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="2" column="0" filename="D:/projects/CZCE/ppm-web/src/selectors/index.js" />
+      <jump line="0" column="0" filename="D:/projects/CZCE/ppm-web/src/selectors/index.js" />
+      <jump line="94" column="40" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="111" column="33" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="130" column="47" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="170" column="25" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="184" column="55" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="80" column="0" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="51" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="55" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="58" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="63" column="45" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="64" column="15" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="69" column="25" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="70" column="13" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="72" column="36" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="20" column="25" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZmlsdGVycyB9ID0gdGhpcy5wcm9wczsK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhc01vcmUpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>mark: 任务发布改为拖动,可以从backlog中拖拽到 todo，也可以从todo中拖拽到 backlog从而取消发布</text>
+      </register>
+      <register name="/" type="4">
+        <text>console</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">PFNwaW5uZXIgZmFkZUluPSJub25lIiBuYW1lPSJsaW5lLXNjYWxlLXB1bHNlLW91dCIgY29sb3I9IiMxREE1N0EiIC8+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApfQo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhc01vcmUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7bG9hZGluZyAmJiAoCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvdGFsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB1ewogICAgICAvLyBjYXJkILXE17TMrLzHwryjrNLUaWQgzqrL99L9CiAgICAgIGNhcmRzU3RhdGU6IHt9LAogICAgICB3YWl0aW5nRm9yQ2hpbGRyZW46IGZhbHNlCiAgICB9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHshbG9hZGluZyAmJiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8Um93IHR5cGU9eyJmbGV4In0ganVzdGlmeT17ImNlbnRlciJ9PiovfQogICAgICAgIHsvKjxCdXR0b24gbG9hZGluZz17bG9hZGluZ30gb25DbGljaz17dGhpcy5vbkxvYWRpbmdNb3JlfT6809TYuPy24DwvQnV0dG9uPiovfQogICAgICAgIHsvKjwvUm93PiovfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgPgo=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>console</last-search>
+      <last-offset />
+      <last-pattern>console</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>10</entry>
+        <entry>state</entry>
+        <entry>console</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
@@ -115,6 +159,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
