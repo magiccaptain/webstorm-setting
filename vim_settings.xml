@@ -16,6 +16,12 @@
       <file name="D:/projects/zzswang/adventurer-web/src/lib/sdk.js" timestamp="1537957731871">
         <mark key="'" line="32" column="6" />
       </file>
+      <file name="$USER_HOME$/projects/github/react-stack-grid/webpack.config.js" timestamp="1538028457427">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
       <file name="D:/projects/CZCE/ppm-web/src/selectors/index.js" timestamp="1537969823188">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="119" column="0" />
@@ -32,6 +38,13 @@
         <mark key="]" line="60" column="18" />
       </file>
       <file name="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/App.js" timestamp="1538023846956" />
+      <file name="$USER_HOME$/projects/github/react-stack-grid/package.json" timestamp="1538028377606">
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="49" />
+        <mark key="^" line="19" column="49" />
+        <mark key="." line="19" column="49" />
+      </file>
+      <file name="$USER_HOME$/projects/github/react-stack-grid/.babelrc" timestamp="1538027292399" />
       <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1537971895769">
         <mark key="'" line="20" column="25" />
         <mark key="[" line="171" column="0" />
@@ -78,11 +91,11 @@
       <jump line="20" column="25" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bundle.js</text>
       </register>
       <register name="-" type="4">
-        <text>mark: 任务发布改为拖动,可以从backlog中拖拽到 todo，也可以从todo中拖拽到 backlog从而取消发布</text>
+        <text>bundle.js</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -94,28 +107,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0SXNzdWVzKHsgLi4uZmlsdGVycywgbGltaXQ6IFBhZ2VTaXplLCBvZmZzZXQ6IHRoaXMub2Zmc2V0IH0pOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhc01vcmUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvdGFsKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0SXNzdWVzKHsgLi4uZmlsdGVycywgbGltaXQ6IFBhZ2VTaXplLCBvZmZzZXQ6IHRoaXMub2Zmc2V0IH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB1ewogICAgICAvLyBjYXJkILXE17TMrLzHwryjrNLUaWQgzqrL99L9CiAgICAgIGNhcmRzU3RhdGU6IHt9LAogICAgICB3YWl0aW5nRm9yQ2hpbGRyZW46IGZhbHNlCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhc01vcmUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvdGFsKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8Um93IHR5cGU9eyJmbGV4In0ganVzdGlmeT17ImNlbnRlciJ9PiovfQogICAgICAgIHsvKjxCdXR0b24gbG9hZGluZz17bG9hZGluZ30gb25DbGljaz17dGhpcy5vbkxvYWRpbmdNb3JlfT6809TYuPy24DwvQnV0dG9uPiovfQogICAgICAgIHsvKjwvUm93PiovfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB1ewogICAgICAvLyBjYXJkILXE17TMrLzHwryjrNLUaWQgzqrL99L9CiAgICAgIGNhcmRzU3RhdGU6IHt9LAogICAgICB3YWl0aW5nRm9yQ2hpbGRyZW46IGZhbHNlCiAgICB9Owo=</text>
       </register>
     </registers>
     <search>
