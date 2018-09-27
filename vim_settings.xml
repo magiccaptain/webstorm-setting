@@ -9,11 +9,11 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="D:/projects/zzswang/sketch2/packages/swagen/src/generators/sdk.js" timestamp="1538057401526">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="14" />
-        <mark key="^" line="7" column="14" />
+      <file name="D:/projects/zzswang/sketch2/packages/swagen/src/generators/sdk.js" timestamp="1538060628226">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/sdk/.petstore.d.ts" timestamp="1538030817573">
         <mark key="'" line="5" column="0" />
@@ -126,7 +126,7 @@
         <mark key="^" line="6" column="42" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/projects/zzswang/sketch2/packages/swagen/src/parse.js" timestamp="1538059473747" />
+      <file name="D:/projects/zzswang/sketch2/packages/swagen/src/parse.js" timestamp="1538060800539" />
       <file name="D:/projects/zzswang/sketch2/packages/swagen/README.md" timestamp="1538058860066">
         <mark key="[" line="39" column="60" />
         <mark key="]" line="39" column="63" />
@@ -175,8 +175,8 @@
       <jump line="0" column="18" filename="D:/projects/zzswang/sketch2/packages/swagen/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>swagger</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>swagger</text>
@@ -197,22 +197,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Zm9vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9vCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZ2VuZXJhdG9ycyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
