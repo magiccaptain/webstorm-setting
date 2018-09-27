@@ -37,14 +37,18 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/App.js" timestamp="1538023846956" />
+      <file name="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/sdk/.petstore.d.ts" timestamp="1538030817573">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/github/react-stack-grid/package.json" timestamp="1538028377606">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="49" />
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/projects/github/react-stack-grid/.babelrc" timestamp="1538027292399" />
       <file name="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" timestamp="1537971895769">
         <mark key="'" line="20" column="25" />
         <mark key="[" line="171" column="0" />
@@ -89,13 +93,14 @@
       <jump line="70" column="13" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="72" column="36" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="20" column="25" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/sdk/.petstore.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bundle.js</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bundle.js</text>
+        <text>React</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -107,28 +112,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ0B0eXBlcy9yZWFjdC90cyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ0B0eXBlcy9yZWFjdCc7IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0SXNzdWVzKHsgLi4uZmlsdGVycywgbGltaXQ6IFBhZ2VTaXplLCBvZmZzZXQ6IHRoaXMub2Zmc2V0IH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHt9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhc01vcmUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRvdGFsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUgPSB1ewogICAgICAvLyBjYXJkILXE17TMrLzHwryjrNLUaWQgzqrL99L9CiAgICAgIGNhcmRzU3RhdGU6IHt9LAogICAgICB3YWl0aW5nRm9yQ2hpbGRyZW46IGZhbHNlCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0SXNzdWVzKHsgLi4uZmlsdGVycywgbGltaXQ6IFBhZ2VTaXplLCBvZmZzZXQ6IHRoaXMub2Zmc2V0IH0pOwo=</text>
       </register>
     </registers>
     <search>
