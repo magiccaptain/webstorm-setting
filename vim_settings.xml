@@ -25,11 +25,10 @@
         <mark key="]" line="129" column="83" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/Dockerfile" timestamp="1538144715550">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
+      <file name="D:/projects/CZCE/ppm-core/Dockerfile" timestamp="1538145914852">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="D:/projects/zzswang/sketch2/packages/tpl-service/src/models/index.js" timestamp="1538055338044">
         <mark key="[" line="0" column="0" />
@@ -182,8 +181,8 @@
       <jump line="0" column="18" filename="D:/projects/zzswang/sketch2/packages/swagen/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$DOCKER_REPO:latest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>TAG</text>
@@ -195,7 +194,7 @@
         <text>$DOCKER_REPO:latest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFoYSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -204,22 +203,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFoYSIpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9vCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMgCg==</text>
       </register>
     </registers>
     <search>
