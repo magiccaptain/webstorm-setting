@@ -25,7 +25,7 @@
         <mark key="]" line="129" column="83" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/Dockerfile" timestamp="1538143392736">
+      <file name="D:/projects/CZCE/ppm-core/Dockerfile" timestamp="1538144715550">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
@@ -127,6 +127,12 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="D:/projects/zzswang/sketch2/packages/swagen/src/parse.js" timestamp="1538060800539" />
+      <file name="D:/projects/CZCE/ppm-core/bin/build-docker.sh" timestamp="1538144700347">
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="31" />
+        <mark key="^" line="35" column="11" />
+        <mark key="." line="35" column="12" />
+      </file>
       <file name="D:/projects/zzswang/sketch2/packages/swagen/README.md" timestamp="1538058860066">
         <mark key="[" line="39" column="60" />
         <mark key="]" line="39" column="63" />
@@ -177,16 +183,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>80</text>
+        <text>$DOCKER_REPO:latest</text>
       </register>
       <register name="-" type="4">
-        <text>80</text>
+        <text>TAG</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAicGF0aCI7Cg==</text>
+      <register name="0" type="4">
+        <text>$DOCKER_REPO:latest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFoYSIpOwo=</text>
