@@ -25,7 +25,7 @@
         <mark key="]" line="129" column="83" />
         <mark key="." line="129" column="0" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/Dockerfile" timestamp="1538145914852">
+      <file name="D:/projects/CZCE/ppm-core/Dockerfile" timestamp="1538147021597">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -83,10 +83,10 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538059204643">
+      <file name="/Dummy.txt" timestamp="1538147725961">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/projects/zzswang/sketch2/packages/swagen/templates/definitions.hbs" timestamp="1538059398945" />
       <file name="D:/projects/zzswang/sketch2/packages/tpl-service/bin/initdb.js" timestamp="1538054777883">
@@ -107,6 +107,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="D:/projects/CZCE/ppm-core/.circleci/config.yml" timestamp="1538148048656" />
       <file name="$USER_HOME$/projects/github/react-stack-grid/package.json" timestamp="1538028377606">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="49" />
@@ -126,7 +127,7 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="D:/projects/zzswang/sketch2/packages/swagen/src/parse.js" timestamp="1538060800539" />
-      <file name="D:/projects/CZCE/ppm-core/bin/build-docker.sh" timestamp="1538144700347">
+      <file name="D:/projects/CZCE/ppm-core/bin/build-docker.sh" timestamp="1538147680231">
         <mark key="[" line="35" column="12" />
         <mark key="]" line="35" column="31" />
         <mark key="^" line="35" column="11" />
@@ -181,11 +182,11 @@
       <jump line="0" column="18" filename="D:/projects/zzswang/sketch2/packages/swagen/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>mark:项目计划管理</text>
       </register>
       <register name="-" type="4">
-        <text>TAG</text>
+        <text>mark:项目计划管理</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
