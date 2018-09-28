@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1538013078563">
+      <file name="/Dummy.txt" timestamp="1538123669991">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -26,6 +26,12 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="119" column="0" />
         <mark key="]" line="119" column="82" />
+      </file>
+      <file name="$USER_HOME$/projects/czce/ppm-core/.dockerignore" timestamp="1538123258481">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
       </file>
       <file name="D:/projects/zzswang/adventurer-web/src/selectors/index.js" timestamp="1537969824793">
         <mark key="[" line="129" column="0" />
@@ -108,8 +114,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/sdk/.petstore.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>stacktop.cn:8017</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>stacktop.cn:8017</text>
@@ -127,25 +133,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ0B0eXBlcy9yZWFjdC90cyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ0B0eXBlcy9yZWFjdCc7IAo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ0B0eXBlcy9yZWFjdC90cyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ0B0eXBlcy9yZWFjdCc7IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0SXNzdWVzKHsgLi4uZmlsdGVycywgbGltaXQ6IFBhZ2VTaXplLCBvZmZzZXQ6IHRoaXMub2Zmc2V0IH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
