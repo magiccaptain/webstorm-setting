@@ -43,7 +43,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/projects/czce/ppm-core/Dockerfile" timestamp="1538119727153" />
+      <file name="$USER_HOME$/projects/czce/ppm-core/Dockerfile" timestamp="1538121371454">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
+      <file name="$USER_HOME$/projects/czce/ppm-core/src/config.js" timestamp="1538121545842">
+        <mark key="[" line="59" column="13" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="27" />
+        <mark key="^" line="59" column="27" />
+      </file>
       <file name="$USER_HOME$/projects/github/react-stack-grid/package.json" timestamp="1538028377606">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="49" />
@@ -97,11 +108,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/sdk/.petstore.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>stacktop.cn:8017</text>
       </register>
       <register name="-" type="4">
-        <text>React</text>
+        <text>stacktop.cn:8017</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
