@@ -83,7 +83,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538147725961">
+      <file name="/Dummy.txt" timestamp="1538148961125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -107,7 +107,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/projects/CZCE/ppm-core/.circleci/config.yml" timestamp="1538148048656" />
+      <file name="D:/projects/CZCE/ppm-core/.circleci/config.yml" timestamp="1538148898592">
+        <mark key="[" line="45" column="79" />
+        <mark key="]" line="45" column="91" />
+        <mark key="." line="45" column="91" />
+        <mark key="^" line="45" column="91" />
+      </file>
       <file name="$USER_HOME$/projects/github/react-stack-grid/package.json" timestamp="1538028377606">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="49" />
@@ -127,11 +132,14 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="D:/projects/zzswang/sketch2/packages/swagen/src/parse.js" timestamp="1538060800539" />
-      <file name="D:/projects/CZCE/ppm-core/bin/build-docker.sh" timestamp="1538147680231">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="35" column="31" />
-        <mark key="^" line="35" column="11" />
-        <mark key="." line="35" column="12" />
+      <file name="D:/projects/zzswang/sketch2/packages/tpl-service/.circleci/config.yml" timestamp="1538148081436">
+        <mark key="'" line="79" column="19" />
+      </file>
+      <file name="D:/projects/CZCE/ppm-core/bin/build-docker.sh" timestamp="1538148882847">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="22" />
+        <mark key="^" line="29" column="22" />
+        <mark key="." line="29" column="22" />
       </file>
       <file name="D:/projects/zzswang/sketch2/packages/swagen/README.md" timestamp="1538058860066">
         <mark key="[" line="39" column="60" />
@@ -140,10 +148,6 @@
         <mark key="^" line="39" column="63" />
       </file>
       <file name="D:/projects/zzswang/sketch2/packages/tpl-react/src/App.js" timestamp="1538062576254" />
-      <file name="D:/projects/zzswang/sketch2/packages/tpl-service/package.json" timestamp="1538055358190">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="32" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="19" column="11" filename="$USER_HOME$/projects/my-hexo-blog/source/_posts/使用Circle-ci-将-hexo-自动部署在阿里云.md" />
@@ -180,22 +184,24 @@
       <jump line="16" column="47" filename="D:/projects/zzswang/sketch2/packages/swagen/src/generators/koa.js" />
       <jump line="17" column="26" filename="D:/projects/zzswang/sketch2/packages/swagen/src/generators/koa.js" />
       <jump line="0" column="18" filename="D:/projects/zzswang/sketch2/packages/swagen/src/index.js" />
+      <jump line="19" column="28" filename="D:/projects/zzswang/sketch2/packages/tpl-service/.circleci/config.yml" />
+      <jump line="79" column="19" filename="D:/projects/zzswang/sketch2/packages/tpl-service/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mark:项目计划管理</text>
+        <text>REGISTRY</text>
       </register>
       <register name="-" type="4">
-        <text>mark:项目计划管理</text>
+        <text>REGISTRY</text>
       </register>
       <register name="/" type="4">
-        <text>parse</text>
+        <text>production</text>
       </register>
-      <register name="0" type="4">
-        <text>$DOCKER_REPO:latest</text>
+      <register name="0" type="2">
+        <text encoding="base64">aWYgKFsgLXogJERPQ0tFUl9SRUdJU1RSWSBdKTsgdGhlbgogIGVjaG8gImVudiBET0NLRVJfUkVHSVNUUlkgaXMgbWlzc2luZyI7CiAgZXhpdCAxOwpmaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnRleHQ6IHByb2R1Y3Rpb24K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -204,10 +210,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFoYSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFoYSIpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -219,13 +225,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>parse</last-search>
+      <last-search>production</last-search>
       <last-offset />
-      <last-pattern>parse</last-pattern>
+      <last-pattern>production</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -235,6 +241,7 @@
         <entry>state</entry>
         <entry>console</entry>
         <entry>parse</entry>
+        <entry>production</entry>
       </history-search>
       <history-cmd />
       <history-expr />
