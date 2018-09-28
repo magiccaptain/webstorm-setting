@@ -25,6 +25,12 @@
         <mark key="]" line="129" column="83" />
         <mark key="." line="129" column="0" />
       </file>
+      <file name="D:/projects/CZCE/ppm-core/Dockerfile" timestamp="1538143392736">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+      </file>
       <file name="D:/projects/zzswang/sketch2/packages/tpl-service/src/models/index.js" timestamp="1538055338044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="41" />
@@ -170,11 +176,11 @@
       <jump line="0" column="18" filename="D:/projects/zzswang/sketch2/packages/swagen/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFoYSIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>80</text>
       </register>
       <register name="-" type="4">
-        <text>swagger</text>
+        <text>80</text>
       </register>
       <register name="/" type="4">
         <text>parse</text>
