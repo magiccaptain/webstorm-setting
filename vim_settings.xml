@@ -61,6 +61,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/projects/czce/ppm-web/src/lib/index.js" timestamp="1538282024298">
+        <mark key="[" line="174" column="24" />
+        <mark key="]" line="174" column="40" />
+        <mark key="." line="174" column="40" />
+        <mark key="^" line="174" column="40" />
+      </file>
       <file name="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/sdk/.petstore.d.ts" timestamp="1538030817573">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
@@ -79,11 +85,11 @@
         <mark key="." line="59" column="27" />
         <mark key="^" line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/czce/ppm-web/Dockerfile" timestamp="1538277624185">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="5" column="16" />
+      <file name="$USER_HOME$/projects/czce/ppm-web/Dockerfile" timestamp="1538282148702">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="41" />
+        <mark key="^" line="3" column="41" />
+        <mark key="." line="3" column="41" />
       </file>
       <file name="$USER_HOME$/projects/github/react-stack-grid/package.json" timestamp="1538028377606">
         <mark key="[" line="19" column="13" />
@@ -141,17 +147,17 @@
       <jump line="41" column="0" filename="$USER_HOME$/projects/czce/ppm-core/.circleci/config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBCdWlsZCBQYWNrYWdlCiAgICAgICAgICBjb21tYW5kOiB5YXJuIGJ1aWxkCg==</text>
+      <register name="&quot;" type="4">
+        <text>9001</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>9001</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="4">
-        <text>$DOCKER_REPO</text>
+        <text>REACT_APP_API_URL</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBCdWlsZCBQYWNrYWdlCiAgICAgICAgICBjb21tYW5kOiB5YXJuIGJ1aWxkCg==</text>
