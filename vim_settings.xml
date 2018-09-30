@@ -3,8 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/projects/czce/ppm-web/.circleci/config.yml" timestamp="1538275049424" />
-      <file name="/Dummy.txt" timestamp="1538123669991">
+      <file name="$USER_HOME$/projects/czce/ppm-web/.circleci/config.yml" timestamp="1538278089534">
+        <mark key="'" line="36" column="9" />
+        <mark key="[" line="46" column="78" />
+        <mark key="]" line="46" column="90" />
+        <mark key="^" line="46" column="77" />
+        <mark key="." line="46" column="78" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1538278138412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -22,6 +28,11 @@
         <mark key="]" line="6" column="37" />
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/projects/czce/ppm-web/bin/build-docker.sh" timestamp="1538277508393">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="D:/projects/CZCE/ppm-web/src/selectors/index.js" timestamp="1537969823188">
         <mark key="'" line="0" column="0" />
@@ -44,7 +55,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="60" column="18" />
       </file>
-      <file name="$USER_HOME$/projects/czce/ppm-core/.circleci/config.yml" timestamp="1538275056178" />
+      <file name="$USER_HOME$/projects/czce/ppm-core/.circleci/config.yml" timestamp="1538278110552">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/sdk/.petstore.d.ts" timestamp="1538030817573">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
@@ -63,7 +79,7 @@
         <mark key="." line="59" column="27" />
         <mark key="^" line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/projects/czce/ppm-web/Dockerfile" timestamp="1538275250183">
+      <file name="$USER_HOME$/projects/czce/ppm-web/Dockerfile" timestamp="1538277624185">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="16" />
         <mark key="^" line="5" column="16" />
@@ -120,46 +136,49 @@
       <jump line="72" column="36" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="20" column="25" filename="D:/projects/zzswang/adventurer-web/src/containers/task/issue-water-flow.js" />
       <jump line="5" column="0" filename="$USER_HOME$/projects/36node/sketch/packages/tpl-react/src/sdk/.petstore.d.ts" />
+      <jump line="46" column="32" filename="$USER_HOME$/projects/czce/ppm-web/.circleci/config.yml" />
+      <jump line="36" column="9" filename="$USER_HOME$/projects/czce/ppm-web/.circleci/config.yml" />
+      <jump line="41" column="0" filename="$USER_HOME$/projects/czce/ppm-core/.circleci/config.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBCdWlsZCBQYWNrYWdlCiAgICAgICAgICBjb21tYW5kOiB5YXJuIGJ1aWxkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>stacktop.cn:8017</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PFNwaW5uZXIgZmFkZUluPSJub25lIiBuYW1lPSJsaW5lLXNjYWxlLXB1bHNlLW91dCIgY29sb3I9IiMxREE1N0EiIC8+</text>
+        <text>$DOCKER_REPO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBCdWlsZCBQYWNrYWdlCiAgICAgICAgICBjb21tYW5kOiB5YXJuIGJ1aWxkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBCdWlsZCBQYWNrYWdlCiAgICAgICAgICBjb21tYW5kOiB5YXJuIGJ1aWxkCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ0B0eXBlcy9yZWFjdC90cyc7Cg==</text>
+        <text encoding="base64">ICAgIC0gcnVuOgogICAgICAgIG5hbWU6IEJ1aWxkIGFuZCBQdXNoIGltYWdlCiAgICAgICAgY29tbWFuZDogYmluL2J1aWxkLWRvY2tlci5zaCAkVEFHICRET0NLRVJfVVNFUiAkRE9DS0VSX1BBU1MgJERPQ0tFUl9SRUdJU1RSWSAkRE9DS0VSX1JFUE8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ0B0eXBlcy9yZWFjdCc7IAo=</text>
+        <text encoding="base64">ICAgICAgICAtIHJ1bjoKICAgICAgICAgICAgbmFtZTogQnVpbGQgYW5kIFB1c2ggSW1hZ2UKICAgICAgICAgICAgY29tbWFuZDogfAogICAgICAgICAgICAgIHVuc2V0IENJCiAgICAgICAgICAgICAgY2htb2QgK3ggYmluL2J1aWxkLWRvY2tlci5zaAogICAgICAgICAgICAgIGJpbi9idWlsZC1kb2NrZXIuc2ggJFRBRyAkRE9DS0VSX1VTRVIgJERPQ0tFUl9QQVNTICRET0NLRVJfUkVHSVNUUlkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBCdWlsZCBQYWNrYWdlCiAgICAgICAgICBjb21tYW5kOiB5YXJuIGJ1aWxkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Tk9ERV9FTlY9cHJvZHVjdGlvbiB5YXJuIHJ1biBidWlsZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiB0ZXN0CiAgICAgICAgICBjb21tYW5kOiB5YXJuIHRlc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiB0ZXN0CiAgICAgICAgICBjb21tYW5kOiB5YXJuIHRlc3QK</text>
       </register>
     </registers>
     <search>
@@ -196,6 +215,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
