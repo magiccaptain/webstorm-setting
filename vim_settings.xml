@@ -60,11 +60,11 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/projects/czce/ppm-core/src/config.js" timestamp="1538121545842">
-        <mark key="[" line="59" column="13" />
-        <mark key="]" line="59" column="27" />
-        <mark key="." line="59" column="27" />
-        <mark key="^" line="59" column="27" />
+      <file name="$USER_HOME$/projects/czce/ppm-core/src/config.js" timestamp="1538316011324">
+        <mark key="[" line="50" column="80" />
+        <mark key="]" line="50" column="81" />
+        <mark key="." line="50" column="81" />
+        <mark key="^" line="50" column="81" />
       </file>
       <file name="$USER_HOME$/projects/czce/ppm-web/Dockerfile" timestamp="1538285129786">
         <mark key="[" line="2" column="12" />
@@ -87,7 +87,7 @@
         <mark key="]" line="59" column="58" />
         <mark key="." line="59" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538283689355">
+      <file name="/Dummy.txt" timestamp="1538316014572">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -161,10 +161,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
