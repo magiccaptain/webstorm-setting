@@ -87,7 +87,7 @@
         <mark key="]" line="59" column="58" />
         <mark key="." line="59" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538316014572">
+      <file name="/Dummy.txt" timestamp="1538362909563">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -103,6 +103,11 @@
         <mark key="]" line="1" column="6" />
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/czce/ppm-core/package.json" timestamp="1538362779623">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/projects/czce/ppm-web/src/lib/index.js" timestamp="1538313328090">
         <mark key="[" line="173" column="13" />
@@ -120,6 +125,12 @@
         <mark key="[" line="23" column="33" />
         <mark key="]" line="23" column="33" />
         <mark key="." line="23" column="33" />
+      </file>
+      <file name="$USER_HOME$/projects/czce/ppm-core/src/api/auth.js" timestamp="1538362868739">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/projects/my-hexo-blog/themes/next/layout/_scripts/vendors.swig" timestamp="1537944874451">
         <mark key="[" line="7" column="0" />
@@ -161,54 +172,56 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>bcrypt</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>bcrypt</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>by</text>
       </register>
       <register name="0" type="4">
         <text>/ppm/core/v1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBBUFBfQVBJX1BMQUNFSE9MREVSPSIvYXBpL3YxIiBcCiAgQVBQX0FQSV9HQVRFV0FZPSJodHRwOi8vYXBpLnlvdXIuZG9tYWluIgo=</text>
+        <text encoding="base64">ICAgICJiY3J5cHQiOiAiXjMuMC4wIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBUFBfQVBJX1BMQUNFSE9MREVSPSIvYXBpL3YxIiBcCiAgQVBQX0FQSV9HQVRFV0FZPSJodHRwOi8vYXBpLnlvdXIuZG9tYWluIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBSRUFDVF9BUFBfQVBJX1VSTD1odHRwOi8vbG9jYWxob3N0OjgwODAgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IGJhc2VVcmwgPSAiOjkwMDEiOwo=</text>
+        <text encoding="base64">ICBSRUFDVF9BUFBfQVBJX1VSTD1odHRwOi8vbG9jYWxob3N0OjgwODAgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBSRUFDVF9BUFBfQVBJX1VSTD0iaHR0cDovL2xvY2FsaG9zdDo4MTgxIgo=</text>
+        <text encoding="base64">bGV0IGJhc2VVcmwgPSAiOjkwMDEiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBCdWlsZCBQYWNrYWdlCiAgICAgICAgICBjb21tYW5kOiB5YXJuIGJ1aWxkCg==</text>
+        <text encoding="base64">ICBSRUFDVF9BUFBfQVBJX1VSTD0iaHR0cDovL2xvY2FsaG9zdDo4MTgxIgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBCdWlsZCBQYWNrYWdlCiAgICAgICAgICBjb21tYW5kOiB5YXJuIGJ1aWxkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSBydW46CiAgICAgICAgICBuYW1lOiBCdWlsZCBQYWNrYWdlCiAgICAgICAgICBjb21tYW5kOiB5YXJuIGJ1aWxkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gcnVuOgogICAgICAgIG5hbWU6IEJ1aWxkIGFuZCBQdXNoIGltYWdlCiAgICAgICAgY29tbWFuZDogYmluL2J1aWxkLWRvY2tlci5zaCAkVEFHICRET0NLRVJfVVNFUiAkRE9DS0VSX1BBU1MgJERPQ0tFUl9SRUdJU1RSWSAkRE9DS0VSX1JFUE8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>by</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>by</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>by</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
