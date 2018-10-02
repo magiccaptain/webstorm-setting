@@ -100,12 +100,12 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/projects/czce/ppm-core/src/index.js" timestamp="1538450065792">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="35" />
-        <mark key="^" line="23" column="37" />
+      <file name="$USER_HOME$/projects/czce/ppm-core/src/index.js" timestamp="1538492508002">
+        <mark key="'" line="42" column="23" />
+        <mark key="[" line="24" column="72" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/projects/czce/ppm-core/.dockerignore" timestamp="1538123258481">
         <mark key="[" line="0" column="15" />
@@ -180,10 +180,11 @@
       <jump line="47" column="2" filename="$USER_HOME$/projects/czce/ppm-core/src/config.js" />
       <jump line="78" column="0" filename="$USER_HOME$/projects/czce/ppm-core/src/index.js" />
       <jump line="48" column="0" filename="$USER_HOME$/projects/czce/ppm-core/src/index.js" />
+      <jump line="42" column="23" filename="$USER_HOME$/projects/czce/ppm-core/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -195,31 +196,31 @@
         <text>APP_MONGODB_CONNECTION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZWNvbm5lY3RUcmllczogTnVtYmVyLk1BWF9WQUxVRSwgLy8gTmV2ZXIgc3RvcCB0cnlpbmcgdG8gcmVjb25uZWN0CiAgcmVjb25uZWN0SW50ZXJ2YWw6IDEwMDAgLy8gUmVjb25uZWN0IGV2ZXJ5IDUwMG1zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdGlvbi5vbigiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bW9uZ29vc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZWNvbm5lY3RUcmllczogTnVtYmVyLk1BWF9WQUxVRSwgLy8gTmV2ZXIgc3RvcCB0cnlpbmcgdG8gcmVjb25uZWN0CiAgcmVjb25uZWN0SW50ZXJ2YWw6IDEwMDAgLy8gUmVjb25uZWN0IGV2ZXJ5IDUwMG1zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QK</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIGNvbm5lY3QgdG8gbW9uZ29kYgogKi8KbW9uZ29vc2UuUHJvbWlzZSA9IFByb21pc2U7Cm1vbmdvb3NlLmNvbm5lY3QoTU9OR09EQl9DT05ORUNUSU9OLCB7CiAgcmVjb25uZWN0VHJpZXM6IE51bWJlci5NQVhfVkFMVUUsIC8vIE5ldmVyIHN0b3AgdHJ5aW5nIHRvIHJlY29ubmVjdAogIHJlY29ubmVjdEludGVydmFsOiAxMDAwIC8vIFJlY29ubmVjdCBldmVyeSA1MDBtcwp9KS50aGVuKAogIAopOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
