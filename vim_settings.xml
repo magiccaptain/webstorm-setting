@@ -156,7 +156,7 @@
       <file name="$USER_HOME$/projects/czce/ppm-core/dist/api/auth.js" timestamp="1538534576415">
         <mark key="'" line="118" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538527641105">
+      <file name="/Dummy.txt" timestamp="1538537125231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -224,12 +224,11 @@
         <mark key="." line="39" column="63" />
         <mark key="^" line="39" column="63" />
       </file>
-      <file name="$USER_HOME$/projects/czce/ppm-core/src/api/auth.js" timestamp="1538534655254">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="32" />
+      <file name="$USER_HOME$/projects/czce/ppm-core/src/api/auth.js" timestamp="1538537123598">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="43" column="3" />
+        <mark key="^" line="43" column="3" />
       </file>
       <file name="$USER_HOME$/projects/czce/ppm-web/src/components/developing-holder/index.js" timestamp="1538284777036">
         <mark key="[" line="23" column="33" />
@@ -280,13 +279,14 @@
       <jump line="212" column="4" filename="$USER_HOME$/projects/czce/ppm-core/dist/api/auth.js" />
       <jump line="118" column="12" filename="$USER_HOME$/projects/czce/ppm-core/dist/api/auth.js" />
       <jump line="90" column="4" filename="$USER_HOME$/projects/czce/ppm-core/src/api/auth.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/projects/czce/ppm-core/src/api/auth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>Salt</text>
@@ -295,28 +295,28 @@
         <text>$DOCKER_REPO:latest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBBUFBfQVBJX1BMQUNFSE9MREVSPSIvcHBtL2NvcmUvdjEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBBUFBfR0FURQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGJjcnlwdC5nZW5TYWx0U3luYygxMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBUFBfQVBJX1BMQUNFSE9MREVSPSIvcHBtL2NvcmUvdjEiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBUFBfR0FURQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFoYSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiaGFoYSIpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
